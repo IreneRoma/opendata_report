@@ -1,0 +1,1290 @@
+city,description,publisher,url,title,tag,date_extraction,frequency,formats,licenses,date_actualization,lenguage,date_creation,categories,geography
+GIJ,,,http://transparencia.gijon.es/pag/8/page/1808-catalogo-de-datose,not-found,,2017/10/18_11:42:15,not-found,,,,,,,
+GIJ,"
+  Actividades TECREA Histórico
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/actividades_a%C3%B1os_anteriores,Actividades TECREA Histórico,,2017/10/18_11:42:15,Mensual,"geoRSS,KML,RSS,CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Economía,Gijón
+GIJ,"
+  Actividades TECREA Vigentes (Año en curso)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/actividades_a%C3%B1o_vigente,Actividades TECREA Vigentes(Año en curso),,2017/10/18_11:42:15,Diaria,"geoRSS,KML,RSS,CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Economía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/administracion,Administración,,2017/10/18_11:42:16,Diaria,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/albergues,Albergues,,2017/10/18_11:42:16,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Turismo,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/alojamientos,Alojamientos,,2017/10/18_11:42:17,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Turismo,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/alquiler-coches,Alquiler de Coches,,2017/10/18_11:42:17,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Transporte,Gijón
+GIJ,"
+  Datos de zonas de aparcamiento en superficie
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/transporte/aparcamientos_superficie,Aparcamientos en Superficie,,2017/10/18_11:42:17,Diaria,KML,Creative Commons Reconocimiento 3.0 España,"Martes,  7 de Abril de 2015",,"Martes,  7 de Abril de 2015",Transporte,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/transporte/aparcamientos_residentes,Aparcamientos para Residentes,,2017/10/18_11:42:18,Mensual,KML,Creative Commons Reconocimiento 3.0 España,"Martes,  7 de Abril de 2015",,"Lunes, 19 de Noviembre de 2012",Transporte,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/aparcamiento-motos,Aparcamientos reservados para motos,,2017/10/18_11:42:18,Mensual,KML,Creative Commons Reconocimiento 3.0 España,"Martes,  7 de Abril de 2015",,"Lunes, 19 de Noviembre de 2012",Transporte,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/aparcamiento-minusvalidos,Aparcamientos reservados para personas en situación de movilidad reducida,,2017/10/18_11:42:19,Mensual,KML,Creative Commons Reconocimiento 3.0 España,"Martes,  7 de Abril de 2015",,"Lunes, 19 de Noviembre de 2012",Transporte,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/transporte/aparcamientos_subterraneos,Aparcamientos Subterraneos en Rotación,,2017/10/18_11:42:19,Diaria,KML,Creative Commons Reconocimiento 3.0 España,"Martes,  7 de Abril de 2015",,"Martes,  7 de Abril de 2015",Transporte,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/apartamento-turistico,Apartamento Turístico,,2017/10/18_11:42:19,Anual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Turismo,Gijón
+GIJ,"
+  Arbolado
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/arbolado,Arbolado Viario,,2017/10/18_11:42:19,Mensual,"geoRSS,KML,RSS",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/areas-recreativas,Áreas Recreativas,,2017/10/18_11:42:20,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Medio ambiente,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/artesania,Artesanía,,2017/10/18_11:42:20,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Turismo,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/aseos-publicos,Aseos públicos,,2017/10/18_11:42:20,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Turismo,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/asociaciones,Asociaciones,,2017/10/18_11:42:21,Diaria,"CSV,JSON,XML,Excel,PDF,Texto plano,XHTML",Creative Commons Reconocimiento 3.0 España,"Martes, 29 de Diciembre de 2015",,"Jueves, 13 de Diciembre de 2012",Sector público,Gijón
+GIJ,"
+  Listado de líneas de autobús disponibles en tiempo real. Basado en datos ofrecidos por EMTUSA. 
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/busgijoninfo,Autobuses de Gijón. Información.,,2017/10/18_11:42:21,Diaria,"XML,JSON",Creative Commons Reconocimiento 3.0 España,"Miércoles, 13 de Octubre de 2010",,"Miércoles, 20 de Octubre de 2010",Transporte,Gijón
+GIJ,"
+  Servicio web con información referente a líneas de autobús, frecuencias de salidas en cabeceras, tiempo de llegada a marquesina, rutas de las líneas, posición de los autobuses de la ciudad, etc... Contiene información actualizada en tiempo real.
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/busgijonws,Autobuses de Gijón. Servicio Web.,,2017/10/18_11:42:22,Tiempo Real,XML,Creative Commons Reconocimiento 3.0 España,"Miércoles, 15 de Diciembre de 2010",,"Lunes, 18 de Octubre de 2010",Transporte,Gijón
+GIJ,"
+  Datos en tiempo real de paradas y autobuses basados en el servicio de EMTUSA.
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/busgijontr,Autobuses de Gijón. Tiempo real.,,2017/10/18_11:42:22,Tiempo Real,"XML,JSON",Creative Commons Reconocimiento 3.0 España,"Miércoles, 13 de Octubre de 2010",,"Miércoles, 13 de Octubre de 2010",Transporte,Gijón
+GIJ,"
+  Conjunto de datos con los trayectos de cada una de las lineas de autobuses. Cada trayecto consta de una lista de puntos geoposicionados.
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/busgijontray,Autobuses de Gijón. Trayectos.,,2017/10/18_11:42:23,Mensual,JSON,Creative Commons Reconocimiento 3.0 España,"Lunes, 20 de Junio de 2011",,"Lunes, 20 de Junio de 2011",Transporte,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/bancos-cajeros,Bancos y cajeros,,2017/10/18_11:42:23,Anual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/bares-cafes,Bares y Cafés,,2017/10/18_11:42:24,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/ayudas,Becas y Ayudas,,2017/10/18_11:42:24,Tiempo Real,"CSV,JSON,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Economía,Gijón
+GIJ,"
+  Bienes histórico artísticos Ayuntamiento
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/cultura-ocio/bienes_artisticos_ayuntamiento,Bienes histórico artísticos Ayuntamiento,,2017/10/18_11:42:25,Semanal,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Cultura y ocio,Gijón
+GIJ,"
+  Bibliotecas disponibles en Gijón. Algunas están integradas en centros municipales de usos múltiples.
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/bibliotecas,Bibliotecas,,2017/10/18_11:42:25,Semanal,"CSV,JSON,RDF-N3,RDF-Turtle,RDF-XML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes,  9 de Mayo de 2011",,"Lunes,  9 de Mayo de 2011",Cultura y ocio,Gijón
+GIJ,"
+  Bienes históricos artísticos de la Fundación Municipal de Cultura, Educación y Universidad Popular
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/hacienda/bienes_historicos_artisticos_fmceup,Bienes históricos artísticos FMCEUP,,2017/10/18_11:42:25,Semanal,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Hacienda,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/boleras,Boleras,,2017/10/18_11:42:26,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Deporte,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/bomberos,Bomberos,,2017/10/18_11:42:27,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Seguridad,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/cajeros,Cajeros Ciudadanos,,2017/10/18_11:42:28,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  Datos de la calidad del Agua de las playas de Gijón. ",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/CalidadAgua,Calidad del Agua de Baño,,2017/10/18_11:42:28,Diaria,XML,Creative Commons Reconocimiento 3.0 España,"Miércoles, 21 de Noviembre de 2012",,"Miércoles, 21 de Noviembre de 2012",Medio ambiente,Gijón
+GIJ,"
+  Calidad del aire - Datos año 2000 (Validados)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_2000,Calidad del aire - Datos año 2000 (Validados),,2017/10/18_11:42:28,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  Calidad del aire - Datos año 2001 (Validados)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_2001,Calidad del aire - Datos año 2001 (Validados),,2017/10/18_11:42:28,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  Calidad del aire - Datos año 2002 (Validados)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_2002,Calidad del aire - Datos año 2002 (Validados),,2017/10/18_11:42:29,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  Calidad del aire - Datos año 2003 (Validados)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_2003,Calidad del aire - Datos año 2003 (Validados),,2017/10/18_11:42:29,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  Calidad del aire - Datos año 2005 (Validados)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_2005,Calidad del aire - Datos año 2005 (Validados),,2017/10/18_11:42:29,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_2004,Calidad del aire - Datos año 2004 (Validados),,2017/10/18_11:42:30,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  Calidad del aire - Datos año 2006 (Validados)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_2006,Calidad del aire - Datos año 2006 (Validados),,2017/10/18_11:42:30,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  Calidad del aire - Datos año 2007 (Validados)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_2007,Calidad del aire - Datos año 2007 (Validados),,2017/10/18_11:42:30,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  Calidad del aire - Datos año 2008 (Validados)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_2008,Calidad del aire - Datos año 2008 (Validados),,2017/10/18_11:42:30,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  Calidad del aire - Datos año 2009 (Validados)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_2009,Calidad del aire - Datos año 2009 (Validados),,2017/10/18_11:42:31,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_2010,Calidad del aire - Datos año 2010 (Validados),,2017/10/18_11:42:31,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  Calidad del aire - Datos año 2011 (Validados)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_2011,Calidad del aire - Datos año 2011 (Validados),,2017/10/18_11:42:31,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  Calidad del aire - Datos año 2012 (Validados)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_2012,Calidad del aire - Datos año 2012 (Validados),,2017/10/18_11:42:31,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  Calidad del aire - Datos año 2013 (Validados)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_2013,Calidad del aire - Datos año 2013 (Validados),,2017/10/18_11:42:32,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  Calidad del aire - Datos año 2014 (Validados)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_2014,Calidad del aire - Datos año 2014 (Validados),,2017/10/18_11:42:32,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 11 de Enero de 2017",,"Miércoles, 11 de Enero de 2017",Medio ambiente,Gijón
+GIJ,"
+  Calidad del aire - Datos año 2015 (Validados)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_2015,Calidad del aire - Datos año 2015 (Validados),,2017/10/18_11:42:32,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 11 de Enero de 2017",,"Miércoles, 11 de Enero de 2017",Medio ambiente,Gijón
+GIJ,"
+  Calidad del aire - Datos año 2016 (Validados)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_2016,Calidad del aire - Datos año 2016 (Validados),,2017/10/18_11:42:33,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 11 de Enero de 2017",,"Miércoles, 11 de Enero de 2017",Medio ambiente,Gijón
+GIJ,"
+  Calidad del aire - Datos año 2017 (Validados)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_2017,Calidad del aire - Datos año 2017 (Validados),,2017/10/18_11:42:33,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 11 de Enero de 2017",,"Miércoles, 11 de Enero de 2017",Medio ambiente,Gijón
+GIJ,"
+  Datos de la calidad del aire recogidos por la Red Automática de Medida y Vigilancia de la Contaminación Atmosférica de Gijón. Estos datos son de caracter temporal, por lo que pueden sufrir variaciones una vez analizados y validados por el Centro de Control. Los datos se actualiza cada hora.
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_ultimos,Calidad del aire - Datos última semana (temporales),,2017/10/18_11:42:33,Tiempo Real,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  Calidad del aire - Descripción de parámetros
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_parametros,Calidad del aire - Descripción de parámetros,,2017/10/18_11:42:33,Mensual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  Calidad del aire - Estaciones
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/calidad_aire_estaciones,Calidad del aire - Estaciones,,2017/10/18_11:42:34,Mensual,"geoRSS,KML,RSS,CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  Nombre de las calles de Gijón
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/calles,Calles de Gijón,,2017/10/18_11:42:34,Mensual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 11 de Junio de 2013",,"Martes, 11 de Junio de 2013",Urbanismo e infraestructuras,Gijón
+GIJ,"
+  Número de accesos en las calles de Gijón
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/portales,Calles y números,,2017/10/18_11:42:34,Anual,"geoRSS,KML,RSS,CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Urbanismo e infraestructuras,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/webcams,Cámaras Web,,2017/10/18_11:42:35,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/camino-santiago,Camino de Santiago,,2017/10/18_11:42:35,Mensual,KML,Creative Commons Reconocimiento 3.0 España,"Viernes, 14 de Diciembre de 2012",,"Viernes, 14 de Diciembre de 2012",Cultura y ocio,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/camping,Camping,,2017/10/18_11:42:35,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Turismo,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/campos-golf,Campos de Golf,,2017/10/18_11:42:36,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Deporte,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/campos-futbol,Campos de Fútbol,,2017/10/18_11:42:36,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Deporte,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/carriles-bici,Carriles Bici,,2017/10/18_11:42:36,Mensual,KML,Creative Commons Reconocimiento 3.0 España,"Viernes, 14 de Diciembre de 2012",,"Viernes, 14 de Diciembre de 2012",Deporte,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/casas-aldea,Casas de aldea,,2017/10/18_11:42:36,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Turismo,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/casinos,Casinos,,2017/10/18_11:42:37,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Turismo,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/servicios,Catálogo de Servicios,,2017/10/18_11:42:37,Mensual,"CSV,JSON,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 10 de Diciembre de 2012",,"Martes, 11 de Diciembre de 2012",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/informacion/caudales_captados_2013,Caudales captados. Año 2013,,2017/10/18_11:42:38,Anual,Excel,Creative Commons Reconocimiento 3.0 España,"Viernes, 14 de Junio de 2013",,"Viernes, 14 de Junio de 2013",Información,Gijón
+GIJ,"
+  Censo de perros potencialmente peligrosos
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/seguridad/animales_peligrosos,Censo de perros potencialmente peligrosos,,2017/10/18_11:42:38,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Seguridad,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/centro-lectura,Centro de lectura,,2017/10/18_11:42:38,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Cultura y ocio,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/centros-culturales,Centros culturales,,2017/10/18_11:42:38,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Turismo,Gijón
+GIJ,"
+  Centros de atención al ciudadano. Son centros de información y asesoramiento a los ciudadanos sobre diferentes servicios y gestiones administrativas.
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/atencion-ciudadana,Centros de atención al ciudadano,,2017/10/18_11:42:39,Semanal,"CSV,JSON,RDF-N3,RDF-Turtle,RDF-XML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes,  9 de Mayo de 2011",,"Lunes,  9 de Mayo de 2011",Sector público,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/centros-de-dia,Centros de Día,,2017/10/18_11:42:39,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Sociedad y bienestar,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/centros-ocio-infantil,Centros de ocio infantil,,2017/10/18_11:42:40,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Turismo,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/centros-formacion,Centros de Formación,,2017/10/18_11:42:40,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Educación,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/centrossaludespecializada,Centros de Salud Especializada,,2017/10/18_11:42:40,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Salud,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/salud,Centros de salud,,2017/10/18_11:42:40,Anual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Salud,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/centros-salud-mental,Centros de Salud Mental,,2017/10/18_11:42:41,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Salud,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/centros-salud-primaria,Centros de Salud Primaria,,2017/10/18_11:42:41,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Salud,Gijón
+GIJ,"
+  Centros dedicados a diversos servicios sociales tales como centros municipales de acogida, centros ocupacionales u oficinas de información.
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/servicios-sociales,Centros de servicios sociales,,2017/10/18_11:42:41,Semanal,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes,  9 de Mayo de 2011",,"Lunes,  9 de Mayo de 2011",Sociedad y bienestar,Gijón
+GIJ,"
+  Hospitales y centros de salud de Gijón
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/centros-sanitarios,Centros sanitarios,,2017/10/18_11:42:41,Semanal,"CSV,JSON,RDF-N3,RDF-Turtle,RDF-XML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes,  9 de Mayo de 2011",,"Lunes,  9 de Mayo de 2011",Salud,Gijón
+GIJ,"
+  Cines disponibles en Gijón
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/cines,Cines,,2017/10/18_11:42:42,Semanal,"CSV,JSON,RDF-N3,RDF-Turtle,RDF-XML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes,  9 de Mayo de 2011",,"Lunes,  9 de Mayo de 2011",Cultura y ocio,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/circuitos-footing,Circuitos de Footing,,2017/10/18_11:42:42,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/colegios,Colegios,,2017/10/18_11:42:43,Tiempo Real,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Educación,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/ciudad-innovacion,Ciudad de la Innovación,,2017/10/18_11:42:43,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/comercios,Comercios,,2017/10/18_11:42:43,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Turismo,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/complejos-deportivos,Complejos Deportivos,,2017/10/18_11:42:43,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Deporte,Gijón
+GIJ,"
+  Ayuntamiento de Gijón - Comunicación de subvenciones (Transparencia)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/comunicacion-subvenciones,Comunicación de subvenciones (Transparencia),,2017/10/18_11:42:44,Diaria,"CSV,Excel,JSON,PDF,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 11 de Octubre de 2017",,"Miércoles, 11 de Octubre de 2017",Economía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/comunicaciones,Comunicaciones,,2017/10/18_11:42:44,Diaria,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  Contenedores de pilas
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/contenedores_pilas,Contenedores de pilas,,2017/10/18_11:42:44,Mensual,"geoRSS,KML,RSS,CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/confiterias,Confiterías,,2017/10/18_11:42:44,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Turismo,Gijón
+GIJ,"
+  Contenedores para Aceite
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/contenedores_aceite,Contenedores para Aceite,,2017/10/18_11:42:45,Diaria,"geoRSS,KML,RSS,CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  Contenedores para Ropa
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/contenedores_ropas,Contenedores para Ropa,,2017/10/18_11:42:45,Diaria,"geoRSS,KML,RSS,CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Medio ambiente,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/contrataciones,Contrataciones,,2017/10/18_11:42:46,Diaria,"CSV,JSON,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Hacienda,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/contratosmenoresvigentes,Contratos menores,,2017/10/18_11:42:46,Tiempo Real,"CSV,JSON,XML",Creative Commons Reconocimiento 3.0 España,"Martes,  6 de Marzo de 2012",,"Martes,  6 de Marzo de 2012",Hacienda,Gijón
+GIJ,"
+  Convocatorias Oficina de Información Juvenil
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/informacion/convocatorias_oij_actividades_historicas,Convocatorias OIJ - Actividades [Historicos],,2017/10/18_11:42:46,Diaria,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XML",Creative Commons Reconocimiento 3.0 España,"Jueves, 10 de Julio de 2014",,"Jueves, 10 de Julio de 2014",Información,Gijón
+GIJ,"
+  Convocatorias Oficina de Información Juvenil
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/informacion/convocatorias_oij_actividades_vigentes,Convocatorias OIJ - Actividades [Vigentes],,2017/10/18_11:42:46,Diaria,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XML",Creative Commons Reconocimiento 3.0 España,"Jueves, 10 de Julio de 2014",,"Jueves, 10 de Julio de 2014",Información,Gijón
+GIJ,"
+  Convocatorias Oficina de Información Juvenil
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/informacion/convocatorias_oij_ayudas_subvenciones_historicas,Convocatorias OIJ - Ayudas y Subvenciones [Historicos],,2017/10/18_11:42:47,Diaria,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XML",Creative Commons Reconocimiento 3.0 España,"Jueves, 10 de Julio de 2014",,"Jueves, 10 de Julio de 2014",Información,Gijón
+GIJ,"
+  Convocatorias Oficina de Información Juvenil
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/informacion/convocatorias_oij_ayudas_subvenciones_vigentes,Convocatorias OIJ - Ayudas y Subvenciones [Vigentes],,2017/10/18_11:42:47,Diaria,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XML",Creative Commons Reconocimiento 3.0 España,"Jueves, 10 de Julio de 2014",,"Jueves, 10 de Julio de 2014",Información,Gijón
+GIJ,"
+  Convocatorias Oficina de Información Juvenil
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/informacion/convocatorias_oij_becas_ayudas_estudio_historicas,Convocatorias OIJ - Becas y ayudas al estudio [Historicos],,2017/10/18_11:42:47,Diaria,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XML",Creative Commons Reconocimiento 3.0 España,"Jueves, 10 de Julio de 2014",,"Jueves, 10 de Julio de 2014",Información,Gijón
+GIJ,"
+  Convocatorias Oficina de Información Juvenil
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/informacion/convocatorias_oij_empleo_historicas,Convocatorias OIJ - Empleo [Historicos],,2017/10/18_11:42:47,Diaria,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XML",Creative Commons Reconocimiento 3.0 España,"Jueves, 10 de Julio de 2014",,"Jueves, 10 de Julio de 2014",Información,Gijón
+GIJ,"
+  Convocatorias Oficina de Información Juvenil
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/informacion/convocatorias_oij_becas_ayudas_estudio_vigentes,Convocatorias OIJ - Becas y ayudas al estudio [Vigentes],,2017/10/18_11:42:47,Diaria,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XML",Creative Commons Reconocimiento 3.0 España,"Jueves, 10 de Julio de 2014",,"Jueves, 10 de Julio de 2014",Información,Gijón
+GIJ,"
+  Convocatorias Oficina de Información Juvenil
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/informacion/convocatorias_oij_empleo_vigentes,Convocatorias OIJ - Empleo [Vigentes],,2017/10/18_11:42:48,Diaria,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XML",Creative Commons Reconocimiento 3.0 España,"Jueves, 10 de Julio de 2014",,"Jueves, 10 de Julio de 2014",Información,Gijón
+GIJ,"
+  Convocatorias Oficina de Información Juvenil
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/informacion/convocatorias_oij_formacion_historicas,Convocatorias OIJ - Formación [Historicos],,2017/10/18_11:42:48,Diaria,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XML",Creative Commons Reconocimiento 3.0 España,"Jueves, 10 de Julio de 2014",,"Jueves, 10 de Julio de 2014",Información,Gijón
+GIJ,"
+  Convocatorias Oficina de Información Juvenil
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/informacion/convocatorias_oij_formacion_vigentes,Convocatorias OIJ - Formación [Vigentes],,2017/10/18_11:42:48,Diaria,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XML",Creative Commons Reconocimiento 3.0 España,"Jueves, 10 de Julio de 2014",,"Jueves, 10 de Julio de 2014",Información,Gijón
+GIJ,"
+  Convocatorias Oficina de Información Juvenil
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/informacion/convocatorias_oij_jornadas_congresos_seminarios_historicas,"Convocatorias OIJ - Jornadas, congresos y seminarios [Historicos]",,2017/10/18_11:42:49,Diaria,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XML",Creative Commons Reconocimiento 3.0 España,"Jueves, 10 de Julio de 2014",,"Jueves, 10 de Julio de 2014",Información,Gijón
+GIJ,"
+  Convocatorias Oficina de Información Juvenil
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/informacion/convocatorias_oij_jornadas_congresos_seminarios_vigentes,"Convocatorias OIJ - Jornadas, congresos y seminarios [Vigentes]",,2017/10/18_11:42:49,Diaria,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XML",Creative Commons Reconocimiento 3.0 España,"Jueves, 10 de Julio de 2014",,"Jueves, 10 de Julio de 2014",Información,Gijón
+GIJ,"
+  Convocatorias Oficina de Información Juvenil
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/informacion/convocatorias_oij_premios_concursos_historicas,Convocatorias OIJ - Premios y concursos [Historicos],,2017/10/18_11:42:49,Diaria,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XML",Creative Commons Reconocimiento 3.0 España,"Jueves, 10 de Julio de 2014",,"Jueves, 10 de Julio de 2014",Información,Gijón
+GIJ,"
+  Convocatorias Oficina de Información Juvenil
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/informacion/convocatorias_oij_premios_concursos_vigentes,Convocatorias OIJ - Premios y concursos [Vigentes],,2017/10/18_11:42:50,Diaria,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XML",Creative Commons Reconocimiento 3.0 España,"Jueves, 10 de Julio de 2014",,"Jueves, 10 de Julio de 2014",Información,Gijón
+GIJ,"
+  Convocatorias Oficina de Información Juvenil
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/informacion/convocatorias_oij_historicas,Convocatorias OIJ [Historicos],,2017/10/18_11:42:50,Diaria,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XML",Creative Commons Reconocimiento 3.0 España,"Jueves, 10 de Julio de 2014",,"Jueves, 10 de Julio de 2014",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/correos,Correos,,2017/10/18_11:42:51,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  Convocatorias Oficina de Información Juvenil
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/informacion/convocatorias_oij_vigentes,Convocatorias OIJ [Vigentes],,2017/10/18_11:42:51,Diaria,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XML",Creative Commons Reconocimiento 3.0 España,"Jueves, 10 de Julio de 2014",,"Jueves, 10 de Julio de 2014",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/cruz-roja,Cruz Roja,,2017/10/18_11:42:51,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Salud,Gijón
+GIJ,"
+  Cuadros de mando eléctrico
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/energia/Cuadros_electricos,Cuadros de mando eléctrico del Alumbrado Público,,2017/10/18_11:42:51,Mensual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML,geoRSS,KML,RSS",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Energía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/seguridad,Cuerpos de seguridad,,2017/10/18_11:42:52,Anual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/cultura-ocio,Cultura y Ocio,,2017/10/18_11:42:52,Diaria,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Cultura y ocio,Gijón
+GIJ,"
+  Cursos en periodo de matriculación
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/educacion/cursos_abiertos,Cursos en periodo de matriculación,,2017/10/18_11:42:52,Tiempo Real,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Educación,Gijón
+GIJ,"
+  Datos Elecciones al Parlamento Europeo. Año 1994
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_1994,Datos Elecciones al Parlamento Europeo. Año 1994,,2017/10/18_11:42:52,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Datos Elecciones Autonómicas y Municipales. Año 1983
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_1983,Datos Elecciones Autonómicas y Municipales. Año 1983,,2017/10/18_11:42:53,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Datos Elecciones al Parlamento Europeo. Año 2009
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_2009,Datos Elecciones al Parlamento Europeo. Año 2009,,2017/10/18_11:42:53,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Datos Elecciones Autonómicas y Municipales. Año 1991
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_1991,Datos Elecciones Autonómicas y Municipales. Año 1991,,2017/10/18_11:42:53,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Datos Elecciones Autonómicas y Municipales. Año 1987
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_1987,Datos Elecciones Autonómicas y Municipales. Año 1987,,2017/10/18_11:42:53,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Datos Elecciones Autonómicas y Municipales. Año 1995
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_1995,Datos Elecciones Autonómicas y Municipales. Año 1995,,2017/10/18_11:42:54,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Datos Elecciones Autonómicas y Municipales. Año 1999
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_1999,Datos Elecciones Autonómicas y Municipales. Año 1999,,2017/10/18_11:42:54,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Datos Elecciones Autonómicas y Municipales. Año 2003
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_2003,Datos Elecciones Autonómicas y Municipales. Año 2003,,2017/10/18_11:42:54,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Datos Elecciones Autonómicas y Municipales. Año 2007
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_2007,Datos Elecciones Autonómicas y Municipales. Año 2007,,2017/10/18_11:42:54,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Datos Elecciones Autonómicas. Año 2012
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_2012,Datos Elecciones Autonómicas. Año 2012,,2017/10/18_11:42:55,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Datos Elecciones Generales y al Parlamento Europeo. Año 1989
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_1989,Datos Elecciones Generales y al Parlamento Europeo. Año 1989,,2017/10/18_11:42:55,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  ",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_1977,"Datos Elecciones Generales, Autonómicas y Municipales. Año 1977",,2017/10/18_11:42:55,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Datos Elecciones Generales y al Parlamento Europeo. Año 2004
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_2004,Datos Elecciones Generales y al Parlamento Europeo. Año 2004,,2017/10/18_11:42:55,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Datos Elecciones Generales, Autonómicas y Municipales. Año 2011
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_2011,"Datos Elecciones Generales, Autonómicas y Municipales. Año 2011",,2017/10/18_11:42:56,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Datos Elecciones Generales. Año 1982
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_1982,Datos Elecciones Generales. Año 1982,,2017/10/18_11:42:56,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Datos Elecciones Generales. Año 1993
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_1993,Datos Elecciones Generales. Año 1993,,2017/10/18_11:42:56,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Datos Elecciones Generales. Año 1986
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_1986,Datos Elecciones Generales. Año 1986,,2017/10/18_11:42:56,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Datos Elecciones Generales. Año 1996
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_1996,Datos Elecciones Generales. Año 1996,,2017/10/18_11:42:57,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_2000,Datos Elecciones Generales. Año 2000,,2017/10/18_11:42:57,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Datos Elecciones Generales. Año 2008
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/datos_elecciones_2008,Datos Elecciones Generales. Año 2008,,2017/10/18_11:42:57,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/elecciones_municipales_2015,Datos Elecciones Municipales. Año 2015,,2017/10/18_11:42:57,Diaria,"CSV,Excel,JSON,PDF,RSS,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 26 de Mayo de 2015",,"Martes, 26 de Mayo de 2015",Sector público,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/deporte,Deporte,,2017/10/18_11:42:58,Diaria,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Deporte,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/callejero,Directorio,,2017/10/18_11:42:58,Diaria,"CSV,JSON,RDF-N3,RDF-Turtle,RDF-XML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 10 de Diciembre de 2012",,"Martes, 11 de Diciembre de 2012",Información,Gijón
+GIJ,"
+  KML Distrito Creativo
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/informacion/distrito_creativo,Distrito Gijón Creativo,,2017/10/18_11:42:58,Anual,KML,Creative Commons Reconocimiento 3.0 España,"Miércoles, 23 de Julio de 2014",,"Miércoles, 23 de Julio de 2014",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/servicios-municipales,Directorio de Servicios Municipales,,2017/10/18_11:42:59,Diaria,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  Edificios municipales rurales
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/hacienda/edificios_municipales_rurales,Edificios municipales rurales,,2017/10/18_11:42:59,Semanal,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 12 de Junio de 2013",,"Miércoles, 12 de Junio de 2013",Hacienda,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/edificios-municipales,Edificios Municipales,,2017/10/18_11:42:59,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  Edificios municipales urbanos
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/edificios_municipales_urbanos,Edificios municipales urbanos,,2017/10/18_11:43:00,Mensual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/educacion,Educación,,2017/10/18_11:43:00,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Educación,Gijón
+GIJ,"
+  Datos de Gijón por Distrito, Sección y mesa de las elecciones al Parlamento Europeo en 2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/elecciones_parlamento_2014,Elecciones al Parlamento Europeo. Año 2014 - Gijón,,2017/10/18_11:43:00,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XML",Creative Commons Reconocimiento 3.0 España,"Lunes,  9 de Junio de 2014",,"Lunes,  9 de Junio de 2014",Sector público,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/Autonomicas2012,Elecciones Autonómicas 2012,,2017/10/18_11:43:00,Anual,Excel,Creative Commons Reconocimiento 3.0 España,"Lunes, 26 de Marzo de 2012",,"Lunes, 26 de Marzo de 2012",Información,Gijón
+GIJ,"
+  Elecciones generales del año 2011
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/eleccionesgenerales2011,Elecciones Generales 2011,,2017/10/18_11:43:01,Anual,Excel,Creative Commons Reconocimiento 3.0 España,"Martes, 22 de Noviembre de 2011",,"Martes, 22 de Noviembre de 2011",Información,Gijón
+GIJ,"
+  Elecciones municipales
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/eleccionesmunicipales,Elecciones municipales,,2017/10/18_11:43:01,Anual,"CSV,JSON,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 24 de Agosto de 2011",,"Miércoles, 24 de Agosto de 2011",Información,Gijón
+GIJ,"
+  Empleados Ayuntamiento y O.O.A.A. por años antigüedad
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/empleados_ayuntamiento_ooaa_antig%C3%BCedad,Empleados Ayuntamiento y O.O.A.A. por años antigüedad,,2017/10/18_11:43:01,Mensual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/empleados_ayuntamiento_ooaa_edad,Empleados Ayuntamiento y O.O.A.A. por edad,,2017/10/18_11:43:01,Mensual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Empleados Ayuntamiento y O.O.A.A. por género
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/empleados_ayuntamiento_ooaa_genero,Empleados Ayuntamiento y O.O.A.A. por género,,2017/10/18_11:43:02,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Empleados Ayuntamiento y O.O.A.A. por grupo y nivel
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/empleados_ayuntamiento_ooaa,Empleados Ayuntamiento y O.O.A.A. por grupo y nivel,,2017/10/18_11:43:02,Mensual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Empleados Ayuntamiento y O.O.A.A. por régimen jurídico
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/empleados_ayuntamiento_ooaa_regimen_juridico,Empleados Ayuntamiento y O.O.A.A. por régimen jurídico,,2017/10/18_11:43:02,Mensual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Empleados Ayuntamiento y O.O.A.A. por tipo de relación con la administración
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/empleados_ayuntamiento_ooaa_relacionadministracion,Empleados Ayuntamiento y O.O.A.A. por tipo de relación con la administración,,2017/10/18_11:43:02,Mensual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Conjunto de las empresas registradas por el Ayuntamiento
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/empresas,Empresas,,2017/10/18_11:43:03,Semanal,"XML,CSV,JSON,RDF-XML,RDF-N3,RDF-Turtle",Creative Commons Reconocimiento 3.0 España,"Jueves, 16 de Diciembre de 2010",,"Jueves, 16 de Diciembre de 2010",Información,Gijón
+GIJ,"
+  Empresas ubicadas en residencias empresariales municipales
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/ciencia-tecnologia/empresas_milla_conocimiento,Empresas ubicadas en residencias empresariales municipales,,2017/10/18_11:43:04,Diaria,"geoRSS,KML,RSS,CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Ciencia y tecnología,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/empresas-ocio,Empresas de Ocio,,2017/10/18_11:43:04,Diaria,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/recarga-transporte,Establecimientos de Recarga del Monedero Transporte,,2017/10/18_11:43:04,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Transporte,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/escuelas,Escuelas Infantiles,,2017/10/18_11:43:04,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Educación,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/recarga-tarjeta,Establecimientos Recarga Tarjeta Ciudadana,,2017/10/18_11:43:05,Mensual,KML,Creative Commons Reconocimiento 3.0 España,"Viernes, 14 de Diciembre de 2012",,"Viernes, 14 de Diciembre de 2012",Ciencia y tecnología,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/estaciones-servicio,Estaciones de Servicio y Gasolineras,,2017/10/18_11:43:05,Mensual,KML,Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Transporte,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/estaciones-transporte,Estaciones de Transporte,,2017/10/18_11:43:06,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Transporte,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo Ayto. a 30/06/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_ayto_30_06_2013,Estado Ejecución Gastos por Capítulo Ayto. a 30/06/2013,,2017/10/18_11:43:06,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo Ayto. a 30/06/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulos_ayto_2014,Estado Ejecución Gastos por Capítulo Ayto. a 30/06/2014,,2017/10/18_11:43:06,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo Ayto. a 30/06/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_ayto_2_trimestre_2015,Estado Ejecución Gastos por Capítulo Ayto. a 30/06/2015,,2017/10/18_11:43:06,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo Ayto. a 30/09/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_ayto_2014-2T,Estado Ejecución Gastos por Capítulo Ayto. a 30/09/2014,,2017/10/18_11:43:07,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo Ayto. a 30/09/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_ayto_30_09_2013,Estado Ejecución Gastos por Capítulo Ayto. a 30/09/2013,,2017/10/18_11:43:07,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo Ayto. a 30/09/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_ayto_3_trimestre_2015,Estado Ejecución Gastos por Capítulo Ayto. a 30/09/2015,,2017/10/18_11:43:07,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_ayto_2013,Estado Ejecución Gastos por Capítulo Ayto. a 31/03/2013,,2017/10/18_11:43:08,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo Ayto. a 31/03/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_ayto_31_03_2014,Estado Ejecución Gastos por Capítulo Ayto. a 31/03/2014,,2017/10/18_11:43:08,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo Ayto. a 31/03/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_ayto_1_trimestre_2015,Estado Ejecución Gastos por Capítulo Ayto. a 31/03/2015,,2017/10/18_11:43:08,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo Ayto. a 31/12/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_ayto_31_12_2013,Estado Ejecución Gastos por Capítulo Ayto. a 31/12/2013,,2017/10/18_11:43:08,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo Ayto. a 31/12/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_ayto_4_trimestre_2014,Estado Ejecución Gastos por Capítulo Ayto. a 31/12/2014,,2017/10/18_11:43:09,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo Ayto. a 31/12/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_ayto_4_trimestre_2015,Estado Ejecución Gastos por Capítulo Ayto. a 31/12/2015,,2017/10/18_11:43:09,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMCEUP a 30/06/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_FMCEUP_30_06_2013,Estado Ejecución Gastos por Capítulo FMCEUP a 30/06/2013,,2017/10/18_11:43:09,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMCEUP a 30/06/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_fmceup_2014,Estado Ejecución Gastos por Capítulo FMCEUP a 30/06/2014,,2017/10/18_11:43:09,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMCEUP a 30/06/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_fmceup_2_trimestre_2015,Estado Ejecución Gastos por Capítulo FMCEUP a 30/06/2015,,2017/10/18_11:43:10,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMCEUP a 30/09/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_FMCEUP_30_09_2013,Estado Ejecución Gastos por Capítulo FMCEUP a 30/09/2013,,2017/10/18_11:43:10,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMCEUP a 30/09/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_fmceup_2014_2T,Estado Ejecución Gastos por Capítulo FMCEUP a 30/09/2014,,2017/10/18_11:43:10,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMCEUP a 30/09/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_fmceup_3_trimestre_2015,Estado Ejecución Gastos por Capítulo FMCEUP a 30/09/2015,,2017/10/18_11:43:10,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_fmceup_2013,Estado Ejecución Gastos por Capítulo FMCEUP a 31/03/2013,,2017/10/18_11:43:11,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMCEUP a 31/03/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_FMCEUP_31_03_2014,Estado Ejecución Gastos por Capítulo FMCEUP a 31/03/2014,,2017/10/18_11:43:11,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMCEUP a 31/03/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_fmceup_1_trimestre_2015,Estado Ejecución Gastos por Capítulo FMCEUP a 31/03/2015,,2017/10/18_11:43:11,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMCEUP a 31/12/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_FMCEUP_31_12_2013,Estado Ejecución Gastos por Capítulo FMCEUP a 31/12/2013,,2017/10/18_11:43:11,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMCEUP a 31/12/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_fmceup_4_trimestre_2014,Estado Ejecución Gastos por Capítulo FMCEUP a 31/12/2014,,2017/10/18_11:43:12,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMCEUP a 31/12/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_fmceup_4_trimestre_2015,Estado Ejecución Gastos por Capítulo FMCEUP a 31/12/2015,,2017/10/18_11:43:12,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMSS a 30/06/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_FMSS_30_06_2013,Estado Ejecución Gastos por Capítulo FMSS a 30/06/2013,,2017/10/18_11:43:13,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMSS a 30/06/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_fmss_2014,Estado Ejecución Gastos por Capítulo FMSS a 30/06/2014,,2017/10/18_11:43:13,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMSS a 30/06/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_fmss_2_trimestre_2015,Estado Ejecución Gastos por Capítulo FMSS a 30/06/2015,,2017/10/18_11:43:13,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMSS a 30/09/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_FMSS_30_09_2013,Estado Ejecución Gastos por Capítulo FMSS a 30/09/2013,,2017/10/18_11:43:13,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMSS a 30/09/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_fmss_2014_2T,Estado Ejecución Gastos por Capítulo FMSS a 30/09/2014,,2017/10/18_11:43:14,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMSS a 30/09/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_fmss_3_trimestre_2015,Estado Ejecución Gastos por Capítulo FMSS a 30/09/2015,,2017/10/18_11:43:14,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_fmss_2013,Estado Ejecución Gastos por Capítulo FMSS a 31/03/2013,,2017/10/18_11:43:14,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMSS a 31/03/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_FMSS_31_03_2014,Estado Ejecución Gastos por Capítulo FMSS a 31/03/2014,,2017/10/18_11:43:15,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMSS a 31/03/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_fmss_1_trimestre_2015,Estado Ejecución Gastos por Capítulo FMSS a 31/03/2015,,2017/10/18_11:43:15,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMSS a 31/12/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_FMSS_31_12_2013,Estado Ejecución Gastos por Capítulo FMSS a 31/12/2013,,2017/10/18_11:43:15,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMSS a 31/12/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulos_fmss_4_trimestre_2014,Estado Ejecución Gastos por Capítulo FMSS a 31/12/2014,,2017/10/18_11:43:16,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMSS a 31/12/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_fmss_4_trimestre_2015,Estado Ejecución Gastos por Capítulo FMSS a 31/12/2015,,2017/10/18_11:43:16,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo PDM a 30/06/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_PDM_30_06_2013,Estado Ejecución Gastos por Capítulo PDM a 30/06/2013,,2017/10/18_11:43:17,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo PDM a 30/06/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulos_pdm_2014,Estado Ejecución Gastos por Capítulo PDM a 30/06/2014,,2017/10/18_11:43:17,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo PDM a 30/06/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_pdm_2_trimestre_2015,Estado Ejecución Gastos por Capítulo PDM a 30/06/2015,,2017/10/18_11:43:18,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo PDM a 30/09/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_PDM_30_09_2013,Estado Ejecución Gastos por Capítulo PDM a 30/09/2013,,2017/10/18_11:43:18,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo PDM a 30/09/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_pdm_2014_2T,Estado Ejecución Gastos por Capítulo PDM a 30/09/2014,,2017/10/18_11:43:18,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo PDM a 30/09/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_pdm_3_trimestre_2015,Estado Ejecución Gastos por Capítulo PDM a 30/09/2015,,2017/10/18_11:43:18,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo PDM a 31/03/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_PDM_31_03_2014,Estado Ejecución Gastos por Capítulo PDM a 31/03/2014,,2017/10/18_11:43:19,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_pdm_2013,Estado Ejecución Gastos por Capítulo PDM a 31/03/2013,,2017/10/18_11:43:19,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo PDM a 31/03/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_pdm_1_trimestre_2015,Estado Ejecución Gastos por Capítulo PDM a 31/03/2015,,2017/10/18_11:43:20,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo PDM a 31/12/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_PDM_31_12_2013,Estado Ejecución Gastos por Capítulo PDM a 31/12/2013,,2017/10/18_11:43:20,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo PDM a 31/12/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_pdm_4_trimestre_2015,Estado Ejecución Gastos por Capítulo PDM a 31/12/2015,,2017/10/18_11:43:20,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo PDM a 31/12/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_capitulo_pdf_4_trimestre_2014,Estado Ejecución Gastos por Capítulo PDM a 31/12/2014,,2017/10/18_11:43:20,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 22 de Marzo de 2016",,"Martes, 22 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa Ayto. a 30/06/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_ayto_30_06_2013,Estado Ejecución Gastos por Programa Ayto. a 30/06/2013,,2017/10/18_11:43:21,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa Ayto. a 30/06/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_ayto_2014,Estado Ejecución Gastos por Programa Ayto. a 30/06/2014,,2017/10/18_11:43:21,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa Ayto. a 30/06/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_ayto_2_trimestre_2015,Estado Ejecución Gastos por Programa Ayto. a 30/06/2015,,2017/10/18_11:43:21,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa Ayto. a 30/09/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_ayto_30_09_2013,Estado Ejecución Gastos por Programa Ayto. a 30/09/2013,,2017/10/18_11:43:21,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa Ayto. a 30/09/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_ayto_2014_2T,Estado Ejecución Gastos por Programa Ayto. a 30/09/2014,,2017/10/18_11:43:22,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa Ayto. a 30/09/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_ayto_3_trimestre_2015,Estado Ejecución Gastos por Programa Ayto. a 30/09/2015,,2017/10/18_11:43:22,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa Ayto. a 31/03/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_ayto_31_03_2014,Estado Ejecución Gastos por Programa Ayto. a 31/03/2014,,2017/10/18_11:43:22,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_ayto_2013,Estado Ejecución Gastos por Programa Ayto. a 31/03/2013,,2017/10/18_11:43:22,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa Ayto. a 31/12/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_ayto_31_12_2013,Estado Ejecución Gastos por Programa Ayto. a 31/12/2013,,2017/10/18_11:43:23,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa Ayto. a 31/03/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_ayto_1_tremestre_2015,Estado Ejecución Gastos por Programa Ayto. a 31/03/2015,,2017/10/18_11:43:23,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa Ayto. a 31/12/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_ayto_4_trimestre_2015,Estado Ejecución Gastos por Programa Ayto. a 31/12/2015,,2017/10/18_11:43:24,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa Ayto. a 31/12/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_ayto_4_trimestre_2014,Estado Ejecución Gastos por Programa Ayto. a 31/12/2014,,2017/10/18_11:43:24,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMCEUP a 30/06/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_fmceup_2014,Estado Ejecución Gastos por Programa FMCEUP a 30/06/2014,,2017/10/18_11:43:24,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMCEUP a 30/06/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_FMCEUP_30_06_2013,Estado Ejecución Gastos por Programa FMCEUP a 30/06/2013,,2017/10/18_11:43:24,Anual,"CSV,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML,Excel",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMCEUP a 30/09/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_FMCEUP_30_09_2013,Estado Ejecución Gastos por Programa FMCEUP a 30/09/2013,,2017/10/18_11:43:25,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMCEUP a 30/06/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_fmceup_2_semestre_2015,Estado Ejecución Gastos por Programa FMCEUP a 30/06/2015,,2017/10/18_11:43:25,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMCEUP a 30/09/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_fmceup_3_trimestre_2015,Estado Ejecución Gastos por Programa FMCEUP a 30/09/2015,,2017/10/18_11:43:25,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMCEUP a 30/09/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_fmceup_2014_2T,Estado Ejecución Gastos por Programa FMCEUP a 30/09/2014,,2017/10/18_11:43:25,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_fmceup_2013,Estado Ejecución Gastos por Programa FMCEUP a 31/03/2013,,2017/10/18_11:43:26,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMCEUP a 31/03/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_FMCEUP_31_03_2014,Estado Ejecución Gastos por Programa FMCEUP a 31/03/2014,,2017/10/18_11:43:26,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMCEUP a 31/03/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_fmceup_1_trimestre_2015,Estado Ejecución Gastos por Programa FMCEUP a 31/03/2015,,2017/10/18_11:43:26,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMCEUP a 31/12/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_FMCEUP_31_12_2013,Estado Ejecución Gastos por Programa FMCEUP a 31/12/2013,,2017/10/18_11:43:26,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMCEUP a 31/12/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_fmceup_4_trimestre_2014,Estado Ejecución Gastos por Programa FMCEUP a 31/12/2014,,2017/10/18_11:43:27,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMCEUP a 31/12/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_fmceup_4_trimestre_2015,Estado Ejecución Gastos por Programa FMCEUP a 31/12/2015,,2017/10/18_11:43:27,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMSS a 30/06/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_FMSS_30_06_2013,Estado Ejecución Gastos por Programa FMSS a 30/06/2013,,2017/10/18_11:43:27,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMSS a 30/06/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_fmss_2_trimestre_2015,Estado Ejecución Gastos por Programa FMSS a 30/06/2015,,2017/10/18_11:43:28,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMSS a 30/09/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_FMSS_30_09_2013,Estado Ejecución Gastos por Programa FMSS a 30/09/2013,,2017/10/18_11:43:28,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMSS a 30/09/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_fmss_2014_2T,Estado Ejecución Gastos por Programa FMSS a 30/09/2014,,2017/10/18_11:43:28,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMSS a 30/09/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_fmss_3_trimestre_2015,Estado Ejecución Gastos por Programa FMSS a 30/09/2015,,2017/10/18_11:43:29,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMSS a 31/03/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_fmss_1_trimestre_2015,Estado Ejecución Gastos por Programa FMSS a 31/03/2015,,2017/10/18_11:43:29,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMSS a 31/12/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_FMSS_31_12_2013,Estado Ejecución Gastos por Programa FMSS a 31/12/2013,,2017/10/18_11:43:29,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMSS a 31/12/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_fmss_4_trimestre_2014,Estado Ejecución Gastos por Programa FMSS a 31/12/2014,,2017/10/18_11:43:29,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa FMSS a 31/12/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_fmss_4_trimestre_2015,Estado Ejecución Gastos por Programa FMSS a 31/12/2015,,2017/10/18_11:43:30,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa PDM a 30/06/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_PDM_30_06_2013,Estado Ejecución Gastos por Programa PDM a 30/06/2013,,2017/10/18_11:43:30,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa PDM a 30/06/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_pdm_2014,Estado Ejecución Gastos por Programa PDM a 30/06/2014,,2017/10/18_11:43:30,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa PDM a 30/06/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_pdm_2_trimestre_2015,Estado Ejecución Gastos por Programa PDM a 30/06/2015,,2017/10/18_11:43:30,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa PDM a 30/09/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_PDM_30_09_2013,Estado Ejecución Gastos por Programa PDM a 30/09/2013,,2017/10/18_11:43:31,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa PDM a 30/09/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_pdm_2014_2T,Estado Ejecución Gastos por Programa PDM a 30/09/2014,,2017/10/18_11:43:31,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa PDM a 30/09/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_pdm_3_trimestre_2015,Estado Ejecución Gastos por Programa PDM a 30/09/2015,,2017/10/18_11:43:31,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_pdm_2013,Estado Ejecución Gastos por Programa PDM a 31/03/2013,,2017/10/18_11:43:31,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa PDM a 31/03/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_pdm_1_trimestre_2015,Estado Ejecución Gastos por Programa PDM a 31/03/2015,,2017/10/18_11:43:32,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa PDM a 31/03/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_PDM_31_03_2014,Estado Ejecución Gastos por Programa PDM a 31/03/2014,,2017/10/18_11:43:32,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa PDM a 31/12/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_pdm_4_trimestre_2014,Estado Ejecución Gastos por Programa PDM a 31/12/2014,,2017/10/18_11:43:33,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa PDM a 31/12/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_PDM_31_12_2013,Estado Ejecución Gastos por Programa PDM a 31/12/2013,,2017/10/18_11:43:33,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Capítulo FMSS a 30/06/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programas_fmss_2014,Estado Ejecución Gastos por Programas FMSS a 30/06/2014,,2017/10/18_11:43:33,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Gastos por Programa PDM a 31/12/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_gastos_programa_pdm_4_trimestre_2015,Estado Ejecución Gastos por Programa PDM a 31/12/2015,,2017/10/18_11:43:33,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo Ayto. a 30/06/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_ayto_30_06_2013,Estado Ejecución Ingresos por Capítulo Ayto. a 30/06/2013,,2017/10/18_11:43:34,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo Ayto. a 30/06/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_ayto_2014,Estado Ejecución Ingresos por Capítulo Ayto. a 30/06/2014,,2017/10/18_11:43:34,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo Ayto. a 30/09/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_ayto_30_09_2013,Estado Ejecución Ingresos por Capítulo Ayto. a 30/09/2013,,2017/10/18_11:43:34,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo Ayto. a 30/06/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_ayto_2_trimestre_2015,Estado Ejecución Ingresos por Capítulo Ayto. a 30/06/2015,,2017/10/18_11:43:34,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo Ayto. a 30/09/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_ayto_2014_2T,Estado Ejecución Ingresos por Capítulo Ayto. a 30/09/2014,,2017/10/18_11:43:35,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo Ayto. a 30/09/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_ayto_3_trimestre_2015,Estado Ejecución Ingresos por Capítulo Ayto. a 30/09/2015,,2017/10/18_11:43:35,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo Ayto. a 31/03/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_ayto_31_03_2014,Estado Ejecución Ingresos por Capítulo Ayto. a 31/03/2014,,2017/10/18_11:43:35,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_ayto_2013,Estado Ejecución Ingresos por Capítulo Ayto. a 31/03/2013,,2017/10/18_11:43:36,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo Ayto. a 31/03/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_ayto_1_trimestre_2015,Estado Ejecución Ingresos por Capítulo Ayto. a 31/03/2015,,2017/10/18_11:43:36,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo Ayto. a 31/12/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_ayto_31_12_2013,Estado Ejecución Ingresos por Capítulo Ayto. a 31/12/2013,,2017/10/18_11:43:36,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo Ayto. a 31/12/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_ayto_4_trimestre_2014,Estado Ejecución Ingresos por Capítulo Ayto. a 31/12/2014,,2017/10/18_11:43:37,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo Ayto. a 31/12/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_ayto_4_trimestre_2015,Estado Ejecución Ingresos por Capítulo Ayto. a 31/12/2015,,2017/10/18_11:43:37,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMCEUP a 30/06/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_FMCEUP_30_06_2013,Estado Ejecución Ingresos por Capítulo FMCEUP a 30/06/2013,,2017/10/18_11:43:37,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMCEUP a 30/06/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_fmceup_2014,Estado Ejecución Ingresos por Capítulo FMCEUP a 30/06/2014,,2017/10/18_11:43:37,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMCEUP a 30/06/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_fmceup_2_trimestre_2015,Estado Ejecución Ingresos por Capítulo FMCEUP a 30/06/2015,,2017/10/18_11:43:38,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMCEUP a 30/09/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_FMCEUP_30_09_2013,Estado Ejecución Ingresos por Capítulo FMCEUP a 30/09/2013,,2017/10/18_11:43:38,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMCEUP a 30/09/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_fmceup_2014_2T,Estado Ejecución Ingresos por Capítulo FMCEUP a 30/09/2014,,2017/10/18_11:43:38,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMCEUP a 30/09/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_fmceup_3_trimestre_2015,Estado Ejecución Ingresos por Capítulo FMCEUP a 30/09/2015,,2017/10/18_11:43:38,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMCEUP a 31/03/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_FMCEUP_31_03_2014,Estado Ejecución Ingresos por Capítulo FMCEUP a 31/03/2014,,2017/10/18_11:43:39,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_fmceup_2013,Estado Ejecución Ingresos por Capítulo FMCEUP a 31/03/2013,,2017/10/18_11:43:39,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMCEUP a 31/12/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_FMCEUP_31_12_2013,Estado Ejecución Ingresos por Capítulo FMCEUP a 31/12/2013,,2017/10/18_11:43:40,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMCEUP a 31/03/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_fmceup_1_trimestre_2015,Estado Ejecución Ingresos por Capítulo FMCEUP a 31/03/2015,,2017/10/18_11:43:40,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMCEUP a 31/12/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulos_fmceup_4_trimestre_2014,Estado Ejecución Ingresos por Capítulo FMCEUP a 31/12/2014,,2017/10/18_11:43:40,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMCEUP a 31/12/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_fmceup_4_trimestre_2015,Estado Ejecución Ingresos por Capítulo FMCEUP a 31/12/2015,,2017/10/18_11:43:41,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMSS a 30/06/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_FMSS_30_06_2013,Estado Ejecución Ingresos por Capítulo FMSS a 30/06/2013,,2017/10/18_11:43:41,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMSS a 30/06/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulos_fmss_2014,Estado Ejecución Ingresos por Capítulo FMSS a 30/06/2014,,2017/10/18_11:43:41,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMSS a 30/06/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_fmss_2_trimestre_2015,Estado Ejecución Ingresos por Capítulo FMSS a 30/06/2015,,2017/10/18_11:43:42,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMSS a 30/09/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_FMSS_30_09_2013,Estado Ejecución Ingresos por Capítulo FMSS a 30/09/2013,,2017/10/18_11:43:42,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMSS a 30/09/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_fmss_3_trimestre_2015,Estado Ejecución Ingresos por Capítulo FMSS a 30/09/2015,,2017/10/18_11:43:42,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMSS a 30/09/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_fmss_2014_2T,Estado Ejecución Ingresos por Capítulo FMSS a 30/09/2014,,2017/10/18_11:43:42,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMSS a 31/03/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_FMSS_31_03_2014,Estado Ejecución Ingresos por Capítulo FMSS a 31/03/2014,,2017/10/18_11:43:43,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_fmss_2013,Estado Ejecución Ingresos por Capítulo FMSS a 31/03/2013,,2017/10/18_11:43:43,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMSS a 31/03/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_fmss_1_trimestre_2015,Estado Ejecución Ingresos por Capítulo FMSS a 31/03/2015,,2017/10/18_11:43:43,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMSS a 31/12/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_FMSS_31_12_2013,Estado Ejecución Ingresos por Capítulo FMSS a 31/12/2013,,2017/10/18_11:43:43,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMSS a 31/12/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_fmss_4_trimestre_2014,Estado Ejecución Ingresos por Capítulo FMSS a 31/12/2014,,2017/10/18_11:43:44,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo FMSS a 31/12/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_fmss_4_trimestre_2015,Estado Ejecución Ingresos por Capítulo FMSS a 31/12/2015,,2017/10/18_11:43:44,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo PDM a 30/06/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_PDM_30_06_2013,Estado Ejecución Ingresos por Capítulo PDM a 30/06/2013,,2017/10/18_11:43:44,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo PDM a 30/06/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_pdm_2014,Estado Ejecución Ingresos por Capítulo PDM a 30/06/2014,,2017/10/18_11:43:44,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo PDM a 30/09/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_PDM_30_09_2013,Estado Ejecución Ingresos por Capítulo PDM a 30/09/2013,,2017/10/18_11:43:45,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo PDM a 30/06/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_pdm_2_trimestre_2015,Estado Ejecución Ingresos por Capítulo PDM a 30/06/2015,,2017/10/18_11:43:45,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo PDM a 30/09/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_pdm_2014_2T,Estado Ejecución Ingresos por Capítulo PDM a 30/09/2014,,2017/10/18_11:43:45,Anual,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  5 de Diciembre de 2014",,"Viernes,  5 de Diciembre de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo PDM a 30/09/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_pdm_3_trimestre_2015,Estado Ejecución Ingresos por Capítulo PDM a 30/09/2015,,2017/10/18_11:43:46,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_pdm_2013,Estado Ejecución Ingresos por Capítulo PDM a 31/03/2013,,2017/10/18_11:43:46,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo PDM a 31/03/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_PDM_31_03_2014,Estado Ejecución Ingresos por Capítulo PDM a 31/03/2014,,2017/10/18_11:43:46,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo PDM a 31/03/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_pdm_1_trimestre_2015,Estado Ejecución Ingresos por Capítulo PDM a 31/03/2015,,2017/10/18_11:43:47,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo PDM a 31/12/2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_PDM_31_12_2013,Estado Ejecución Ingresos por Capítulo PDM a 31/12/2013,,2017/10/18_11:43:47,Anual,"CSV,Excel,HTML,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Mayo de 2014",,"Martes, 20 de Mayo de 2014",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo PDM a 31/12/2014
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_pdm_4_trimestre_2014,Estado Ejecución Ingresos por Capítulo PDM a 31/12/2014,,2017/10/18_11:43:47,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  Estado Ejecución Ingresos por Capítulo PDM a 31/12/2015
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/economia/estado_ejecucion_ingresos_capitulo_pdm_4_trimestre_2015,Estado Ejecución Ingresos por Capítulo PDM a 31/12/2015,,2017/10/18_11:43:47,Anual,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 21 de Marzo de 2016",,"Lunes, 21 de Marzo de 2016",Economía,Gijón
+GIJ,"
+  datasets de eventos
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/eventos,Eventos,,2017/10/18_11:43:48,Diaria,"XML,CSV,JSON,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 13 de Octubre de 2010",,"Miércoles, 13 de Octubre de 2010",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/farmacias,Farmacias,,2017/10/18_11:43:48,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Salud,Gijón
+GIJ,"
+  Feed RSS con las noticias publicadas en el portal
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/feed-noticias,Feed de noticias,,2017/10/18_11:43:48,Diaria,RSS,Creative Commons Reconocimiento 3.0 España,"Martes, 21 de Diciembre de 2010",,"Martes, 21 de Diciembre de 2010",Información,Gijón
+GIJ,"
+  Feed RSS de los eventos en Gijón publicados por el portal.
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/feed-eventos,Feed de eventos,,2017/10/18_11:43:49,Diaria,RSS,Creative Commons Reconocimiento 3.0 España,"Martes, 21 de Diciembre de 2010",,"Martes, 21 de Diciembre de 2010",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/galerias-arte,Galerías de Arte,,2017/10/18_11:43:49,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Cultura y ocio,Gijón
+GIJ,"
+  ",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/hacienda/gestion_inversiones,Gestión de las inversiones,,2017/10/18_11:43:50,Diaria,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML,geoRSS,KML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Septiembre de 2016",,"Lunes, 19 de Septiembre de 2016",Hacienda,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/gijonbici,GijónBici,,2017/10/18_11:43:50,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Transporte,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/guarderias,Guarderías de Segundo Ciclo,,2017/10/18_11:43:51,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Educación,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/guardia-civil,Guardia Civil en Gijón,,2017/10/18_11:43:51,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Sábado, 29 de Marzo de 2014",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/heladerias,Heladerías,,2017/10/18_11:43:52,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/hemeroteca,Hemeroteca,,2017/10/18_11:43:53,Anual,XML,Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Información,Gijón
+GIJ,"
+  Histórico de contrataciones
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/historico-contrataciones,Histórico de Contrataciones en RSS,,2017/10/18_11:43:53,Tiempo Real,RSS,Creative Commons Reconocimiento 3.0 España,"Lunes, 10 de Septiembre de 2012",,"Martes, 15 de Febrero de 2011",Hacienda,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/HistoricoContratosMenores,Histórico de Contratos menores,,2017/10/18_11:43:54,Diaria,RSS,Creative Commons Reconocimiento 3.0 España,"Martes, 20 de Marzo de 2012",,"Martes, 20 de Marzo de 2012",Hacienda,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/hostal,Hostal,,2017/10/18_11:43:55,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Turismo,Gijón
+GIJ,"
+  Hoteles en la ciudad de Gijón
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/hoteles,Hoteles,,2017/10/18_11:43:55,Semanal,"CSV,JSON,RDF-N3,RDF-Turtle,RDF-XML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes,  9 de Mayo de 2011",,"Lunes,  9 de Mayo de 2011",Turismo,Gijón
+GIJ,"
+  Hoteles rurales cerca de la liudad de Gijón
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/hoteles-rurales,Hoteles rurales,,2017/10/18_11:43:56,Semanal,"CSV,JSON,RDF-N3,RDF-Turtle,RDF-XML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes,  9 de Mayo de 2011",,"Lunes,  9 de Mayo de 2011",Turismo,Gijón
+GIJ,"
+  IAE 2008
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/industria/iae_2008,IAE 2008,,2017/10/18_11:43:56,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Industria,Gijón
+GIJ,"
+  IAE 2009
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/industria/iae_2009,IAE 2009,,2017/10/18_11:43:57,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Industria,Gijón
+GIJ,"
+  IAE 2010
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/industria/iae_2010,IAE 2010,,2017/10/18_11:43:57,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Industria,Gijón
+GIJ,"
+  IAE 2011
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/industria/iae_2011,IAE 2011,,2017/10/18_11:43:58,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Industria,Gijón
+GIJ,"
+  IAE 2012
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/industria/iae_2012,IAE 2012,,2017/10/18_11:43:58,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Industria,Gijón
+GIJ,"
+  Incidencias comunicadas en Cuida Gijón
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/urbanismo-infraestructuras/cuida_gijon,Incidencias comunicadas en Cuida Gijón,,2017/10/18_11:43:59,Diaria,"CSV,Excel,geoRSS,JSON,KML,PDF,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves, 29 de Enero de 2015",,"Jueves, 29 de Enero de 2015",Urbanismo e infraestructuras,Gijón
+GIJ,"
+  Incidencias en via pública resueltas
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sociedad-bienestar/incidencias_via_publica_resueltas,Incidencias en via pública resueltas,,2017/10/18_11:43:59,Diaria,"CSV,Excel,JSON,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 23 de Febrero de 2016",,"Martes, 23 de Febrero de 2016",Sociedad y bienestar,Gijón
+GIJ,"
+  Inmuebles por código postal y uso 2013
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/urbanismo-infraestructuras/inmuebles_cp_uso,Inmuebles por código postal y uso 2013,,2017/10/18_11:44:00,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Urbanismo e infraestructuras,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/institutos,Institutos de Educación Secundaria,,2017/10/18_11:44:01,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Educación,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/feil-2009,Inversión FEIL 2009,,2017/10/18_11:44:01,Anual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  Conjunto de destinos más populares en rutas realizadas con vehículo tipo turismo en la ciudad de Gijón, según los datos obtenidos en el proyecto LabCityCar, centrados en el rango horario entre las 15:00 y las 19:00.",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/labcitycar-destinos_noviembre_2013,LabCityCar - Destinos de ruta más polurares Noviembre 2013,,2017/10/18_11:44:02,Anual,XML,Creative Commons Reconocimiento 3.0 España,"Miércoles, 18 de Febrero de 2015",,"Miércoles, 18 de Febrero de 2015",Medio ambiente,Gijón
+GIJ,"
+  Conjunto de destinos más populares en rutas realizadas con vehículo tipo turismo en la ciudad de Gijón, según los datos obtenidos en el proyecto LabCityCar, centrados en el rango horario entre las 15:00 y las 19:00.",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/labcitycar-detinos_diciembre_2013,LabCityCar - Destinos de ruta más populares Diciembre 2013,,2017/10/18_11:44:02,Anual,XML,Creative Commons Reconocimiento 3.0 España,"Miércoles, 18 de Febrero de 2015",,"Miércoles, 18 de Febrero de 2015",Medio ambiente,Gijón
+GIJ,"
+  Conjunto de destinos más populares en rutas realizadas con vehículo tipo turismo en la ciudad de Gijón, según los datos obtenidos en el proyecto LabCityCar, centrados en el rango horario entre las 15:00 y las 19:00.",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/labcitycar-detinos_enero_2014,LabCityCar - Destinos de ruta más populares Enero 2014,,2017/10/18_11:44:03,Anual,XML,Creative Commons Reconocimiento 3.0 España,"Miércoles, 18 de Febrero de 2015",,"Miércoles, 18 de Febrero de 2015",Medio ambiente,Gijón
+GIJ,"
+  Conjunto de destinos más populares en rutas realizadas con vehículo tipo turismo en la ciudad de Gijón, según los datos obtenidos en el proyecto LabCityCar, centrados en el rango horario entre las 15:00 y las 19:00.",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/labcitycar-historico_destino,LabCityCar - Histórico de destinos de ruta más populares,,2017/10/18_11:44:03,Anual,XML,Creative Commons Reconocimiento 3.0 España,"Miércoles, 18 de Febrero de 2015",,"Miércoles, 18 de Febrero de 2015",Medio ambiente,Gijón
+GIJ,"
+  Conjunto de orígenes más populares en rutas realizadas con vehículo tipo turismo en la ciudad de Gijón, según los datos obtenidos en el proyecto LabCityCar, centrados en el rango horario.",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/labcitycar-historico_origenes,LabCityCar - Histórico de orígenes de ruta más populares,,2017/10/18_11:44:04,Anual,XML,Creative Commons Reconocimiento 3.0 España,"Miércoles, 18 de Febrero de 2015",,"Miércoles, 18 de Febrero de 2015",Medio ambiente,Gijón
+GIJ,"
+  Conjunto de orígenes más populares en rutas realizadas con vehículo tipo turismo en la ciudad de Gijón, según los datos obtenidos en el proyecto LabCityCar, centrados en el rango horario.",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/labcitycar-origen_diciembre_2013,LabCityCar - Orígenes de ruta más populares Diciembre 2013,,2017/10/18_11:44:04,Anual,XML,Creative Commons Reconocimiento 3.0 España,"Miércoles, 18 de Febrero de 2015",,"Miércoles, 18 de Febrero de 2015",Medio ambiente,Gijón
+GIJ,"
+  Conjunto de orígenes más populares en rutas realizadas con vehículo tipo turismo en la ciudad de Gijón, según los datos obtenidos en el proyecto LabCityCar, centrados en el rango horario.",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/labcitycar-origen_enero_2014,LabCityCar - Orígenes de ruta más populares Enero 2014,,2017/10/18_11:44:05,Anual,XML,Creative Commons Reconocimiento 3.0 España,"Miércoles, 18 de Febrero de 2015",,"Miércoles, 18 de Febrero de 2015",Medio ambiente,Gijón
+GIJ,"
+  Conjunto de orígenes más populares en rutas realizadas con vehículo tipo turismo en la ciudad de Gijón, según los datos obtenidos en el proyecto LabCityCar, centrados en el rango horario.",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/labcitycar-origenes_noviembre_2013,LabCityCar - Orígenes de ruta más popularesen Noviembre 2013,,2017/10/18_11:44:05,Anual,XML,Creative Commons Reconocimiento 3.0 España,"Miércoles, 18 de Febrero de 2015",,"Miércoles, 18 de Febrero de 2015",Medio ambiente,Gijón
+GIJ,"
+  Licencias de Instalación de Terrazas
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/urbanismo-infraestructuras/licencias_terraza,Licencias de Instalación de Terrazas,,2017/10/18_11:44:06,Diaria,"geoRSS,KML,RSS,CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Urbanismo e infraestructuras,Gijón
+GIJ,"
+  Licencias de Obras Menores Ciclo Normal (Histórico)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/urbanismo-infraestructuras/licencias_obras_menores_ciclo_normal_historico,Licencias de Obras Menores Ciclo Normal (Histórico),,2017/10/18_11:44:06,Anual,"CSV,Excel,geoRSS,HTML,JSON,KML,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves, 13 de Junio de 2013",,"Jueves, 13 de Junio de 2013",Urbanismo e infraestructuras,Gijón
+GIJ,"
+  Licencias de Obras Menores Ciclo Normal (Vigentes)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/urbanismo-infraestructuras/licencias_obras_menores,Licencias de Obras Menores Ciclo Normal (Vigentes),,2017/10/18_11:44:07,Diaria,"geoRSS,KML,RSS,CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Urbanismo e infraestructuras,Gijón
+GIJ,"
+  Licencias de Obras Menores Ciclo Rápido (Histórico)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/urbanismo-infraestructuras/licencias_obras_menores_ciclo_rapido_historico,Licencias de Obras Menores Ciclo Rápido (Histórico),,2017/10/18_11:44:08,Anual,"CSV,Excel,geoRSS,HTML,JSON,KML,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves, 13 de Junio de 2013",,"Jueves, 13 de Junio de 2013",Urbanismo e infraestructuras,Gijón
+GIJ,"
+  Licencias de Obras Menores Ciclo Rápido (Vigentes)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/urbanismo-infraestructuras/licencias_obras_menores_rapido,Licencias de Obras Menores Ciclo Rápido (Vigentes),,2017/10/18_11:44:08,Diaria,"geoRSS,KML,RSS,CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Urbanismo e infraestructuras,Gijón
+GIJ,"
+  Licencias de Taxi de Gijón
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/transporte/licencias_taxi,Licencias de Taxi,,2017/10/18_11:44:09,Mensual,"CSV,Excel,JSON,PDF,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes,  3 de Mayo de 2016",,"Martes,  3 de Mayo de 2016",Transporte,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/llagares,Llagares,,2017/10/18_11:44:09,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Turismo,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/locutorios,Locutorios,,2017/10/18_11:44:10,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/ludotecas,Ludotecas,,2017/10/18_11:44:11,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/lugares-interes-turistico,Lugares de interés Turístico,,2017/10/18_11:44:11,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Turismo,Gijón
+GIJ,"
+  Mapa estratégico de Ruido de Carreteras
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/maparuido2009_carreteras,Mapa de Ruido 2009. Carreteras,,2017/10/18_11:44:12,Anual,HTML,Creative Commons Reconocimiento 3.0 España,"Viernes, 24 de Mayo de 2013",,"Viernes, 24 de Mayo de 2013",Medio ambiente,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/maparuido2009_evaluacionacustica,Mapa de Ruido 2009. Evaluación Acústica,,2017/10/18_11:44:12,Anual,HTML,Creative Commons Reconocimiento 3.0 España,"Viernes, 24 de Mayo de 2013",,"Viernes, 24 de Mayo de 2013",Medio ambiente,Gijón
+GIJ,"
+  Mapa estratégico de Ruido Ferrocarril
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/maparuido2009_ferrocarril,Mapa de Ruido 2009. Ferrocarril,,2017/10/18_11:44:13,Anual,HTML,Creative Commons Reconocimiento 3.0 España,"Viernes, 24 de Mayo de 2013",,"Viernes, 24 de Mayo de 2013",Medio ambiente,Gijón
+GIJ,"
+  Mapa estratégico de Ruido de la Industria
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/maparuido2009_Industrial,Mapa de Ruido 2009. Ruido Industrial,,2017/10/18_11:44:13,Anual,HTML,Creative Commons Reconocimiento 3.0 España,"Viernes, 24 de Mayo de 2013",,"Viernes, 24 de Mayo de 2013",Medio ambiente,Gijón
+GIJ,"
+  Mapa suma de todos los focos
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/maparuido2009_todosfocos,Mapa de Ruido 2009. Todos los focos,,2017/10/18_11:44:14,Anual,HTML,Creative Commons Reconocimiento 3.0 España,"Viernes, 24 de Mayo de 2013",,"Viernes, 24 de Mayo de 2013",Medio ambiente,Gijón
+GIJ,"
+  Mapa estratégico de Ruido de Tráfico
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/maparuido2009_traficourbano,Mapa de Ruido 2009. Tráfico Urbano,,2017/10/18_11:44:14,Anual,HTML,Creative Commons Reconocimiento 3.0 España,"Viernes, 24 de Mayo de 2013",,"Viernes, 24 de Mayo de 2013",Medio ambiente,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/medio-ambiente/maparuido2009_zonificacionacustica,Mapa de Ruido 2009. Zonificación Acústica,,2017/10/18_11:44:15,Anual,HTML,Creative Commons Reconocimiento 3.0 España,"Viernes, 24 de Mayo de 2013",,"Viernes, 24 de Mayo de 2013",Medio ambiente,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/mediatecas,Mediatecas,,2017/10/18_11:44:16,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Educación,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/mercados,Mercados,,2017/10/18_11:44:16,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Turismo,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/merenderos,Merenderos,,2017/10/18_11:44:17,Anual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/milla-conocimiento,Milla del Conocimiento,,2017/10/18_11:44:18,Mensual,KML,Creative Commons Reconocimiento 3.0 España,"Viernes, 14 de Diciembre de 2012",,"Viernes, 14 de Diciembre de 2012",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/miradores,Miradores,,2017/10/18_11:44:18,Diaria,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Medio ambiente,Gijón
+GIJ,"
+  Monumentos de Gijón
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/monumentos,Monumentos,,2017/10/18_11:44:19,Tiempo Real,"CSV,JSON,RDF-N3,RDF-Turtle,RDF-XML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes,  7 de Octubre de 2011",,"Lunes,  9 de Mayo de 2011",Turismo,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/monumentos-naturales,Monumentos Naturales,,2017/10/18_11:44:20,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Medio ambiente,Gijón
+GIJ,"
+  Museos y salas de exposiciones en Gijón
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/museos,Museos,,2017/10/18_11:44:20,Semanal,"CSV,JSON,RDF-N3,RDF-Turtle,RDF-XML,XML",Creative Commons Reconocimiento 3.0 España,"Lunes,  9 de Mayo de 2011",,"Lunes,  9 de Mayo de 2011",Cultura y ocio,Gijón
+GIJ,"
+  Conjunto de datos basado en el esqueleto de noticias
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/noticias,Noticias,,2017/10/18_11:44:21,Diaria,"XML,CSV,JSON,RDF-XML,RDF-N3,RDF-Turtle",Creative Commons Reconocimiento 3.0 España,"Viernes,  1 de Octubre de 2010",,"Viernes,  1 de Octubre de 2010",Información,Gijón
+GIJ,"
+  Noticias del ayto en el 2010
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/noticias-2010,Noticias 2010,,2017/10/18_11:44:22,Mensual,"CSV,JSON,XML",Creative Commons Reconocimiento 3.0 España,"Viernes, 10 de Junio de 2011",,"Viernes, 10 de Junio de 2011",Información,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/objetos-perdidos,Objetos Perdidos,,2017/10/18_11:44:22,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  Obras Conservación Viaria
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/urbanismo-infraestructuras/obras_conservacion_viaria,Obras Conservación Viaria,,2017/10/18_11:44:23,Diaria,"geoRSS,KML,RSS,CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Urbanismo e infraestructuras,Gijón
+GIJ,"
+  Obras Conservación Viaria (Histórico)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/urbanismo-infraestructuras/obras_conservacion_viaria_historico,Obras Conservación Viaria (Histórico),,2017/10/18_11:44:23,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Martes, 11 de Junio de 2013",,"Martes, 11 de Junio de 2013",Urbanismo e infraestructuras,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/ocio,Ocio,,2017/10/18_11:44:24,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Información,Gijón
+GIJ,"
+  Conjunto de ofertas de empleo del Ayuntamiento de Gijón
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/oferta-empleo,Oferta de empleo público,,2017/10/18_11:44:25,Mensual,"XML,CSV,JSON",Creative Commons Reconocimiento 3.0 España,"Martes, 21 de Diciembre de 2010",,"Martes, 21 de Diciembre de 2010",Empleo,Gijón
+GIJ,"
+  Cursos de formación gestionados por el Ayuntamiento
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/cursos,Oferta formativa,,2017/10/18_11:44:25,Semanal,"XML,CSV,JSON",Creative Commons Reconocimiento 3.0 España,"Martes, 21 de Diciembre de 2010",,"Martes, 21 de Diciembre de 2010",Empleo,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/oferta-empleo-instancias,Ofertas de empleo en plazo de presentación de instancias,,2017/10/18_11:44:26,Diaria,"CSV,JSON,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Empleo,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/oferta-empleo-seleccion,Ofertas de empleo en proceso de selección,,2017/10/18_11:44:26,Diaria,"CSV,JSON,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Empleo,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/oferta-empleo-finalizadas,Ofertas de empleo finalizadas,,2017/10/18_11:44:27,Diaria,"CSV,JSON,XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Empleo,Gijón
+GIJ,"
+  Ordenes Mantenimiento de Alumbrado
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/mantenimiento_alumbrado,Ordenes Mantenimiento de Alumbrado,,2017/10/18_11:44:27,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  Ordenes Mantenimiento de Alumbrado (Histórico)
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/sector-publico/ordenes_mantenimiento_alumbrado_historico,Ordenes Mantenimiento de Alumbrado (Histórico),,2017/10/18_11:44:28,Anual,"CSV,Excel,geoRSS,HTML,JSON,KML,PDF,RSS,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes, 14 de Junio de 2013",,"Viernes, 14 de Junio de 2013",Sector público,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/otros-cent-hospitalarios,Otros Centros Hospitalarios,,2017/10/18_11:44:29,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Salud,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/otros-elementos-sanidad,Otros Elementos Sanidad,,2017/10/18_11:44:29,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Salud,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/otros-espacios-deportivos,Otros espacios deportivos,,2017/10/18_11:44:30,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Deporte,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/otros-recursos-educacion,Otros Recursos de Educación,,2017/10/18_11:44:31,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Educación,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/otros-transportes,Otros Transportes,,2017/10/18_11:44:31,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Transporte,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/risp_datasets/show/pabellones,Pabellones,,2017/10/18_11:44:32,Mensual,"CSV,JSON,XML,RDF-N3,RDF-Turtle,RDF-XML",Creative Commons Reconocimiento 3.0 España,"Lunes, 19 de Noviembre de 2012",,"Lunes, 19 de Noviembre de 2012",Deporte,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_grupos_edad_sexo,Padrón de Habitantes 2012. Grupos de edad por sexo (a fin de año),,2017/10/18_11:44:32,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_habitantes_extranjeros_nacionalidad_sexo,Padrón de Habitantes 2012. Habitantes extranjeros por nacionalidad y sexo (a fin de año),,2017/10/18_11:44:33,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_habitantes_nacidos_asturias_concejo_sexo,Padrón de Habitantes 2012. Habitantes nacidos en Asturias por concejo y sexo (a fin de año),,2017/10/18_11:44:34,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_habitantes_nacidos_extranjeros_pais_sexo,Padrón de Habitantes 2012. Habitantes nacidos en el extranjero por país y sexo (a fin de año),,2017/10/18_11:44:34,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_habitantes_nacidos_espana_autonomia_sexo,Padrón de Habitantes 2012. Habitantes nacidos en España por autonomía y sexo (a fin de año),,2017/10/18_11:44:35,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_habitantes_nacidos_espana_provincia_sexo,Padrón de Habitantes 2012. Habitantes nacidos en España por provincia y sexo (a fin de año),,2017/10/18_11:44:35,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_habitantes_nacionalidad_sexo,Padrón de Habitantes 2012. Habitantes por nacionalidad y sexo (a fin de año),,2017/10/18_11:44:36,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_habitanes_otros_municipios,Padrón de Habitantes 2012. Habitantes procedentes de otros municipios asturianos por sexo,,2017/10/18_11:44:36,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_habitantes_extrajero_pais_sexo,Padrón de Habitantes 2012. Habitantes procedentes del extranjero por país y sexo,,2017/10/18_11:44:37,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_habitantes_autonomia_procedencia_sexo,Padrón de Habitantes 2012. Habitantes según autonomía de procedencia por sexo,,2017/10/18_11:44:37,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_habitantes_provincia_espana_procedencia_sexo,Padrón de Habitantes 2012. Habitantes según provincia de España de procedencia por sexo,,2017/10/18_11:44:38,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_poblacion_barrios_parroquias_sexo,Padrón de Habitantes 2012. Población barrios y parroquias por sexo (a fin de año),,2017/10/18_11:44:38,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_barrios_parroquias_sexo_edad,Padrón de Habitantes 2012. Población barrios y parroquias por sexo y grupos de edad (a fin de año),,2017/10/18_11:44:39,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_poblacion_concejos_territoriales_sexo,Padrón de Habitantes 2012. Población por consejos territoriales y sexo (a fin de año),,2017/10/18_11:44:40,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_poblacion_grupos_edad_sexo_barrio_parroquia,Padrón de Habitantes 2012. Población por grupos de edad y sexo en cada barrio y parroquia (a fin de año),,2017/10/18_11:44:40,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_poblacion_rural_grupos_edad_sexo_parroquia,Padrón de Habitantes 2012. Población rural por grupos de edad y sexo en cada parroquia (a fin de año),,2017/10/18_11:44:41,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_poblacion_rural_parroquia_sexo_edad,"Padrón de Habitantes 2012. Población rural por parroquia, sexo y grupos de edad (a fin de año)",,2017/10/18_11:44:41,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_poblacion_rural_parroquia_sexo,Padrón de Habitantes 2012. Población rural por parroquias y sexo (a fin de año),,2017/10/18_11:44:42,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_poblacion_urbana_barrios_sexo,Padrón de Habitantes 2012. Población urbana por barrios y sexo (a fin de año),,2017/10/18_11:44:42,Anual,"CSV,HTML,JSON,PDF,Texto plano,XHTML,XML,Excel",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_poblacion_urbana_barrios_sexo_edad,"Padrón de Habitantes 2012. Población urbana por barrios, sexo y grupos de edad (a fin de año)",,2017/10/18_11:44:43,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_2012_poblacion_urbana_grupos_edad_sexo,Padrón de Habitantes 2012. Población urbana por grupos de edad y sexo en cada barrio (a fin de año),,2017/10/18_11:44:44,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_hatitantes_2012_total,Padrón de Habitantes 2012. Total habitantes por sexo (a fin de año),,2017/10/18_11:44:44,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Miércoles, 19 de Junio de 2013",,"Miércoles, 19 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Defunciones desde hace 1 año.
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_habitantes_actual_defunciones,Padrón de Habitantes actual. Defunciones desde hace 1 año,,2017/10/18_11:44:45,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes, 14 de Junio de 2013",,"Viernes, 14 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Grupos de edad por sexo
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_grupos_edad,Padrón de Habitantes actual. Grupos de edad por sexo,,2017/10/18_11:44:45,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Habitantes extranjeros por nacionalidad y sexo
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_extranjeros,Padrón de Habitantes actual. Habitantes extranjeros por nacionalidad y sexo,,2017/10/18_11:44:46,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Habitantes nacidos en Asturias por concejo y sexo
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_nacidos_asturias,Padrón de Habitantes actual. Habitantes nacidos en Asturias por concejo y sexo,,2017/10/18_11:44:46,Diaria,"CSV,Excel,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Habitantes nacidos en el extranjero por país y sexo
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_nacidos_extranjero,Padrón de Habitantes actual. Habitantes nacidos en el extranjero por país y sexo,,2017/10/18_11:44:47,Diaria,"CSV,Excel,HTML,JSON,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Habitantes nacidos en España por autonomía y sexo
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_nacidos_espa%C3%B1a_autonomias,Padrón de Habitantes actual. Habitantes nacidos en España por autonomía y sexo,,2017/10/18_11:44:47,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Habitantes nacidos en España por provincia y sexo
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_nacidos_espa%C3%B1a_provincias,Padrón de Habitantes actual. Habitantes nacidos en España por provincia y sexo,,2017/10/18_11:44:48,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Habitantes por nacionalidad y sexo
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_habitantes_nacionalidad,Padrón de Habitantes actual. Habitantes por nacionalidad y sexo,,2017/10/18_11:44:48,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Habitantes procedentes del extranjero por país y sexo, desde hace 1 año.
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_habitantes_extranjeros,"Padrón de Habitantes actual. Habitantes procedentes del extranjero por país y sexo, desde hace 1 año.",,2017/10/18_11:44:49,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Habitantes según autonomía de procedencia por sexo desde hace 1 año.
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_autonomias,Padrón de Habitantes actual. Habitantes según autonomía de procedencia por sexo desde hace 1 año.,,2017/10/18_11:44:50,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Habitantes según municipio asturiano de procedencia por sexo desde hace 1 año.
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_municipios_procedencia,Padrón de Habitantes actual. Habitantes según municipio asturiano de procedencia por sexo desde hace 1 año.,,2017/10/18_11:44:50,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Habitantes según provincia de España de procedencia por sexo desde hace 1 año.
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_provincias,Padrón de Habitantes actual. Habitantes según provincia de España de procedencia por sexo desde hace 1 año.,,2017/10/18_11:44:51,Diaria,"CSV,HTML,JSON,PDF,Texto plano,XHTML,XML,Excel",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Nacimientos desde hace 1 año.
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_habitates_nacidos_actuales,Padrón de Habitantes actual. Nacimientos desde hace 1 año.,,2017/10/18_11:44:51,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Viernes, 14 de Junio de 2013",,"Viernes, 14 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Población barrios y parroquias por sexo
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_barrios_parroquias_sexo,Padrón de Habitantes actual. Población barrios y parroquias por sexo,,2017/10/18_11:44:52,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Población barrios y parroquias por sexo y grupos de edad
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_parroquias_barrios,Padrón de Habitantes actual. Población barrios y parroquias por sexo y grupos de edad,,2017/10/18_11:44:52,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Población por consejos territoriales y sexo
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_consejos_territoriales,Padrón de Habitantes actual. Población por consejos territoriales y sexo,,2017/10/18_11:44:53,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Población por grupos de edad y sexo en cada barrio y parroquia
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_barrios_parroquias,Padrón de Habitantes actual. Población por grupos de edad y sexo en cada barrio y parroquia,,2017/10/18_11:44:53,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Población rural por grupos de edad y sexo en cada parroquia
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_poblacion_rural,Padrón de Habitantes actual. Población rural por grupos de edad y sexo en cada parroquia,,2017/10/18_11:44:54,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Población rural por parroquia, sexo y grupos de edad
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_poblacionrural,"Padrón de Habitantes actual. Población rural por parroquia, sexo y grupos de edad",,2017/10/18_11:44:54,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Población rural por parroquias y sexo
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_rural_parroquias,Padrón de Habitantes actual. Población rural por parroquias y sexo,,2017/10/18_11:44:55,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Población urbana por barrios y sexo
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_urbana_barrios,Padrón de Habitantes actual. Población urbana por barrios y sexo,,2017/10/18_11:44:55,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Población urbana por barrios, sexo y grupos de edad
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_poblacion_urbana,"Padrón de Habitantes actual. Población urbana por barrios, sexo y grupos de edad",,2017/10/18_11:44:56,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Población urbana por grupos de edad y sexo en cada barrio
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_barrios,Padrón de Habitantes actual. Población urbana por grupos de edad y sexo en cada barrio,,2017/10/18_11:44:56,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Población urbana y rural por sexo
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_urbana_rural,Padrón de Habitantes actual. Población urbana y rural por sexo,,2017/10/18_11:44:57,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_total_habitantes,Padrón de Habitantes actual. Total habitantes nacidos en España y el extranjero por sexo,,2017/10/18_11:44:57,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Habitantes actual. Total por sexo
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/demografia/padron_total_sexo,Padrón de Habitantes actual. Total por sexo,,2017/10/18_11:44:58,Diaria,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Demografía,Gijón
+GIJ,"
+  Padrón de Vehículos año 2005. Autobuses
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/transporte/padron_vehiculos_autobuses,Padrón de Vehículos año 2005. Autobuses,,2017/10/18_11:44:59,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Transporte,Gijón
+GIJ,"
+  Padrón de Vehículos año 2005. Camiones
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/transporte/padron_vehiculos_camiones,Padrón de Vehículos año 2005. Camiones,,2017/10/18_11:44:59,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Transporte,Gijón
+GIJ,"
+  Padrón de Vehículos año 2005. Ciclomotores
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/transporte/padron_vehiculos_ciclomotores,Padrón de Vehículos año 2005. Ciclomotores,,2017/10/18_11:45:00,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Transporte,Gijón
+GIJ,"
+  Padrón de Vehículos año 2005. Motocicletas
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/transporte/padron_vehiculos_motocicletas,Padrón de Vehículos año 2005. Motocicletas,,2017/10/18_11:45:00,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Transporte,Gijón
+GIJ,"
+  
+",Ayuntamiento de Gijón,http://transparencia.gijon.es/set/transporte/padron_vehiculos_remolques,Padrón de Vehículos año 2005. Remolques,,2017/10/18_11:45:01,Anual,"CSV,Excel,HTML,JSON,PDF,Texto plano,XHTML,XML",Creative Commons Reconocimiento 3.0 España,"Jueves,  6 de Junio de 2013",,"Jueves,  6 de Junio de 2013",Transporte,Gijón
