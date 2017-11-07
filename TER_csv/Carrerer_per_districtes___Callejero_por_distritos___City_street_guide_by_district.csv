@@ -1,0 +1,1313 @@
+CODI_CARRER,NOM_CARRER,DISTRICTE,NUMERO_INICIAL,NUMERO_FINAL
+0,FICTICI                       ,,0,38
+5,"ABAT MARCET, DE L             ",5,0,368
+15,"ABLA, D                       ",5,1,17
+20,"ABRUCENA, D                   ",5,2,48
+25,"ADRA, D                       ",5,1,107
+26,"ÀFRICA,D                      ",3,13,105
+30,"AGRICULTURA, DE L             ",3,0,307
+45,"AGUT, DE L                    ",5,1,7
+50,"ÀLABA, D                      ",2,10,358
+55,"ALBACETE, D                   ",5,1,37
+60,"ALBÉNIZ, D                    ",5,1,31
+65,"ALCOI, D                      ",5,1,156
+70,"ALEXANDER BELL, D             ",4,0,161
+73,"ALEXANDRE DE RIQUER, D        ",5,1,51
+75,"ALGESIRES, D                  ",5,2,6
+77,"ALGUER, DE L                  ",6,14,56
+84,"ALBÍ, D                       ",6,1,31
+85,"ALACANT, D                    ",4,1,40
+86,"ALBERT EINSTEIN, D            ",3,1,61
+90,"ALMERIA, D                    ",6,2,157
+95,"AMADEU DE SAVOIA, D           ",5,2,168
+96,"AMETLLERS, DELS               ",5,11,73
+97,"CAMÍ DE CAN PI, DEL           ",5,0,24
+98,"JACINT BADIELLA, DE           ",5,4,18
+100,"JOCS OLÍMPICS, DELS           ",5,5,122
+105,"PAPAROLA, DE LA               ",3,1,32
+115,"AMPOSTA, D                    ",6,2,109
+125,"ANCIANITAT, DE L              ",5,2,120
+130,AMPLE                         ,5,0,323
+135,AMPLE                         ,5,3,13
+145,"ANETO, DE L                   ",6,1,162
+150,"ÀNGEL GUIMERÀ, D              ",3,1,235
+155,"ÀNGEL SALLENT, D              ",4,0,200
+156,"ANGOLA, D                     ",3,1,10
+157,"ANTON FRANCH, D               ",4,1,22
+160,"ANTONI BARATA, D              ",5,1,47
+165,"ANTONI MAURA, D               ",5,1,18
+175,"FRANCESC LAYRET, DE           ",4,1,22
+176,"APOL.LO, D                    ",3,7,114
+180,"ARAGÓ, D                      ",4,1,19
+184,"ARIEJA, DE L                  ",6,1,40
+185,"ARENYS DE MAR, D              ",5,0,36
+186,"ÀRIES, D                      ",3,1,469
+187,"ARGENTINA, DE L               ",4,0,20
+195,"ARQUIMEDES, D                 ",4,0,267
+200,"ARQ. PUIG I CADAFALCH, DE L   ",1,2,136
+201,"ASSUTZENA, DE L               ",3,1,15
+205,"ASTÚRIES, D                   ",2,28,70
+210,"ATENES, D                     ",4,1,84
+215,"ATLÀNTIDA, DE L               ",4,1,10
+220,"AURORA, DE L                  ",1,1,44
+225,"AUSIÀS MARC, D                ",4,1,60
+230,"ÀVILA, D                      ",4,1,29
+240,"AZORÍN, D                     ",3,1,19
+250,"BADALONA, DE                  ",3,1,8
+255,"BAEZA, DE                     ",5,1,30
+260,"BAGES, DEL                    ",3,1,187
+265,"BEGUR, DE                     ",6,1,69
+270,"BAILÉN, DE                    ",4,0,87
+275,"BAIX, DE                      ",1,0,67
+285,"BALDRICH, DE                  ",1,0,285
+290,"BALEARS, DE LES               ",6,1,20
+295,"BALMES, DE                    ",5,0,69
+300,"BALTASAR RAGON, DE            ",4,1,1
+305,"BARACALDO, DE                 ",2,1,44
+310,"BARCELONA, DE                 ",1,0,312
+311,"BARDISSA, DE LA               ",5,2,17
+315,"BARTOMEU AMAT, DE             ",5,0,137
+320,"BARTRINA, DE                  ",5,0,254
+325,"BASTARD, DE                   ",1,1,17
+330,"BEETHOVEN, DE                 ",4,1,46
+335,"BÉJAR, DE                     ",5,1,424
+336,"BÉJAR, DE                     ",5,2,50
+340,"BÈLGICA, DE                   ",3,1,25
+345,"BELLAVISTA, DE LA             ",3,1,20
+350,"BERGA, DE                     ",5,15,80
+355,"BERGUEDÀ, DEL                 ",3,41,130
+360,"BERNAT DE L OM, DE            ",1,1,36
+365,"BESÒS, DEL                    ",6,1,204
+370,"BIDASOA, DEL                  ",6,1,60
+380,"BILBAO, DE                    ",2,1,47
+385,"BISBAL, DE LA                 ",6,1,20
+390,"BLANES, DE                    ",3,1,3
+391,"BLANCA DE CENTELLES, DE       ",5,2,50
+395,"BLASCO DE GARAY, DE           ",4,0,239
+396,"BOIX, DEL                     ",5,1,6
+405,"BONAVENTURA CASTELLET, DE     ",1,1,34
+410,"BORGES BLANQUES, DE LES       ",6,1,172
+411,"BÒBILA, DE LA                 ",3,2,40
+412,"BOSC, DEL                     ",5,1,7
+414,"BOSCH I GIMPERA, DE           ",3,1,59
+415,"BRETÓN, DE                    ",4,1,37
+420,"BRUC, DEL                     ",4,0,170
+425,"BULGÀRIA, DE                  ",3,1,62
+430,"BURGOS, DE                    ",2,1,154
+435,"CÀCERES, DE                   ",4,1,12
+440,"CADÍ, DEL                     ",6,1,33
+445,"CADIS, DE                     ",6,0,90
+450,"CALAF, DE                     ",6,1,85
+455,"CALDERÓN DE LA BARCA, DE      ",4,1,193
+460,"CALIFÒRNIA, DE                ",6,1,28
+461,"CAMAMILLA, DE LA              ",5,2,15
+462,"CAMPIONES OLÍMPIQUES, DE LES  ",5,7,54
+465,"CAMBRILS, DE                  ",6,1,13
+466,"CAMERUN, DEL                  ",3,1,28
+467,VELL DE TERRASSA A VACARISSES ,5,0,39
+469,"CAMÍ DE LA SENYORA, DEL       ",6,10,29
+470,"CAMPRODON, DE                 ",6,0,65
+471,"CAMÍ FONT DE LES CANYES, DEL  ",6,1,64
+472,CAN BARBA                     ,3,1,4
+474,CAN FIGUERES                  ,2,1,1
+475,"AMAT, DE CA N                 ",,19,19
+476,"ROMANÍ, DEL                   ",3,1,64
+477,CAN GUITARD DE LA RIERA       ,3,0,33
+478,CAN SUAS                      ,3,1,1
+480,"CAN BOADA DEL PI, DE          ",5,0,26
+481,CAN PI                        ,5,16,24
+485,"CAN BOADA DEL PI, DE          ",5,0,13
+486,"CAN GORGS, DE                 ",6,1,11
+490,"CAN COLOMER, DE               ",5,2,36
+491,"CAN CORBERA, DE               ",3,0,31
+492,"CAN GONTERES, DE              ",,10,10
+493,"CAN CARBONEL, DE              ",,3,3
+495,"CAN FALGUERA, DE              ",3,2,16
+496,"CAN PETIT, DE                 ",6,0,4
+497,"CAN GONTERES, DE              ",5,1,223
+498,"CAN PEPET, DE                 ",5,1,32
+499,"CANAL DEL BOSC, DE LA         ",6,124,126
+500,"CANIGÓ, DEL                   ",6,2,68
+501,"CANAL FONDA, DE LA            ",6,60,62
+502,"CANAL DEL FORN DEL CARGOL,DE L",6,127,129
+503,"CANAL DE LA GUINEU, DE LA     ",6,130,132
+504,"CANAL DEL LLOR, DE LA         ",6,64,67
+505,"CANONGE RODÓ, DEL             ",1,1,77
+507,"CANAL DEL PI TORT, DE LA      ",6,92,123
+508,"CANAL DEL SOT, DE LA          ",6,57,58
+511,"CAN ROCA, DE                  ",5,1,20
+540,"CARDAIRE, DEL                 ",1,1,44
+545,"CARDEDEU, DE                  ",5,1,31
+550,"CARDENAL CISNEROS, DEL        ",5,1,73
+551,"CARRASCO I FORMIGUERA, DE     ",4,1,124
+555,"CARDENER, DEL                 ",3,1,8
+560,"CARTOIXA DE VALLPARADÍS, DE LA",,1,6
+565,"CARTOIXA DE VALLPARADÍS, DE LA",1,1,21
+570,"CARTAGENA, DE                 ",2,1,22
+575,"CASP, DE                      ",5,1,30
+576,"CASTELLSAPERA, DEL            ",6,5,85
+580,"CASTELLAR, DE                 ",5,0,999
+585,"CAMÍ DE CASTELLAR, DEL        ",5,1,175
+586,"CASTELLASSA, DE LA            ",6,0,60
+590,"CASTELLBISBAL, DE             ",4,1,22
+605,"CASTELL, DEL                  ",1,9,31
+610,"CASTELLTERÇOL, DE             ",5,3,40
+619,"CATALUNYA, DE                 ",1,1,153
+620,"CATALUNYA, DE                 ",5,1,161
+621,"CAVALL BERNAT, DEL            ",6,12,46
+625,"CEMENTIRI VELL, DEL           ",1,2,66
+626,"CENTRE, DEL                   ",3,1,3
+630,CENTRAL DE LES FONTS          ,3,0,60
+635,"CERDANYA, DE LA               ",6,0,31
+640,"SARDENYA, DE                  ",,13,35
+645,"CERVANTES, DE                 ",1,0,243
+650,"CERVERA, DE                   ",6,0,159
+655,"TURONET, DEL                  ",3,1,50
+665,"CID CAMPEADOR, DEL            ",5,1,36
+670,"JUAN DE LA CIERVA, DE         ",4,0,22
+671,"CINCA, DEL                    ",3,0,44
+675,"CIRCUMVAL.LACIÓ, DE           ",3,1,20
+677,"CIRICI I PELLICER, DE         ",5,3,5
+680,"ANTONI BROS, D                ",5,1,155
+685,"CISTERNA, DE LA               ",1,1,111
+690,"CIUTADELLA, DE                ",6,0,66
+695,"CIUDAD REAL, DE               ",2,1,80
+700,"CLAUSTRE, DEL                 ",1,1,64
+705,"CLAVÉ, DE                     ",1,5,113
+710,"CLAVELL, DEL                  ",3,1,15
+711,"COLL DE BOIX, DEL             ",6,98,100
+715,"COL.LEGI, DEL                 ",1,1,108
+725,"COLOM, DE                     ",1,0,606
+730,"COLUMEL.LA, DE                ",4,5,30
+735,"COMERÇ, DEL                   ",4,1,19
+736,COMERCIAL                     ,2,1,42
+740,"COMPOSTEL.LA, DE              ",2,27,43
+745,"COMTE D ÈGARA, DEL            ",1,0,30
+750,"CONCEPCIÓN ARENAL, DE         ",3,1,183
+755,"CONCILI EGARENC, DEL          ",4,2,96
+760,"CONCÒRDIA, DE LA              ",2,0,3
+770,"ÈGARA, D                      ",5,1,306
+771,"CONFLENT, DEL                 ",6,2,18
+775,"CONSELL DE CENT, DEL          ",6,1,146
+780,"CONSTÀNCIA, DE LA             ",2,2,2
+785,"CÒRDOVA, DE                   ",6,1,51
+790,"CORUNYA, DE LA                ",2,1,47
+795,"COSTA RICA, DE                ",4,1,51
+796,"COVA DE L ÀNGEL, DE LA        ",6,55,56
+797,"COVA DEL DRAC, DE LA          ",6,0,21
+798,"COVA SIMANYA, DE LA           ",6,47,53
+800,CREMAT                        ,1,1,30
+801,"CREU DE CONILL, DE LA         ",4,0,288
+805,"CREU, DE LA                   ",5,1,20
+806,"CREU, DE LA                   ",,4,18
+807,"CAN VILETA, DE                ",5,7,9
+810,"CREU GRAN, DE LA              ",1,1,79
+812,"CUBA, DE                      ",4,1,90
+825,"CONCA, DE                     ",2,1,33
+835,"CHURRUCA, DE                  ",5,1,63
+840,"ALEMANYA, D                   ",3,0,146
+845,"AMÈRICA, D                    ",3,0,62
+850,"ANDORRA, D                    ",3,4,15
+855,"ANGLATERRA, D                 ",3,1,350
+860,"ANTONINUS PIUS, D             ",4,1,212
+865,"ÀSIA, D                       ",3,1,24
+870,"ÀUSTRIA, D                    ",3,3,11
+875,"AVINYÓ ,D                     ",3,0,115
+880,"EDISON, D                     ",4,2,142
+885,"ÈGARA, D                      ",4,0,394
+890,"PRIM, DE                      ",3,1,127
+900,"ESCÒCIA, D                    ",3,1,20
+905,"ESTANISLAU FIGUERAS ,D        ",1,0,130
+910,"EUROPA, D                     ",3,0,340
+915,"HOLANDA, D                    ",3,1,168
+920,"IRENEU, D                     ",4,1,53
+921,"ICÀRIA, D                     ",4,42,133
+925,"IRLANDA, D                    ",3,1,14
+930,"ISCLE SOLER, D                ",1,1,30
+935,"ITÀLIA, D                     ",3,0,48
+936,"IUGOSLÀVIA, DE                ",3,1,11
+940,"OCEANIA, D                    ",3,1,103
+945,"DÀLIA, DE LA                  ",3,1,32
+950,"DIBUIXANT AVELLANEDA, DEL     ",5,2,117
+955,"DINAMARCA, DE                 ",3,2,18
+970,"ALBINYANA, D                  ",3,0,143
+975,"DR. AYMERICH I GILABERTÓ, DEL ",2,2,136
+980,"DOCTOR CABANES, DEL           ",1,0,50
+985,"DOCTOR CADEVALL, DEL          ",1,1,2
+990,"DOCTOR CALSINA, DEL           ",6,5,423
+995,"DOCTOR CISTARÉ, DEL           ",5,1,168
+1000,"DOCTOR FERRAN, DEL            ",6,0,198
+1005,"DOCTOR FLEMING, DEL           ",5,1,6
+1010,"DOCTOR MARTÍ I JULIÀ, DEL     ",1,1,23
+1015,"DOCTOR PEARSON, DEL           ",1,1,163
+1020,"DOCTOR ROBERT, DEL            ",1,1,15
+1025,"DOCTOR TORRAS I BAGES, DEL    ",3,1,229
+1030,"DOCTOR TURRÓ, DEL             ",4,0,67
+1035,"DOCTOR ULLÉS, DEL             ",4,0,184
+1040,"DOCTOR VENTALLÓ, DEL          ",1,1,26
+1045,"DOCTOR ZAMENHOF, DEL          ",4,5,17
+1050,"DOM BOSCO, DE                 ",4,0,219
+1055,"SEVERO OCHOA, DE              ",4,1,160
+1060,"DOS DE MAIG, DEL              ",5,8,77
+1065,"DUERO, DEL                    ",3,0,62
+1075,"GANDIA, DE                    ",4,2,39
+1080,"DUQUESSA DE LA VICTÒRIA, DE LA",3,0,143
+1085,"EBRE, DE L                    ",3,0,81
+1095,"EDUARD MARQUINA, D            ",5,1,166
+1100,"ÈGARA, D                      ",6,246,390
+1101,"EGIPTE, D                     ",3,2,26
+1105,"ELX, D                        ",2,1,6
+1107,"ENRIC TORRELLA, D             ",3,1,2
+1110,"EMPERADRIU EUGÈNIA, DE L      ",5,1,122
+1115,"ERA, DE L                     ",1,1,63
+1120,"ERMITA, DE L                  ",5,1,1
+1124,LES CARBONELLES               ,,54,54
+1125,"ESCALETES, DE LES             ",1,2,19
+1130,"ESCUDÉ, D                     ",3,1,40
+1135,"ESCULTOR ARMENGOL, DE L       ",1,8,105
+1140,"ESCULTOR BLAY, DE L           ",5,1,31
+1145,"ESCULTOR CLARÀ, DE L          ",4,2,60
+1146,"ESLA, DE L                    ",3,0,106
+1150,"ESPERANTO, DE L               ",3,1,33
+1151,"ESQUIROLS, DELS               ",3,1,79
+1155,"EUGENI D ORS, D               ",5,0,5
+1160,"EUGENI FERRER DALMAU, D       ",3,1,36
+1161,"FALCONERA, DE LA              ",6,69,69
+1162,DIDÓ                          ,1,1,14
+1170,"FALSET, DE                    ",6,1,11
+1175,"FARADAY, DE                   ",4,0,175
+1180,"FARELL, DEL                   ",6,1,2
+1181,"FARIGOLA, DE LA               ",5,1,12
+1185,"FÀTIMA, DE                    ",5,1,169
+1186,"FEDERICO GARCÍA LORCA, DE     ",6,1,1
+1190,"FREDERIC SOLER, DE            ",4,7,147
+1195,"FELIP II, DE                  ",4,2,140
+1200,"FERRAN CASABLANCAS, DE        ",,1,5
+1201,"FERRER I GUÀRDIA, DE          ",4,1,29
+1206,"FERRAN CASABLANCAS, DE        ",5,1,15
+1210,"FERROCARRIL, DEL              ",5,1,30
+1211,"FIGUERA, DE LA                ",5,1,1
+1220,"FIGUERES, DE                  ",6,2,27
+1221,"FILIPINES, DE LES             ",3,1,42
+1222,"FINISTERRE, DE                ",3,0,26
+1225,"FLORESTA, DE LA               ",3,1,3
+1230,"FLUVIÀ, DEL                   ",6,2,60
+1235,"FLANDES, DE                   ",4,1,28
+1240,"CAMÍ FONDO, DEL               ",1,2,103
+1241,"FENOLLEDA, DE LA              ",6,0,27
+1243,"FONT DE LES CANYES, DE LA     ",,30,64
+1244,"FONT FLÀVIA, DE LA            ",6,50,59
+1245,"FONT TROBADA, DE LA           ",1,1,2
+1246,"FONT FREDA, DE LA             ",6,95,100
+1248,"FONT DE L OLLA, DE LA         ",6,79,79
+1249,"FONT DE LA POLA, DE LA        ",6,1,118
+1250,"FONT VELLA, DE LA             ",1,1,103
+1251,"MIL.LENARI, DEL               ",6,28,37
+1252,"FONT SOLEIA, DE LA            ",6,19,24
+1253,"FONT DE LA TARTANA, DE LA     ",6,1,6
+1254,"FONT LLICONA, DE LA           ",6,115,120
+1255,"FONTANELLA, DE                ",4,0,61
+1260,"FORJA, DE LA                  ",5,1,10
+1265,"FORMENTERA, DE                ",6,1,17
+1270,"FORN,DEL                      ",1,4,35
+1275,"FORNOT, DEL                   ",3,1,46
+1277,"FRANCISCO DE VITORIA, DE      ",,28,28
+1280,"FRAGA, DE                     ",6,1,19
+1285,"FRANÇA, DE                    ",3,1,51
+1286,"FRANCESC MACIÀ, DE            ",6,1,278
+1290,"FRANCISCO DE VITORIA, DE      ",5,1,86
+1295,"FRANCESC OLLER, DE            ",5,1,118
+1300,"FRANCESC SALVANS, DE          ",5,1,89
+1305,"FRANC COMTAT, DEL             ",4,0,317
+1310,"FRANCOLÍ, DEL                 ",6,4,61
+1320,"FRATERNITAT, DE LA            ",5,1,34
+1330,"FRA BONAVENTURA GRAN, DE      ",4,1,24
+1335,"FRONTÓ, DEL                   ",1,1,18
+1336,"GABON, DEL                    ",3,1,26
+1337,"GABRIEL QUEROL, DE            ",1,2,35
+1340,"GALÍCIA, DE                   ",3,0,129
+1345,"GALILEU, DE                   ",4,2,365
+1350,"PAÍS DE GAL.LES, DEL          ",3,0,14
+1355,"GALVANI, DE                   ",4,2,169
+1360,"GALLIFA, DE                   ",6,2,18
+1365,"GANDESA, DE                   ",6,1,1
+1366,"GARBÍ, DEL                    ",6,1,1
+1370,"GARCIA HUMET, DE              ",1,0,98
+1375,"JOSEP-VICENÇ FOIX, DE         ",5,1,45
+1380,"GARONA, DE LA                 ",6,1,17
+1395,"GASÒMETRE, DEL                ",3,0,150
+1400,"GAUDÍ, DE                     ",1,1,15
+1405,"TETE MONTOLIU, DE             ",1,1,26
+1410,"GAVATXONS, DELS               ",1,2,24
+1411,"GÈMINIS, DE                   ",3,1,97
+1412,"GAIÀ, DEL                     ",5,0,16
+1415,"ALEXANDRE GALÍ, D             ",5,0,138
+1420,"GENERAL MILANS DEL BOSCH, DEL ",5,2,20
+1425,"GENERAL MORAGUES, DEL         ",5,1,40
+1430,"PARÍS, DE                     ",3,0,83
+1446,"GENIL, DEL                    ",3,0,8
+1450,"GERANI, DEL                   ",3,2,16
+1455,"GIRONA, DE                    ",6,1,444
+1460,"GIBERT, DE                    ",3,1,28
+1465,"PONENT, DE                    ",4,0,366
+1470,"GIJÓN, DE                     ",2,1,39
+1475,"GINESTA, DE LA                ",3,1,32
+1480,"GIRALT I SERRÀ, DE            ",1,1,32
+1485,"GIRA-SOL, DEL                 ",3,1,32
+1490,"GIRONÈS, DEL                  ",,114,114
+1495,"GLÒRIES CATALANES, DE LES     ",3,0,234
+1500,"GOLETA, DE LA                 ",1,1,29
+1505,"GRÀCIA A MANRESA, DE          ",3,0,470
+1510,"GRANADA, DE                   ",6,2,120
+1520,"GRÀNIUS, DE                   ",4,1,35
+1525,"GRANOLLERS, DE                ",5,0,4
+1530,"GRÈCIA, DE                    ",3,1,121
+1531,"GREGAL, DEL                   ",6,0,14
+1535,"GUADALAJARA, DE               ",2,0,148
+1545,"GUADALHORCE, DEL              ",3,0,61
+1550,"GUADALQUIVIR, DEL             ",3,0,39
+1555,"GUADARRAMA, DEL               ",6,7,32
+1560,"GUADIANA, DEL                 ",3,0,30
+1575,"GUILLEM DE MUNTANYANS, DE     ",3,0,208
+1580,"GUINEA, DE LA                 ",3,1,40
+1585,"GUIPÚSCOA, DE                 ",2,1,85
+1590,"GUTENBERG, DE                 ",4,0,35
+1591,"HÈRCULES, D                   ",3,2,49
+1595,"GERMÀ JOAQUIM, DEL            ",3,0,230
+1600,"GERMANS PINZÓN, DELS          ",5,1,37
+1605,"HERNÁN CORTÉS, D              ",5,1,41
+1610,"HISPANITAT, DE LA             ",5,2,101
+1615,"HISTORIADOR CARDÚS, DE L      ",6,1,251
+1620,"HOQUEI, DE L                  ",6,69,197
+1630,"HORTÈNSIA, DE L               ",3,1,33
+1635,"HOSPITALET DE LLOBREGAT, DE L ",5,0,17
+1640,"HUELVA, DE                    ",6,0,50
+1645,"OSCA,D                        ",4,1,36
+1650,"IBÁÑEZ DE ALDECOA, D          ",6,0,82
+1655,"EIVISSA, D                    ",6,3,60
+1665,"IGNASI IGLÉSIAS, D            ",5,1,43
+1670,"IGUALADA, D                   ",3,0,39
+1675,"IGUALTAT, DE LA               ",1,2,65
+1680,"INDEPENDÈNCIA, DE LA          ",5,0,401
+1685,"INDÚSTRIA, DE LA              ",1,5,15
+1690,"IMMACULADA, DE LA             ",6,1,15
+1695,"ISAAC PERAL, D                ",4,1,92
+1725,"JACINT ELIAS, DE              ",2,2,190
+1730,"JACQUARD, DE                  ",1,1,107
+1735,"JAÉN, DE                      ",6,2,103
+1740,"JAUME I, DE                   ",5,0,354
+1745,"JALÓN, DEL                    ",6,1,6
+1750,"JAUME CANTARER, DE            ",1,0,14
+1754,"JOAN MIRÓ, DE                 ",1,1,25
+1755,"JEREZ, DE                     ",6,1,146
+1756,"JILOCA, DEL                   ",3,2,12
+1757,"JOAN MIRÓ, DE                 ",1,0,0
+1760,"JOAQUIN COSTA, DE             ",1,0,183
+1765,"JOAQUIM DE PAZ, DE            ",1,1,93
+1770,"JOAQUIM DE SAGRERA, DE        ",4,1,149
+1775,"JOSEP FREIXA I ARGEMÍ, DE     ",4,0,12
+1780,"JOSEP MARIA PALAU, DE         ",6,2,35
+1785,"JOSEP O. MAURI POAL, DE       ",5,1,23
+1790,"JOSEP O. MAURI POAL, DE       ",5,1,7
+1791,"JOSEP PLA, DE                 ",5,2,16
+1795,"JOSEP TAPIOLAS, DE            ",6,1,245
+1796,"JOSEP TARRADELLAS, DE         ",5,0,133
+1800,"JOAN ABELLÓ I BUFÍ, DE        ",1,1,19
+1805,"JOAN D ÀUSTRIA, DE            ",5,1,83
+1810,"JOAN DUCH, DE                 ",1,2,91
+1815,"JOAN MONPEÓ, DE               ",3,1,200
+1816,"JOAN SANTAMARIA, DE           ",3,0,1
+1825,"JOAN XXIII,  DE               ",6,1,74
+1830,"XÚQUER, DEL                   ",3,0,35
+1836,"JÚPITER, DE                   ",3,0,66
+1837,"KENYA, DE                     ",3,1,21
+1838,"ALZINA,DE L                   ",5,1,6
+1840,"AUTONOMIA, DE L               ",5,1,161
+1841,"AVET, DE L                    ",5,1,12
+1842,AUTOPISTA C-58                ,3,0,23
+1843,AUTOPISTA C-16                ,4,1,24
+1845,"ESGLÉSIA, DE L                ",1,0,40
+1846,"ESPÍGOL, DE L                 ",5,2,18
+1850,"ESTACIÓ DEL NORD, DE L        ",1,0,11
+1851,"EUCALIPTUS, DE L              ",5,1,8
+1855,"INFANT MARTÍ, DE L            ",4,0,187
+1860,"ONZE DE SETEMBRE, DE L        ",1,1,10
+1865,"LACETÀNIA, DE                 ",5,1,334
+1875,"LAVOISIER, DE                 ",4,1,101
+1880,"LLEÓ, DE                      ",4,1,11
+1885,"LLEÓ XIII, DE                 ",1,3,72
+1890,"LEPANT, DE                    ",3,0,291
+1895,"LLEIDA, DE                    ",5,1,85
+1900,"LETUR, DE                     ",5,1,25
+1901,"LÍBIA, DE                     ",3,1,28
+1902,"LIBRA, DE                     ",3,0,135
+1905,"LINARES, DE                   ",5,2,58
+1910,"LINEA, DE LA                  ",5,2,12
+1915,"LINNÉ, DE                     ",4,1,82
+1920,"LLIRI, DEL                    ",3,1,30
+1921,"LLUÍS COMPANYS, DE            ",5,1,1
+1922,"LLUÍS MUNCUNILL, DE           ",5,1,78
+1925,"LOGRONYO, DE                  ",2,1,28
+1935,"LUGO, DE                      ",2,4,18
+1940,"LLUNA, DE LA                  ",5,1,13
+1945,"LUXEMBURG, DE                 ",3,1,34
+1946,"LLEVANT, DEL                  ",6,1,13
+1950,"LLIBERTAT, DE LA              ",5,2,98
+1960,"MADRID, DE                    ",2,1,268
+1965,"MAESTRAT, DEL                 ",5,0,278
+1970,"MESTRE SERRAT, DEL            ",5,3,15
+1974,"MANYANS, DELS                 ",4,1,40
+1975,"MESTRE TRIAS, DEL             ",3,0,189
+1976,"MITJAIRES, DELS               ",4,1,40
+1985,"MAGALLANES, DE                ",5,0,42
+1990,"MAGNÒLIES, DE LES             ",5,0,22
+1995,"MAÓ, DE                       ",6,1,58
+2000,MAJOR                         ,1,1,50
+2005,MAJOR DE SANT PERE            ,1,2,94
+2010,"MÀLAGA, DE                    ",6,2,37
+2015,"MALTA, DE                     ",3,2,11
+2020,"MALLORCA, DE                  ",4,1,269
+2025,"MANRESA, DE                   ",6,0,375
+2030,"MANUEL DE FALLA, DE           ",5,1,451
+2031,"MANXA, DE LA                  ",5,2,10
+2035,"MAÑÉ I FLAQUER,  DE           ",1,0,24
+2040,"MARAGALL, DE                  ",1,1,30
+2045,"MARE DE DÉU DELS ÀNGELS, DE LA",1,2,195
+2055,"MARCONI, DE                   ",4,0,333
+2060,"MARESME, DEL                  ",3,1,68
+2061,"MARGARIDA, DE LA              ",5,1,9
+2065,"MARIA AUXILIADORA, DE         ",4,0,277
+2070,"MARIÀ BENLLIURE, DE           ",5,1,104
+2075,"MARIÀ SOLÀ, DE                ",3,1,29
+2080,"MARINEL.LO BOSCH, DE          ",1,1,119
+2085,"MARQUÈS DE COMILLAS, DEL      ",5,0,183
+2086,"MARROC, DEL                   ",3,17,26
+2090,"MART, DE                      ",4,1,40
+2095,"MARTÍ DÍEZ, DE                ",4,1,126
+2105,"MARTORELL, DE                 ",4,0,430
+2110,"MAS ADEI, DEL                 ",1,1,116
+2115,"MASIA, DE LA                  ",5,0,26
+2120,"MASNOU, DEL                   ",6,1,39
+2125,"MATADEPERA, DE                ",5,0,999
+2126,"MATADEPERA, DE                ",6,35,106
+2130,"MATAGALLS, DEL                ",6,0,6
+2134,"MATIES ROCA, DE               ",4,5,57
+2136,"MAURINA, DE LA                ",4,0,13
+2140,"JOSEP LLIMONA, DE             ",5,1,99
+2155,"MENÉNDEZ Y PELAYO, DE         ",1,0,249
+2160,"MENORCA, DE                   ",6,1,57
+2161,"MERCURI, DE                   ",3,0,21
+2162,"MESTRAL, DEL                  ",6,1,72
+2163,"MIGJORN, DEL                  ",6,1,48
+2164,"MIGUEL HERNÁNDEZ, DE          ",2,1,1
+2165,"MIQUEL ÀNGEL, DE              ",5,0,100
+2166,"MENTA, DE LA                  ",5,1,8
+2170,"MIQUEL PALOMARES, DE          ",6,2,56
+2175,"MIQUEL SERVET, DE             ",1,0,70
+2180,"MILLARS, DEL                  ",6,1,32
+2181,"MIMOSA, DE LA                 ",5,6,12
+2195,"MINA, DE LA                   ",1,1,60
+2200,"MIÑO, DEL                     ",3,0,124
+2205,"MIQUEL VIVES, DE              ",1,0,130
+2210,"MIRA-SOL, DE                  ",4,1,24
+2215,"FREDERIC MISTRAL, DE          ",6,1,125
+2220,"MOISÈS, DE                    ",4,2,23
+2221,"MOLA, DE LA                   ",6,2,79
+2230,"MÒNACO, DE                    ",3,0,14
+2235,"MONISTROL, DE                 ",5,1,135
+2239,"CAMÍ DELS MONJOS, DEL         ",6,1,97
+2240,"CAMÍ DELS MONJOS, DEL         ",2,1,120
+2241,"MONTBLANC, DE                 ",3,1,10
+2245,"MUNTANYA, DE LA               ",3,2,43
+2250,"MONTCADA, DE                  ",3,0,894
+2251,"MONTCAU, DEL                  ",6,5,78
+2255,"MONT PERDUT, DEL              ",6,1,149
+2260,"MONTNEGRE, DEL                ",6,1,23
+2270,"MONTSENY, DEL                 ",4,0,28
+2275,"MONTSERRAT, DE                ",1,1,203
+2280,"MONTSERRAT, DE                ",1,0,300
+2282,"MONTSERRAT ALAVEDRA, DE       ",5,1,51
+2285,"MONTURIOL, DE                 ",5,1,152
+2290,"MONTURIOL, DE                 ",5,2,18
+2291,"MONTURIOL, DE                 ",5,2,19
+2295,"MORELLA, DE                   ",3,1,115
+2305,"MOSSÈN A. RODAMILANS, DE      ",2,1,1963
+2306,"MORRAL DEL LLOP, DEL          ",6,31,114
+2310,"MOSSÈN J. VERDAGUER, DE       ",1,1,25
+2315,"MOSSÈN JOSEP MONCAU, DE       ",4,2,94
+2320,"MOSSÈN PERRAMON, DE           ",3,1,264
+2325,"MOSSÈN PURSALS, DE            ",5,1,80
+2330,"MOSSÈN TATCHER, DE            ",6,1,185
+2335,"MOZART, DE                    ",4,4,108
+2340,"MURA, DE                      ",6,0,162
+2345,"MÚRCIA, DE                    ",2,1,54
+2350,"MURILLO, DE                   ",4,0,163
+2355,"MOSTEROL, DE                  ",1,1,14
+2360,"TREBALL, DEL                  ",2,1,243
+2361,"NALÓN, DEL                    ",3,2,18
+2362,"NARCÍS OLLER, DE              ",3,2,27
+2363,"NARCÍS, DEL                   ",3,2,15
+2370,"NAVAS DE TOLOSA, DE LAS       ",3,0,210
+2375,"NAVIA, DEL                    ",6,1,13
+2376,"NEPTÚ, DE                     ",3,0,89
+2380,"NERBION, DEL                  ",6,1,74
+2381,"NEWTON, DE                    ",4,2,12
+2385,"NICOLAU TALLÓ, DE             ",4,1,202
+2386,"NIGÈRIA, DE                   ",3,1,22
+2390,"NÍJAR, DE                     ",5,1,9
+2391,"NOGUERA, DE LA                ",5,10,30
+2395,"NORD, DEL                     ",1,0,128
+2400,"NORUEGA, DE                   ",3,1,8
+2405,NOU DE SANT PERE              ,1,0,65
+2410,"MARE DE DÉU DE LA BALMA, DE LA",6,1,36
+2415,"ROVIRA I BRUSI, DE            ",5,1,9
+2420,"M. D.  DE LA FUENCISLA, DE LA ",2,1,168
+2425,"MARE DE DÉU DE LORDA, DE LA   ",2,0,29
+2430,"MONTSERRAT, DE                ",2,0,42
+2435,"MARE DE DÉU DEL ROSER, DE LA  ",3,2,6
+2440,"NÚRIA, DE                     ",4,0,298
+2445,"BISBE CASTELLTORT, DEL        ",6,1,31
+2450,"BISBE SANAHUJA, DEL           ",3,1,55
+2455,"OBRER, DE L                   ",4,1,89
+2460,"OLESA, D                      ",4,0,370
+2465,"OLIVERA, DE L                 ",4,2,10
+2470,"OLOT, D                       ",6,1,78
+2475,"AZCÁRATE, D                   ",3,0,45
+2476,"OCCITÀNIA, D                  ",6,0,0
+2480,"ORÀ, D                        ",4,1,52
+2485,"ORDAL, DE L                   ",6,1,158
+2490,"OURENSE, D                    ",2,0,57
+2491,"ORIÓ, D                       ",3,0,22
+2495,"PAU MARSAL, DE                ",1,2,190
+2496,"PABLO PICASSO, DE             ",3,1,3
+2500,"PARE MILLÁN, DEL              ",5,98,205
+2501,"PAÏSOS CATALANS, DELS         ",2,1,1
+2505,"PALAUTORDERA, DE              ",5,1,11
+2510,"PALÈNCIA, DE                  ",2,3,31
+2515,"LAS PALMAS, DE                ",2,1,22
+2520,"PALLA, DE LA                  ",1,1,30
+2525,"CIUTAT DE PÀMIERS, DE LA      ",6,1,32
+2530,"PAMPLONA, DE                  ",2,0,60
+2531,"PALET I BARBA, DE             ",4,1,204
+2535,"PANADELLA, DE LA              ",6,1,100
+2550,"PANTÀ, DEL                    ",1,1,151
+2560,"PARDO BAZÁN, DE               ",5,0,172
+2561,"PARAIRES, DELS                ",4,1,40
+2565,"PARE ALEGRE, DEL              ",4,1,112
+2570,"PARE FONT, DEL                ",3,3,212
+2575,"PARE LLAURADOR, DEL           ",4,0,275
+2580,"ALCALDE PARELLADA, DE L       ",1,2,14
+2590,"PARRES, DE LES                ",1,2,32
+2595,"PASTEUR, DE                   ",4,1,264
+2600,"PASSEIG, DEL                  ",1,1,64
+2605,"PAU CASALS, DE                ",6,0,14
+2606,"PAU CASALS, DE                ",3,1,4
+2610,"PAU CLARIS, DE                ",1,1,66
+2615,"PEDRELL, DE                   ",5,0,38
+2620,"PERE FIZES, DE                ",5,0,79
+2625,GRAN                          ,3,1,7
+2630,"PENYAL, DEL                   ",5,2,6
+2635,"PEP VENTURA, DE               ",4,1,12
+2640,"PERE COMERMA, DE              ",3,2,45
+2645,"PÉREZ GALDÓS, DE              ",3,1,93
+2650,"PERIODISTA GRANÉ, DEL         ",5,0,248
+2651,"PERPINYÀ, DE                  ",6,14,35
+2652,"PI, DEL                       ",5,2,19
+2653,"PI,DEL                        ",5,1,5
+2660,"PI I MARGALL, DE              ",4,0,273
+2661,CAN PI                        ,,14,14
+2665,"PINEDA, DE LA                 ",6,1,72
+2670,"PINTOR BORRASSÀ, DEL          ",6,0,177
+2675,"PINTOR CASAS, DEL             ",6,0,70
+2680,"PINTOR FORTUNY, DEL           ",4,0,159
+2685,"PINTOR HUGUET, DEL            ",5,0,62
+2690,"PINTOR MIR, DEL               ",6,0,114
+2695,"PINTOR SOROLLA, DEL           ",4,1,59
+2700,"PINTOR TORRAS, DEL            ",4,1,237
+2705,"PINTOR VANCELLS, DEL          ",5,91,211
+2710,"PINTOR VIVER, DEL             ",5,0,57
+2715,"CA N ANGLADA, DE              ",2,1,31
+2720,"PIRINEUS, DELS                ",6,1,130
+2721,"PISUERGA, DEL                 ",3,0,55
+2722,"PAULINA PI DE LA SERRA, DE    ",3,2,26
+2725,"PITÀGORES, DE                 ",4,25,92
+2730,"PIUS XI, DE                   ",1,0,30
+2735,"PLA DE L AMETLLERA, DEL       ",5,0,189
+2740,"CREU GRAN, DE LA              ",1,1,1
+2745,"POETESSA CAPARÀ, DE LA        ",6,0,72
+2750,"POMPEU FABRA, DE              ",6,1,244
+2755,"PONENT, DE                    ",5,1,79
+2760,"PONTS, DE                     ",6,1,33
+2765,"PONTEVEDRA, DE                ",2,5,70
+2770,"PORTAL NOU, DEL               ",1,2,67
+2775,"PORTUGAL, DE                  ",3,1,200
+2776,"PORTUGAL, DE                  ",6,1,210
+2780,"PRAT DE LA RIBA, DE           ",1,0,260
+2785,"PREVISIÓ, DE LA               ",2,1,1
+2790,"PRIEGO, DE                    ",6,1,7
+2791,"PRIMER DE MAIG, DEL           ",6,0,0
+2795,"NÚRIA RIBAS, DE               ",4,1,22
+2805,"PRÍNCEP DE VIANA, DEL         ",5,0,32
+2810,"PRIOR TÀPIA, DEL              ",1,1,44
+2820,"PROGRÉS, DEL                  ",4,1,43
+2825,"PROVENÇA, DE                  ",6,0,349
+2830,"PRUDÈNCIA, DE LA              ",2,2,26
+2840,"PUIG NOVELL, DEL              ",1,0,63
+2845,"PUIGMAL, DEL                  ",6,1,59
+2855,"RACÓ, DEL                     ",1,2,27
+2860,"RAGOL, DE                     ",5,6,6
+2861,"RAMON BADIELLA, DE            ",,3,3
+2865,"FERRAN CANYAMERES, DE         ",6,1,53
+2870,"COMTE BORRELL, DEL            ",4,1,75
+2871,"RAFAEL CAMPALANS, DE          ",4,1,61
+2872,"RAFAEL BENET, DE              ",5,1,22
+2875,"RAMÓN Y CAJAL, DE             ",1,0,253
+2880,"RAMON LLULL, DE               ",4,1,171
+2885,"RASA, DE LA                   ",1,1,125
+2890,"RASA, DE LA                   ",1,1,7
+2895,"RECTOR HOMS, DEL              ",1,1,3
+2900,"RECTORIA, DE LA               ",1,1,34
+2915,"RELLINARS, DE                 ",5,0,599
+2920,"RENAIXEMENT, DEL              ",6,0,101
+2925,"REUS, DE                      ",6,0,107
+2935,"REIS CATÒLICS, DELS           ",6,1,53
+2940,"RIBA, DE LA                   ",1,1,90
+2945,"RICARDO CARO, DE              ",1,1,106
+2950,"WAGNER, DE                    ",1,0,139
+2965,"RIOJA, DE LA                  ",2,2,99
+2970,"RIPOLL, DE                    ",3,0,39
+2985,"ROCA I ROCA, DE               ",5,0,232
+2986,"ROCAFORT, DE                  ",6,1,39
+2987,"ROC BLANC, DEL                ",4,15,48
+2990,"ROGER DE LLÚRIA, DE           ",3,1,231
+2995,"ROIG VENTURA, DE              ",6,67,508
+3000,"ROMA, DE                      ",3,1,50
+3005,"JOSEP TRUETA, DE              ",4,1,134
+3006,"ROSELLA, DE LA                ",5,1,14
+3010,"ROSSELLÓ, DEL                 ",4,0,43
+3011,"ROSER, DEL                    ",5,1,15
+3012,"ROURE, DEL                    ",5,4,18
+3013,"ROSSINYOL, DEL                ",3,49,79
+3014,"ROSA MORA, DE                 ",5,1,1
+3015,CARRETERA DE RUBÍ             ,3,0,222
+3020,"RUBÍ, DE                      ",3,0,461
+3021,"RUDA, DE LA                   ",5,2,2
+3025,"EMILI BADIELLA, D             ",5,0,315
+3030,"ROMANIA, DE                   ",3,1,19
+3035,"RUTE, DE                      ",5,1,34
+3040,"RUTLLA, DE LA                 ",1,1,77
+3045,"SABADELL, DE                  ",5,1,40
+3046,"SABADELL A MATADEPERA, DE     ",5,6,7
+3050,"SAGRAMENT, DEL                ",5,1,29
+3055,"SAGUNT, DE                    ",5,1,46
+3060,"SALAMANCA, DE                 ",2,1,37
+3065,"SAL.LARI, DE                  ",5,2,583
+3070,"SALMERÓN, DE                  ",1,0,293
+3075,"SALOU, DE                     ",6,1,90
+3080,"SALUT, DE LA                  ",5,1,62
+3085,"DOCTOR SALVÀ, DEL             ",4,0,181
+3095,"SALVADOR BUSQUETS, DE         ",1,0,51
+3096,"SALVADOR ESPRIU, DE           ",1,1,5
+3097,"SALVADOR SEGUÍ, DE            ",4,1,24
+3100,"FONT DE LA NOGUERA, DE LA     ",4,1,16
+3101,"SALZE, DEL                    ",5,7,9
+3102,"SÀLVIA, DE LA                 ",3,1,14
+3105,"SANT AGUSTÍ, DE               ",3,1,68
+3110,"SANT ANDREU, DE               ",3,1,35
+3115,"SANT BERNAT, DE               ",3,1,32
+3120,"SANT CARLES, DE               ",3,1,250
+3125,"SANT COSME, DE                ",2,1,557
+3130,"SANT CELONI, DE               ",6,1,35
+3135,"SANT CRISPÍ, DE               ",2,0,291
+3140,"SANT CUGAT, DE                ",6,1,38
+3145,"SANT DAMIÀ, DE                ",2,0,284
+3150,"SANT ELOI, DE                 ",5,0,5
+3155,"SANT FELIU DE LLOBREGAT, DE   ",5,18,64
+3160,"SANT FERRAN, DE               ",5,1,88
+3165,"SANT FERRAN, DE               ",5,0,4
+3170,"SANT HONORAT, DE              ",2,2,111
+3175,"SANT JORDI, DE                ",1,0,78
+3180,"SANT JOAN, DE                 ",,5,99
+3185,"SANT LLORENÇ DEL MUNT, DE     ",6,0,125
+3190,"SANT LLUÍS, DE                ",4,0,89
+3195,"SANT MARC, DE                 ",4,0,141
+3200,"SANT MATEU, DE                ",4,0,131
+3205,"SANT MIQUEL, DE               ",4,0,24
+3210,"SANT OLEGUER, DE              ",4,0,20
+3211,"SANT OLEGUER, DE              ",,1,4
+3215,"SANT PERE, DE                 ",1,1,61
+3220,"SANT RAIMON DE PENYAFORT, DE  ",4,1,49
+3225,"SANT RAMON, DE                ",6,1,23
+3230,"SANT ANTONI, DE               ",1,0,96
+3235,"SANT ANTONI M. CLARET, DE     ",1,1,107
+3240,"SANT CRISTÒFOL, DE            ",1,1,87
+3245,"SANT DOMÈNEC, DE              ",1,1,32
+3250,"SANT FRANCESC, DE             ",1,0,96
+3255,"SANT GAIETÀ, DE               ",1,1,145
+3260,"SANT GENÍS, DE                ",1,2,156
+3265,"SANT IGNASI, DE               ",1,1,36
+3270,"SANT ILDEFONS, DE             ",1,1,37
+3275,"SANT ISIDRE, DE               ",1,1,106
+3280,"SANT JAUME, DE                ",1,1,65
+3285,"SANT JOAN, DE                 ",1,0,99
+3286,"SANT JOAN, DE                 ",1,1,6
+3290,"SANT JOSEP, DE                ",1,1,83
+3295,"SANT LEOPOLD, DE              ",1,12,139
+3300,"SANT LLORENÇ, DE              ",1,0,179
+3301,"FIÑANA, DE                    ",4,2,129
+3305,"SANT MARIAN, DE               ",1,0,235
+3310,"SAN MARINO, DE                ",3,2,22
+3315,"SANT NEBRIDI, DE              ",1,1,63
+3316,"SANT PAU, DE                  ",1,0,39
+3319,"SANT QUIRZE (LF), DE          ",3,4,6
+3320,"SANT QUIRZE, DE               ",1,1,102
+3321,"SANT RAFAEL, DE               ",3,0,12
+3325,"SANT ROC, DE                  ",1,1,66
+3330,"SANT SEBASTIÀ, DE             ",3,0,285
+3335,"SANT VALENTÍ, DE              ",1,1,180
+3340,"SANTA CECÍLIA, DE             ",2,0,206
+3345,"SANTA EULÀLIA, DE             ",3,0,451
+3350,"SANTA AGNÈS, DE               ",3,1,6
+3355,"SANTA LLÚCIA, DE              ",2,0,249
+3360,"SANTA MAGDALENA, DE           ",6,1,80
+3365,"SANTA MAGDALENA, DE           ",6,2,62
+3370,"SANTA MARGARIDA, DE           ",3,0,83
+3375,"SANTA MARGARIDA, DE           ",3,0,35
+3380,"SANTA M. DE MAZZAREL.LO, DE   ",4,1,114
+3385,"SANTA MARTA, DE               ",2,2,87
+3390,"SANTA TERESA, DE              ",3,0,16
+3395,"SANTANDER, DE                 ",2,1,28
+3400,"SANTIAGO RUSIÑOL, DE          ",1,0,41
+3405,"SANT TOMÀS, DE                ",2,0,102
+3406,"POLIOL, DEL                   ",5,1,5
+3407,"SARAGOSSA, DE                 ",1,1,12
+3410,"SARAGOSSA, DE                 ",,1,7
+3416,"SARDENYA, DE                  ",4,2,39
+3417,"SATURN, DE                    ",3,1,92
+3425,"SEGÒVIA, DE                   ",2,2,25
+3440,"SELVA, DE LA                  ",3,1,45
+3441,"SENEGAL, DEL                  ",3,2,26
+3445,"SENTMENAT, DE                 ",5,1,20
+3450,"SEU D URGELL, DE LA           ",6,0,43
+3455,"SERRANO, DE                   ",1,0,50
+3460,"SEVILLA, DE                   ",6,1,370
+3465,"SICÍLIA, DE                   ",4,1,149
+3470,"SIERRA NEVADA, DE             ",6,0,204
+3475,"SEGLE XX, DEL                 ",3,1,16
+3480,"SIL, DEL                      ",6,1,31
+3485,"SIMEÓ GARCÍA, DE              ",3,1,21
+3490,"SINDICAT, DEL                 ",3,1,125
+3495,"SITGES, DE                    ",3,0,20
+3500,"SOCIETAT, DE LA               ",1,0,28
+3505,"SÒCRATES, DE                  ",4,1,26
+3510,"SOL, DEL                      ",4,5,10
+3515,"SOLER I DIFFENT, DE           ",4,1,60
+3520,"SOLER I PALET, DE             ",1,1,25
+3525,"SOLSONA, DE                   ",6,0,204
+3530,"SOMETENT CASTELLA, DEL        ",5,0,203
+3535,"SÒRIA, DE                     ",4,2,19
+3541,"SUDAN, DEL                    ",3,1,16
+3545,"SUÈCIA, DE                    ",3,1,54
+3550,"SUÏSSA, DE                    ",3,1,48
+3555,"SURIS, DE                     ",1,1,39
+3570,"TALAMANCA, DE                 ",5,1,28
+3575,"PABLO IGLESIAS,DE             ",4,1,192
+3576,"TANZÀNIA, DE                  ",3,4,42
+3580,"TARRAGONA, DE                 ",6,0,234
+3585,"TÀRREGA, DE                   ",6,2,139
+3590,"TEATRE, DEL                   ",1,1,8
+3591,"TEIDE, DEL                    ",5,1,7
+3600,"FREDERIC MOMPOU, DE           ",6,1,41
+3601,"TECNOLOGIA, DE LA             ",3,1,20
+3605,"TER, DEL                      ",3,1,46
+3610,"TERQUE, DE                    ",5,0,146
+3615,"TEROL, DE                     ",1,1,16
+3616,"TÈXTIL, DEL                   ",3,20,60
+3620,"TIBIDABO, DEL                 ",6,1,69
+3621,"TIL.LA, DE LA                 ",5,1,10
+3625,"TOBELLA PI DE LA SERRA, DE    ",1,1,17
+3630,"TOPETE, DE                    ",1,1,175
+3635,"TORDERA, DE LA                ",6,0,52
+3636,"TORMES, DEL                   ",3,1,9
+3640,"TORRE, DE LA                  ",1,1,25
+3641,"TORRE DEL CASTELL-PALAU, DE LA",1,3,8
+3645,"ANTONI TORRELLA, D            ",4,0,271
+3646,"CAN TORRELLA, DE              ",3,0,2
+3650,"TORRENT, DEL                  ",5,1,166
+3655,"TORRENT DE VALLPARADÍS, DEL   ",3,1,57
+3660,"FONTS, DE LES                 ",3,1,14
+3665,"TORRENT D EN PERE PARRES, DEL ",1,0,130
+3670,"TORTOSA, DE                   ",6,3,121
+3675,"TOSSA, DE                     ",6,14,14
+3676,"TRAMUNTANA, DE LA             ",6,1,51
+3680,TRANSVERSAL                   ,5,0,318
+3681,"TET, DE LA                    ",6,3,31
+3685,"JOSEP RIGOL I FORNAGUERA, DE  ",1,1,19
+3690,"TRÈVOL, DEL                   ",3,1,31
+3695,"CATORZE D ABRIL, DEL          ",4,1,42
+3700,"TREMP, DE                     ",3,7,11
+3701,"TRES PINS, DELS               ",3,0,3
+3705,"TRIOMF, DEL                   ",5,1,42
+3710,"TULIPA, DE LA                 ",3,1,19
+3711,"TUNÍSIA, DE                   ",3,1,65
+3715,"TÚRIA, DEL                    ",3,0,3
+3720,"UBACH I SOLER, D              ",5,0,19
+3725,"ÚBEDA, D                      ",5,1,43
+3730,"ULLASTRELL, D                 ",6,0,53
+3740,"UNIÓ, DE LA                   ",1,1,122
+3745,URBANO F                      ,1,1,53
+3750,"URQUINAONA, D                 ",1,8,109
+3755,"VACARISSES, DE                ",5,2,13
+3760,"VALÈNCIA, DE                  ",4,1,7
+3761,"VALENTÍ ALMIRALL, DE          ",4,1,24
+3765,"VALIRA, DE LA                 ",6,1,8
+3770,"VALL, DEL                     ",1,1,75
+3780,"VALLDOREIX, DE                ",3,1,16
+3785,"VALLÈS, DEL                   ",3,0,925
+3786,"VALLESPIR, DEL                ",6,4,26
+3795,"VALLHONRAT, DE                ",1,1,47
+3800,"VALLPARADÍS, DE               ",1,0,161
+3810,"VALLS, DE                     ",3,0,127
+3825,"VÁZQUEZ DE MELLA, DE          ",4,1,38
+3830,"VELÁZQUEZ, DE                 ",4,0,127
+3835,"VÉLEZ RUBIO, DE               ",5,1,34
+3840,VELLA                         ,1,0,20
+3845,"VENDRELL, DEL                 ",6,2,128
+3850,"VENÈCIA, DE                   ",1,0,3
+3856,"VENUS, DE                     ",3,1,104
+3860,"VINT-I-DOS DE JULIOL, DEL     ",5,0,911
+3865,"VINT-I-CINC DE SETEMBRE, DEL  ",6,0,50
+3875,"VIC, DE                       ",3,3,15
+3880,"VIELLA, DE                    ",6,1,11
+3885,"VENT, DEL                     ",3,0,8
+3890,"VIGO, DE                      ",2,0,71
+3891,"VIGO, DE                      ",2,1,31
+3895,"VILADECAVALLS, DE             ",5,0,27
+3900,"VILANOVA I LA GELTRÚ, DE      ",5,9,12
+3905,"VILARDELL, DE                 ",2,0,13
+3910,"VILELLA, DE                   ",6,1,27
+3915,"VILA NOVA, DE LA              ",1,2,27
+3920,"VILAFRANCA DEL PENEDÈS, DE    ",5,2,23
+3925,"VINARÒS, DE                   ",4,5,19
+3930,"VINYALS, DE                   ",1,0,188
+3935,"VIOLINISTA VELLSOLÀ, DE       ",1,3,52
+3940,"M.D. DE LAS ANGUSTIAS, DE LA  ",2,0,164
+3945,"MARE DE DÉU DEL CARME, DE LA  ",2,1,119
+3950,"M.D. DELS DESEMPARATS, DE LA  ",2,9,39
+3955,"MARE DÉU DE L ESPERANÇA, DE LA",2,1,114
+3960,"MARE DE DÉU DE LA LLUM, DE LA ",2,1,114
+3965,"MARE DE DÉU DEL MAR, DE LA    ",2,0,135
+3970,"MARE DE DÉU DE LES NEUS, DE LA",2,2,113
+3975,"MARE DE DÉU DEL PILAR, DE LA  ",1,20,76
+3980,"MARE DE DÉU DEL SOCORS, DE LA ",2,0,142
+3985,"VIVERET, DEL                  ",1,4,192
+3990,"BISCAIA, DE                   ",2,2,77
+3995,"VOLTA, DE                     ",4,0,241
+3996,"VOLUNTARIS, DELS              ",5,2,131
+4000,"JOSEP MARIMON, DE             ",5,0,41
+4005,"WALT DISNEY, DE               ",3,0,30
+4010,"WATT, DE                      ",4,0,190
+4011,"ANOIA, DE L                   ",3,1,27
+4012,"LLOBREGAT, DEL                ",3,1,36
+4015,"WILSON, DE                    ",3,1,89
+4016,"XALOC, DEL                    ",6,1,6
+4020,"ZAMORA, DE                    ",2,1,50
+4025,"SARAGOSSA, DE                 ",2,2,54
+4030,"ZULOAGA, DE                   ",3,1,19
+4035,"50 A, DE                      ",,0,0
+4050,CAN PARELLADA                 ,3,0,243
+4051,IND. DE SANTA MARGARIDA       ,3,0,11
+4052,"SABADELL A LA MANCOMUNITAT, DE",2,0,23
+4056,"LES MARTINES, DE              ",4,0,999
+4057,"LES MARTINES, DE              ",4,0,1018
+4058,"LES CARBONELLES, DE           ",4,0,133
+4060,CA N AMAT DE LA MUNTANYA      ,5,0,3
+4061,CAN FONOLLET                  ,3,1,4
+4062,"CAN MATA, DE                  ",4,1,19
+4063,"CAN MISSERT, DE               ",4,0,3
+4066,EL SOSIEGO                    ,,0,209
+4067,CAMINO VIEJO VAC.             ,,3,4
+4070,LA PINEDA                     ,5,1,62
+4071,CAN COLOMER                   ,5,0,4
+4072,"ALBERG INFANTIL, DE L         ",5,1,6
+4073,"MAS ESCAIOL, DEL              ",5,11,11
+4074,CAN CARBONELL                 ,5,0,8
+4075,FONT DE L ESPARDENYERA        ,6,1,12
+4077,PLA DEL BON AIRE              ,5,0,3
+4079,"CAN MATIES, DE                ",,1,1
+4082,TORRE MOSSÈN HOMS             ,5,1,11
+4084,CAN CANDI                     ,5,0,0
+4085,CAN CARDÚS                    ,,1,1
+4086,CAN MONTLLOR                  ,5,0,2
+4089,LA BETZUCA                    ,5,0,11
+4090,CAN SALES                     ,5,0,9
+4091,HOSPITAL TÒRAX                ,5,0,0
+4093,CAN POAL                      ,5,0,4
+4094,CAN BONDIA                    ,5,0,3
+4095,VIVENDES  MOPU - MANCOMUNITAT ,2,1,5
+4096,"GRÍPIA, DE LA                 ",6,1,19
+4097,CEMENTIRI                     ,1,0,60
+4098,TORREBONICA                   ,2,0,10
+4099,CAN BOGUNYÀ                   ,5,1,2
+4100,PLA DE LA GUITARD             ,4,5,13
+4102,CAN BADIELLA                  ,3,0,1
+4103,ELS BELLOTS                   ,3,0,41
+4104,GRANJA TORRE-SANA             ,,0,144
+4105,"QUATRE VENTS, ELS             ",4,0,2
+4106,TORRE ALAVEDRA                ,2,0,5
+4108,VIL.LA FAUSTINA               ,5,0,1
+4116,"NÀPOLS, DE                    ",4,1,37
+4117,"TALAMANCA, DE                 ",5,0,41
+4118,"FONT, DE LA                   ",6,1,15
+4119,"CAN CARBONELL, DE             ",5,0,77
+4125,"CAN FARCAN, DE                ",3,1,358
+4170,IND. DE LES GLÒRIES CATALANES ,3,0,0
+4180,NACIONAL 150                  ,3,14,20
+4990,"ESCULTORA, DE L               ",5,4,8
+5001,INDEPENDÈNCIA                 ,1,1,904
+5002,SANT PERE                     ,5,0,131
+5003,CRTA. CASTELLAR               ,1,2,2
+5004,GR.SANT LLORENÇ               ,6,0,132
+5005,GR.MONTSERRAT                 ,2,0,40
+5006,PLA DEL CIRE                  ,5,1,1
+5008,"CAN JOFRESA, DE               ",3,1,92
+5009,"CAN TUSELL, DE                ",6,0,1
+5011,"AJUNTAMENT, DE L              ",1,1,197
+5013,"TREN DE BAIX, DEL             ",3,10,193
+5014,CAN BONVILAR                  ,5,1,1
+5015,CAN CASANOVES                 ,3,1,1
+5016,"FONT DEL COMÚ, DE LA          ",1,3,3
+5017,CAN COSTA                     ,4,1,1
+5018,"SANT JORDI, DE                ",4,0,96
+5019,"VALLPARADÍS, DE               ",1,1,3
+5100,"CA N AMAT, DE                 ",3,1,36
+5102,"MATADEPERA, DE                ",5,7,41
+5104,"ALGÈRIA, D                    ",3,1,61
+5500,"FOC, DEL                      ",3,1,8
+5501,"AIRE, DE L                    ",3,0,72
+5502,"AIGUA, DE L                   ",3,4,32
+5503,"TERRA, DE LA                  ",3,0,73
+5504,"CAN PALET, DE                 ",3,1,1
+5505,"JOAN ARTIGUES, DE             ",5,1,21
+5506,"TERRASSA INDUSTRIAL, DE LA    ",3,1,6
+5507,"ROSA SABATER, DE              ",6,1,1
+5508,VELL D ULLASTRELL             ,4,0,44
+5509,"TORRENT DEL SALT, DEL         ",4,1,68
+5510,"FONT DEL FERRO, DE LA         ",4,1,16
+5511,"TORRENT FONDO, DEL            ",4,1,31
+5512,"VISTA ALEGRE, DE              ",4,1,166
+5513,"SANT JERONI, DE               ",4,2,43
+5514,"PAU, DE LA                    ",4,1,1
+5515,"ÀLIGA, DE L                   ",4,1,42
+5516,"ALOSA, DE L                   ",4,1,12
+5517,"ASTOR, DE L                   ",4,1,32
+5518,"BALLESTER, DEL                ",4,1,14
+5519,"CADERNERA, DE LA              ",4,1,52
+5520,"ESTORNELL, DE L               ",4,1,37
+5521,"FALCIOT, DEL                  ",4,9,85
+5522,"GAVINA, DE LA                 ",4,2,19
+5524,"MALLERENGA, DE LA             ",4,1,77
+5525,"MERLA, DE LA                  ",4,2,17
+5526,"MUSSOL, DEL                   ",4,1,35
+5527,"ORENETA, DE L                 ",4,2,46
+5528,"PARDAL, DEL                   ",4,2,24
+5529,"PERDIU, DE LA                 ",4,1,14
+5530,"PIGOT, DEL                    ",4,1,66
+5531,"PINSÀ, DEL                    ",4,1,45
+5532,"PUPUT, DE LA                  ",4,1,37
+5533,"TALLAROL, DEL                 ",4,2,6
+5534,"TORD, DEL                     ",4,1,37
+5535,"TÓRTORA, DE LA                ",4,2,20
+5536,"TUDÓ, DEL                     ",4,1,39
+5537,"XORIGUER, DEL                 ",4,1,21
+5538,"XOT, DEL                      ",4,1,66
+5539,"CAN CONILLER, DE              ",2,3,30
+5540,"CATALANS, DELS                ",1,0,1
+5541,"AGUSTÍ BARTRA, D              ",5,1,10
+5543,"CONSTITUCIÓ, DE LA            ",6,1,7
+5544,"ASSEMBLEA DE CATALUNYA, DE L  ",4,1,5
+5550,"CAN BOADA, DE                 ",5,3,40
+5551,"ANÒNIMA, DE L                 ",4,1,1
+5552,"FILATURA, DE LA               ",4,1,15
+5553,"TINT, DEL                     ",4,1,10
+5555,"CAN BARBA, DE                 ",3,1,1
+5556,MANCOMUNITAT                  ,2,1,11
+5557,"TORREBONICA, DE               ",2,1,5
+5558,"CAN CANYA, DE                 ",2,1,1
+5559,CASETES DE L ESTACIÓ          ,5,1,12
+5560,CAN PETIT                     ,5,1,1
+5561,"CASA DE LA PINEDA, DE LA      ",5,28,63
+5562,"SERRA,DE LA                   ",5,1,40
+5563,"CAUS, DELS                    ",5,1,3
+5564,"PINETONS, ELS                 ",5,1,83
+5565,"ARBÚCIES, D                   ",5,2,12
+5566,"CULTURA, DE LA                ",5,1,10
+5567,"DONA, DE LA                   ",1,1,1
+5568,"CA N ARNELLA, DE              ",5,1,1
+5569,"SANATORI, DEL                 ",5,1,11
+5570,CAN CANDI                     ,5,1,10
+5571,MONREPÒS                      ,5,1,1
+5572,"CAN BOGUNYÀ, DE               ",5,1,15
+5573,"NORD,  DEL                    ",5,1,11
+5574,CENTRAL DEL VALLÈS            ,2,1,61
+5575,CAN PARELLADA                 ,3,1,51
+5576,"JACINT MORERA, DE             ",5,1,22
+5577,"ROSA TURU, DE                 ",5,1,1
+5578,"NACIONS, DE LES               ",2,10,84
+5579,"EXTREMADURA, D                ",2,1,30
+5580,"NAVARRA, DE                   ",2,1,22
+5581,"CANTÀBRIA, DE                 ",2,1,13
+5582,"PLA DE LA CORNETA, DEL        ",2,1,1
+5583,"QUADRA DE VALLPARADÍS, DE LA  ",1,1,1
+5584,"VALENTÍ ALAGORDA, DE          ",4,1,10
+5585,"MIG, DEL                      ",4,1,32
+5587,"RAJOLERS, DELS                ",4,1,50
+5588,"CAMP DEL ROURE, DEL           ",2,2,91
+5589,"PEDRAFORCA, DEL               ",6,1,50
+5590,"MOIXERÓ, DEL                  ",6,1,50
+5591,"MONTSIÀ, DEL                  ",6,1,38
+5592,"FONT I SAGUÉ, DE              ",6,1,75
+5593,"AVENC DEL DAVÍ, DE L          ",6,1,45
+5594,"PUIGBARRAL, DE                ",6,7,48
+5595,"AURORA BERTRANA, D            ",3,1,81
+5596,"CATERINA ALBERT, DE           ",3,1,51
+5597,"MARGARIDA XIRGU, DE           ",3,1,5
+5598,"ROSA SENSAT, DE               ",3,1,3
+5599,"MARIA VERGER, DE              ",3,1,24
+5600,"LOLA ANGLADA, DE              ",3,1,25
+5601,HIPERMERCAT CAN PARELLADA     ,3,0,30
+5602,POLÍGON INDUSTRIAL COLOM II   ,3,0,48
+5603,POLÍGON IND. GLÒRIES CATALANES,3,15,15
+5605,"LLETRES, DE LES               ",1,1,19
+5606,"MARIE CURIE, DE               ",3,1,17
+5608,"DORÉ, DEL                     ",4,1,1
+5609,"AIGUA, DE L                   ",5,1,1
+5610,ROMEU DE MONTSERRAT           ,5,5,90
+5611,CAN FONT DE GAIÀ              ,5,1,5
+5612,CA N AMAT DE LES FARINES      ,3,1,7
+5613,"CAN FONT DE GAIÀ, DE          ",5,1,5
+5614,"JOAN COROMINES, DE            ",1,2,10
+5615,"ANDALUSIA, D                  ",5,1,2
+5616,LA FLORIDA                    ,5,1,1
+5617,"MARTÍ ALEGRE, DE              ",1,1,16
+5618,"FRANCESC CATALÀ-ROCA, DE      ",1,2,12
+5619,"JOAQUIM FOLGUERA, DE          ",1,1,1
+5620,"RICARD CAMÍ, DE               ",1,1,2
+5621,"CIPRIANO GARCÍA, DE           ",6,1,1
+5624,"DRETS HUMANS, DELS            ",1,1,4
+5625,"BADAJOZ, DE                   ",2,2,12
+5626,"SANT MUÇ, DE                  ",4,2,27
+5627,"TORRE IBÈRICA, DE LA          ",4,1,16
+5628,"PUIG DEL CANYET, DEL          ",4,1,6
+5629,"PUIG DE VIASTRELLA, DEL       ",4,1,23
+5630,"CAMÍ DE LA CREU DE CONILL, DEL",4,1,154
+5631,"MAS ARÚS, DEL                 ",4,1,8
+5632,"TORRENT DE CAN GUITARD, DEL   ",4,1,130
+5633,"FONT DEL MOREU, DE LA         ",4,5,32
+5634,"MARTINES, DE LES              ",4,48,506
+5635,"FONT DE PAU BOADA, DE         ",4,2,28
+5636,"TORRENT DE MONTCAI, DEL       ",4,6,24
+5637,"MAS DE MIRESSES, DEL          ",4,3,38
+5638,"FONT DE LA PLATA, DE LA       ",4,7,10
+5639,"CARENA DEL MAS BELLVER, DE LA ",4,2,138
+5640,"CAN MAS, DE                   ",4,11,50
+5641,"TORRENT DE SAVALL, DEL        ",4,1,13
+5642,"MAS DE LA MORADA, DEL         ",4,1,25
+5643,"CARBONELLES, DE LES           ",4,3,67
+5644,"FONT DE SANTA TERESA, DE LA   ",4,1,15
+5645,"TORRENT DE JONCAR, DEL        ",4,3,72
+5646,"MAS DE BORRELLES, DEL         ",4,1,15
+5647,"MAS DE CANET, DEL             ",4,1,41
+5648,"LLEBRE, DE LA                 ",4,2,46
+5649,"MAS DE LES ALZINES, DEL       ",4,1,39
+5650,"TEIXÓ, DEL                    ",4,12,12
+5651,"CAN SANTFELIU, DE             ",4,4,75
+5652,"SENGLAR, DEL                  ",4,2,2
+5653,"DAINA, DE LA                  ",4,2,11
+5654,"SESCOMES, DE                  ",4,1,9
+5655,"CAMP DE LES CIRERES, DEL      ",4,2,6
+5656,"CAN CURET, DE                 ",4,8,90
+5657,"MAS BRANCA, DEL               ",4,1,85
+5658,"FONT DEL RODÓ, DE LA          ",4,9,68
+5660,"VAPOR MONSET, DEL             ",1,1,1
+5661,"VAPOR DE LA COMPANYIA, DEL    ",1,0,12
+5662,"VAPOR VENTALLÓ, DEL           ",1,1,6
+5663,"JOSEFINES, DE LES             ",4,1,5
+5664,"MANEL MAÑAS,  DE              ",3,1,23
+5665,"TORRENT MITGER, DEL           ",5,11,50
+5666,"MIQUEL UTGÉS, DE              ",4,7,7
+5667,"TICO, DE                      ",5,1,50
+5668,"FERROVIARIS, DELS             ",5,2,56
+5669,"NOTARI BADIA, DEL             ",1,2,14
+5670,"JOAN BAPTISTA GALÍ, DE        ",1,1,11
+5671,"TORRENT DE LES GUERALDES, DEL ",4,2,18
+5672,"CASTRO DEL RÍO, DE            ",5,2,140
+5673,"SERÓN, DE                     ",5,1,5
+5674,"PAU AYMERICH, DE              ",3,1,3
+5677,"EMILI MIRÓ, D                 ",4,2,40
+5678,"MOSSÈN JOSEP MONCAU, DE       ",4,2,15
+5679,"PARE ALEXANDRE, DEL           ",6,1,1
+5680,"ADELINA GREGORIANO, D         ",4,1,5
+5681,SANTA MAGDALENA DE PUIGBARRAL ,5,1,2
+5682,"ROSA PUIG, DE                 ",1,1,5
+5683,"SALVAT-PAPASSEIT, DE          ",1,1,16
+5684,"PUIGSACALM, DEL               ",6,2,25
+5685,"JOAQUIM VAYREDA, DE           ",6,1,51
+5686,"CLEMENTINA ARDERIU, DE        ",3,1,11
+5688,"SEGURA, DEL                   ",3,6,33
+5689,"SÉNIA, DE LA                  ",3,1,13
+5690,"MEDITERRÀNIA, DE LA           ",3,1,5
+5699,EN EL MUNICIPI                ,,0,9999
+5704,PLA DE LA FONT DE L APOTECARI ,5,1,16
+5706,TORRENT MONNER                ,1,1,2
+5708,HORTES DELS FRARES            ,1,1,3
+5711,EL LLAC DE VALLPARADÍS        ,1,1,6
+5715,"AURONS, DELS                  ",1,1,341
+5716,"RIERA, DE LA                  ",3,54,71
+5717,"MOSSÈN JOAN FORTUNY, DE       ",4,1,1
+5718,"MOSSÈN JOSEP PONS, DE         ",3,1,85
+5721,"TORRES GARCÍA, DE             ",1,31,39
+5722,CAN PEPITO                    ,5,20,30
+5724,"ESTATUT, DE L                 ",5,7,47
+5725,"ISIDRE NONELL, D              ",5,2,18
+5726,"PERE PRAT, DE                 ",5,1,11
+5727,"ANNA FRANK, D                 ",5,1,12
+5728,"CLARA CAMPOAMOR, DE           ",5,1,16
+5729,"MERCÈ RODOREDA, DE            ",5,2,4
+5731,"OLOF PALME, D                 ",5,1,47
+5732,"PARLAMENT, DEL                ",5,1,50
+5733,"NACIONS UNIDES, DE LES        ",5,1,18
+5734,"IU PONS, D                    ",5,1,1
+5735,"CREIXELL, DE                  ",5,1,12
+5741,"EXTREMADURA, D                ",2,41,41
+5745,TORRENT DE LA FONT MONTSERRAT ,3,1,2
+5746,"MIQUEL CASAS, DE              ",1,1,40
+5747,NOVA                          ,1,1,27
+5748,"VAPOR GRAN, DEL               ",1,1,51
+5749,"COMTE GUIFRE, DEL             ",1,1,10
+5750,"TELERS, DELS                  ",1,1,22
+5751,"BALAGUER, DE                  ",6,1,91
+5757,"CASETA DE LA PINEDA, LA       ",5,1,1
+5758,"CIM, DEL                      ",5,1,79
+5759,CAN SABATER DEL TORRENT       ,3,1,5
+5760,"ARISTIDES MAILLOL, D          ",4,1,9
+5763,"PUIGCERDÀ, DE                 ",6,1,1
+5764,"PANAMÀ, DE                    ",4,7,12
+5765,"COLL DE ROQUES, DEL           ",5,41,41
+5766,"SALVADOR DALÍ, DE             ",4,1,4
+5767,"DOLORS MONTSERDÀ, DE          ",3,2,8
+5768,"ERNEST LLUCH, D               ",1,1,1
+5769,"CAMPUS, DEL                   ",1,1,1
+5770,"RAFAEL ROIG, DE               ",1,1,200
+5771,HORTES DE CAN BOSC DE BASEA   ,3,1,31
+5772,RAL DE TERRASSA A SABADELL    ,2,1,5
+5773,POUM - ROC BLANC              ,4,15,38
+5774,DS POUM - LA MAURINA          ,5,7,72
+5775,"PLANS DE CAN BONVILAR, DELS   ",5,6,40
+5776,"HORTS, DELS                   ",3,2,12
+5777,"ESTEVE MAS, D                 ",5,1,7
+5779,"PIT-ROIG, DEL                 ",4,1,2
+5780,"LLANÇADORA, DE LA             ",3,1,5
+5781,"FARINERA, DE LA               ",1,1,9
+5782,"CELLER, DEL                   ",1,1,11
+5787,"PUJOL BLANC, DEL              ",3,1,11
+5788,"UCRAÏNA, D                    ",3,2,6
+5789,"XIPRE, DE                     ",3,1,1
+5790,"PAÍS BASC, DEL                ",2,2,86
+5791,"GERNIKA, DE                   ",2,1,103
+5792,TRANSVASAMENT RIERA DEL PALAU ,5,1,127
+5793,CAN FLECA                     ,5,1,2
+5794,CA N AMAT DE LA MUNTANYA      ,5,1,5
+5795,LES HORTES VELLES             ,3,1,1
+5797,"ANTONI BADRINAS, D            ",5,1,28
+5798,"MIQUEL PUJADAS, DE            ",5,1,8
+5800,"MIQUEL I PERE COSTA, DE       ",5,1,9
+5802,"SIRACUSA, DE                  ",4,15,15
+5803,"MONTSERRAT ROIG, DE           ",2,1,2
+5804,"COOPERATIVA, DE LA            ",5,1,13
+5805,"ORDIDORES, DE LES             ",3,1,16
+5806,"MARTA MATA, DE                ",1,1,13
+5808,"TORRENT DEL BATLLE, DEL       ",5,9,15
+5809,"VINYOLES, DE LES              ",5,38,41
+5810,"MALLOL, DEL                   ",5,2,4
+5811,"VI, DEL                       ",5,1,1
+5812,"PREMSA, DE LA                 ",5,1,3
+5813,"RAÏM, DEL                     ",5,5,5
+5814,"VEREMA, DE LA                 ",5,5,6
+5815,"CEPS, DELS                    ",5,1,7
+5816,"LLUÍS PUIG I MATAS, DE        ",5,1,8
+5817,"BUROT, DEL                    ",4,3,15
+5818,"MOSSÈN BATLLE, DE             ",5,2,18
+5819,"MATERNITAT D ELNA, DE LA      ",6,3,7
+5820,"RUGADA, DE LA                 ",6,1,7
+5821,"ANTOLINA BOADA, D             ",6,2,11
+5822,"TORRENT DE LES MONGES, DEL    ",6,4,10
+5823,"TREMENTINAIRES, DE LES        ",6,2,8
+5824,"FONT DE L OLIVA, DE LA        ",5,3,19
+5825,"ELECTRA, DE L                 ",,1,15
+5826,"MOTORS, DELS                  ",,11,25
+5827,"MOVIMENT OBRER, DEL           ",,8,60
+5829,"APRENENTS, DELS               ",,13,13
+5831,"MON REPÒS, DE                 ",,1,21
+5832,"ERMESSENDA DE CARCASSONA, D   ",,1,4
+5834,"CAN TORRELLA DEL MAS, DE      ",,32,112
+5835,"MAS TRULLARS, DE              ",,1,185
+5836,"MAS DE L OM, DEL              ",,1,189
+5837,"ARTS, DE LES                  ",,51,139
+5838,"MANOLITA PIÑA, DE             ",,1,52
+5839,"AGUSTÍ FABRA, D               ",,20,70
+5840,"PERE FONT I MARCET, DE        ",,20,58
+5841,"CONRAD FONTELLAS, DE          ",,25,68
+5842,"CARLOS ARMIÑO, DE             ",,1,2
+5843,"GERTRUDIS GALÍ, DE            ",,1,2
+5844,"CÈSAR CABANES, DE             ",,1,24
+5845,"FERRAN BACH-ESTEVE, DE        ",,1,25
+5846,"EST, DE L                     ",,1,1
+5847,"NUEVA CARTEYA, DE             ",3,0,1
+5848,VELL DE TERRASSA A MATADEPERA ,,2,31
+5850,PARC AUDIOVISUAL DE CATALUNYA ,,1,1
+5855,TORRE DEL GARCIA              ,,1,2
+5856,MERCADAL DE MARTÍ L HUMÀ      ,,1,36
+5857,"INNOVACIÓ, DE LA              ",,2,2
+5864,PASSAREL.LA DE SANT VALENTÍ   ,,0,0
+5868,"RÒMUL PIÑOL, DE               ",,1,1
+5869,"BENITO MARTÍNEZ, DE           ",,0,1
+5870,"JULIANA MORELL, DE            ",,16,47
+5871,"MARIA ÀNGELS CARDONA, DE      ",,16,53
+5872,"MARIA MITCHELL, DE            ",,16,47
+5873,"ROSALIND FRANKLIN, DE         ",,18,49
+5874,B-40 / AUTOVIA ORBITAL        ,,10,99
+5875,PLA DE LA LLEBRE              ,,1,2
+5878,"OMBRA, DE L                   ",,4,28
+5882,"EL CARRER ESTRET, D           ",,0,23
+5884,"JOAQUIM VENTALLÓ, DE          ",,1,1
+5885,"LAS MENINAS, DE               ",,4,40
+5886,TORRENT DELA FONT D EN SAGRERA,,1,1
+5887,"DEVESA, DE LA                 ",,1,1
+5889,PALAU SUD VIAL 1              ,,1,46
+5890,PALAU SUD VIAL 2              ,,2,8
+5892,PALAU SUD VIAL 4              ,,2,32
+5893,PALAU SUD VIAL 5              ,,4,34
+5894,PALAU SUD VIAL 6              ,,6,20
+5895,PALAU SUD VIAL 7              ,,2,14
+5896,PALAU SUD VIAL 8              ,,2,12
+5898,PALAU SUD VIAL 9              ,,2,8
+5899,PALAU SUD VIAL 10             ,,2,8
+5900,PALAU SUD VIAL 11             ,,1,10
+5903,PALAU SUD VIAL 14             ,,7,7
+5904,PALAU SUD VIAL 15             ,,7,17
+5906,PALAU SUD VIAL 17             ,,1,1
+5907,PALAU SUD VIAL 18             ,,1,1
+5908,LES FONTS                     ,,1,1
+5909,VELL DE ST QUIRZE A MATADEPERA,,1,1
+5911,"UNITAT, DE LA                 ",,1,1
+5915,CARRER DE RICARD MARLET (MAT) ,,2,2
+5916,CAN FONT DE RIBATALLADA       ,,1,4
+5917,CARRETERA DE LA BAUMA C-58    ,,23,23
+5918,"CA L ESCAIOL,  DE             ",,9,10
+5919,CTRA RELLINARS A CAN GONTERES ,,16,19
+5921,"ALCALDE PICAÑOL, DE L         ",,7,19
+5923,CAN GUITARD DE LA MUNTANYA    ,,1,1
+6200,"PUERTO RICO, DE               ",4,1,19
+9997,LLISTA DE CORREUS             ,1,1,1
+9999,APARTAT DE CORREUS            ,1,10,9999

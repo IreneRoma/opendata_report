@@ -1,0 +1,599 @@
+DATA_REFERENCIA,PAIS_DESTI,NACIONALITAT,POBLACIO
+2011,ALEMANYA                      ,ESPANYA,12
+2012,ALEMANYA                      ,ESPANYA,38
+2013,ALEMANYA                      ,ESPANYA,38
+2014,ALEMANYA                      ,ESPANYA,66
+2015,ALEMANYA                      ,ESPANYA,54
+2016,ALEMANYA                      ,ESPANYA,58
+2017,ALEMANYA                      ,ESPANYA,26
+2014,ALGÈRIA                       ,ESPANYA,1
+2015,ALGÈRIA                       ,ESPANYA,1
+2011,ANDORRA                       ,ESPANYA,14
+2012,ANDORRA                       ,ESPANYA,7
+2013,ANDORRA                       ,ESPANYA,12
+2014,ANDORRA                       ,ESPANYA,11
+2015,ANDORRA                       ,ESPANYA,8
+2016,ANDORRA                       ,ESPANYA,17
+2017,ANDORRA                       ,ESPANYA,2
+2013,"ARÀBIA SAUDITA, L             ",ESPANYA,2
+2015,"ARÀBIA SAUDITA, L             ",ESPANYA,3
+2016,"ARÀBIA SAUDITA, L             ",ESPANYA,2
+2011,"ARGENTINA, L                  ",ESPANYA,11
+2012,"ARGENTINA, L                  ",ESPANYA,6
+2013,"ARGENTINA, L                  ",ESPANYA,9
+2014,"ARGENTINA, L                  ",ESPANYA,16
+2015,"ARGENTINA, L                  ",ESPANYA,10
+2016,"ARGENTINA, L                  ",ESPANYA,8
+2017,"ARGENTINA, L                  ",ESPANYA,1
+2013,AUSTRÀLIA                     ,ESPANYA,2
+2014,AUSTRÀLIA                     ,ESPANYA,1
+2015,AUSTRÀLIA                     ,ESPANYA,6
+2016,AUSTRÀLIA                     ,ESPANYA,5
+2017,AUSTRÀLIA                     ,ESPANYA,3
+2012,ÀUSTRIA                       ,ESPANYA,2
+2013,ÀUSTRIA                       ,ESPANYA,2
+2014,ÀUSTRIA                       ,ESPANYA,1
+2015,ÀUSTRIA                       ,ESPANYA,1
+2016,ÀUSTRIA                       ,ESPANYA,2
+2011,BÈLGICA                       ,ESPANYA,22
+2012,BÈLGICA                       ,ESPANYA,21
+2013,BÈLGICA                       ,ESPANYA,18
+2014,BÈLGICA                       ,ESPANYA,23
+2015,BÈLGICA                       ,ESPANYA,19
+2016,BÈLGICA                       ,ESPANYA,16
+2011,BOLÍVIA                       ,ESPANYA,7
+2012,BOLÍVIA                       ,ESPANYA,1
+2013,BOLÍVIA                       ,ESPANYA,7
+2014,BOLÍVIA                       ,ESPANYA,6
+2015,BOLÍVIA                       ,ESPANYA,7
+2016,BOLÍVIA                       ,ESPANYA,4
+2011,"BRASIL, EL                    ",ESPANYA,5
+2012,"BRASIL, EL                    ",ESPANYA,3
+2013,"BRASIL, EL                    ",ESPANYA,4
+2014,"BRASIL, EL                    ",ESPANYA,2
+2015,"BRASIL, EL                    ",ESPANYA,4
+2016,"BRASIL, EL                    ",ESPANYA,2
+2017,"BRASIL, EL                    ",ESPANYA,2
+2012,BURKINA FASO                  ,ESPANYA,1
+2011,"CANADÀ, EL                    ",ESPANYA,2
+2012,"CANADÀ, EL                    ",ESPANYA,8
+2013,"CANADÀ, EL                    ",ESPANYA,2
+2014,"CANADÀ, EL                    ",ESPANYA,2
+2016,"CANADÀ, EL                    ",ESPANYA,4
+2016,CAP VERD                      ,ESPANYA,1
+2011,COLÒMBIA                      ,ESPANYA,4
+2012,COLÒMBIA                      ,ESPANYA,12
+2013,COLÒMBIA                      ,ESPANYA,18
+2014,COLÒMBIA                      ,ESPANYA,18
+2015,COLÒMBIA                      ,ESPANYA,29
+2016,COLÒMBIA                      ,ESPANYA,15
+2017,COLÒMBIA                      ,ESPANYA,1
+2016,COREA DEL SUD                 ,ESPANYA,2
+2015,COSTA RICA                    ,ESPANYA,1
+2016,COSTA RICA                    ,ESPANYA,2
+2011,CROÀCIA                       ,ESPANYA,1
+2015,CROÀCIA                       ,ESPANYA,2
+2011,CUBA                          ,ESPANYA,2
+2012,CUBA                          ,ESPANYA,5
+2013,CUBA                          ,ESPANYA,3
+2014,CUBA                          ,ESPANYA,3
+2015,CUBA                          ,ESPANYA,7
+2016,CUBA                          ,ESPANYA,5
+2011,DINAMARCA                     ,ESPANYA,2
+2012,DINAMARCA                     ,ESPANYA,1
+2013,DINAMARCA                     ,ESPANYA,1
+2014,DINAMARCA                     ,ESPANYA,2
+2015,DINAMARCA                     ,ESPANYA,2
+2016,DINAMARCA                     ,ESPANYA,1
+2012,EL SALVADOR                   ,ESPANYA,1
+2013,EL SALVADOR                   ,ESPANYA,2
+2015,EL SALVADOR                   ,ESPANYA,1
+2011,"EMIRATS ÀRABS UNITS, ELS      ",ESPANYA,1
+2015,"EMIRATS ÀRABS UNITS, ELS      ",ESPANYA,5
+2016,"EMIRATS ÀRABS UNITS, ELS      ",ESPANYA,3
+2011,"EQUADOR, L                    ",ESPANYA,21
+2012,"EQUADOR, L                    ",ESPANYA,57
+2013,"EQUADOR, L                    ",ESPANYA,50
+2014,"EQUADOR, L                    ",ESPANYA,35
+2015,"EQUADOR, L                    ",ESPANYA,53
+2016,"EQUADOR, L                    ",ESPANYA,35
+2017,"EQUADOR, L                    ",ESPANYA,10
+2011,ESPANYA                       ,ESPANYA,4583
+2012,ESPANYA                       ,ESPANYA,4529
+2013,ESPANYA                       ,ESPANYA,4741
+2014,ESPANYA                       ,ESPANYA,4608
+2015,ESPANYA                       ,ESPANYA,4672
+2016,ESPANYA                       ,ESPANYA,4467
+2017,ESPANYA                       ,ESPANYA,1199
+2011,"ESTATS UNITS D AMÈRICA, ELS   ",ESPANYA,10
+2012,"ESTATS UNITS D AMÈRICA, ELS   ",ESPANYA,10
+2013,"ESTATS UNITS D AMÈRICA, ELS   ",ESPANYA,11
+2014,"ESTATS UNITS D AMÈRICA, ELS   ",ESPANYA,28
+2015,"ESTATS UNITS D AMÈRICA, ELS   ",ESPANYA,26
+2016,"ESTATS UNITS D AMÈRICA, ELS   ",ESPANYA,43
+2017,"ESTATS UNITS D AMÈRICA, ELS   ",ESPANYA,15
+2013,ESTÒNIA                       ,ESPANYA,1
+2016,ESTÒNIA                       ,ESPANYA,1
+2012,"FILIPINES, LES                ",ESPANYA,1
+2013,FINLÀNDIA                     ,ESPANYA,3
+2015,FINLÀNDIA                     ,ESPANYA,2
+2011,FRANÇA                        ,ESPANYA,32
+2012,FRANÇA                        ,ESPANYA,39
+2013,FRANÇA                        ,ESPANYA,66
+2014,FRANÇA                        ,ESPANYA,79
+2015,FRANÇA                        ,ESPANYA,77
+2016,FRANÇA                        ,ESPANYA,86
+2017,FRANÇA                        ,ESPANYA,15
+2014,"GABON, EL                     ",ESPANYA,1
+2011,GUATEMALA                     ,ESPANYA,1
+2015,GUATEMALA                     ,ESPANYA,2
+2012,"GUINEA BISSAU, LA             ",ESPANYA,1
+2011,"GUINEA EQUATORIAL, LA         ",ESPANYA,6
+2012,"GUINEA EQUATORIAL, LA         ",ESPANYA,1
+2013,"GUINEA EQUATORIAL, LA         ",ESPANYA,2
+2014,"GUINEA EQUATORIAL, LA         ",ESPANYA,6
+2016,"GUINEA EQUATORIAL, LA         ",ESPANYA,4
+2013,HONDURES                      ,ESPANYA,2
+2014,HONDURES                      ,ESPANYA,1
+2016,HONGRIA                       ,ESPANYA,1
+2011,"ÍNDIA, L                      ",ESPANYA,1
+2015,"ÍNDIA, L                      ",ESPANYA,1
+2011,INDONÈSIA                     ,ESPANYA,1
+2012,INDONÈSIA                     ,ESPANYA,1
+2011,IRLANDA                       ,ESPANYA,1
+2012,IRLANDA                       ,ESPANYA,2
+2014,IRLANDA                       ,ESPANYA,3
+2015,IRLANDA                       ,ESPANYA,3
+2017,IRLANDA                       ,ESPANYA,1
+2014,ISRAEL                        ,ESPANYA,1
+2015,ISRAEL                        ,ESPANYA,1
+2011,ITÀLIA                        ,ESPANYA,5
+2012,ITÀLIA                        ,ESPANYA,5
+2014,ITÀLIA                        ,ESPANYA,4
+2015,ITÀLIA                        ,ESPANYA,6
+2016,ITÀLIA                        ,ESPANYA,3
+2017,ITÀLIA                        ,ESPANYA,2
+2012,JAMAICA                       ,ESPANYA,2
+2013,"JAPÓ, EL                      ",ESPANYA,2
+2016,"JAPÓ, EL                      ",ESPANYA,3
+2017,"JAPÓ, EL                      ",ESPANYA,1
+2011,JORDÀNIA                      ,ESPANYA,2
+2011,LUXEMBURG                     ,ESPANYA,1
+2014,LUXEMBURG                     ,ESPANYA,3
+2015,LUXEMBURG                     ,ESPANYA,2
+2016,LUXEMBURG                     ,ESPANYA,2
+2011,MALÀISIA                      ,ESPANYA,2
+2012,MALAWI                        ,ESPANYA,2
+2013,MALAWI                        ,ESPANYA,2
+2016,MALTA                         ,ESPANYA,1
+2011,"MARROC, EL                    ",ESPANYA,4
+2012,"MARROC, EL                    ",ESPANYA,11
+2013,"MARROC, EL                    ",ESPANYA,8
+2014,"MARROC, EL                    ",ESPANYA,23
+2015,"MARROC, EL                    ",ESPANYA,12
+2016,"MARROC, EL                    ",ESPANYA,3
+2017,"MARROC, EL                    ",ESPANYA,2
+2011,MÈXIC                         ,ESPANYA,1
+2012,MÈXIC                         ,ESPANYA,2
+2013,MÈXIC                         ,ESPANYA,4
+2014,MÈXIC                         ,ESPANYA,7
+2015,MÈXIC                         ,ESPANYA,9
+2016,MÈXIC                         ,ESPANYA,4
+2017,MÈXIC                         ,ESPANYA,1
+2011,"MOÇAMBIC, EL                  ",ESPANYA,1
+2017,"MOÇAMBIC, EL                  ",ESPANYA,1
+2015,MÒNACO                        ,ESPANYA,1
+2014,NIGÈRIA                       ,ESPANYA,4
+2016,NIGÈRIA                       ,ESPANYA,1
+2011,NORUEGA                       ,ESPANYA,2
+2012,NORUEGA                       ,ESPANYA,1
+2013,NORUEGA                       ,ESPANYA,2
+2014,NORUEGA                       ,ESPANYA,1
+2015,NORUEGA                       ,ESPANYA,4
+2011,"PAÏSOS BAIXOS, ELS            ",ESPANYA,7
+2012,"PAÏSOS BAIXOS, ELS            ",ESPANYA,17
+2013,"PAÏSOS BAIXOS, ELS            ",ESPANYA,15
+2014,"PAÏSOS BAIXOS, ELS            ",ESPANYA,6
+2015,"PAÏSOS BAIXOS, ELS            ",ESPANYA,12
+2016,"PAÏSOS BAIXOS, ELS            ",ESPANYA,4
+2017,"PAÏSOS BAIXOS, ELS            ",ESPANYA,1
+2014,"PAKISTAN, EL                  ",ESPANYA,1
+2015,"PAKISTAN, EL                  ",ESPANYA,5
+2016,"PAKISTAN, EL                  ",ESPANYA,1
+2013,"PANAMÀ, EL                    ",ESPANYA,4
+2015,"PANAMÀ, EL                    ",ESPANYA,4
+2011,"PARAGUAI, EL                  ",ESPANYA,1
+2012,"PARAGUAI, EL                  ",ESPANYA,3
+2013,"PARAGUAI, EL                  ",ESPANYA,8
+2014,"PARAGUAI, EL                  ",ESPANYA,4
+2015,"PARAGUAI, EL                  ",ESPANYA,9
+2016,"PARAGUAI, EL                  ",ESPANYA,3
+2011,"PERÚ, EL                      ",ESPANYA,3
+2012,"PERÚ, EL                      ",ESPANYA,8
+2013,"PERÚ, EL                      ",ESPANYA,5
+2014,"PERÚ, EL                      ",ESPANYA,13
+2015,"PERÚ, EL                      ",ESPANYA,15
+2016,"PERÚ, EL                      ",ESPANYA,7
+2012,POLÒNIA                       ,ESPANYA,1
+2015,POLÒNIA                       ,ESPANYA,1
+2016,POLÒNIA                       ,ESPANYA,3
+2012,PORTUGAL                      ,ESPANYA,4
+2014,QATAR                         ,ESPANYA,2
+2015,QATAR                         ,ESPANYA,2
+2016,QATAR                         ,ESPANYA,1
+2011,"REGNE UNIT, EL                ",ESPANYA,24
+2012,"REGNE UNIT, EL                ",ESPANYA,11
+2013,"REGNE UNIT, EL                ",ESPANYA,20
+2014,"REGNE UNIT, EL                ",ESPANYA,29
+2015,"REGNE UNIT, EL                ",ESPANYA,35
+2016,"REGNE UNIT, EL                ",ESPANYA,49
+2017,"REGNE UNIT, EL                ",ESPANYA,7
+2011,"REPÚBLICA DOMINICANA, LA      ",ESPANYA,2
+2012,"REPÚBLICA DOMINICANA, LA      ",ESPANYA,10
+2013,"REPÚBLICA DOMINICANA, LA      ",ESPANYA,9
+2014,"REPÚBLICA DOMINICANA, LA      ",ESPANYA,3
+2015,"REPÚBLICA DOMINICANA, LA      ",ESPANYA,23
+2016,"REPÚBLICA DOMINICANA, LA      ",ESPANYA,10
+2011,ROMANIA                       ,ESPANYA,1
+2012,ROMANIA                       ,ESPANYA,1
+2013,ROMANIA                       ,ESPANYA,1
+2015,ROMANIA                       ,ESPANYA,4
+2012,RÚSSIA                        ,ESPANYA,1
+2015,RÚSSIA                        ,ESPANYA,1
+2016,RÚSSIA                        ,ESPANYA,1
+2014,"SENEGAL, EL                   ",ESPANYA,5
+2015,"SENEGAL, EL                   ",ESPANYA,2
+2016,"SENEGAL, EL                   ",ESPANYA,1
+2012,SINGAPUR                      ,ESPANYA,4
+2014,SINGAPUR                      ,ESPANYA,3
+2016,SINGAPUR                      ,ESPANYA,4
+2011,SUD-ÀFRICA                    ,ESPANYA,2
+2013,"SUDAN, EL                     ",ESPANYA,1
+2011,SUÈCIA                        ,ESPANYA,2
+2012,SUÈCIA                        ,ESPANYA,2
+2013,SUÈCIA                        ,ESPANYA,4
+2015,SUÈCIA                        ,ESPANYA,3
+2016,SUÈCIA                        ,ESPANYA,2
+2011,SUÏSSA                        ,ESPANYA,5
+2012,SUÏSSA                        ,ESPANYA,3
+2013,SUÏSSA                        ,ESPANYA,10
+2014,SUÏSSA                        ,ESPANYA,29
+2015,SUÏSSA                        ,ESPANYA,18
+2016,SUÏSSA                        ,ESPANYA,18
+2017,SUÏSSA                        ,ESPANYA,3
+2013,TAILÀNDIA                     ,ESPANYA,1
+2015,TAILÀNDIA                     ,ESPANYA,1
+2014,TURQUIA                       ,ESPANYA,3
+2011,"URUGUAI, L                    ",ESPANYA,4
+2012,"URUGUAI, L                    ",ESPANYA,4
+2013,"URUGUAI, L                    ",ESPANYA,5
+2014,"URUGUAI, L                    ",ESPANYA,3
+2015,"URUGUAI, L                    ",ESPANYA,2
+2016,"URUGUAI, L                    ",ESPANYA,6
+2011,VENEÇUELA                     ,ESPANYA,5
+2012,VENEÇUELA                     ,ESPANYA,6
+2013,VENEÇUELA                     ,ESPANYA,5
+2014,VENEÇUELA                     ,ESPANYA,11
+2015,VENEÇUELA                     ,ESPANYA,6
+2016,VENEÇUELA                     ,ESPANYA,2
+2011,XILE                          ,ESPANYA,3
+2012,XILE                          ,ESPANYA,4
+2013,XILE                          ,ESPANYA,4
+2014,XILE                          ,ESPANYA,7
+2015,XILE                          ,ESPANYA,10
+2016,XILE                          ,ESPANYA,13
+2011,"XINA, LA                      ",ESPANYA,9
+2013,"XINA, LA                      ",ESPANYA,7
+2014,"XINA, LA                      ",ESPANYA,5
+2015,"XINA, LA                      ",ESPANYA,7
+2016,"XINA, LA                      ",ESPANYA,4
+2011,XIPRE                         ,ESPANYA,1
+2015,XIPRE                         ,ESPANYA,1
+2014,ALBÀNIA                       ,ESTRANGER,1
+2016,ALBÀNIA                       ,ESTRANGER,1
+2017,ALBÀNIA                       ,ESTRANGER,1
+2011,ALEMANYA                      ,ESTRANGER,6
+2012,ALEMANYA                      ,ESTRANGER,4
+2013,ALEMANYA                      ,ESTRANGER,10
+2014,ALEMANYA                      ,ESTRANGER,20
+2015,ALEMANYA                      ,ESTRANGER,7
+2016,ALEMANYA                      ,ESTRANGER,12
+2017,ALEMANYA                      ,ESTRANGER,5
+2012,ALGÈRIA                       ,ESTRANGER,4
+2016,ALGÈRIA                       ,ESTRANGER,2
+2017,ALGÈRIA                       ,ESTRANGER,3
+2012,ANDORRA                       ,ESTRANGER,4
+2013,ANDORRA                       ,ESTRANGER,1
+2014,ANDORRA                       ,ESTRANGER,2
+2015,ANDORRA                       ,ESTRANGER,2
+2015,"ARÀBIA SAUDITA, L             ",ESTRANGER,1
+2011,"ARGENTINA, L                  ",ESTRANGER,13
+2012,"ARGENTINA, L                  ",ESTRANGER,15
+2013,"ARGENTINA, L                  ",ESTRANGER,27
+2014,"ARGENTINA, L                  ",ESTRANGER,9
+2015,"ARGENTINA, L                  ",ESTRANGER,18
+2016,"ARGENTINA, L                  ",ESTRANGER,9
+2017,"ARGENTINA, L                  ",ESTRANGER,1
+2012,ARMÈNIA                       ,ESTRANGER,1
+2014,ARMÈNIA                       ,ESTRANGER,2
+2017,AUSTRÀLIA                     ,ESTRANGER,1
+2013,ÀUSTRIA                       ,ESTRANGER,2
+2015,ÀUSTRIA                       ,ESTRANGER,1
+2016,ÀUSTRIA                       ,ESTRANGER,1
+2011,BÈLGICA                       ,ESTRANGER,13
+2012,BÈLGICA                       ,ESTRANGER,10
+2013,BÈLGICA                       ,ESTRANGER,6
+2014,BÈLGICA                       ,ESTRANGER,9
+2015,BÈLGICA                       ,ESTRANGER,9
+2016,BÈLGICA                       ,ESTRANGER,2
+2017,BÈLGICA                       ,ESTRANGER,2
+2011,BOLÍVIA                       ,ESTRANGER,14
+2012,BOLÍVIA                       ,ESTRANGER,15
+2013,BOLÍVIA                       ,ESTRANGER,13
+2014,BOLÍVIA                       ,ESTRANGER,9
+2015,BOLÍVIA                       ,ESTRANGER,11
+2016,BOLÍVIA                       ,ESTRANGER,3
+2011,"BRASIL, EL                    ",ESTRANGER,7
+2012,"BRASIL, EL                    ",ESTRANGER,11
+2013,"BRASIL, EL                    ",ESTRANGER,5
+2014,"BRASIL, EL                    ",ESTRANGER,8
+2015,"BRASIL, EL                    ",ESTRANGER,7
+2016,"BRASIL, EL                    ",ESTRANGER,5
+2017,"BRASIL, EL                    ",ESTRANGER,4
+2013,BULGÀRIA                      ,ESTRANGER,1
+2014,BULGÀRIA                      ,ESTRANGER,1
+2011,BURKINA FASO                  ,ESTRANGER,1
+2016,"CAMERUN, EL                   ",ESTRANGER,2
+2013,"CANADÀ, EL                    ",ESTRANGER,2
+2014,"CANADÀ, EL                    ",ESTRANGER,2
+2015,"CANADÀ, EL                    ",ESTRANGER,1
+2011,COLÒMBIA                      ,ESTRANGER,15
+2012,COLÒMBIA                      ,ESTRANGER,25
+2013,COLÒMBIA                      ,ESTRANGER,9
+2014,COLÒMBIA                      ,ESTRANGER,12
+2015,COLÒMBIA                      ,ESTRANGER,9
+2016,COLÒMBIA                      ,ESTRANGER,8
+2017,COLÒMBIA                      ,ESTRANGER,6
+2016,COREA DEL SUD                 ,ESTRANGER,1
+2011,COSTA RICA                    ,ESTRANGER,2
+2011,CUBA                          ,ESTRANGER,4
+2012,CUBA                          ,ESTRANGER,3
+2013,CUBA                          ,ESTRANGER,2
+2014,CUBA                          ,ESTRANGER,1
+2016,CUBA                          ,ESTRANGER,1
+2011,DINAMARCA                     ,ESTRANGER,1
+2014,DINAMARCA                     ,ESTRANGER,1
+2017,DINAMARCA                     ,ESTRANGER,2
+2013,EGIPTE                        ,ESTRANGER,4
+2017,EGIPTE                        ,ESTRANGER,3
+2011,EL SALVADOR                   ,ESTRANGER,4
+2012,EL SALVADOR                   ,ESTRANGER,1
+2014,EL SALVADOR                   ,ESTRANGER,2
+2015,EL SALVADOR                   ,ESTRANGER,1
+2011,"EQUADOR, L                    ",ESTRANGER,36
+2012,"EQUADOR, L                    ",ESTRANGER,49
+2013,"EQUADOR, L                    ",ESTRANGER,28
+2014,"EQUADOR, L                    ",ESTRANGER,23
+2015,"EQUADOR, L                    ",ESTRANGER,14
+2016,"EQUADOR, L                    ",ESTRANGER,13
+2017,"EQUADOR, L                    ",ESTRANGER,2
+2011,ESLOVÀQUIA                    ,ESTRANGER,1
+2015,ESLOVÈNIA                     ,ESTRANGER,1
+2011,ESPANYA                       ,ESTRANGER,1976
+2012,ESPANYA                       ,ESTRANGER,2063
+2013,ESPANYA                       ,ESTRANGER,1952
+2014,ESPANYA                       ,ESTRANGER,1495
+2015,ESPANYA                       ,ESTRANGER,1365
+2016,ESPANYA                       ,ESTRANGER,1292
+2017,ESPANYA                       ,ESTRANGER,311
+2011,"ESTATS UNITS D AMÈRICA, ELS   ",ESTRANGER,6
+2012,"ESTATS UNITS D AMÈRICA, ELS   ",ESTRANGER,4
+2013,"ESTATS UNITS D AMÈRICA, ELS   ",ESTRANGER,6
+2011,"PARAGUAI, EL                  ",ESTRANGER,17
+2014,"ESTATS UNITS D AMÈRICA, ELS   ",ESTRANGER,8
+2015,"ESTATS UNITS D AMÈRICA, ELS   ",ESTRANGER,8
+2016,"ESTATS UNITS D AMÈRICA, ELS   ",ESTRANGER,6
+2017,"ESTATS UNITS D AMÈRICA, ELS   ",ESTRANGER,3
+2011,FINLÀNDIA                     ,ESTRANGER,1
+2015,FINLÀNDIA                     ,ESTRANGER,1
+2016,FINLÀNDIA                     ,ESTRANGER,1
+2011,FRANÇA                        ,ESTRANGER,29
+2012,FRANÇA                        ,ESTRANGER,37
+2013,FRANÇA                        ,ESTRANGER,22
+2014,FRANÇA                        ,ESTRANGER,30
+2015,FRANÇA                        ,ESTRANGER,40
+2016,FRANÇA                        ,ESTRANGER,32
+2017,FRANÇA                        ,ESTRANGER,9
+2011,GÀMBIA                        ,ESTRANGER,3
+2013,GÀMBIA                        ,ESTRANGER,3
+2015,GÀMBIA                        ,ESTRANGER,1
+2012,GEÒRGIA                       ,ESTRANGER,3
+2013,GEÒRGIA                       ,ESTRANGER,4
+2014,GEÒRGIA                       ,ESTRANGER,1
+2011,GHANA                         ,ESTRANGER,1
+2016,GRÈCIA                        ,ESTRANGER,1
+2012,GUATEMALA                     ,ESTRANGER,1
+2013,GUATEMALA                     ,ESTRANGER,1
+2015,GUATEMALA                     ,ESTRANGER,1
+2016,GUATEMALA                     ,ESTRANGER,1
+2011,"GUINEA EQUATORIAL, LA         ",ESTRANGER,3
+2011,HONDURES                      ,ESTRANGER,5
+2012,HONDURES                      ,ESTRANGER,3
+2013,HONDURES                      ,ESTRANGER,9
+2014,HONDURES                      ,ESTRANGER,8
+2015,HONDURES                      ,ESTRANGER,6
+2016,HONDURES                      ,ESTRANGER,12
+2017,HONDURES                      ,ESTRANGER,4
+2013,"ÍNDIA, L                      ",ESTRANGER,1
+2014,"ÍNDIA, L                      ",ESTRANGER,2
+2015,"ÍNDIA, L                      ",ESTRANGER,1
+2012,"IRAN, L                       ",ESTRANGER,2
+2015,"IRAN, L                       ",ESTRANGER,1
+2014,IRLANDA                       ,ESTRANGER,2
+2016,IRLANDA                       ,ESTRANGER,2
+2011,ISRAEL                        ,ESTRANGER,1
+2013,ISRAEL                        ,ESTRANGER,1
+2011,ITÀLIA                        ,ESTRANGER,7
+2012,ITÀLIA                        ,ESTRANGER,12
+2013,ITÀLIA                        ,ESTRANGER,4
+2014,ITÀLIA                        ,ESTRANGER,5
+2015,ITÀLIA                        ,ESTRANGER,17
+2016,ITÀLIA                        ,ESTRANGER,9
+2017,ITÀLIA                        ,ESTRANGER,3
+2014,LETÒNIA                       ,ESTRANGER,1
+2012,LITUÀNIA                      ,ESTRANGER,1
+2014,LUXEMBURG                     ,ESTRANGER,2
+2015,MALÀISIA                      ,ESTRANGER,1
+2016,MALI                          ,ESTRANGER,1
+2016,MALTA                         ,ESTRANGER,1
+2011,"MARROC, EL                    ",ESTRANGER,133
+2012,"MARROC, EL                    ",ESTRANGER,142
+2013,"MARROC, EL                    ",ESTRANGER,95
+2014,"MARROC, EL                    ",ESTRANGER,85
+2015,"MARROC, EL                    ",ESTRANGER,70
+2016,"MARROC, EL                    ",ESTRANGER,68
+2017,"MARROC, EL                    ",ESTRANGER,16
+2011,MÈXIC                         ,ESTRANGER,3
+2012,MÈXIC                         ,ESTRANGER,3
+2013,MÈXIC                         ,ESTRANGER,5
+2014,MÈXIC                         ,ESTRANGER,2
+2016,MÈXIC                         ,ESTRANGER,5
+2017,MÈXIC                         ,ESTRANGER,2
+2011,MOLDÀVIA                      ,ESTRANGER,2
+2015,MOLDÀVIA                      ,ESTRANGER,1
+2016,MOLDÀVIA                      ,ESTRANGER,1
+2013,NICARAGUA                     ,ESTRANGER,1
+2015,NICARAGUA                     ,ESTRANGER,1
+2011,NIGÈRIA                       ,ESTRANGER,1
+2014,NIGÈRIA                       ,ESTRANGER,1
+2011,NORUEGA                       ,ESTRANGER,1
+2012,NORUEGA                       ,ESTRANGER,1
+2015,NORUEGA                       ,ESTRANGER,1
+2016,NORUEGA                       ,ESTRANGER,1
+2011,"PAÏSOS BAIXOS, ELS            ",ESTRANGER,2
+2012,"PAÏSOS BAIXOS, ELS            ",ESTRANGER,8
+2013,"PAÏSOS BAIXOS, ELS            ",ESTRANGER,4
+2014,"PAÏSOS BAIXOS, ELS            ",ESTRANGER,4
+2015,"PAÏSOS BAIXOS, ELS            ",ESTRANGER,5
+2016,"PAÏSOS BAIXOS, ELS            ",ESTRANGER,4
+2017,"PAÏSOS BAIXOS, ELS            ",ESTRANGER,1
+2011,"PAKISTAN, EL                  ",ESTRANGER,7
+2012,"PAKISTAN, EL                  ",ESTRANGER,1
+2013,"PAKISTAN, EL                  ",ESTRANGER,1
+2014,"PAKISTAN, EL                  ",ESTRANGER,7
+2015,"PAKISTAN, EL                  ",ESTRANGER,4
+2016,"PAKISTAN, EL                  ",ESTRANGER,7
+2017,"PAKISTAN, EL                  ",ESTRANGER,1
+2014,"PANAMÀ, EL                    ",ESTRANGER,3
+2015,"PANAMÀ, EL                    ",ESTRANGER,1
+2012,"PARAGUAI, EL                  ",ESTRANGER,19
+2013,"PARAGUAI, EL                  ",ESTRANGER,24
+2014,"PARAGUAI, EL                  ",ESTRANGER,16
+2015,"PARAGUAI, EL                  ",ESTRANGER,11
+2016,"PARAGUAI, EL                  ",ESTRANGER,8
+2017,"PARAGUAI, EL                  ",ESTRANGER,4
+2011,"PERÚ, EL                      ",ESTRANGER,4
+2012,"PERÚ, EL                      ",ESTRANGER,17
+2013,"PERÚ, EL                      ",ESTRANGER,16
+2014,"PERÚ, EL                      ",ESTRANGER,3
+2015,"PERÚ, EL                      ",ESTRANGER,4
+2016,"PERÚ, EL                      ",ESTRANGER,8
+2017,"PERÚ, EL                      ",ESTRANGER,4
+2011,POLÒNIA                       ,ESTRANGER,6
+2012,POLÒNIA                       ,ESTRANGER,6
+2013,POLÒNIA                       ,ESTRANGER,2
+2014,POLÒNIA                       ,ESTRANGER,4
+2015,POLÒNIA                       ,ESTRANGER,3
+2011,PORTUGAL                      ,ESTRANGER,1
+2012,PORTUGAL                      ,ESTRANGER,1
+2013,PORTUGAL                      ,ESTRANGER,4
+2014,PORTUGAL                      ,ESTRANGER,6
+2015,PORTUGAL                      ,ESTRANGER,2
+2016,PORTUGAL                      ,ESTRANGER,2
+2017,PORTUGAL                      ,ESTRANGER,1
+2011,"REGNE UNIT, EL                ",ESTRANGER,2
+2012,"REGNE UNIT, EL                ",ESTRANGER,4
+2013,"REGNE UNIT, EL                ",ESTRANGER,1
+2014,"REGNE UNIT, EL                ",ESTRANGER,3
+2015,"REGNE UNIT, EL                ",ESTRANGER,5
+2016,"REGNE UNIT, EL                ",ESTRANGER,7
+2017,"REGNE UNIT, EL                ",ESTRANGER,1
+2011,"REPÚBLICA DOMINICANA, LA      ",ESTRANGER,11
+2012,"REPÚBLICA DOMINICANA, LA      ",ESTRANGER,9
+2013,"REPÚBLICA DOMINICANA, LA      ",ESTRANGER,16
+2014,"REPÚBLICA DOMINICANA, LA      ",ESTRANGER,7
+2015,"REPÚBLICA DOMINICANA, LA      ",ESTRANGER,6
+2016,"REPÚBLICA DOMINICANA, LA      ",ESTRANGER,5
+2012,"REPÚBLICA TXECA, LA           ",ESTRANGER,1
+2013,"REPÚBLICA TXECA, LA           ",ESTRANGER,4
+2011,ROMANIA                       ,ESTRANGER,19
+2012,ROMANIA                       ,ESTRANGER,25
+2013,ROMANIA                       ,ESTRANGER,20
+2014,ROMANIA                       ,ESTRANGER,24
+2015,ROMANIA                       ,ESTRANGER,9
+2016,ROMANIA                       ,ESTRANGER,15
+2017,ROMANIA                       ,ESTRANGER,1
+2011,RÚSSIA                        ,ESTRANGER,1
+2012,RÚSSIA                        ,ESTRANGER,1
+2013,RÚSSIA                        ,ESTRANGER,3
+2014,RÚSSIA                        ,ESTRANGER,4
+2015,RÚSSIA                        ,ESTRANGER,1
+2016,RÚSSIA                        ,ESTRANGER,1
+2017,RÚSSIA                        ,ESTRANGER,1
+2011,"SENEGAL, EL                   ",ESTRANGER,7
+2012,"SENEGAL, EL                   ",ESTRANGER,12
+2013,"SENEGAL, EL                   ",ESTRANGER,11
+2014,"SENEGAL, EL                   ",ESTRANGER,4
+2015,"SENEGAL, EL                   ",ESTRANGER,7
+2016,"SENEGAL, EL                   ",ESTRANGER,4
+2017,"SENEGAL, EL                   ",ESTRANGER,3
+2012,SÈRBIA                        ,ESTRANGER,1
+2011,SIERRA LEONE                  ,ESTRANGER,1
+2017,SIERRA LEONE                  ,ESTRANGER,1
+2012,SÍRIA                         ,ESTRANGER,2
+2016,SUD-ÀFRICA                    ,ESTRANGER,1
+2015,"SUDAN, EL                     ",ESTRANGER,3
+2011,SUÈCIA                        ,ESTRANGER,1
+2014,SUÈCIA                        ,ESTRANGER,2
+2015,SUÈCIA                        ,ESTRANGER,3
+2016,SUÈCIA                        ,ESTRANGER,1
+2011,SUÏSSA                        ,ESTRANGER,2
+2012,SUÏSSA                        ,ESTRANGER,2
+2013,SUÏSSA                        ,ESTRANGER,2
+2014,SUÏSSA                        ,ESTRANGER,1
+2015,SUÏSSA                        ,ESTRANGER,4
+2016,SUÏSSA                        ,ESTRANGER,1
+2016,TURQUIA                       ,ESTRANGER,4
+2011,UCRAÏNA                       ,ESTRANGER,3
+2012,UCRAÏNA                       ,ESTRANGER,2
+2013,UCRAÏNA                       ,ESTRANGER,1
+2015,UCRAÏNA                       ,ESTRANGER,4
+2016,UCRAÏNA                       ,ESTRANGER,1
+2011,"URUGUAI, L                    ",ESTRANGER,8
+2012,"URUGUAI, L                    ",ESTRANGER,7
+2013,"URUGUAI, L                    ",ESTRANGER,10
+2014,"URUGUAI, L                    ",ESTRANGER,4
+2015,"URUGUAI, L                    ",ESTRANGER,5
+2016,"URUGUAI, L                    ",ESTRANGER,1
+2017,"URUGUAI, L                    ",ESTRANGER,1
+2011,VENEÇUELA                     ,ESTRANGER,7
+2012,VENEÇUELA                     ,ESTRANGER,5
+2013,VENEÇUELA                     ,ESTRANGER,6
+2014,VENEÇUELA                     ,ESTRANGER,6
+2015,VENEÇUELA                     ,ESTRANGER,3
+2016,VENEÇUELA                     ,ESTRANGER,8
+2017,VENEÇUELA                     ,ESTRANGER,1
+2013,"VIETNAM, EL                   ",ESTRANGER,1
+2011,XILE                          ,ESTRANGER,15
+2012,XILE                          ,ESTRANGER,32
+2013,XILE                          ,ESTRANGER,10
+2014,XILE                          ,ESTRANGER,9
+2015,XILE                          ,ESTRANGER,4
+2016,XILE                          ,ESTRANGER,6
+2011,"XINA, LA                      ",ESTRANGER,9
+2012,"XINA, LA                      ",ESTRANGER,4
+2013,"XINA, LA                      ",ESTRANGER,9
+2014,"XINA, LA                      ",ESTRANGER,13
+2015,"XINA, LA                      ",ESTRANGER,17
+2016,"XINA, LA                      ",ESTRANGER,6
+2017,"XINA, LA                      ",ESTRANGER,3

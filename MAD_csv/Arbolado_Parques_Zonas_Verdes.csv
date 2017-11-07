@@ -1,0 +1,232 @@
+DISTRITO;Especie;Nombre común;Nº de ejemplares
+CENTRO;Platanus hybrida;Plátano de sombra;899
+CENTRO;Sophora japonica;Acacia del Japón;753
+CENTRO;Aesculus hippocastanum;Castaño de indias ;452
+CENTRO;Acer x freemanii;Arce;376
+CENTRO;Cupressus sempervirens;Ciprés común;295
+CENTRO;Fraxinus angustifolia;Fresno de la tierra;240
+CENTRO;Tilia platyphyllos;Tilo de hojas grandes;217
+CENTRO;Pinus pinea;Pino piñonero;204
+CENTRO;Gleditsia triacanthos;Acacia de tres espinas;197
+CENTRO;Celtis australis;Almez;166
+CENTRO;Otros;;2.415
+ARGANZUELA;Platanus hybrida;Plátano de sombra;2.130
+ARGANZUELA;Pinus pinea;Pino piñonero;1.558
+ARGANZUELA;Melia azedarach;Cinamomo;1.433
+ARGANZUELA;Populus nigra;Chopo negro;1.140
+ARGANZUELA;Celtis australis;Almez;1.025
+ARGANZUELA;Acer negundo;Arce;870
+ARGANZUELA;Aesculus hippocastanum;Castaño de indias ;713
+ARGANZUELA;Catalpa bignonioides;Catalpa;704
+ARGANZUELA;Pinus halepensis;Pino carrasco;684
+ARGANZUELA;Robinia pseudoacacia;Falsa acacia;683
+ARGANZUELA;Otros;;10.569
+RETIRO;Aesculus hippocastanum;Castaño de indias ;6.542
+RETIRO;Ulmus pumila;Olmo de Siberia;1.704
+RETIRO;Pinus pinea;Pino piñonero;1.555
+RETIRO;Sophora japonica;Acacia del Japón;1.055
+RETIRO;Cupressus sempervirens;Ciprés común;987
+RETIRO;Platanus hispanica;Platano de sombra;941
+RETIRO;Robinia pseudoacacia;Falsa acacia;772
+RETIRO;Cercis siliquastrum;Árbol del amor;742
+RETIRO;Trachycarpus fortunei;Palma de Fortune;730
+RETIRO;Celtis australis;Almez;712
+RETIRO;Otros;;11.768
+SALAMANCA;Sophora japonica;Acacia del Japón;1.085
+SALAMANCA;Pinus pinea;Pino piñonero;1.083
+SALAMANCA;Platanus hybrida;Plátano de sombra;646
+SALAMANCA;Ulmus pumila;Olmo de Siberia;601
+SALAMANCA;Prunus cerasifera pissardii;Ciruelo rojo;504
+SALAMANCA;Populus alba;Álamo blanco;429
+SALAMANCA;Cupressus sempervirens;Ciprés común;352
+SALAMANCA;Acer negundo;Arce;340
+SALAMANCA;Ligustrum lucidum;Aligustre arbóreo;335
+SALAMANCA;Cedrus atlantica;Cedro del Atlas;324
+SALAMANCA;Otros;;4.269
+CHAMARTIN;Platanus hybrida;Plátano de sombra;1.796
+CHAMARTIN;Pinus pinea;Pino piñonero;1.445
+CHAMARTIN;Ulmus pumila;Olmo de Siberia;978
+CHAMARTIN;Prunus cerasifera pissardii;Ciruelo rojo;959
+CHAMARTIN;Populus alba;Álamo blanco;752
+CHAMARTIN;Cupressocyparis leylandii;Ciprés de Leyland;524
+CHAMARTIN;Sophora japonica;Acacia del Japón;460
+CHAMARTIN;Aesculus hippocastanum;Castaño de indias ;449
+CHAMARTIN;Cupressus sempervirens;Ciprés común;426
+CHAMARTIN;Robinia pseudoacacia;Falsa acacia;395
+CHAMARTIN;Otros;;4.224
+TETUAN;Platanus hybrida;Plátano de sombra;2.126
+TETUAN;Pinus halepensis;Pino carrasco;1.757
+TETUAN;Pinus pinea;Pino piñonero;1.017
+TETUAN;Prunus cerasifera pissardii;Ciruelo rojo;736
+TETUAN;Cupressus sempervirens;Ciprés común;454
+TETUAN;Aesculus hippocastanum;Castaño de indias ;450
+TETUAN;Ligustrum japonicum;Aligustre del Japón;423
+TETUAN;Ulmus pumila;Olmo de Siberia;413
+TETUAN;Sophora japonica;Acacia del Japón;365
+TETUAN;Robinia pseudoacacia;Falsa acacia;340
+TETUAN;Otros;;4.232
+CHAMBERI;Sophora japonica;Acacia del Japón;1.041
+CHAMBERI;Platanus hybrida;Plátano de sombra;320
+CHAMBERI;Prunus cerasifera pissardii;Ciruelo rojo;166
+CHAMBERI;Ulmus pumila;Olmo de Siberia;133
+CHAMBERI;Aesculus hippocastanum;Castaño de indias ;77
+CHAMBERI;Gleditsia triacanthos;Acacia de tres espinas;77
+CHAMBERI;Albizia julibrissin;Acacia de Constantinopla;72
+CHAMBERI;Ligustrum japonicum;Aligustre del Japón;61
+CHAMBERI;Pinus pinea;Pino piñonero;60
+CHAMBERI;Robinia pseudoacacia;Falsa acacia;54
+CHAMBERI;Otros;;475
+FUENCARRAL-EL PARDO           ;Pinus pinea;Pino piñonero;13.670
+FUENCARRAL-EL PARDO           ;Ulmus pumila;Olmo de Siberia;6.479
+FUENCARRAL-EL PARDO           ;Platanus hybrida;Plátano de sombra;5.617
+FUENCARRAL-EL PARDO           ;Pinus halepensis;Pino carrasco;4.037
+FUENCARRAL-EL PARDO           ;Pinus pinaster;Pino resinero;2.530
+FUENCARRAL-EL PARDO           ;Celtis australis;Almez;2.455
+FUENCARRAL-EL PARDO           ;Cedrus deodara;Cedro llorón;2.380
+FUENCARRAL-EL PARDO           ;Populus alba;Álamo blanco;2.314
+FUENCARRAL-EL PARDO           ;Prunus cerasifera pissardii;Ciruelo rojo;2.031
+FUENCARRAL-EL PARDO           ;Aesculus hippocastanum;Castaño de indias ;1.843
+FUENCARRAL-EL PARDO           ;Otros;;28.367
+MONCLOA-ARAVACA               ;Pinus pinea;Pino piñonero;311.484
+MONCLOA-ARAVACA               ;Quercus ilex;Encina;230.370
+MONCLOA-ARAVACA               ;Cupressus arizonica;Ciprés de Arizona;54.493
+MONCLOA-ARAVACA               ;Ulmus pumila;Olmo de Siberia;35.383
+MONCLOA-ARAVACA               ;Fraxinus angustifolia;Fresno de la tierra;14.293
+MONCLOA-ARAVACA               ;Pinus halepensis;Pino carrasco;14.211
+MONCLOA-ARAVACA               ;Cupressus sempervirens;Ciprés común;5.549
+MONCLOA-ARAVACA               ;Platanus hispanica;Platano de sombra;3.385
+MONCLOA-ARAVACA               ;Sophora japonica;Acacia del Japón;2.562
+MONCLOA-ARAVACA               ;Acer negundo;Arce;2.534
+MONCLOA-ARAVACA               ;Otros;;38.491
+LATINA;Pinus pinea;Pino piñonero;16.896
+LATINA;Ulmus pumila;Olmo de Siberia;7.167
+LATINA;Robinia pseudoacacia;Falsa acacia;3.395
+LATINA;Pinus halepensis;Pino carrasco;3.340
+LATINA;Platanus hybrida;Plátano de sombra;3.134
+LATINA;Populus alba;Álamo blanco;2.032
+LATINA;Prunus cerasifera pissardii;Ciruelo rojo;1.835
+LATINA;Acer negundo;Arce;1.726
+LATINA;Cupressus sempervirens;Ciprés común;1.698
+LATINA;Cedrus deodara;Cedro llorón;1.300
+LATINA;Otros;;15.923
+CARABANCHEL;Pinus pinea;Pino piñonero;21.612
+CARABANCHEL;Platanus hybrida;Plátano de sombra;3.697
+CARABANCHEL;Cupressus arizonica;Ciprés de Arizona;2.678
+CARABANCHEL;Ulmus pumila;Olmo de Siberia;2.566
+CARABANCHEL;Jasminum sp;Jazmines;2.308
+CARABANCHEL;Populus alba;Álamo blanco;1.917
+CARABANCHEL;Populus sp;Chopo;1.725
+CARABANCHEL;Pinus halepensis;Pino carrasco;1.585
+CARABANCHEL;Celtis australis;Almez;1.491
+CARABANCHEL;Robinia pseudoacacia;Falsa acacia;1.489
+CARABANCHEL;Otros;;18.574
+USERA;Ulmus pumila;Olmo de Siberia;3.406
+USERA;Pinus pinea;Pino piñonero;3.197
+USERA;Platanus hybrida;Plátano de sombra;2.966
+USERA;Robinia pseudoacacia;Falsa acacia;1.503
+USERA;Prunus cerasifera pissardii;Ciruelo rojo;1.320
+USERA;Pinus halepensis;Pino carrasco;1.268
+USERA;Celtis australis;Almez;1.048
+USERA;Populus alba;Álamo blanco;969
+USERA;Cupressus sempervirens;Ciprés común;809
+USERA;Acer negundo;Arce;808
+USERA;Otros;;11.936
+PUENTE DE VALLECAS;Pinus halepensis;Pino carrasco;9.592
+PUENTE DE VALLECAS;Pinus pinea;Pino piñonero;8.314
+PUENTE DE VALLECAS;Cupressus arizonica;Ciprés de Arizona;5.927
+PUENTE DE VALLECAS;Platanus orientalis;Plátano oriental;4.683
+PUENTE DE VALLECAS;Ulmus pumila;Olmo de Siberia;4.256
+PUENTE DE VALLECAS;Cupressus sempervirens;Ciprés común;2.626
+PUENTE DE VALLECAS;Robinia pseudoacacia;Falsa acacia;1.826
+PUENTE DE VALLECAS;Cedrus atlantica;Cedro del Atlas;1.419
+PUENTE DE VALLECAS;Acer negundo;Arce;1.355
+PUENTE DE VALLECAS;Prunus cerasifera pissardii;Ciruelo rojo;1.232
+PUENTE DE VALLECAS;Otros;;16.308
+MORATALAZ;Pinus halepensis;Pino carrasco;5.319
+MORATALAZ;Ulmus pumila;Olmo de Siberia;5.252
+MORATALAZ;Pinus pinea;Pino piñonero;5.125
+MORATALAZ;Platanus orientalis;Plátano oriental;1.493
+MORATALAZ;Celtis australis;Almez;1.423
+MORATALAZ;Quercus ilex;Encina;1.138
+MORATALAZ;Prunus cerasifera pissardii;Ciruelo rojo;1.104
+MORATALAZ;Cedrus deodara;Cedro llorón;992
+MORATALAZ;Cupressocyparis leylandii;Ciprés de Leyland;877
+MORATALAZ;Acer negundo;Arce;819
+MORATALAZ;Otros;;11.592
+CIUDAD LINEAL;Pinus pinea;Pino piñonero;6.794
+CIUDAD LINEAL;Pinus halepensis;Pino carrasco;4.253
+CIUDAD LINEAL;Ulmus pumila;Olmo de Siberia;2.871
+CIUDAD LINEAL;Platanus hybrida;Plátano de sombra;1.891
+CIUDAD LINEAL;Prunus cerasifera pissardii;Ciruelo rojo;1.603
+CIUDAD LINEAL;Quercus ilex;Encina;1.102
+CIUDAD LINEAL;Robinia pseudoacacia;Falsa acacia;1.023
+CIUDAD LINEAL;Acer negundo;Arce;948
+CIUDAD LINEAL;Cupressus sempervirens;Ciprés común;940
+CIUDAD LINEAL;Ulmus minor;Ulmus minor;926
+CIUDAD LINEAL;Otros;;11.444
+HORTALEZA;Pinus pinea;Pino piñonero;39.107
+HORTALEZA;Pinus halepensis;Pino carrasco;9.071
+HORTALEZA;Quercus ilex;Encina;6.118
+HORTALEZA;Celtis australis;Almez;3.309
+HORTALEZA;Populus nigra;Chopo negro;2.939
+HORTALEZA;Pinus nigra;Pino laricio;2.595
+HORTALEZA;Quercus faginea;Quejigo;2.556
+HORTALEZA;Populus alba;Álamo blanco;2.530
+HORTALEZA;Platanus hybrida;Plátano de sombra;2.331
+HORTALEZA;Cupressus sempervirens;Ciprés común;2.090
+HORTALEZA;Otros;;41.993
+VILLAVERDE;Pinus halepensis;Pino carrasco;22.886
+VILLAVERDE;Ulmus pumila;Olmo de Siberia;4.779
+VILLAVERDE;Pinus pinea;Pino piñonero;4.212
+VILLAVERDE;Acer campestre;Arce campestre;3.826
+VILLAVERDE;Celtis australis;Almez;2.045
+VILLAVERDE;Platanus hybrida;Plátano de sombra;1.818
+VILLAVERDE;Prunus cerasifera pissardii;Ciruelo rojo;1.753
+VILLAVERDE;Aesculus hippocastanum;Castaño de indias ;1.449
+VILLAVERDE;Populus alba;Álamo blanco;1.143
+VILLAVERDE;Robinia pseudoacacia;Falsa acacia;1.135
+VILLAVERDE;Otros;;12.872
+VILLA DE VALLECAS;Pinus halepensis;Pino carrasco;33.525
+VILLA DE VALLECAS;Platanus hybrida;Plátano de sombra;4.305
+VILLA DE VALLECAS;Pinus pinea;Pino piñonero;1.710
+VILLA DE VALLECAS;Sorbus aucuparia;Serbal de los cazadores;1.591
+VILLA DE VALLECAS;Celtis australis;Almez;1.345
+VILLA DE VALLECAS;Ulmus pumila;Olmo de Siberia;1.259
+VILLA DE VALLECAS;Cupressus sempervirens;Ciprés común;1.189
+VILLA DE VALLECAS;Robinia pseudoacacia;Falsa acacia;1.163
+VILLA DE VALLECAS;Prunus cerasifera pissardii;Ciruelo rojo;1.040
+VILLA DE VALLECAS;Acer negundo;Arce;913
+VILLA DE VALLECAS;Otros;;10.885
+VICALVARO;Pinus halepensis;Pino carrasco;9.484
+VICALVARO;Pinus pinea;Pino piñonero;3.830
+VICALVARO;Platanus orientalis;Plátano oriental;1.930
+VICALVARO;Ulmus pumila;Olmo de Siberia;1.700
+VICALVARO;Robinia pseudoacacia;Falsa acacia;1.671
+VICALVARO;Aesculus hippocastanum;Castaño de indias ;1.183
+VICALVARO;Celtis australis;Almez;936
+VICALVARO;Populus alba;Álamo blanco;812
+VICALVARO;Prunus cerasifera pissardii;Ciruelo rojo;773
+VICALVARO;Acer negundo;Arce;717
+VICALVARO;Otros;;7.151
+SAN BLAS-CANILLEJAS;Pinus pinea;Pino piñonero;8.572
+SAN BLAS-CANILLEJAS;Platanus hybrida;Plátano de sombra;3.397
+SAN BLAS-CANILLEJAS;Pinus halepensis;Pino carrasco;3.112
+SAN BLAS-CANILLEJAS;Ulmus pumila;Olmo de Siberia;2.026
+SAN BLAS-CANILLEJAS;Prunus dulcis;Almendro;1.732
+SAN BLAS-CANILLEJAS;Robinia pseudoacacia;Falsa acacia;1.528
+SAN BLAS-CANILLEJAS;Celtis australis;Almez;1.220
+SAN BLAS-CANILLEJAS;Cupressus sempervirens;Ciprés común;1.178
+SAN BLAS-CANILLEJAS;Acer negundo;Arce;1.009
+SAN BLAS-CANILLEJAS;Gleditsia triacanthos;Acacia de tres espinas;868
+SAN BLAS-CANILLEJAS;Otros;;13.726
+BARAJAS;Pinus pinea;Pino piñonero;2.501
+BARAJAS;Olea europaea;Olivo;2.437
+BARAJAS;Catalpa bignonioides;Catalpa;1.325
+BARAJAS;Pinus halepensis;Pino carrasco;1.267
+BARAJAS;Sophora japonica;Acacia del Japón;1.079
+BARAJAS;Cupressus sempervirens;Ciprés común;1.033
+BARAJAS;Platanus hybrida;Plátano de sombra;1.006
+BARAJAS;Cercis siliquastrum;Árbol del amor;916
+BARAJAS;Cupressocyparis leylandii;Ciprés de Leyland;882
+BARAJAS;Populus alba;Álamo blanco;825
+BARAJAS;Otros;;15.349

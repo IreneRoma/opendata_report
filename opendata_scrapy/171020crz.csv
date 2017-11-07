@@ -1,0 +1,76 @@
+city,description,publisher,url,title,tag,date_extraction,frequency,formats,licenses,date_actualization,lenguage,date_creation,categories,geography
+CRZ,"Agenda de eventos y actividades de ocio, deportivas y culturales desarrolladas en el municipio
+",,http://www.santacruzdetenerife.es/opendata/dataset/agenda-cultural,Agenda cultural,ciencia-tecnologia,2017/10/20_12:49:02,Diaria,"CSV,JSON,RDF",Creative Commons Attribution,"Octubre 20, 2017",,,Cultura y ocio,
+CRZ,"Ofertas de empleo público municipales y oposiciones municipales en curso
+",,http://www.santacruzdetenerife.es/opendata/dataset/ofertas-de-empleo,Ofertas de empleo,empleo,2017/10/20_12:49:02,Diaria,"CSV,RDF",Creative Commons Attribution,"Octubre 20, 2017",,,Empleo,
+CRZ,"Geolocalización de las papeleras con identificación de su tipología.
+",,http://www.santacruzdetenerife.es/opendata/dataset/papeleras,Papeleras,medio-ambiente,2017/10/20_12:49:03,not-found,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Medio ambiente,
+CRZ,"Trazado lineal de los números de gobierno o de policía del municipio.
+",,http://www.santacruzdetenerife.es/opendata/dataset/numeracion,Numeración,"transporte,urbanismo-infraestr...",2017/10/20_12:49:03,not-found,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Transporte,
+CRZ,"Geolocalización de Oficinas municipales
+",,http://www.santacruzdetenerife.es/opendata/dataset/sedes-municipales,Sedes municipales,"sector-publico,urbanismo-infraestr...",2017/10/20_12:49:03,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Sector público,
+CRZ,"Trazado lineal de los viales del municipio. Incluye calles, avenidas, barrancos, enlaces, lugares, carreteras, plazas, glorietas.etc.
+",,http://www.santacruzdetenerife.es/opendata/dataset/viales,Viales,"transporte,urbanismo-infraestr...",2017/10/20_12:49:03,Diaria,"CSV,JSON,geojson,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Transporte,
+CRZ,"Geolocalización de los Parques Infantiles.
+",,http://www.santacruzdetenerife.es/opendata/dataset/parques-infantiles,Parques infantiles,sociedad-bienestar,2017/10/20_12:49:04,not-found,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Sociedad y bienestar,
+CRZ,"Geolocalización de miradores.
+",,http://www.santacruzdetenerife.es/opendata/dataset/miradores,Miradores,turismo,2017/10/20_12:49:04,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Turismo,
+CRZ,"Geolocalización de los paneles electorales de espacio gratuito para los partidos políticos concurrentes a las elecciones Generales de 26 de junio de 2016.
+",,http://www.santacruzdetenerife.es/opendata/dataset/paneles-electorales-junio-2016,Paneles electorales (Elecc. Generales junio 2016),sector-publico,2017/10/20_12:49:04,not-found,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Sector público,
+CRZ,"Localización e identificación de las paradas del bus turístico de visita de la ciudad.
+",,http://www.santacruzdetenerife.es/opendata/dataset/paradas-del-bus-turistico,Paradas del Bus Turístico,turismo,2017/10/20_12:49:04,not-found,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Turismo,
+CRZ,"Localización y trazado de las líneas de conexión entre las diversas paradas del bus turístico de la ciudad.
+",,http://www.santacruzdetenerife.es/opendata/dataset/trazado-de-lineas-del-bus-turistico,Trazado de líneas del Bus Turístico,turismo,2017/10/20_12:49:05,not-found,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Turismo,
+CRZ,"Geolocalización de instalaciones deportivas municipales o de otras administraciones públicas
+",,http://www.santacruzdetenerife.es/opendata/dataset/instalaciones-deportivas,Instalaciones deportivas,"deporte,urbanismo-infraestr...",2017/10/20_12:49:05,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Deporte,
+CRZ,"Geolocalización de los lugares aptos, previa licencia municipal, para colocación de banderolas publicitarias.
+",,http://www.santacruzdetenerife.es/opendata/dataset/banderolas-publicitarias,Banderolas Publicitarias,"comercio,urbanismo-infraestr...",2017/10/20_12:49:05,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Comercio,
+CRZ,"Geolocalización de las entidades locales o nacionales en materias de seguridad, como Policía local, Policía nacional, Bomberos y Protección civil
+",,http://www.santacruzdetenerife.es/opendata/dataset/instalaciones-de-seguridad-y-emergencias,Instalaciones de seguridad y emergencias,seguridad,2017/10/20_12:49:05,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Seguridad,
+CRZ,"Relación de recursos para mayores disponibles en el municipio: Residencias, centros de día, asociaciones de mayores, ...
+",,http://www.santacruzdetenerife.es/opendata/dataset/recursos-de-mayores,Recursos para mayores,sociedad-bienestar,2017/10/20_12:49:06,Diaria,"CSV,geojson,RDF",Creative Commons Attribution,"Octubre 19, 2017",,,Sociedad y bienestar,
+CRZ,"Geolocalización de instalaciones culturales presentes en el municipio
+",,http://www.santacruzdetenerife.es/opendata/dataset/instalaciones-culturales,Instalaciones culturales,cultura-ocio,2017/10/20_12:49:06,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Cultura y ocio,
+CRZ,"Geolocalización de plazas de aparcamiento para personas de movilidad reducida.
+",,http://www.santacruzdetenerife.es/opendata/dataset/aparcamientos-para-personas-con-movilidad-reducida,Aparcamientos para personas con movilidad reducida,"sociedad-bienestar,urbanismo-infraestr...",2017/10/20_12:49:06,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Sociedad y bienestar,
+CRZ,"Geolocalización de las paradas de taxi del municipio
+",,http://www.santacruzdetenerife.es/opendata/dataset/paradas-de-taxi,Paradas de taxi,transporte,2017/10/20_12:49:06,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Transporte,
+CRZ,"Geolocalización de las farmacias del municipio
+",,http://www.santacruzdetenerife.es/opendata/dataset/farmacias,Farmacias,salud,2017/10/20_12:49:07,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Salud,
+CRZ,"Geolocalización de los establecimientos hoteleros
+",,http://www.santacruzdetenerife.es/opendata/dataset/hoteles,Hoteles,turismo,2017/10/20_12:49:07,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Turismo,
+CRZ,"Delimitación de los 5 distritos del municipio con datos acumulado de población.
+",,http://www.santacruzdetenerife.es/opendata/dataset/distritos,Distritos,sector-publico,2017/10/20_12:49:08,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Sector público,
+CRZ,"Geolocalización de los Colegios electorales para las elecciones Generales del 26 de junio de 2016. Incluye las mesas de cada colegio
+",,http://www.santacruzdetenerife.es/opendata/dataset/colegios-electorales-junio-2016,Colegios electorales (Elecc. Generales junio 2016),sector-publico,2017/10/20_12:49:08,not-found,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Sector público,
+CRZ,"Geolocalización de los contenedores RSAC con especificaciones de su capacidad
+",,http://www.santacruzdetenerife.es/opendata/dataset/contenedores-rsac,Aceite usado. RSAC. Contenedores de  recogida selectiva de aceite,medio-ambiente,2017/10/20_12:49:08,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Medio ambiente,
+CRZ,"Geolocalización de los contenedores RSRC con especificaciones de su capacidad.
+",,http://www.santacruzdetenerife.es/opendata/dataset/contenedores-rsrc,Ropa y Calzado. RSRC. Contenedores  de recogida selectiva de textil,medio-ambiente,2017/10/20_12:49:08,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Medio ambiente,
+CRZ,"Trazado de Carril Bici
+",,http://www.santacruzdetenerife.es/opendata/dataset/carril-bici,Carril Bici,deporte,2017/10/20_12:49:09,not-found,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Deporte,
+CRZ,"Geolocalización de los contenedores RRSU con especificaciones de la capacidad y número de contenedores por cada punto de recogida. Localización del número de vial más cercano al punto de recogida.
+",,http://www.santacruzdetenerife.es/opendata/dataset/contenedores-rrsu,Basura. RRSU. Contenedores de recogida de residuos sólidos urbanos,medio-ambiente,2017/10/20_12:49:09,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Medio ambiente,
+CRZ,"Geolocalización de los contenedores RSPC con especificaciones de la capacidad y número de contenedores por cada punto de recogida. Localización de vial más cercano al punto de recogida.
+",,http://www.santacruzdetenerife.es/opendata/dataset/contenedores-rspc,Papel-cartón. RSPC. Contenedores de  recogida selectiva de papel y cartón.,medio-ambiente,2017/10/20_12:49:09,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Medio ambiente,
+CRZ,"Geolocalización de las gasolineras existentes en el término municipal
+",,http://www.santacruzdetenerife.es/opendata/dataset/estaciones-de-servicio,Estaciones de servicio - Gasolineras,energia,2017/10/20_12:49:09,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Energía,
+CRZ,"Geolocalización de los contenedores RSEL con especificaciones de la capacidad y número de contenedores por cada punto de recogida. Localización del número de vial más cercano al punto de recogida.
+",,http://www.santacruzdetenerife.es/opendata/dataset/contenedores-rsel,Envases. RSEL. Contenedores de recogida  selectiva de envases.,medio-ambiente,2017/10/20_12:49:10,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Medio ambiente,
+CRZ,"Delimitación de los barrios del municipio con datos demográficos asociados.
+",,http://www.santacruzdetenerife.es/opendata/dataset/barrios,Barrios,demografia,2017/10/20_12:49:10,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Demografía,
+CRZ,"Geolocalización de elementos de ejercicio urbano. Aparatos para ejercicio al aire libre
+",,http://www.santacruzdetenerife.es/opendata/dataset/bio-saludables-aparatos-de-ejercicio,Biosaludables - Aparatos de ejercicios,"salud,urbanismo-infraestr...",2017/10/20_12:49:10,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Salud,
+CRZ,"Geolocalización de los contenedores RSEV con especificaciones de la capacidad y número de contenedores por cada punto de recogida.
+",,http://www.santacruzdetenerife.es/opendata/dataset/contenedores-rsev,Vidrio. RSEV. Contenedores de  recogida selectiva de vidrio,medio-ambiente,2017/10/20_12:49:10,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Medio ambiente,
+CRZ,"Geolocalización de esculturas o monumentos en el Municipio
+",,http://www.santacruzdetenerife.es/opendata/dataset/esculturas,Esculturas (Parque García Sanabria),cultura-ocio,2017/10/20_12:49:11,not-found,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Cultura y ocio,
+CRZ,"Ubicación de la entrada de aparcamientos existentes en la ciudad. Gestión pública y privada
+",,http://www.santacruzdetenerife.es/opendata/dataset/aparcamientos,Aparcamientos,transporte,2017/10/20_12:49:11,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Transporte,
+CRZ,"Localización y tipología de los punto de carga de vehículo eléctrico existentes en el municipio
+",,http://www.santacruzdetenerife.es/opendata/dataset/punto-de-carga-de-vehiculo-electrico,Punto de carga de vehículo eléctrico,medio-ambiente,2017/10/20_12:49:11,not-found,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Medio ambiente,
+CRZ,"Geolocalización de los contenedores RAEE con especificaciones de la capacidad y número de contenedores por cada punto de recogida.
+",,http://www.santacruzdetenerife.es/opendata/dataset/contenedores-raee,Residuos eléctricos. RAEE. Contenedores de recogida selectiva de aparatos eléctricos,medio-ambiente,2017/10/20_12:49:11,Diaria,"CSV,geojson,JSON,KML,kmz,shp,RDF,XLS",Creative Commons Attribution,"Octubre 19, 2017",,,Medio ambiente,
+CRZ,not-found,,http://www.santacruzdetenerife.es/opendata/dataset/indice-datasets,Índice Datasets,,2017/10/20_12:49:12,not-found,JSON,Creative Commons Attribution,"Junio 30, 2016",,,not-found,
+CRZ,"Presupuestos 2016 de la Entidad Ayuntamiento, Organismos Autónomos, Entes Instrumentales y Sociedades Municipales
+",,http://www.santacruzdetenerife.es/opendata/dataset/presupuestos,Presupuestos generales,economia,2017/10/20_12:49:12,Anual,"PDF,PDF,PDF,PDF,PDF,PDF,PDF,PDF",Creative Commons Attribution,"Junio 6, 2016",,,Economía,

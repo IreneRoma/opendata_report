@@ -1,0 +1,20 @@
+RELACIÓN DE ESTACIONES Y CONTAMINANTES EN LA RCCAVA (RED DE CONTROL DE CONTAMINACIÓN ATMOSFÉRICA DEL AYUNTAMIENTO DE VALLADOLID) ;;;;;;;;;;;
+28 DE ENERO DE 2014;;;;;;;;;;;
+;;;;;;;;;;;
+ESTACIÓN;COORDENADA X;COORDENADA Y;UBICACIÓN;SO2;PM10;PM2,5;NO/NO2;O3;CO;Ruido;BTX
+Arco Ladrillo II;355912,54;4611868,00;Arco Ladrillo, 3;;X;X;X;;X;X;
+La Rubia II;355121,12;4610350,16;Daniel del Olmo s/n;X;X;X;X;;;X;
+Vega Sicilia;354480,65;4609082,17;Paseo de Zorrilla, 191;;X;X;X;X;;X;X
+Puente Regueral;355576,82;4613108,89;Leopoldo de Castro, 6;;X;X;X;X;;X;X
+Valladolid Sur;352431,98;4613108,89;Olimpiadas, 40;;;;X;X;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+SO2;;Dióxido de azufre;;;;;;;;;
+PM10;;Material particulado con un diámetro aerodinámico menor de 10 micras (µm);;;;;;;;;
+PM2,5;;Material particulado con un diámetro aerodinámico menor de 2,5 micras (µm);;;;;;;;;
+NO;;Monóxido de nitrógeno;;;;;;;;;
+NO2;;Dióxido de nitrógeno;;;;;;;;;
+O3;;Ozono troposférico;;;;;;;;;
+CO;;Monóxido de carbono;;;;;;;;;
+BTX;;Benceno, Tolueno, Xileno;;;;;;;;;
+Ruido;;Ruido urbano en dbA (decibelios);;;;;;;;;

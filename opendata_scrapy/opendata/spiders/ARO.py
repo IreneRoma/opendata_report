@@ -77,7 +77,7 @@ class QuotesSpider(scrapy.Spider):
                         
                     item['description'] = response.xpath('//*[@class="notes embedded-content"]/p/text()').extract_first(default='not-found')
                     
-                    item['licence'] = response.xpath('//*[@class="module module-narrow module-shallow license"]//*[@class="module-content"]/a/text()').extract_first(default='not-found')  
+                    item['licenses'] = response.xpath('//*[@class="module module-narrow module-shallow license"]//*[@class="module-content"]/a/text()').extract_first(default='not-found')  
 
                     item['city'] = "ARO"
 
@@ -94,6 +94,9 @@ class QuotesSpider(scrapy.Spider):
                     title = title.strip() 
                     
                     item['title'] = title
+
+                    item['publisher'] = response.xpath('//*[@id="content"]/div[3]/aside/div/section/h1/text()').extract_first(default='not-found')
+
 
                     item['url'] = response.url
     

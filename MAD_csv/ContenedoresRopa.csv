@@ -1,0 +1,149 @@
+Identificador;DISTRITO;UBICACION;CENTRO;TIPO_VIAL;PARTICULA;NOMBRE_VIA;NUMERO_VIA;COORDENADAX;COORDENADAY;Longitud;Latitud
+CONT_ROP_USA_1;CENTRO;Calle Santa Cruz de Marcenado 21;CantÛn de Limpieza;Calle;de;Santa Cruz de Marcenado;21;4.397.195.673;4.475.611.349;-3.7106636;40.428952
+CONT_ROP_USA_2;CENTRO;Calle Casino3;"Centro Comunitario y Centro de DÌa ""Casino de la Reina""";Calle;del;Casino;3;440.195.735;4.473.140.126;-3.7048200;40.406727
+CONT_ROP_USA_3;ARGANZUELA;Calle Estrella DenÈbola 5;Punto Limpio Fijo;Calle;de la ;Estrella DenÈbola;5;4.420.022.998;4.471.733.887;-3.6833972;40.394180
+CONT_ROP_USA_4;ARGANZUELA;Calle Alicante 14;"Centro Deportivo Municipal Arganzuela ""La Fundi""";Calle;de;Alicante;14;4.413.472.861;4.471.738.567;-3.6911151;40.394179
+CONT_ROP_USA_5;ARGANZUELA;Paseo De La Chopera 10;"Junta Municipal Distrito ""Casa del Reloj""";Paseo;de la;Chopera;10;440.672.626;4.471.620.681;-3.6990572;40.393068
+CONT_ROP_USA_6;ARGANZUELA;Calle Arganda 25;"Centro Deportivo Municipal ""PeÒuelas""";Calle;de;Arganda;25;440.134.326;4.472.338.349;-3.7054634;40.399498
+CONT_ROP_USA_7;ARGANZUELA;Paseo Imperial 20;"Centro Deportivo Municipal ""MarquÈs de Samaranch""";Paseo;-;Imperial;20;4.391.346.486;4.473.238.501;-3.7173327;40.407533
+CONT_ROP_USA_8;ARGANZUELA;Calle Ricardo Damas 4;"InstalaciÛn Deportiva Municipal B·sica ""Ricardo Damas""";Calle;de;Ricardo Damas ;4;4.412.519.715;4.470.773.982;-3.6921572;40.385479
+CONT_ROP_USA_9;RETIRO;Calle Luis PeidrÛ 2;"Centro Socio Cultural ""Luis PeidrÛ""";Calle;de;Luis PeidrÛ;2;4.428.424.267;4.472.040.205;-3.6735276;40.397003
+CONT_ROP_USA_10;RETIRO;Avenida Barcelona 83;"Centro EducaciÛn Infantil Y Primaria ""Calvo Sotelo""";Avenida;de;Barcelona;83;4.428.349.727;4.472.473.383;-3.6736608;40.400903
+CONT_ROP_USA_11;RETIRO;Calle PÌo Baroja 4;"Centro EducaciÛn Infantil Y Primaria ""Escuelas Aguirre""";Calle;de;PÌo Baroja;4;4.427.615.924;4.473.972.173;-3.6746558;40.414402
+CONT_ROP_USA_12;RETIRO;Calle PÌo Baroja 8;"Centro Mayores ""PÌo Baroja""";Calle;de;PÌo Baroja;8;4.427.611.423;4.473.847.225;-3.6746446;40.413276
+CONT_ROP_USA_13;RETIRO;Calle Juan Esplandi˙ 2;"Colegio P˙blico ""Ciudad De Roma""";Calle;de;Juan Esplandi˙;2;4.435.178.016;4.474.067.541;-3.6657541;40.415310
+CONT_ROP_USA_14;SALAMANCA;Calle Doctor GÛmez Ulla 9;"InstalaciÛn Deportiva Municipal B·sica ""Eva Duarte""";Calle;de;Doctor G√≥mez Ulla;9;4.433.407.069;4475698.38;-3.6679856;40.429991
+CONT_ROP_USA_15;SALAMANCA;Calle Alcalde Sainz de Baranda 94;"InstalaciÛn Deportiva Municipal B·sica ""Torre EspaÒa""";Calle;del;Alcalde Sainz de Baranda;94;4.439.315.951;4.474.722.214;-3.6609324;40.421238
+CONT_ROP_USA_16;CHAMARTIN;Calle Pradillo 33;"Centro Deportivo Municipal ""Pradillo""";Calle;de;Pradillo;33;4.430.391.873;4.477.823.427;-3.6717244;40.449113
+CONT_ROP_USA_17;CHAMARTIN;Avenida Alfonso XIII  128;Punto Limpio Fijo;Avenida;de;Alfonso XIII (Entrada junto gasolinera);128;443.406.003;4.478.883.969;-3.6674913;40.458687
+CONT_ROP_USA_18;CHAMARTIN;Calle Puerto Rico 52;"InstalaciÛn Deportiva Municipal B·sica ""Puerto Rico""";Calle;de;Puerto Rico;52;4.428.440.464;4478937.36;-3.6741242;40.459135
+CONT_ROP_USA_19;TETUAN;Calle Francos RodrÌguez 67;"Biblioteca Municipal ""Manuel V·zquez Montalb·n""";Calle;de;Francos RodrÌguez;67;439.740.684;4.478.745.132;-3.7107133;40.457186
+CONT_ROP_USA_20;TETUAN;Calle Hierbabuena 2;"Centro Deportivo Municipal ""Playa Victoria""";Calle;de;Hierbabuena;2;4.404.902.861;4.478.949.567;-3.7018875;40.459078
+CONT_ROP_USA_21;TETUAN;Calle General Aranda;"Centro Social Comunitario ""Josefa Amar""";Calle;de;General Aranda;30;4.411.702.211;4.480.508.094;-3.6940124;40.473170
+CONT_ROP_USA_22;TETUAN;Calle Bravo Murillo;"Centro Deportivo Municipal ""Tri·ngulo De Oro""";Calle;de;Bravo Murillo;376;4.412.832.861;4.479.593.567;-3.6925947;40.464936
+CONT_ROP_USA_23;FUENCARRAL;Calle Mira El Rio;"Centro Sociocultural ""Alfonso XII""";Calle;de;Mira El Rio;4;4.341.083.996;4.485.732.207;-3.7778586;40.519699
+CONT_ROP_USA_24;FUENCARRAL;Calle Badalona;"Centro Servicios Sociales ""Badalona""";Calle;de;Badalona;122;4.409.105.099;4482768.12;-3.6972900;40.493511
+CONT_ROP_USA_25;FUENCARRAL;Glorieta Pradera Vaquerizas 9;"Centro Cultural ""Alfredo Kraus""";Glorieta;de;Pradera Vaquerizas;9;4.388.431.416;4.482.484.858;-3.7216524;40.490803
+CONT_ROP_USA_26;FUENCARRAL;Calle ⁄beda 6;Punto Limpio Fijo Distrito;Calle;de;⁄beda;6;439.270.209;4.481.531.528;-3.7165229;40.482249
+CONT_ROP_USA_27;FUENCARRAL;Avenida Monforte de Lemos 38;"Centro De Mayores ""La Vaguada""";Avenida;de;Monforte de Lemos;38;4.398.644.231;4481121.43;-3.7094762;40.478599
+CONT_ROP_USA_28;FUENCARRAL;Avenida Monforte de Lemos 13;"Centro Deportivo Municipal ""Vicente Del Bosque""";Avenida;de;Monforte de Lemos;13;4.412.184.111;4.481.145.475;-3.6935052;40.478912
+CONT_ROP_USA_29;FUENCARRAL;Calle FermÌn Caballero 17;"Centro De Mayores ""Vocal Vecino  Justo Sierra""";Calle;de;FermÌn Caballero;17;4.405.600.569;4.481.939.088;-3.7013421;40.486018
+CONT_ROP_USA_30;FUENCARRAL;Calle La MasÛ 80;"Centro Deportivo Municipal ""La MasÛ""";Calle;de;La MasÛ;80;4.394.242.485;4.481.796.399;-3.7147313;40.484648
+CONT_ROP_USA_31;FUENCARRAL;Calle Ginzo de Limia;"Colegio P˙blico ""Breogan""";Calle;de;Ginzo de Limia;2;4.404.569.077;4.480.782.689;-3.7024605;40.475588
+CONT_ROP_USA_32;FUENCARRAL;Calle Nuria 83;"InstalaciÛn Deportiva Municipal ""Mirasierra""";Calle;de;Nuria;83;439.730.857;4.482.927.482;-3.7112287;40.494858
+CONT_ROP_USA_33;FUENCARRAL;Calle Buitrago de Lozoya 22;"Centro Servicios Sociales ""San Vicente Paul""";Calle;de;Buitrago de Lozoya;22;4.392.661.092;4.480.461.455;-3.7164676;40.472610
+CONT_ROP_USA_34;MONCLOA-ARAVACA;Calle Santa Pola 22;"Centro Deportivo Municipal ""JosÈ MarÌa Cagigal""";Calle;de;Santa Pola;22;4.375.012.048;4475987.37;-3.7368470;40.432176
+CONT_ROP_USA_35;MONCLOA-ARAVACA;Paseo Senda Del Rey 20;Punto Limpio Fijo;Paseo;de la;Senda Del Rey;20;4.372.412.861;4.478.163.567;-3.7401270;40.451758
+CONT_ROP_USA_36;MONCLOA-ARAVACA;Plaza Moncloa 1;Junta Municipal Distrito;Plaza;de;Moncloa;1;4.390.472.861;4.476.287.567;-3.7186502;40.434993
+CONT_ROP_USA_37;MONCLOA-ARAVACA;Calle Francos RodrÌguez 100;"Centro Cultural ""Juan Gris""";Calle;de;Francos RodrÌguez;100;4.396.235.236;4.478.884.822;-3.7121064;40.458430
+CONT_ROP_USA_38;MONCLOA-ARAVACA;Avenida Santo Angel de la Guarda 6;"Centro Deportivo Municipal ""Fernando MartÌn""";Avenida;de;Santo Angel de la Guarda;6;4.396.404.611;4.479.161.999;-3.7119323;40.460935
+CONT_ROP_USA_39;MONCLOA-ARAVACA;Calle Antonio Machado 12;"Centro Deportivo Municipal ""Ciudad De Los Poetas""";Calle;de;Antonio Machado;12;4.390.380.069;4.479.728.995;-3.7190866;40.465990
+CONT_ROP_USA_40;MONCLOA-ARAVACA;Calle Antonio Machado 20;"Centro Cultural ""Julio Cortazar""";Calle;de;Antonio Machado;20;4.390.009.402;4.479.804.415;-3.7195421;40.466672
+CONT_ROP_USA_41;MONCLOA-ARAVACA;Calle Zarza 20;"Centro Cultural ""Aravaca""";Calle;de;Zarza;20;4.333.602.402;4.478.938.216;-3.7859736;40.458438
+CONT_ROP_USA_42;MONCLOA-ARAVACA;Calle Arroyo de Pozuelo 99;"Centro Deportivo Municipal ""Alfredo Goyeneche""";Calle;de;Arroyo de Pozuelo;99;4.336.002.861;4.478.212.567;-3.7830673;40.451917
+CONT_ROP_USA_43;LATINA;Calle Rodrigo de Arana 50;"Centro Sociocultural ""Latina""";Calle;de;Rodrigo de Arana;50;4.350.123.986;4.470.153.721;-3.7655935;40.379430
+CONT_ROP_USA_44;LATINA;Calle Rafael Finat 47;"Centro de Mayores ""Ciudad De Mejico""";Calle;de;Rafael Finat;47;4.347.299.547;4.470.178.173;-3.7689296;40.379633
+CONT_ROP_USA_45;LATINA;Calle Serradilla 13 c/v Mirabel;"Centro Cultural ""Miguel Hern√°ndez""";Calle;de;Serradilla c/v Mirabel;13;4.336.237.574;4470094.45;-3.7819490;40.378789
+CONT_ROP_USA_46;LATINA;Avenida General Fanjul 14;"Centro Deportivo Municipal ""Aluche""";Avenida;del;General Fanjul;14;434.462.258;4.470.563.104;-3.7721144;40.383081
+CONT_ROP_USA_47;LATINA;Calle Fuente del Tiro 72;"Centro Sociocultural ""Almirante Churruca""";Calle;de;Fuente del Tiro;72;4.337.862.944;4.470.559.057;-3.7800773;40.382991
+CONT_ROP_USA_48;LATINA;Carretera Boadilla del Monte 40;"Centro Cultural ""Sara Montiel""";Carretera;de;Boadilla del Monte;40;434.255.632;4.472.408.003;-3.7747433;40.399685
+CONT_ROP_USA_49;LATINA;Calle Valmojado 10;"Centro Cultural ""Fernando de los Rios II""";Calle;de;Valmojado;10;4.358.572.549;4.472.098.463;-3.7558356;40.397017
+CONT_ROP_USA_50;LATINA;Calle Camarena 10;"Centro Cultural ""Fernando De Los Rios I""";Calle;de;Camarena;10;4.358.217.496;4.471.935.703;-3.7562433;40.395546
+CONT_ROP_USA_51;LATINA;Calle Olivillo 4;"Centro Deportivo Municipal ""El Olivillo""";Calle;de;Olivillo;4;4.367.102.096;4.473.150.417;-3.7458896;40.406559
+CONT_ROP_USA_52;LATINA;Calle Pericles 6;"Centro de Mayores ""Cerro Bermejo""";Calle;de;Pericles;6;4.380.697.894;4.473.451.719;-3.7299039;40.409373
+CONT_ROP_USA_53;LATINA;Avenida de los Caprichos 1;"InstalaciÛn Deportiva  Municipal B·sica ""Los Caprichos""";Avenida;de;Caprichos;1;4.381.841.465;4.473.063.582;-3.7285110;40.405886
+CONT_ROP_USA_54;LATINA;Calle Concejal Francisco JosÈ JimÈnez MartÌn;Punto Limpio Fijo;Calle;de;Concejal Francisco JosÈ JimÈnez MartÌn;5;4.375.677.777;4.472.487.945;-3.7357254;40.400651
+CONT_ROP_USA_55;LATINA;Calle Gallur 2;"Centro Deportivo Municipal ""Gallur""";Calle;de;Gallur;2;4.375.519.026;4.472.267.547;-3.7358923;40.398668
+CONT_ROP_USA_56;LATINA;Avenida General Fanjul 145;"InstalaciÛn Deportiva B·sica ""Jardines General Fanjul""";Avenida;de;General Fanjul;145;4.337.331.321;4.470.350.676;-3.7806799;40.381104
+CONT_ROP_USA_57;LATINA;Calle Fuerte de Navidad 11;"InstalaciÛn Deportiva B·sica ""Fuerte De Navidad""";Calle;de;Fuerte de Navidad;11;4.350.308.185;4.470.334.617;-3.7653999;40.381062
+CONT_ROP_USA_58;LATINA;Avenida Nuestra SeÒora de Valvanera 120;Colegio Republica del Uruguay;Avenida;de;Nuestra SeÒora de Valvanera;120;4.370.731.277;4.471.717.229;-3.7414702;40.393678
+CONT_ROP_USA_59;CARABANCHEL;Calle Patrimonio de la Humanidad 37.;Centro AtenciÛn Adolescentes Aspa.;Calle;de;Patrimonio de la Humanidad;37;4.351.882.861;4.468.206.567;-3.7633223;40.361905
+CONT_ROP_USA_60;CARABANCHEL;Calle Alfonso Fern·ndez 23;"Centro Sociocultural ""Carabanchel Alto""";Calle;de;Alfonso Fern·ndez;23;4.358.776.795;4.468.748.581;-3.7552628;40.366840
+CONT_ROP_USA_61;CARABANCHEL;Calle Cidro 5;Punto Limpio Fijo.;Calle;de;Cidro;5;4.366.840.094;4.468.898.799;-3.7457733;40.368253
+CONT_ROP_USA_62;CARABANCHEL;Calle Catorce Olivas 1;"Centro Deportivo Municipal ""Francisco Fern·ndez Ochoa"".";Calle;de;Catorce Olivas;1;437.209.478;4.468.563.938;-3.7395571;40.365275
+CONT_ROP_USA_63;CARABANCHEL;Antonia Lancha;"Centro De Mayores ""San Vicente Pa˙l""";Calle;de;Antonia Lancha;54;4.386.387.923;4470869.38;-3.7229495;40.386155
+CONT_ROP_USA_64;CARABANCHEL;Calle Verdad 29;"Centro Cultural ""Fernando L·zaro Carreter""";Calle;de;Verdad;29;4.391.395.223;4.471.463.533;-3.7171041;40.391543
+CONT_ROP_USA_65;CARABANCHEL;Calle Comandante Fontanes 8;"Centro AtenciÛn Mujeres ""MarÌa Maeztu""";Calle;de;Comandante Fontanes;8;4.387.547.611;4.471.884.241;-3.7216805;40.395307
+CONT_ROP_USA_66;CARABANCHEL;Calle Zaida 36;"Centro Servicios Sociales ""Zaida""";Calle;de;Zaida;36;4.375.312.396;4.471.671.067;-3.7360695;40.393298
+CONT_ROP_USA_67;CARABANCHEL;Calle MonseÒor ”scar Romero 41.;"Centro Deportivo Municipal ""La Mina""";Calle;de;MonseÒor ”scar Romero;41;436.613.814;4.470.439.583;-3.7467628;40.382130
+CONT_ROP_USA_68;CARABANCHEL;Calle Juli·n Gonz·lez 4;"InstalaciÛn Deportiva B·sica ""Juli·n Gonz·lez""";Calle;de;Juli·n Gonz·lez;4;4.389.519.294;4.472.258.121;-3.7193953;40.398691
+CONT_ROP_USA_69;CARABANCHEL;Calle Ontanilla 16;"InstalaciÛn Deportiva B·sica ""Ontanilla""";Calle;de;Ontanilla;16;4.380.330.567;4.469.507.635;-3.7299445;40.373841
+CONT_ROP_USA_70;USERA;Calle Moreja 11;"Centro Deportivo Municipal ""Orcasur""";Calle;de;Moreja;11;4.407.362.988;4.468.866.908;-3.6980470;40.368263
+CONT_ROP_USA_71;USERA;Avenida Rafaela Ybarra 52;"Centro Deportivo Municipal ""Orcasitas""";Avenida;de;Rafaela Ybarra;52;4.394.982.017;4.469.689.983;-3.7127059;40.375588
+CONT_ROP_USA_72;USERA;Calle Cestona 5;"Escuela Municipal De Musica ""Maestro Barbieri""";Calle;de;Cestona;5;4.393.838.185;4.469.380.952;-3.7140311;40.372796
+CONT_ROP_USA_73;USERA;Calle Cristo de la Victoria 245;Punto Limpio Fijo;Calle;de;Cristo de la Victoria;245;4.397.802.861;4.470.024.567;-3.7094159;40.378626
+CONT_ROP_USA_74;USERA;Calle AndrÈs Arteaga 5;"Centro Deportivo Municipal ""MoscardÛ""";Calle;de;AndrÈs Arteaga;5;4.400.886.173;4.471.171.262;-3.7058957;40.388981
+CONT_ROP_USA_75;PUENTE VALLECAS;Avenida de las Glorietas 19;"Centro Cultural ""El Pozo""";Avenida;de las;Glorietas;19;4.439.693.444;4.469.437.026;-3.6600194;40.373630
+CONT_ROP_USA_76;PUENTE VALLECAS;Calle Ronda del Sur 4;"Centro Deportivo Municipal ""EntrevÌas""";Calle;de la;Ronda del Sur;4;4.428.231.512;4.469.916.409;-3.6735609;40.377868
+CONT_ROP_USA_77;PUENTE VALLECAS;Calle Sierra Carbonera;"Centro Sociocultural ""Talleres Creatividad""";Calle;de;Sierra Carbonera;74;4.435.419.782;4.471.288.795;-3.6652247;40.390277
+CONT_ROP_USA_78;PUENTE VALLECAS;Calle JosÈ Paulete 43;Punto Limpio Fijo;Calle;de;JosÈ Paulete;43;444.457.536;4.471.703.424;-3.6544689;40.394077
+CONT_ROP_USA_79;MORATALAZ;Avenida de Valdebernardo 2;"Centro Deportivo Municipal ""Moratalaz""";Avenida;de;Valdebernardo;2;4.463.502.861;4.472.198.567;-3.6322065;40.398660
+CONT_ROP_USA_80;MORATALAZ;Calle Fuente Carrantona 8;Junta Municipal Distrito;Calle;de;Fuente Carrantona;8;4.459.602.602;4.472.216.317;-3.6368035;40.398797
+CONT_ROP_USA_81;MORATALAZ;Calle Fuente Carrantona 10;"Centro Sociocultural Juvenil Y Cultural ""Moratalaz""";Calle;de;Fuente Carrantona;10;4.459.732.361;4.472.260.406;-3.6366540;40.399194
+CONT_ROP_USA_82;MORATALAZ;Calle Encomienda de Palacios  190;"Centro Alzehimer ""Nicanor Barroso""";Calle;de;Encomienda de Palacios;190;4.455.199.402;4.472.237.524;-3.6420017;40.398957
+CONT_ROP_USA_83;MORATALAZ;Avenida de Moratalaz 130;"Centro Cultural ""El Torito""";Avenida;de;Moratalaz;130;4.451.453.955;4.473.032.726;-3.6464771;40.406095
+CONT_ROP_USA_84;MORATALAZ;Calle Arroyo Belincoso 11;Biblioteca P˙blica Municipal Miguel Delibes;Calle;de;Arroyo Belincoso;11;4.445.993.798;4.473.448.295;-3.6529477;40.409806
+CONT_ROP_USA_85;MORATALAZ;Calle Arroyo de la Media Legua 72;Punto Limpio Fijo;Calle;de;Arroyo de la Media Legua;72;4.447.433.527;4.473.976.824;-3.6512965;40.414572
+CONT_ROP_USA_86;MORATALAZ;Calle Alcalde Garrido Juaristi 17;"Centro Deportivo Municipal ""La Elipa""";Calle;de;Alcalde Garrido Juaristi;17;4.444.953.396;4.473.901.976;-3.6542128;40.413880
+CONT_ROP_USA_87;MORATALAZ;Calle Camino de los Vinateros 104;"Colegio Publico ""Manuel Sainz De VicuÒa""";Calle;de;Camino de los Vinateros;104;4.448.531.994;4.473.403.041;-3.6499503;40.409418
+CONT_ROP_USA_88;MORATALAZ;Calle CaÒÛn del RÌo Lobos 6;"InstalaciÛn Deportiva B·sica ""Lili ¡Ålvarez""";Calle;del;CaÒÛn del RÌo Lobos;6;4.466.124.152;4.473.024.072;-3.6291886;40.406118
+CONT_ROP_USA_89;CIUDAD LINEAL;Avenida Daroca 104;Punto Limpio Fijo;Avenida;de;Daroca;104;4.464.922.861;4.474.351.567;-3.6307143;40.418065
+CONT_ROP_USA_90;CIUDAD LINEAL;Calle Santa Felicidad 39;"Centro Cultural ""La Elipa""";Calle;de;Santa Felicidad;39;4.448.350.298;4.475.065.263;-3.6503066;40.424389
+CONT_ROP_USA_91;CIUDAD LINEAL;Calle Jose Luis Arrese 81;"Centro Sociocultural ""Ciudad Lineal""";Calle;de;Jose Luis Arrese;81;4.447.241.098;4.474.896.999;-3.6516004;40.422868
+CONT_ROP_USA_92;CIUDAD LINEAL;Calle Nuestra SeÒora del Villar 6;"Centro de Mayores ""Islas Filipinas""";Calle;de;Nuestra SeÒora del Villar;6;4.447.113.798;4.474.966.936;-3.6517597;40.423489
+CONT_ROP_USA_93;CIUDAD LINEAL;Calle Ascao 4;"Centro de Mayores ""Ascao""";Calle;de;Ascao;4;4.456.014.189;4.475.623.166;-3.6413250;40.429466
+CONT_ROP_USA_94;CIUDAD LINEAL;Calle Francisco Rioja 14;"Centro Deportivo Municipal ""Pueblo Nuevo""";Calle;de;Francisco Rioja;14;4.458.572.861;4.475.662.567;-3.6383104;40.429834
+CONT_ROP_USA_95;CIUDAD LINEAL;Calle Hermanos Garcia Noblejas 14;"Centro Cultural ""Principe de Asturias""";Calle;de;Hermanos Garcia Noblejas;14;4.459.493.955;4.476.382.871;-3.6372871;40.436326
+CONT_ROP_USA_96;CIUDAD LINEAL;Calle Hermanos Garcia Noblejas 160;"Centro De Mayores ""Luis Vives"" (Servicios Sociales)";Calle;de;Hermanos Garcia Noblejas;160;4.466.952.861;4.474.981.567;-3.6283744;40.423753
+CONT_ROP_USA_97;CIUDAD LINEAL;Calle JosÈ del Hierro 5;"Centro Deportivo Municipal ""La ConcepciÛn""";Calle;de;JosÈ del Hierro;5;444.998.294;4.476.490.061;-3.6485085;40.437237
+CONT_ROP_USA_98;CIUDAD LINEAL;Calle Arturo Soria 330;"Colegio P˙blico ""JoaquÌn Turina""";Calle;de;Arturo Soria;330;4.435.426.733;4481316.54;-3.6661039;40.480614
+CONT_ROP_USA_99;HORTALEZA;Calle Tomas Redondo 8;Punto Limpio Fijo;Calle;de;Tomas Redondo;8;4.467.871.263;4.480.107.768;-3.6277195;40.469937
+CONT_ROP_USA_100;HORTALEZA;Calle El Provencio 20;"Centro Deportivo Municipal ""Luis Aragones""";Calle;de;El Provencio;20;4.467.169.776;4.479.596.728;-3.6285140;40.465329
+CONT_ROP_USA_101;HORTALEZA;Calle Javier de Quinto 12;"Centro Servicio Sociales ""ConcepciÛn Arenal""";Calle;de;Javier de Quinto;12;4.455.879.861;4.479.752.222;-3.6418438;40.466661
+CONT_ROP_USA_102;HORTALEZA;Calle Mar de Antillas 10;"Centro Mayores ""Huerta Salud I""";Calle;de;Mar de Antillas;10;4.452.503.237;4.480.715.284;-3.6459019;40.475314
+CONT_ROP_USA_103;HORTALEZA;Calle Santa Susana 2;"Centro Mayores ""Huerta Salud II""";Calle;de;Santa Susana;2;4.451.865.902;4.480.802.559;-3.6466644;40.476094
+CONT_ROP_USA_104;HORTALEZA;Calle Santa Virgilia 15;"Centro Cultural ""Hortaleza""";Calle;de;Santa Virgilia;15;4.455.819.348;4480881.3;-3.6420114;40.476831
+CONT_ROP_USA_105;HORTALEZA;Calle CarriÛn de los Condes;"Centro Juvenil ""Santiago ApÛstol""";Calle;de;CarriÛn de los Condes;73;4.442.206.336;4.480.800.537;-3.6580598;40.476011
+CONT_ROP_USA_106;HORTALEZA;Calle VÈlez Rubio 1;"Centro Servicios Sociales ""El Querol""";Calle;de;VÈlez Rubio;1;4.437.811.748;4.480.882.846;-3.6632458;40.476720
+CONT_ROP_USA_107;HORTALEZA;Carretera EstaciÛn Hortaleza 11;"Centro Deportivo Municipal ""Hortaleza""";Carretera;de;EstaciÛn Hortaleza;11;4.446.736.011;4.481.111.445;-3.6527430;40.478843
+CONT_ROP_USA_108;HORTALEZA;Calle Princesa de …boli 21;"Centro Cultural ""Sanchinarro""";Calle;de la;Princesa de …boli;21;4.444.583.881;4.482.367.245;-3.6553895;40.490144
+CONT_ROP_USA_109;HORTALEZA;Calle Ana de Austria 32;"Escuela Infantil Municipal ""Ana de Austria""";Calle;de;Ana de Austria;32;4.444.522.861;4.482.942.567;-3.6555107;40.495323
+CONT_ROP_USA_110;HORTALEZA;Calle Luis Buitrago 15;"InstalaciÛn Deportiva B·sica ""Luis Buitrago""";Calle;de;Luis Buitrago;15;4.447.944.122;4480556.18;-3.6512673;40.473852
+CONT_ROP_USA_111;HORTALEZA;Avenida Niceto Alcal· Zamora 48;"Colegio P˙blico ""Cortes de C·diz""";Avenida;de;Niceto Alcal· Zamora;48;4.444.492.778;4.483.327.653;-3.6555798;40.498791
+CONT_ROP_USA_112;HORTALEZA;Puerto Real 9;"InstalaciÛn Deportiva B·sica ""Carril del Conde""";Calle;de;Puerto Real;9;4.445.584.162;4.479.115.982;-3.6539253;40.460855
+CONT_ROP_USA_113;VILLAVERDE;Avenida Marconi s/n;"InstalaciÛn Deportiva B·sica ""Colonia Marconi""";Avenida;de;Marconi;0;4.406.657.122;4.464.989.954;-3.6985228;40.333332
+CONT_ROP_USA_114;VILLAVERDE;Acceso Colonia Marconi 4;"Centro Cultural ""Marconi""";Calle;de;Acceso Colonia Marconi;4;4.404.723.808;4.465.147.408;-3.7008094;40.334741
+CONT_ROP_USA_115;VILLAVERDE;Calle BascuÒuelos 3;Punto Limpio Fijo;Calle;de;BascuÒuelos;3;4.396.699.192;4.465.584.155;-3.7103035;40.338620
+CONT_ROP_USA_116;VILLAVERDE;Calle Villalonso 12;"Centro de Mayores ""Villalonso""";Calle;de;Villalonso;12;4.397.823.137;4.466.809.372;-3.7090888;40.349664
+CONT_ROP_USA_117;VILLAVERDE;Calle Hermandad Donantes de Sangre 9;"InstalaciÛn Deportiva B·sica ""Euskalduna""";Calle;de;Hermandad Donantes De Sangre;9;4.404.764.134;4.467.368.001;-3.7009694;40.354750
+CONT_ROP_USA_118;VILLAVERDE;Calle Bohemios 1;"Centro Cultural ""Bohemios""";Calle;de;Bohemios;1;4.410.681.465;4.467.544.676;-3.6940146;40.356377
+CONT_ROP_USA_119;VILLAVERDE;Calle Alianza 4;"Centro Deportivo Municipal ""Felix Rubio""";Calle;de;Alianza;4;4.412.848.663;4.467.647.357;-3.6914805;40.357320
+CONT_ROP_USA_120;VILLAVERDE;Carretera de Villaverde a Vallecas 19;"Centro Deportivo Municipal ""El Espinillo""";Carretera;de;Villaverde a Vallecas;19;4.417.031.573;4.467.558.811;-3.6865383;40.356548
+CONT_ROP_USA_121;VILLAVERDE;Calle Eduardo Minguito 10;"Centro Servicios Sociales ""Eduardo Minguito""";Calle;de;Eduardo Minguito;10;4.417.032.211;4.466.624.755;-3.6864530;40.348134
+CONT_ROP_USA_122;VILLAVERDE;Calle Benimamet 137;"Centro Deportivo Municipal ""Ra˙l Gonz·lez""";Calle;de;Benimamet;137;4.418.669.485;4.466.393.859;-3.6845127;40.346064
+CONT_ROP_USA_123;VILLAVERDE;Plaza de los Pinazo 9;"Centro Cultural ""San Cristobal De Los ¡ngeles""";Plaza;de;Los Pinazo;9;4.413.540.725;4.465.974.135;-3.6905025;40.342254
+CONT_ROP_USA_124;VILLA VALLECAS;Calle Luis I 36;Punto Limpio Fijo;Calle;de;Luis I;36;445.357.984;4.469.698.393;-3.6436928;40.376074
+CONT_ROP_USA_125;VILLA VALLECAS;Calle Cerro AlmodÛvar 9;"Centro Deportivo Municipal ""Cerro AlmodÛvar""";Calle;de;Cerro AlmodÛvar;9;4.488.504.902;4.470.406.503;-3.6026044;40.382674
+CONT_ROP_USA_126;VICALVARO;Calle Villardondiego 36;"Centro Cultural ""El MadroÒo""";Calle;de;Villardondiego;36;4.483.825.622;4472912.12;-3.6083208;40.405221
+CONT_ROP_USA_127;VICALVARO;Calle Sepiolita 6;Punto Limpio Fijo;Calle;de;Sepiolita;6;4.491.974.694;4.473.082.497;-3.5987301;40.406802
+CONT_ROP_USA_128;VICALVARO;Calle Ladera de los Almendros 2;"Centro Deportivo Municipal ""Valdebernardo""";Calle;de;Ladera de los Almendros;2;4.471.319.594;4.472.800.654;-3.6230538;40.404133
+CONT_ROP_USA_129;VICALVARO;Calle Bulevar Indalecio Prieto 21;"Biblioteca Municipal ""Francisco Ayala""";Calle;de;Bulevar Indalecio Prieto;21;4.472.972.861;4.472.299.567;-3.6210561;40.399630
+CONT_ROP_USA_130;SAN BLAS;Calle Febrero 4;"Centro Cultural ""JosÈ Luis LÛpez V·zquez""";Calle;de;Febrero;4;4.514.291.777;4.477.507.337;-3.5727645;40.446799
+CONT_ROP_USA_131;SAN BLAS;Calle Esfinge 35;"Centro de Mayores ""Esfinge""";Calle;de;Esfinge;35;448.326.384;4.477.187.255;-3.6093282;40.443729
+CONT_ROP_USA_132;SAN BLAS;Calle Aliaga 5;"Centro Sociocultural ""Miguel de Cervantes""";Calle;de;Aliaga;5;4.481.432.144;4.476.416.974;-3.6114230;40.436772
+CONT_ROP_USA_133;SAN BLAS;Calle San Romualdo 20;Punto Limpio Fijo;Calle;de;San Romualdo;20;4.471.493.873;4.476.848.664;-3.6231781;40.440601
+CONT_ROP_USA_134;SAN BLAS;Calle Castillo de UclÈs 35;"Centro De Mayores ""Castillo De UclÈs""";Calle;de;Castillo de UclÈs;35;4.471.398.249;4475803.55;-3.6232091;40.431187
+CONT_ROP_USA_135;SAN BLAS;Calle Arcos del JalÛn 59;"Centro Deportivo Municipal ""San Blas""";Calle;de;Arcos del JalÛn;59;4.481.420.611;4.475.541.047;-3.6113634;40.428889
+CONT_ROP_USA_136;SAN BLAS;Calle Pobladura del Valle  8;"Centro Integrado ""Pablo Casals""";Calle;de;Pobladura del Valle;13;4.474.386.678;4.475.266.869;-3.6196398;40.426368
+CONT_ROP_USA_137;SAN BLAS;Avenida Guadalajara s/n;"InstalaciÛn Deportiva B·sica ""Campo De Futbol Avenida Guadalajara""";Avenida;de;Guadalajara;0;4.475.690.799;4.474.549.689;-3.6180364;40.419917
+CONT_ROP_USA_138;SAN BLAS;Calle San Roman del Valle 8;"Centro Sociocultural ""Antonio Machado""";Calle;de;San Roman del Valle;8;4.472.742.861;4.474.516.651;-3.6215109;40.419601
+CONT_ROP_USA_139;SAN BLAS;Calle Helsinki 8;"Instalacion Deportiva B·sica ""PolÌgono Las Rosas""";Calle;de;Helsinki;8;4.488.712.861;4.475.178.567;-3.6027404;40.425664
+CONT_ROP_USA_140;SAN BLAS;Avenida de Niza 8;"Centro Deportivo Municipal ""Pepu Hern·ndez""";Avenida;de;Niza;8;4.485.906.674;4.475.412.551;-3.6060717;40.427755
+CONT_ROP_USA_141;BARAJAS;Avenida de LogroÒo 70;"Centro Deportivo Municipal ""Barajas"".";Avenida;de;LogroÒo;70;4.501.942.861;4.479.293.567;-3.5874674;40.462815
+CONT_ROP_USA_142;BARAJAS;Plaza del NavÌo 4;"Centro Sociocultural ""Teresa de Calculta"".";Plaza;del;NavÌo;4;4.501.826.266;4.478.453.384;-3.5875431;40.455247
+CONT_ROP_USA_143;BARAJAS;Avenida de LogroÒo 179;Centro Sociocultural Gloria Fuertes.;Avenida;de;LogroÒo;179;4.496.584.892;4.479.069.271;-3.5937715;40.460765
+CONT_ROP_USA_144;BARAJAS;Calle TimÛn 16;"Instalacion Deportiva B·sica ""Nuestra SeÒora de Loreto""";Calle;de;TimÛn;16;4.503.369.973;4.480.379.459;-3.5858658;40.472607
+CONT_ROP_USA_145;BARAJAS;Calle BahÌa de M·laga 18;"Instalacion Deportiva B·sica ""Los Coronales""";Calle;de;BahÌa de M·laga;18;4.495.500.712;4.479.837.898;-3.5951064;40.467677
+CONT_ROP_USA_146;BARAJAS;Calle AlhaurÌn 5;Punto Limpio Fijo.;Calle;de;AlhaurÌn;5;4.503.792.536;4.480.535.381;-3.5853826;40.474015
+CONT_ROP_USA_147;BARAJAS;Calle Botica10;"Centro Sociocultural ""Barajas""";Calle;de;Botica;10;4.509.619.497;4.480.468.177;-3.5785119;40.473446
+CONT_ROP_USA_148;BARAJAS;Paseo Alameda de Osuna 48;"InstalaciÛn Deportiva B·sica ""El Capricho""";Paseo;de la;Alameda de Osuna;48;4.490.972.734;4.478.347.061;-3.6003302;40.454227

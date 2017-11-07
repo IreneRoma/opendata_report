@@ -42,8 +42,7 @@ class QuotesSpider(scrapy.Spider):
 
                     next_page = 'https://www.bilbao.eus/opendata/es/catalogo/temas/formatos/frecuencias/nombre-ascendente?np=' + str(self.j)
                     print next_page
-                    if self.j < self.num_pages:
-                        self.j +=1
+                    if next_page is not None:
                         next_page = response.urljoin(next_page)
                         yield scrapy.Request(next_page,self.parse)
 

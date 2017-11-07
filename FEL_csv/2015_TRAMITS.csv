@@ -1,0 +1,65 @@
+﻿ID_TRAMIT;NOM_TRAMIT;DESCRIPCIO_TRAMIT;TEMA;CODI_AMBIT;DESCRIPCIO_AMBIT;IMMEDIAT;GRATUIT;REQUISITS;NORMATIVA_APLICABLE;RESPONSABLE;ENLLACOS_RELACIONATS;DATA_CREACIO;PARAULES_CLAU;CANAL_TELEMATIC;CANAL_PRESENCIAL;CANAL_TELEFONIC;CANAL_MOBIL;CANAL_QUIOSC;IDIOMA
+alta_cens_animals;Sol·licitud d alta al cens d animals de companyia;Sol·licitud d alta al cens d animals de companyia;ANIMALS;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+alta_padro;Alta en el padró d habitants;Alta en el padró d habitants;PADRO;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+borsatreballpiscina;Borsa de treball de la piscina;Borsa de treball de la piscina;PISCINA;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_mat_citaprevia;Cita prèvia matriculació Escoles Bressol;Cita prèvia matriculació Escoles Bressol;BRESSOL;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_pre2009web;Preinscripció Escoles Bressol curs 2009-2010;Preinscripció Escoles Bressol curs 2009-2010;BRESSOL;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_preconsulta;Consulta de resultats de la Preinscripció a Ecoles Bressol;Consulta de resultats de la Preinscripció a Ecoles Bressol;BRESSOL;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_preconsulta2;Consulta de resultats de la preinscripció a escoles bressol;Consulta de resultats de la preinscripció a escoles bressol;BRESSOL;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_preconsultavalidacio;Consulta de preinscripcions a escoles bressol municipals;Consulta de preinscripcions a escoles bressol municipals;BRESSOL;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_preconsultavalidacio1;Consulta de preinscripcions a escoles bressol municipals;Consulta de preinscripcions a escoles bressol municipals;BRESSOL;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_prellistaespera;Escoles Bressol: gestió de la llista d espera;Escoles Bressol: gestió de la llista d espera;BRESSOL;EDUCACIO;EDUCACIO;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_sorteig;Sorteig número aleatori per a l assignació de places d Escoles Bressol;Sorteig número aleatori per a l assignació de places d Escoles Bressol;BRESSOL;EDUCACIO;EDUCACIO;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+itil_peticio_consumibles;Petició de Consumibles;Petició de Consumibles;INTERNTGC;IB;IB;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+llibres_oac;Tramitació interna dels ajuts de llibres de text;Tramitació interna dels ajuts de llibres de text;LLIBRES;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+llibres2008_oac;Tramitació interna dels ajuts de llibres de text;Tramitació interna dels ajuts de llibres de text;LLIBRES;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+mobles_oac;Sol·licitud de recollida de mobles i estris vells;Sol·licitud de recollida de mobles i estris vells;MOBLES;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+mobles_oac_alta;Recollida de mobles i estris vells;Recollida de mobles i estris vells;MOBLES;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+mod_padro_oac;Modificació dades del padró;Modificació dades del padró;PADRO;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+pagorebut_oac;Pagament per internet de tributs, preus públics i sancions;Pagament per internet de tributs, preus públics i sancions;PAGOREBUT;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_pre2010web;Preinscripció Escoles Bressol curs 2010-2011;Preinscripció Escoles Bressol curs 2010-2011;BRESSOL;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+solicitud_ss;Sol·licitud SAD beneficiàris;Sol·licitud SAD beneficiàris;SAD;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+P133_OAC;Sol·licitud SAD;Sol·licitud SAD;SAD;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+PIC;PIC;PIC;PIC;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_preOAC_2012;Preinscripció Escoles Bressol curs 2012-2013 P;Preinscripció Escoles Bressol curs 2012-2013 P;BRESSOL;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_pre2012web;Preinscripció Escoles Bressol curs 2012-2013 W;Preinscripció Escoles Bressol curs 2012-2013 W;BRESSOL;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_pre2012web_usuari;Preinscripció Escoles Bressol curs 2012-2013 U;Preinscripció Escoles Bressol curs 2012-2013 U;BRESSOL;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+G233;Processos selectius;Processos selectius;RRHH;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+omc_oac_30;Sanció ordenança civisme;Sanció ordenança civisme;SANCIOOMC;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_pre2014web;Preinscripció Escoles Bressol curs 2014-2015 W;Preinscripció Escoles Bressol curs 2014-2015 W;BRESSOL;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_matbaixa;Escoles Bressol: Comunicació de baixa;Escoles Bressol: Comunicació de baixa;BRESSOL;EDUCACIO;EDUCACIO;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+contenidor_oac;Permís de col·locació d un contenidor;Permís de col·locació d un contenidor;CONTENIDOR;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+sac_runa_oac;Permís de col·locació de sacs de runa;Permís de col·locació de sacs de runa;SAC_RUNA;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+gentgran_podologia_oac;Cita prèvia servei de podologia OAC;Cita prèvia servei de podologia OAC;PODOLOGIA;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+llibres2010;Ajut de llibres 2010;Ajut de llibres 2010;LLIBRES;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+GUAL_OAC;Regularització gual;Regularització gual;GUAL;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_preOAC_2015;Preinscripció Escoles Bressol curs 2015-2016 OAC;Preinscripció Escoles Bressol curs 2015-2016 OAC;BRESSOL;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_pre2015web;Preinscripció Escoles Bressol curs 2015-2016 web certificat;Preinscripció Escoles Bressol curs 2015-2016 web certificat;BRESSOL;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_pre2015web_usuari;Preinscripció Escoles Bressol curs 2015-2016 web usuari;Preinscripció Escoles Bressol curs 2015-2016 web usuari;BRESSOL;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+soterrament_oac;Soterrament OAC;Soterrament OAC;SOTERRAMEN;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+subscripcions_alta_OAC;Subscripcions a canals de comunicació (OAC);Subscripcions a canals de comunicació (OAC);SUBSCRIP;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+subscripcions_baixa_oac;Subscripcions a canals de comunicació (OAC);Subscripcions a canals de comunicació (OAC);SUBSCRIP;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+llibres2009;Ajut de llibres 2009;Ajut de llibres 2009;LLIBRES;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_preconsulta_assignacio;Consulta de resultat de la Preinscripció a Escoles Bressol;Consulta de resultat de la Preinscripció a Escoles Bressol;BRESSOL;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+gentgran_podologia_urgencia;Cita prèvia servei de podologia URGENCIA;Cita prèvia servei de podologia URGENCIA;PODOLOGIA;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+omc_oac;Sanció ordenança civisme;Sanció ordenança civisme;SANCIOOMC;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_preOAC;Preinscripció Escoles Bressol curs 2011-2012 P;Preinscripció Escoles Bressol curs 2011-2012 P;BRESSOL;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_pre2011web;Preinscripció Escoles Bressol curs 2011-2012 W;Preinscripció Escoles Bressol curs 2011-2012 W;BRESSOL;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_pre2011web_usuari;Preinscripció Escoles Bressol curs 2011-2012 U;Preinscripció Escoles Bressol curs 2011-2012 U;BRESSOL;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+soli_auto_hores;Sol·licitud autorització prèvia treballs extraordinaris;Sol·licitud autorització prèvia treballs extraordinaris;NÒMINA;DIRECCIO;DIRECCIO;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+soli_autoritzacio;Resolució sol·licitud autorització prèvia treballs extraordinaris;Resolució sol·licitud autorització prèvia treballs extraordinaris;NÒMINA;DIRECCIO;DIRECCIO;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_altabaixaserveis;Sol·licitud d Alta/Baixa de serveis de les escoles bressol;Sol·licitud d Alta/Baixa de serveis de les escoles bressol;BRESSOL;EDUCACIO;EDUCACIO;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_matcanvidomiciliacio;Sol·licitud de canvi de la domiciliació dels rebuts de l Escola Bressol;Sol·licitud de canvi de la domiciliació dels rebuts de l Escola Bressol;BRESSOL;EDUCACIO;EDUCACIO;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+v_residencia_oac;Volant de residència;Volant de residència;VOLANT;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+v_convivencia_oac;Volant de convivència;Volant de convivència;VOLANT;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+gentgran_podologia_casal;Cita prèvia servei de podologia CASAL;Cita prèvia servei de podologia CASAL;PODOLOGIA;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+identificacio_tramitacio_oac;Registre identificació personal per tramitar per Internet;Registre identificació personal per tramitar per Internet;IDENTIFICA;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+OMIC_OAC;Cita prèvia OMIC;Cita prèvia OMIC;OMIC;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+musica;Cita prèvia escola de música;Cita prèvia escola de música;MUSICA;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_pre2013web;Preinscripció Escoles Bressol curs 2013-2014 W;Preinscripció Escoles Bressol curs 2013-2014 W;BRESSOL;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_pre2013web_usuari;Preinscripció Escoles Bressol curs 2013-2014 U;Preinscripció Escoles Bressol curs 2013-2014 U;BRESSOL;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_preOAC_2013;Preinscripció Escoles Bressol curs 2013-2014 P;Preinscripció Escoles Bressol curs 2013-2014 P;BRESSOL;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_preOAC_2014;Preinscripció Escoles Bressol curs 2014-2015 P;Preinscripció Escoles Bressol curs 2014-2015 P;BRESSOL;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+bressol_pre2014web_usuari;Preinscripció Escoles Bressol curs 2014-2015 U;Preinscripció Escoles Bressol curs 2014-2015 U;BRESSOL;EXTERN;EXTERN;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+contenidor_oac2;Permís de col·locació d un contenidor;Permís de col·locació d un contenidor;CONTENIDOR;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català
+G111_OAC;Accés a la informació pública;Accés a la informació pública;G111;OAC;OAC;;;;;;http://www.santfeliu.cat/tramits;;;SI;;;SI;NO;català

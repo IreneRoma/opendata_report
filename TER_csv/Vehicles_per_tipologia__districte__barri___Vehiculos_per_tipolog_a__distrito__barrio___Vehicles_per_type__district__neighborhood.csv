@@ -1,0 +1,330 @@
+DISTRICTE,BARRI,TIPUS_VEHICLE,TOTAL
+Districte 5,Pla Del Bon Aire                        ,Turismes,1105
+Districte 3,Can Jofresa                             ,Turismes,799
+Districte 3,Segle Xx                                ,Camions,559
+Districte 3,Segle Xx                                ,Remolcs,59
+Districte 5,Can Boada Casc Antic                    ,Turismes,2842
+Districte 1,Vallparadís                             ,Turismes,1975
+Districte 1,Centre                                  ,Camions,818
+Districte 6,Les Arenes - La Grípia - Can Montllor   ,Motocicletes,914
+Districte 3,Can Parellada                           ,Remolcs,98
+Districte 4,Roc Blanc                               ,Camions,321
+Districte 5,Torrent D En Pere Parres                ,Motocicletes,373
+Districte 3,Can Parellada                           ,Camions,447
+Districte 6,Sant Pere Nord                          ,Camions,772
+Districte ,,Motocicletes,711
+Districte 1,Pl. Catalunya - Esc. Industrial         ,Camions,186
+Districte 1,Cementiri Vell                          ,Ciclomotors,123
+Districte 1,Pl. Catalunya - Esc. Industrial         ,Motocicletes,294
+Districte 3,Can Jofresa                             ,Ciclomotors,60
+Districte 2,Vilardell                               ,Camions,46
+Districte 4,Roc Blanc                               ,Ciclomotors,131
+Districte 2,Vilardell                               ,Ciclomotors,22
+Districte 2,Montserrat                              ,Camions,79
+Districte 6,P.I. Can Petit                          ,Camions,187
+Districte 3,Can Palet                               ,Tractors,57
+Districte 2,Disseminats                             ,Tractors,7
+Districte 4,Roc Blanc                               ,Remolcs,82
+Districte 3,Can Palet Ii                            ,Remolcs,3
+Districte 4,Disseminats                             ,Turismes,16
+Districte 4,Les Martines                            ,Camions,82
+Districte 3,P.I. Can Parellada                      ,Remolcs,57
+Districte 1,Antic Poble De Sant Pere                ,Remolcs,4
+Districte 5,Els Caus - Els Pinetons                 ,Turismes,8
+Districte 3,Disseminats                             ,Camions,14
+Districte 5,Els Caus - Els Pinetons                 ,Camions,7
+Districte 3,Disseminats                             ,Turismes,18
+Districte 6,Disseminats                             ,Camions,10
+Districte 2,Montserrat                              ,Ciclomotors,24
+Districte 1,Pl. Catalunya - Esc. Industrial         ,Tractors,10
+Districte 3,P.I. Can Parellada                      ,Motocicletes,16
+Districte 3,P.I. Els Bellots                        ,Remolcs,5
+Districte 5,,Camions,1
+Districte ,,Ciclomotors,403
+Districte 1,Centre                                  ,Turismes,8102
+Districte 5,Torrent D En Pere Parres                ,Turismes,2452
+Districte 6,Les Arenes - La Grípia - Can Montllor   ,Remolcs,154
+Districte 6,Ègara                                   ,Ciclomotors,120
+Districte 5,Can Roca                                ,Camions,127
+Districte 5,Pla Del Bon Aire                        ,Motocicletes,126
+Districte 2,Vilardell                               ,Remolcs,5
+Districte 2,Vilardell                               ,Turismes,234
+Districte 6,Can Tusell                              ,Ciclomotors,93
+Districte 1,Cementiri Vell                          ,Camions,288
+Districte 1,Antic Poble De Sant Pere                ,Turismes,246
+Districte 5,Pla Del Bon Aire - El Garrot            ,Turismes,56
+Districte 3,Can Palet Ii                            ,Camions,51
+Districte 5,Can Roca                                ,Motocicletes,252
+Districte 3,Can Palet Ii                            ,Motocicletes,33
+Districte 1,Vallparadís                             ,Ciclomotors,78
+Districte 3,Can Parellada                           ,Ciclomotors,130
+Districte 2,Montserrat                              ,Motocicletes,33
+Districte 3,Xúquer                                  ,Ciclomotors,18
+Districte 3,Guadalhorce                             ,Camions,50
+Districte 4,Disseminats                             ,Tractors,1
+Districte 5,Pla Del Bon Aire                        ,Remolcs,26
+Districte 3,P.I. Santa Margarida                    ,Turismes,363
+Districte 3,Guadalhorce                             ,Tractors,7
+Districte 3,Segle Xx                                ,Tractors,56
+Districte 6,P.I. Can Petit                          ,Motocicletes,11
+Districte 3,P.I. Els Bellots                        ,Camions,95
+Districte 2,Vilardell                               ,Motocicletes,13
+Districte 5,Can Boada Casc Antic                    ,Tractors,16
+Districte 6,Font De L Espardenyera                  ,Camions,12
+Districte 4,Vista Alegre                            ,Remolcs,1
+Districte 6,P.I. Nord                               ,Motocicletes,3
+Districte 3,P.I. Can Guitard                        ,Camions,32
+Districte 5,Els Caus - Els Pinetons                 ,Tractors,1
+Districte 3,Can Parellada                           ,Desconegut,1
+Districte 4,La Maurina                              ,Camions,433
+Districte 3,Can Palet                               ,Ciclomotors,294
+Districte 4,Ca N Aurell                             ,Camions,873
+Districte 2,Montserrat                              ,Turismes,411
+Districte 6,Ègara                                   ,Remolcs,49
+Districte 3,Les Fonts                               ,Camions,128
+Districte 5,Can Gonteres                            ,Camions,43
+Districte 5,Pla Del Bon Aire                        ,Camions,114
+Districte 4,Roc Blanc                               ,Motocicletes,429
+Districte 3,Xúquer                                  ,Turismes,526
+Districte 1,Cementiri Vell                          ,Remolcs,52
+Districte 5,Poble Nou - Zona Esportiva              ,Remolcs,106
+Districte 3,Can Parellada                           ,Tractors,53
+Districte 2,Ca N Anglada                            ,Ciclomotors,293
+Districte 1,Centre                                  ,Tractors,97
+Districte 2,Ca N Anglada                            ,Motocicletes,483
+Districte 4,Les Martines                            ,Tractors,25
+Districte 5,Sant Pere                               ,Ciclomotors,283
+Districte 5,Pla Del Bon Aire - El Garrot            ,Camions,9
+Districte 2,Torre-Sana                              ,Autobusos,6
+Districte 4,Vista Alegre                            ,Motocicletes,13
+Districte 4,Vista Alegre                            ,Turismes,60
+Districte 3,P.I. Els Bellots                        ,Tractors,11
+Districte 6,Ègara                                   ,Tractors,33
+Districte 6,Can Tusell                              ,Tractors,9
+Districte 5,Disseminats                             ,Ciclomotors,4
+Districte 4,Vista Alegre                            ,Tractors,2
+Districte 2,Montserrat                              ,Tractors,3
+Districte 3,Xúquer                                  ,Tractors,5
+Districte 5,Can Boada Del Pi                        ,Tractors,1
+Districte 3,P.I. Els Bellots                        ,Motocicletes,6
+Districte 4,Les Martines                            ,Remolcs,13
+Districte 5,Els Caus - Els Pinetons                 ,Motocicletes,2
+Districte 6,Les Arenes - La Grípia - Can Montllor   ,Autobusos,3
+Districte 4,La Maurina                              ,Motocicletes,435
+Districte 5,Sant Pere                               ,Turismes,5202
+Districte 5,Poble Nou - Zona Esportiva              ,Motocicletes,927
+Districte 5,Poble Nou - Zona Esportiva              ,Camions,706
+Districte 4,La Cogullada                            ,Motocicletes,365
+Districte ,,Turismes,2844
+Districte 3,Can Palet                               ,Turismes,5003
+Districte 5,Can Boada Del Pi                        ,Ciclomotors,25
+Districte 1,Cementiri Vell                          ,Turismes,2612
+Districte 1,Pl. Catalunya - Esc. Industrial         ,Turismes,1995
+Districte 6,Sant Pere Nord                          ,Remolcs,106
+Districte 1,Centre                                  ,Ciclomotors,412
+Districte 4,Can Palet De Vista Alegre               ,Camions,177
+Districte 6,Sant Llorenç                            ,Motocicletes,154
+Districte 5,Can Gonteres                            ,Turismes,218
+Districte 2,Ca N Anglada                            ,Remolcs,64
+Districte 2,Torre-Sana                              ,Ciclomotors,174
+Districte 5,Can Gonteres                            ,Motocicletes,48
+Districte 5,Disseminats                             ,Turismes,69
+Districte 1,Pl. Catalunya - Esc. Industrial         ,Ciclomotors,107
+Districte 3,P.I. Santa Margarida                    ,Camions,403
+Districte 1,Vallparadís                             ,Camions,177
+Districte 6,Sant Llorenç                            ,Tractors,6
+Districte 4,La Maurina                              ,Remolcs,57
+Districte 1,Cementiri Vell                          ,Tractors,15
+Districte 2,Disseminats                             ,Motocicletes,13
+Districte 3,Les Fonts                               ,Motocicletes,226
+Districte 6,P.I. Nord                               ,Camions,80
+Districte 3,P.I. Santa Margarida                    ,Motocicletes,36
+Districte 1,Antic Poble De Sant Pere                ,Tractors,4
+Districte 4,Vista Alegre                            ,Camions,13
+Districte 3,P.I. Santa Eulàlia                      ,Ciclomotors,8
+Districte 6,Sant Pere Nord                          ,Autobusos,2
+Districte 2,Montserrat                              ,Remolcs,8
+Districte 6,P.I. Nord                               ,Tractors,5
+Districte 3,P.I. Can Guitard                        ,Tractors,5
+Districte 3,Disseminats                             ,Tractors,8
+Districte 3,Segle Xx                                ,Autobusos,2
+Districte ,,Camions,618
+Districte 4,Roc Blanc                               ,Turismes,2516
+Districte 6,Ègara                                   ,Camions,311
+Districte 5,Sant Pere                               ,Motocicletes,882
+Districte 3,Les Fonts                               ,Turismes,1296
+Districte 2,Torre-Sana                              ,Motocicletes,430
+Districte 1,Cementiri Vell                          ,Motocicletes,455
+Districte 6,Sant Pere Nord                          ,Ciclomotors,336
+Districte 5,Can Gonteres                            ,Tractors,5
+Districte 1,Vallparadís                             ,Motocicletes,338
+Districte 4,La Cogullada                            ,Ciclomotors,130
+Districte 5,Disseminats                             ,Camions,31
+Districte 3,Can Palet Ii                            ,Ciclomotors,21
+Districte 3,P.I. Can Parellada                      ,Turismes,306
+Districte 1,Vallparadís                             ,Tractors,13
+Districte 4,Ca N Aurell                             ,Remolcs,136
+Districte 6,Les Arenes - La Grípia - Can Montllor   ,Tractors,91
+Districte 6,Font De L Espardenyera                  ,Turismes,53
+Districte 3,Les Fonts                               ,Tractors,15
+Districte 6,P.I. Nord                               ,Turismes,48
+Districte 6,P.I. Can Petit                          ,Turismes,127
+Districte 4,La Cogullada                            ,Remolcs,61
+Districte 4,Roc Blanc                               ,Tractors,38
+Districte 3,Guadalhorce                             ,Ciclomotors,18
+Districte 5,Torrent D En Pere Parres                ,Tractors,12
+Districte 3,Can Parellada                           ,Autobusos,1
+Districte 3,Les Fonts                               ,Remolcs,24
+Districte 3,Can Palet                               ,Desconegut,1
+Districte 1,Antic Poble De Sant Pere                ,Ciclomotors,10
+Districte 3,Guadalhorce                             ,Remolcs,4
+Districte 5,Disseminats                             ,Tractors,7
+Districte 3,P.I. Santa Margarida                    ,Tractors,70
+Districte 3,P.I. Santa Eulàlia                      ,Tractors,22
+Districte 3,P.I. Santa Eulàlia                      ,Remolcs,12
+Districte 4,Disseminats                             ,Motocicletes,1
+Districte 4,La Maurina                              ,Desconegut,1
+Districte 3,Disseminats                             ,Motocicletes,1
+Districte 5,Poble Nou - Zona Esportiva              ,Desconegut,1
+Districte 4,La Maurina                              ,Turismes,2909
+Districte 6,Les Arenes - La Grípia - Can Montllor   ,Turismes,6429
+Districte 6,Can Tusell                              ,Turismes,870
+Districte 3,Can Palet                               ,Motocicletes,648
+Districte 3,Can Parellada                           ,Turismes,2802
+Districte 5,Can Boada Casc Antic                    ,Motocicletes,401
+Districte 3,Segle Xx                                ,Motocicletes,493
+Districte 4,Can Palet De Vista Alegre               ,Motocicletes,188
+Districte 5,Can Boada Casc Antic                    ,Ciclomotors,132
+Districte 5,Poble Nou - Zona Esportiva              ,Ciclomotors,315
+Districte 2,Disseminats                             ,Turismes,99
+Districte 6,Disseminats                             ,Turismes,27
+Districte 3,Guadalhorce                             ,Turismes,456
+Districte 6,Sant Pere Nord                          ,Tractors,63
+Districte 6,Ègara                                   ,Motocicletes,215
+Districte 3,Xúquer                                  ,Motocicletes,53
+Districte 3,Xúquer                                  ,Camions,52
+Districte 6,Can Tusell                              ,Camions,96
+Districte 5,Sant Pere                               ,Remolcs,109
+Districte 6,Sant Llorenç                            ,Remolcs,22
+Districte 2,Ca N Anglada                            ,Tractors,41
+Districte 6,Disseminats                             ,Ciclomotors,5
+Districte 1,Vallparadís                             ,Autobusos,2
+Districte 5,Can Boada Del Pi                        ,Camions,68
+Districte 2,Disseminats                             ,Remolcs,8
+Districte 4,La Maurina                              ,Tractors,31
+Districte 1,Antic Poble De Sant Pere                ,Camions,39
+Districte 4,Disseminats                             ,Ciclomotors,3
+Districte 5,Pla Del Bon Aire - El Garrot            ,Ciclomotors,9
+Districte 4,Can Palet De Vista Alegre               ,Remolcs,23
+Districte 5,Can Gonteres                            ,Ciclomotors,10
+Districte 6,Font De L Espardenyera                  ,Ciclomotors,6
+Districte 2,Torre-Sana                              ,Tractors,21
+Districte 5,Pla Del Bon Aire                        ,Tractors,10
+Districte 3,P.I. Santa Margarida                    ,Ciclomotors,13
+Districte 6,Font De L Espardenyera                  ,Motocicletes,15
+Districte 3,Xúquer                                  ,Remolcs,10
+Districte 3,Can Jofresa                             ,Tractors,10
+Districte 6,Disseminats                             ,Motocicletes,5
+Districte 6,P.I. Can Petit                          ,Tractors,50
+Districte 3,P.I. Can Parellada                      ,Ciclomotors,6
+Districte 3,P.I. Els Bellots                        ,Turismes,118
+Districte 3,P.I. Can Guitard                        ,Turismes,38
+Districte 6,Font De L Espardenyera                  ,Tractors,2
+Districte 4,Disseminats                             ,Remolcs,2
+Districte 4,Ca N Aurell                             ,Autobusos,2
+Districte 2,Ca N Anglada                            ,Autobusos,4
+Districte 3,Segle Xx                                ,Desconegut,1
+Districte 3,Segle Xx                                ,Turismes,2990
+Districte 2,Torre-Sana                              ,Turismes,2517
+Districte 2,Torre-Sana                              ,Remolcs,39
+Districte 4,Les Martines                            ,Turismes,283
+Districte 2,Ca N Anglada                            ,Turismes,4188
+Districte 5,Can Boada Del Pi                        ,Turismes,578
+Districte 4,La Cogullada                            ,Camions,291
+Districte 6,Sant Llorenç                            ,Camions,177
+Districte 5,Can Boada Casc Antic                    ,Camions,280
+Districte 5,Pla Del Bon Aire                        ,Ciclomotors,79
+Districte 3,Can Palet                               ,Remolcs,105
+Districte 3,Can Palet Ii                            ,Turismes,357
+Districte 4,Ca N Aurell                             ,Ciclomotors,408
+Districte 5,Sant Pere                               ,Tractors,50
+Districte 4,Les Martines                            ,Motocicletes,57
+Districte 3,P.I. Can Parellada                      ,Camions,309
+Districte 3,Les Fonts                               ,Ciclomotors,56
+Districte 1,Vallparadís                             ,Remolcs,32
+Districte 4,Ca N Aurell                             ,Tractors,74
+Districte 4,Can Palet De Vista Alegre               ,Ciclomotors,52
+Districte 3,P.I. Can Parellada                      ,Tractors,168
+Districte 4,La Maurina                              ,Ciclomotors,237
+Districte 4,Disseminats                             ,Camions,5
+Districte 5,Can Boada Del Pi                        ,Motocicletes,64
+Districte 5,Disseminats                             ,Remolcs,1
+Districte 4,Les Martines                            ,Ciclomotors,41
+Districte 1,Antic Poble De Sant Pere                ,Motocicletes,56
+Districte 1,Pl. Catalunya - Esc. Industrial         ,Remolcs,23
+Districte 5,Can Roca                                ,Remolcs,34
+Districte 4,Vista Alegre                            ,Ciclomotors,6
+Districte 2,Disseminats                             ,Camions,39
+Districte 5,Pla Del Bon Aire - El Garrot            ,Tractors,1
+Districte 3,P.I. Santa Eulàlia                      ,Turismes,172
+Districte 3,P.I. Santa Eulàlia                      ,Camions,194
+Districte 3,P.I. Santa Eulàlia                      ,Motocicletes,6
+Districte 6,Font De L Espardenyera                  ,Remolcs,2
+Districte 2,Vilardell                               ,Tractors,1
+Districte 5,Can Gonteres                            ,Remolcs,6
+Districte ,,Autobusos,3
+Districte 3,P.I. Santa Margarida                    ,Remolcs,19
+Districte 3,P.I. Can Parellada                      ,Autobusos,17
+Districte 3,Disseminats                             ,Autobusos,73
+Districte 3,Disseminats                             ,Remolcs,3
+Districte 6,Disseminats                             ,Tractors,10
+Districte 1,Pl. Catalunya - Esc. Industrial         ,Autobusos,2
+Districte 5,Els Caus - Els Pinetons                 ,Ciclomotors,1
+Districte 6,P.I. Can Petit                          ,Ciclomotors,2
+Districte 3,P.I. Can Guitard                        ,Remolcs,1
+Districte 5,Poble Nou - Zona Esportiva              ,Turismes,5380
+Districte 4,Ca N Aurell                             ,Turismes,7766
+Districte 6,Les Arenes - La Grípia - Can Montllor   ,Camions,821
+Districte 4,La Cogullada                            ,Turismes,2285
+Districte 6,Ègara                                   ,Turismes,1709
+Districte 6,Sant Llorenç                            ,Turismes,1521
+Districte 6,Sant Pere Nord                          ,Turismes,6307
+Districte 6,Sant Pere Nord                          ,Motocicletes,924
+Districte 3,Can Palet                               ,Camions,572
+Districte 3,Can Parellada                           ,Motocicletes,325
+Districte 5,Sant Pere                               ,Camions,587
+Districte 1,Centre                                  ,Motocicletes,1707
+Districte 5,Can Roca                                ,Turismes,1487
+Districte 4,Ca N Aurell                             ,Motocicletes,1306
+Districte 5,Can Roca                                ,Tractors,18
+Districte 4,Can Palet De Vista Alegre               ,Turismes,803
+Districte 2,Ca N Anglada                            ,Camions,678
+Districte 3,Can Jofresa                             ,Motocicletes,56
+Districte 6,Sant Llorenç                            ,Ciclomotors,126
+Districte 1,Centre                                  ,Remolcs,126
+Districte 2,Torre-Sana                              ,Camions,308
+Districte 3,Segle Xx                                ,Ciclomotors,132
+Districte 3,Can Jofresa                             ,Camions,70
+Districte 5,Torrent D En Pere Parres                ,Camions,236
+Districte 3,Can Jofresa                             ,Remolcs,19
+Districte 5,Disseminats                             ,Motocicletes,16
+Districte 6,Les Arenes - La Grípia - Can Montllor   ,Ciclomotors,330
+Districte 2,Disseminats                             ,Ciclomotors,2
+Districte 6,Can Tusell                              ,Motocicletes,104
+Districte 5,Torrent D En Pere Parres                ,Remolcs,50
+Districte 5,Torrent D En Pere Parres                ,Ciclomotors,116
+Districte ,,Remolcs,96
+Districte ,,Tractors,127
+Districte 3,Guadalhorce                             ,Motocicletes,42
+Districte 5,Can Boada Del Pi                        ,Remolcs,10
+Districte 4,Can Palet De Vista Alegre               ,Tractors,34
+Districte 5,Poble Nou - Zona Esportiva              ,Tractors,77
+Districte 6,Can Tusell                              ,Remolcs,13
+Districte 5,Can Boada Casc Antic                    ,Remolcs,49
+Districte 4,La Cogullada                            ,Tractors,34
+Districte 3,Can Jofresa                             ,Autobusos,1
+Districte 5,Pla Del Bon Aire - El Garrot            ,Motocicletes,12
+Districte 5,Can Roca                                ,Ciclomotors,49
+Districte 6,P.I. Nord                               ,Remolcs,4
+Districte 6,P.I. Can Petit                          ,Remolcs,21
+Districte 3,P.I. Can Guitard                        ,Motocicletes,2

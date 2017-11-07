@@ -80,8 +80,8 @@ class QuotesSpider(scrapy.Spider):
                             item['date_creation'] = desc_metadata[count+2]
                         if "modificación" in i.encode('utf-8'):
                             item['date_actualization'] = desc_metadata[count+2]                                           
-                        if "Perdiodicidad" in i.encode('utf-8'):
-                            item['frequency'] = desc_metadata[count+3]
+                        if "Periodicidad" in i.encode('utf-8'):
+                            item['frequency'] = desc_metadata[count+2]
                         if "Editor" in i.encode('utf-8'):
                             item['publisher'] = desc_metadata[count+2]
                         if "Licencia" in i.encode('utf-8'):
@@ -94,12 +94,26 @@ class QuotesSpider(scrapy.Spider):
                     
                     description = response.xpath('//*[@property="dcat:description"]/p/text()').extract()
                     item['description'] = " ".join(description)
+
+                    item['categories'] = response.xpath('//*[@id="rscont"]/div[1]/a[1]/text()').extract_first(default='not-found')
                                                             
                     item['city'] = "ZAR"
 
                     item['date_extraction'] = datetime.strftime(datetime.now(), '%Y/%m/%d_%H:%M:%S')
 
-                    item['formats'] = response.xpath('//*[@class="badge alert-primary"]//text()').extract()              
+                    formats = []
+                    formats1 = response.xpath('//*[@id="rscont"]/div[1]/div/div[1]/ul//a/text()').extract()
+                    formats2 = response.xpath('//*[@class="badge alert-primary"]//text()').extract() 
+                    if not formats1:
+                        pass
+                    else: 
+                        formats.append(formats1)
+                    if not formats2:
+                        pass
+                    else:
+                        formats.append(formats2)
+                    
+                    item['formats'] = formats       
                     
                     title = response.xpath('//*[@property = "dct:title"]//text()').extract_first(default="not-found")
                     item['title'] = title

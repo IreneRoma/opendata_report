@@ -89,7 +89,7 @@ class QuotesSpider(scrapy.Spider):
                                                         
                     item['date_extraction'] = datetime.strftime(datetime.now(), '%Y/%m/%d_%H:%M:%S')
 
-                    item['categories'] = response.xpath('//*[@class = "expand-wrapper visible description change-title processed"]/div[2]//span//text()').extract()
+                    item['categories'] = response.xpath('//*[@class="dataset-detail"]/div[3]/div[2]//span//text()').extract()
 
                     item['formats'] = response.xpath('//*[@class = "w-85"]//a/text()').extract()              
 

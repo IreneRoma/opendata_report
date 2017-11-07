@@ -1,0 +1,675 @@
+city,description,publisher,url,title,tag,date_extraction,frequency,formats,licenses,date_actualization,lenguage,date_creation,categories,geography
+GRA,,Manel Olano,https://opendata.granollers.cat/views/vrsj-7ztx.json,Regidors a les eleccions municipals de 2015,eleccions,2017/10/23_10:33:02,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/06/08_13:48:10,,2017/06/08_13:48:31,Administració,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/idq4-6fnw.json,Evolució en regidors dels partits en les eleccions municipals,eleccions,2017/10/23_10:33:02,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/05/25_09:14:59,,2015/05/25_09:15:03,Administració,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/p538-v8dy.json,Evolució dels vots nuls i blancs en les eleccions municipals,eleccions,2017/10/23_10:33:02,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/05/25_09:14:59,,2015/05/25_09:15:03,Administració,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/m2xs-6pei.json,Evolució en vots de les eleccions municipals dels grups amb representació,eleccions,2017/10/23_10:33:02,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/05/25_09:14:59,,2015/05/25_09:15:03,Administració,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/t5wz-nv57.json,Horaris de bus urbà de Granollers,"horaris,bus",2017/10/23_10:33:03,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/01/26_14:25:52,,2015/01/26_14:26:13,Ciutat i serveis,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/ezxz-26zp.json,Comparativa en % vots de 2011 i 2015 en les eleccions municipals,eleccions,2017/10/23_10:33:03,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/06/08_13:48:10,,2017/06/08_13:48:31,Administració,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/qj6m-dnsn.json,Regidors a les eleccions municipals de 2011,eleccions,2017/10/23_10:33:03,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/06/08_13:48:10,,2017/06/08_13:48:31,Administració,
+GRA,"Mapa d'espais situats a peu de carrer que generen i intercanvien productes, béns o serveis.",Manel Olano,https://opendata.granollers.cat/views/6kxs-jx4f.json,Mapa d'activitats econòmiques a peu de carrer,activitats,2017/10/23_10:33:03,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/05/22_13:38:55,,2017/05/22_13:39:19,Economia i empresa,
+GRA,Dades definitives de població de Granollers a 1 de gener de l'any en qüestió.,Sergi Morera,https://opendata.granollers.cat/views/mpvr-tvvf.json,Padró de població continu de Granollers,població,2017/10/23_10:33:04,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/04/10_10:18:58,,2017/04/10_10:20:30,Població,
+GRA,Factures comptabilitzades dels proveïdors de l'Ajuntament de Granollers,Manel Olano,https://opendata.granollers.cat/views/czuk-43hr.json,Factures dels proveïdors de l'Ajuntament de Granollers,"factures,proveïdors",2017/10/23_10:33:04,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/10/06_13:10:44,,2017/10/06_13:11:42,Administració,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/psyy-dh2r.json,Comparativa entre el nombre de vots de 2011 i 2015,eleccions,2017/10/23_10:33:04,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/06/08_13:48:10,,2017/06/08_13:48:31,Administració,
+GRA,"Despeses pressupostades de personal de l'Ajuntament de Granollers, Museu de Granollers, Granollers Mercat EPE i Escola Montserrat Montero",Sergi Morera,https://opendata.granollers.cat/views/r63v-b675.json,Despeses de personal,"personal,remuneració",2017/10/23_10:33:04,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/02/02_09:42:33,,2015/02/05_08:15:51,Administració,
+GRA,Calendari de l'agenda de l'alcalde,Montse,https://opendata.granollers.cat/views/mpcr-phq5.json,Calendari de l'agenda de l'alcalde,"alcalde,agenda,calendari",2017/10/23_10:33:05,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/10/20_17:38:17,,2017/09/08_14:23:26,Administració,
+GRA,"Conjunt d'espais situats a peu de carrer que generen i intercanvien productes, béns o serveis.",Manel Olano,https://opendata.granollers.cat/views/56k9-jf3a.json,Activitats econòmiques a peu de carrer (històric),activitats,2017/10/23_10:33:05,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/05/22_13:38:55,,2017/05/22_13:39:19,Economia i empresa,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/bkk4-z6fx.json,Pressupost de despeses de l'Ajuntament de Granollers,"pressupost,despesa",2017/10/23_10:33:05,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,"Consum de gas, gasoil, electricitat i aigua dels centres pertanyents a l'Ajuntament de Granollers.
+
+Nota: Cal considerar que l'import imputat a cada mes no sempre correspon al consum realitzat en el mateix, pels següents motius: 
+Els períodes de facturació no corresponen a mesos naturals.
+De vegades no es realitzen lectures lectures reals i es factura o per estimada o per consum zero. En aquest, cas a la primera lectura real a posteriori d'un període d'estimades es realitza una regularització.",Manel Olano,https://opendata.granollers.cat/views/a4uq-hcxg.json,Subministraments,"subministrament,aigua,electricitat,gas,gasoil",2017/10/23_10:33:05,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/02/01_13:58:35,,2017/02/01_13:59:18,Administració,
+GRA,"Consum de gas, electricitat i aigua segons la localització dels centres pertanyents a l'Ajuntament de Granollers.",Manel Olano,https://opendata.granollers.cat/views/w5k6-bbik.json,Mapa de subministraments,"subministrament,aigua,electricitat,gas",2017/10/23_10:33:06,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/02/01_13:58:35,,2017/02/01_13:59:18,Administració,
+GRA,"Les dades que hi podeu trobar són sempre referides a l'Estació Meteorològica de Granollers i són les següents: les temperatures mínima i màxima del dia en graus centígrads; la precipitació del dia en litres per metre quadrat; la mitjana de la humitat relativa de l'aire en tant per cent del dia; la direcció del vent dominant del dia i la velocitat màxima del vent del dia en quilòmetres per hora; les hores de sol eficaç de tot el dia en hores i dècimes d'hora; si el dia ha estat en general descobert de núvols(O), amb alguns núvols (N) o pràcticament cobert (C); i els tipus de núvols per alçades: alts, mitjers i baixos.",Manel Olano,https://opendata.granollers.cat/views/dc3f-jkq7.json,Metereologia de Granollers,meteo,2017/10/23_10:33:06,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/24_10:23:19,,2017/08/24_10:23:27,Ciutat i serveis,
+GRA,Distribuació dels resultats de les eleccions autonòmiques per partit a l'any 2012,Manel Olano,https://opendata.granollers.cat/views/xmhv-n48t.json,Distribució de vots a Granollers en les eleccions autonòmiques de 2012,eleccions,2017/10/23_10:33:06,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/12/16_14:18:19,,2015/12/16_14:18:39,Administració,
+GRA,Entitats amb seu a Granollers inscrites al registre d'entitats que han autoritzat la difusió de les seves dades,Sergi Morera,https://opendata.granollers.cat/views/g6if-5e5t.json,Entitats,"associacions,entitats",2017/10/23_10:33:06,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/09/05_14:38:55,,2017/09/05_14:39:00,Població,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/pefi-m2xk.json,Carrerer,carrers,2017/10/23_10:33:07,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/01/20_11:34:10,,2015/01/20_11:38:35,Territori,
+GRA,Subvencions atorgades per l'Ajuntament de Granollers des de 2012,Sergi Morera,https://opendata.granollers.cat/views/xmq2-xh53.json,Subvencions,subvencions,2017/10/23_10:33:07,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/01/25_11:38:20,,2017/01/25_11:38:45,Administració,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/3uff-m3ef.json,Padró fiscal de l'IVTM (Impost de vehicles de tracció mecànica),"padró,vehicles",2017/10/23_10:33:07,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/04/05_11:53:59,,2017/04/05_11:54:17,Població,
+GRA,Numeració de tots els portals dels carrers de Granollers,Manel Olano,https://opendata.granollers.cat/views/is9e-cuz3.json,Numeració Postal,carrer,2017/10/23_10:33:07,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/01/13_13:40:13,,2015/01/13_13:58:06,Territori,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/hdrh-hdb7.json,Mapa d'obres públiques programades a l'any 2015,obres,2017/10/23_10:33:08,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/01/16_12:00:14,,2015/01/16_12:00:58,Territori,
+GRA,"Mostres de la qualitat de l'aigua del Riu Congost.
+
+Els paràmetres a destacar:  
+
+La Demanda Química d’Oxigen (DQO) és un indicador de l’estat o qualitat del recurs hídric. Es tracta d’una mesura de l’oxigen requerit per a oxidar
+tots els compostos presents a l’aigua, tant orgànics com inorgànics, per l’acció d’agents fortament oxidants en medi àcid i s’expressa en mg d’oxigen
+per litre. Mesura de la susceptibilitat a l’oxidació dels materials orgànics i inorgànics presents a l’aigua.És el paràmetre més utilitzat per identificar la càrrega contaminant.
+
+Els nitrats, que presenten concentracions elevades amb evolució desfavorable segons les mostres analitzades al riu.  El nitrogen, juntament amb el fòsfor i el carboni, és un nutrient essencial per al creixement, però l’abocament directe al medi receptor de nitrògen amoniacal pot provocar tres efectes tòxics per algunes espècies en funció del pH del medi, es pot oxidar a nitrit o nitrat utilitzant l’oxigen dissolt en l’aigua, i disminuir la qualitat de l’aigua, restant oxigen per a la vida aquàtica, i si el mitjà presenta una baixa oxigenació, pot provocar el creixement d’algues i conseqüentment, es poden produir mals olors a causa de la descomposició d’aquesta biomassa i pot arribar a la eutrofització del medi.
+
+La conductivitat elèctrica de l’aigua és un indicador de la mineralització que conté l’aigua i és proporcional a la salinitat. Aquesta mineralització o concentració d’ions depèn de la geologia de la conca de drenatge i dels abocaments de residus d’origen antròpic. La conductivitat de l’aigua també és un indicador de qualitat; així, aigües amb valors de conductivitat superiors als 1000 µS/cm es considera que poden estar afectades per abocaments d’aigües residuals, hi sol haver problemes d’autodepuració i, a més, no es consideren aptes per al consum humà. D’altra banda, la conductivitat elèctrica sovint és inversament proporcional al cabal, perquè la de pluja tendeix a diluir les concentracions d’ions a l’aigua, mentre les condicions de sequera hi augmenten les concentracions d’ions.
+
+Els clorurs i els sulfats són els dos anions que abunden més a l’aigua. Poden tenir un origen natural, segons la geologia de la conca, o bé antròpic, fruit d’abocaments puntuals o bé d’aportacions difuses. En condicions naturals, una concentració elevada de clorurs seria deguda a la presència de sal al terreny i una concentració elevada de sulfats seria a la presència de guixos. L'evolució de clorurs i sulfats es favorable i decreixen les seves concentracions en el aigua del riu en el temps.
+
+pH Escala de 0 a 14 per expressar l’acidesa o basisitat d’una dissolució.El pH de l’aigua en el estat natural es 6,5 a 8. 
+
+Alcalinitat La capacitat per neutralitzar els àcids. La alcalinitat de les aigües superficials depenen primordialment del seu contingut en carbonats, bicarbonats e hidròxids.
+
+Metalls pesants : es consideren aquells metalls amb una densitat sis vegades superior a la de l'aigua.Els més coneguts són el cadmi, el mercuri, el plom, el coure i el níquel. Poden ser tòxics per els éssers vius a petites concentracions. Degut a la baixa biodegradabilitat s’acumulen en els organismes vius augmentant la seva concentració a mesura que ascendeix per la piràmide tròfica.
+ 
+Duresa :La suma de concentracions de calci i magnesi. És la responsable de la formació de incrustacions que perjudiquen les instal·lacions.",Manel Olano,https://opendata.granollers.cat/views/9u9d-k9ac.json,Mostres d'aigua del Riu Congost,aigua,2017/10/23_10:33:08,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/01/27_12:36:30,,2015/01/27_12:37:43,Ciutat i serveis,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/ey6d-uhvj.json,Mapa dels horaris de bus urbà de Granollers,"horaris,bus",2017/10/23_10:33:08,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/01/26_14:25:52,,2015/01/26_14:26:13,Ciutat i serveis,
+GRA,"Mapa de la distribució de les parades de la fira de Sant Jordi (llibreters, floristes, entitats, altres)",Manel Olano,https://opendata.granollers.cat/views/4ndk-vwfr.json,Plànol de les parades de Sant Jordi,sant jordi,2017/10/23_10:33:08,,,Creative Commons 1.0 Universal (Public Domain Dedication),2016/04/15_11:32:51,,2016/04/15_11:33:05,Ciutat i serveis,
+GRA,Granollers Mercat recull i actualitza periòdicament una part significativa de l'oferta de naus i solars als polígons de Granollers i el seu entorn gràcies a la col·laboració dels agents de la propietat immobiliària i administradors de finques que han volgut participar en aquest recull. L'objectiu és estimular l'activitat als espais industrials i facilitar la identificació d'alternatives de localització a les empreses.,Sergi Morera,https://opendata.granollers.cat/views/p5up-utbd.json,Naus industrials i solars a polígons en venda o en lloguer,"nau,solar,indústria,polígon,immoble",2017/10/23_10:33:09,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/06/29_08:24:33,,2017/06/29_08:25:12,Economia i empresa,
+GRA,Locals en planta baixa que tenen anuncis de lloguer o venda i que són visibles des del carrer. Treball de camp realitzat al març de 2017.,Manel Olano,https://opendata.granollers.cat/views/99x7-6rsh.json,Mapa de locals comercials buits disponibles,"locals buits,api,granollers",2017/10/23_10:33:09,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/06/05_09:49:58,,2017/06/05_09:50:29,Economia i empresa,
+GRA,Mapa dels equipaments que fa ús l'Ajuntament de Granollers,Manel Olano,https://opendata.granollers.cat/views/p2mc-kk5h.json,Mapa d'equipaments municipals,equipaments,2017/10/23_10:33:09,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/01/28_09:12:24,,2015/01/28_09:12:59,Ciutat i serveis,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/p7ir-7c82.json,Mapa de parades del Mercat del dijous,mercat,2017/10/23_10:33:09,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/01/26_09:57:05,,2017/01/26_09:58:08,Economia i empresa,
+GRA,Dades de qualitat de l'aire de l'estació del Carrer de Francesc Macià de Granollers. Les dades proveïdes per la Generalitat de Catalunya poden contenir valors buits en funció dels paràmetres de mesura. Per a major detall consultar la font original.,Manel Olano,https://opendata.granollers.cat/views/myp9-3agt.json,Qualitat de l'aire a Granollers,aire,2017/10/23_10:33:09,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/24_10:35:13,,2017/08/24_10:35:21,Ciutat i serveis,
+GRA,Ingressos consolidats per l'Ajuntament de Granollers durant cadascún dels exercicis,Manel Olano,https://opendata.granollers.cat/views/464f-kza4.json,Pressupost d'ingressos de l'Ajuntament de Granollers,"pressupost,ingrés",2017/10/23_10:33:10,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:26:50,,2017/07/07_15:28:30,Administració,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/psxy-7xnj.json,Seccions censals,"seccions censals,eleccions",2017/10/23_10:33:10,,,Creative Commons 1.0 Universal (Public Domain Dedication),,,2015/09/17_08:50:39,Administració,
+GRA,"Consum de gas, electricitat i aigua agrupat per Centre.",Manel Olano,https://opendata.granollers.cat/views/933b-hprp.json,Subministraments agrupats per Centre,"subministrament,aigua,electricitat,gas",2017/10/23_10:33:10,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/02/01_13:58:35,,2017/02/01_13:59:18,Administració,
+GRA,Locals en planta baixa que tenen anuncis de lloguer o venda i que són visibles des del carrer. Treball de camp realitzat al març de 2017.,Manel Olano,https://opendata.granollers.cat/views/wyxz-vct7.json,Locals comercials buits disponibles,"locals buits,api,granollers",2017/10/23_10:33:11,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/06/05_09:49:58,,2017/06/05_09:50:29,Economia i empresa,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/7k5r-tvi8.json,Obres i projectes a Granollers,obres,2017/10/23_10:33:11,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/01/11_11:42:08,,2017/01/11_11:42:11,Territori,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/h4vz-amc2.json,Mapa de rutes de Granollers,ruta,2017/10/23_10:33:11,,,Creative Commons 1.0 Universal (Public Domain Dedication),2016/04/13_14:20:06,,2016/04/13_14:20:13,Ciutat i serveis,
+GRA,Programació i historial de les interrupcions del servei de la Seu electrònica,Manel Olano,https://opendata.granollers.cat/views/wtsp-b3qi.json,Calendari d'interrupcions de servei de la Seu electrònica,web,2017/10/23_10:33:11,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/10/23_10:10:30,,2016/12/16_13:12:34,Administració,
+GRA,Resultats de les eleccions municipals per mesa des de 1985 i resultats de les eleccions autonòmiques per mesa des de 1995,Manel Olano,https://opendata.granollers.cat/views/y456-sjft.json,Evolució dels vots nuls i blancs en les eleccions autonòmiques,eleccions,2017/10/23_10:33:12,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/12/16_14:18:19,,2015/12/16_14:18:39,Administració,
+GRA,"Resultats de les eleccions municipals per mesa des de 1985, resultats de les eleccions autonòmiques per mesa des de 1995 i resultats de les eleccions generals per mesa des de 1996",Manel Olano,https://opendata.granollers.cat/views/6ni6-x96h.json,Resultats d'eleccions per mesa,eleccions,2017/10/23_10:33:12,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/12/16_14:18:19,,2015/12/16_14:18:39,Administració,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/74st-hibw.json,PAM Actuacions Programa global sobre habitatge,"pam,programa",2017/10/23_10:33:12,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/fty4-7cs7.json,PAM 2015-2019,"pam,programa",2017/10/23_10:33:12,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,"Les dades que hi podeu trobar són sempre referides a l'Estació Meteorològica de Granollers i són les següents: les temperatures mínima i màxima del dia en graus centígrads; la precipitació del dia en litres per metre quadrat; la mitjana de la humitat relativa de l'aire en tant per cent del dia; la direcció del vent dominant del dia i la velocitat màxima del vent del dia en quilòmetres per hora; les hores de sol eficaç de tot el dia en hores i dècimes d'hora; si el dia ha estat en general descobert de núvols(O), amb alguns núvols (N) o pràcticament cobert (C); i els tipus de núvols per alçades: alts, mitjers i baixos.",Manel Olano,https://opendata.granollers.cat/views/jvsr-2q6w.json,Temperatures mínima i màxima mitja per any,meteo,2017/10/23_10:33:13,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/24_10:23:19,,2017/08/24_10:23:27,Ciutat i serveis,
+GRA,Equipaments que fa ús l'Ajuntament de Granollers,Manel Olano,https://opendata.granollers.cat/views/y922-4k2n.json,Equipaments municipals,equipaments,2017/10/23_10:33:13,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/01/28_09:12:24,,2015/01/28_09:12:59,Ciutat i serveis,
+GRA,resultats de les eleccions autonòmiques del 27 de setembre de 2015,Manel Olano,https://opendata.granollers.cat/views/hffk-kryy.json,Distribució de vots a Granollers en les eleccions autonòmiques de 2015,eleccions,2017/10/23_10:33:13,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/12/16_14:18:19,,2015/12/16_14:18:39,Administració,
+GRA,Localització dels aparcaments de bicicletes i el nombre de places,Manel Olano,https://opendata.granollers.cat/views/4uhz-gdmn.json,Mapa d'aparcaments de bicicletes,,2017/10/23_10:33:13,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/01/26_10:19:43,,2017/01/26_10:19:49,Ciutat i serveis,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/htfp-9h8c.json,PAM Actuacions Cultura de pau,"pam,programa",2017/10/23_10:33:14,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/5q57-yk4d.json,PAM Actuacions C17,"pam,programa",2017/10/23_10:33:14,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/h3sh-zyj6.json,PAM Actuacions Circuit de Catalunya,"pam,programa",2017/10/23_10:33:14,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/348f-3rpw.json,Parades del Mercat del dijous,mercat,2017/10/23_10:33:14,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/01/26_09:57:05,,2017/01/26_09:58:08,Economia i empresa,
+GRA,"Aquest manual conté les instruccions per cerca i trobar els diferents conjunt de dades. Alhora mostra com fer els filtres de cerca bàsics així com la interacció entre el conjunt de dades. També s’explica com crear gràfiques, mapes i filtres a partir de les dades inicials.",Manel Olano,https://opendata.granollers.cat/views/jmmr-gnb3.json,Manual d'usuari del portal de Dades Obertes de Granollers,"manual,dades obertes",2017/10/23_10:33:15,,,Creative Commons 1.0 Universal (Public Domain Dedication),,,2015/02/20_08:58:52,,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/fypm-ypv3.json,PAM Actuacions Transició energètica i canvi climàtic,"pam,programa",2017/10/23_10:33:15,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/tie7-kkzn.json,PAM Actuacions Pla de civisme i convivència,"pam,programa",2017/10/23_10:33:15,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/mr95-rmcj.json,Resultats d'eleccions per partit,eleccions,2017/10/23_10:33:15,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/05/25_09:14:59,,2015/05/25_09:15:03,Administració,
+GRA,"Llistats elaboració inventari general d'Ajuntament de Granollers. Inclou parcs i jardins, places i vials urbans, vials no urbans, altres béns d'ús públic, immobles i solars",Sergi Morera,https://opendata.granollers.cat/views/s5uy-gv97.json,Inventari,,2017/10/23_10:33:15,,,Public Domain,2016/03/16_09:58:55,,2016/03/16_10:21:55,Territori,
+GRA,"Indicadors de població de Granollers segons Padró continu municipal (en habitants, data a 1 de gener) i l'Institut Nacional d'Estadística (INE -habitants). Població Vallès Oriental (en habitants)",Sergi Morera,https://opendata.granollers.cat/views/rwnf-jfsf.json,Indicadors. Demografia. Evolució de la població a Granollers. Padró municipal 2009-2016.,"població,demografia,ine,padró",2017/10/23_10:33:16,,,Public Domain,2016/05/30_13:48:28,,2016/05/30_13:50:35,Població,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/ev6m-6ucb.json,Resultats en viu de Granollers de les eleccions municipals 2015,eleccions,2017/10/23_10:33:16,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/06/08_13:48:10,,2017/06/08_13:48:31,Administració,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/9mzx-ggtf.json,Consum i cost d'electricitat dels equipaments municipals per any,"subministrament,electricitat",2017/10/23_10:33:16,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/02/01_13:58:35,,2017/02/01_13:59:18,Administració,
+GRA,"Característiques dels polígons d’activitat econòmica de Granollers, infraestructures i serveis disponibles.",Sergi Morera,https://opendata.granollers.cat/views/gg5q-9s9z.json,Polígons industrials,"polígons,serveis a polígons",2017/10/23_10:33:16,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/03/20_08:59:08,,2015/03/20_09:00:17,Economia i empresa,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/g789-cqs6.json,Rutes de Granollers,ruta,2017/10/23_10:33:17,,,Creative Commons 1.0 Universal (Public Domain Dedication),2016/04/13_14:20:06,,2016/04/13_14:20:13,Ciutat i serveis,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/879s-3w68.json,Distribució per municipi de les factures de proveïdors l'any 2014,"factures,proveïdors",2017/10/23_10:33:17,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/10/06_13:10:44,,2017/09/04_08:17:03,Administració,
+GRA,Subvencions atorgades per l'Ajuntament de Granollers des de 2012,Sergi Morera,https://opendata.granollers.cat/views/sy9h-jg7a.json,Convenis - Subvencions nominatives,subvencions,2017/10/23_10:33:17,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/01/25_11:38:20,,2017/01/25_11:38:45,Administració,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/6aa3-xzh5.json,Barris,,2017/10/23_10:33:17,,,Creative Commons 1.0 Universal (Public Domain Dedication),,,2015/06/11_12:03:41,Territori,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/7ks8-m365.json,PAM Actuacions Societat del coneixement,"pam,programa",2017/10/23_10:33:18,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,Dades de qualitat de l'aire de l'estació del Carrer de Francesc Macià de Granollers. Les dades proveïdes per la Generalitat de Catalunya poden contenir valors buits en funció dels paràmetres de mesura. Per a major detall consultar la font original.,Manel Olano,https://opendata.granollers.cat/views/u4q3-nvp9.json,Mitjanes mensuals de la qualitat de l'aire,aire,2017/10/23_10:33:18,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/24_10:35:13,,2017/08/24_10:35:21,Ciutat i serveis,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/9iy4-axdg.json,Accidents de trànsit,"accidents,trànsit",2017/10/23_10:33:18,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/05/13_14:15:43,,2015/05/13_14:16:07,Ciutat i serveis,
+GRA,Espais de joc pels més petits a Granollers,Manel Olano,https://opendata.granollers.cat/views/gbqx-2irq.json,Mapa de parcs infantils,infants,2017/10/23_10:33:18,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/01/13_12:01:28,,2015/01/13_12:02:23,Ciutat i serveis,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/ufkz-vcze.json,PAM Actuacions Potenciació de la formació professional,"pam,programa",2017/10/23_10:33:19,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/jkww-sbs5.json,PAM Actuacions Redefinició del model comercial,"pam,programa",2017/10/23_10:33:19,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,"Registre de convenis administratius que es formulin entre l'Ajuntament de Granollers, els ens dependents Granollers Mercat, EPE, Granollers Escena, SL, Granollers Audiovisual, SL i Granollers Promocions, SA, i entitats i/o persones públiques i privades, per tal de poder donar publicitat a la informació que els mateixos continguin, a fi de garantir l’accés dels ciutadans a la informació pública, en compliment de la Llei 19/2014, del 29 de desembre, de transparència, accés a la informació pública i bon govern, amb efectes a 1 de gener de 2016",Sergi Morera,https://opendata.granollers.cat/views/efiw-ebw9.json,Registre de convenis,"registre,convenis",2017/10/23_10:33:19,,,Public Domain,2017/10/19_08:53:37,,2017/09/04_09:57:45,Administració,
+GRA,Dades definitives de població de Granollers.,Sergi Morera,https://opendata.granollers.cat/views/he5c-3dw9.json,Distribució de la població segons nacionalitat amb nacionalitat no espanyola a l'any 2014,població,2017/10/23_10:33:19,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/04/10_10:18:58,,2017/04/10_10:20:30,Població,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/yerf-3dtd.json,Obres públiques programades a l'any 2015,obres,2017/10/23_10:33:20,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/01/16_12:00:14,,2015/01/16_12:00:58,Territori,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/nz4j-4r4k.json,Mapa de desfibril·ladors,salut,2017/10/23_10:33:20,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/10/18_08:14:08,,2017/06/23_13:02:43,Ciutat i serveis,
+GRA,Dades de qualitat de l'aire de l'estació del Carrer de Francesc Macià de Granollers. Les dades proveïdes per la Generalitat de Catalunya poden contenir valors buits en funció dels paràmetres de mesura. Per a major detall consultar la font original.,Manel Olano,https://opendata.granollers.cat/views/3mb4-djdf.json,Mitjanes anuals de la qualitat de l'aire,aire,2017/10/23_10:33:20,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/24_10:35:13,,2017/08/24_10:35:21,Ciutat i serveis,
+GRA,Espais de joc pels més petits a Granollers,Manel Olano,https://opendata.granollers.cat/views/22ci-ssci.json,Parcs infantils,infants,2017/10/23_10:33:21,,,Creative Commons 1.0 Universal (Public Domain Dedication),2015/01/13_12:01:28,,2015/01/13_12:02:23,Ciutat i serveis,
+GRA,Dades definitives de població de Granollers.,Sergi Morera,https://opendata.granollers.cat/views/7yty-v4sa.json,Distribució de la població segons nacionalitat amb nacionalitat no espanyola a l'any 2015,població,2017/10/23_10:33:21,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/04/10_10:18:58,,2017/04/10_10:20:30,Població,
+GRA,"Programació i historial dels diferents serveis digitals que ofereix l'Ajuntament de Granollers: Web municipal, Seu electrònica...",Manel Olano,https://opendata.granollers.cat/views/4ymm-9ucd.json,Interrupcions dels serveis web de l'Ajuntament de Granollers,web,2017/10/23_10:33:22,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/10/23_10:10:30,,2017/10/23_10:10:33,Administració,
+GRA,"Contractes de lloguer
+Nombre de contractes de lloguer per cada 10.000 habitants
+Preu mitjà dels contractes de lloguer (euros per mes)
+Superfície útil mitjana de l'habitatge de nova construcció (m2)
+Oferta d'habitatges de nova construcció
+Preu mitjà metre quadrat construit d'habitatge de nova construcció (euros)
+Habitants / Béns residencials (2015)
+Superfície de les parcel·les urbanes edificades
+Béns residencials (2015)
+Béns residencials / Superfície agregada de les parcel·les edificades
+Superficie agregada de les parcel·les edificades
+Superfície agregada de les parcel·les rústiques
+Intensitat d'edificació
+Intensitat Urbanització ( Superfície Urbana / Superfície Urbana + Superfície Rústica)
+Nombre d'habitatges iniciats
+(Nombre d'habitatges iniciats / població) * 1000
+Nombre d'habitatges acabats
+(Nombre d'habitatges acabats / població) * 1000
+Aturats construcció
+Atur construcció / Atur",Sergi Morera,https://opendata.granollers.cat/views/uf52-m42d.json,Indicadors. Habitatge i urbanisme. Preu mitjà m2 habitatge nou construït a Granollers (m2),,2017/10/23_10:33:22,,,Public Domain,2016/05/31_13:05:35,,2016/05/31_13:08:35,Territori,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/6nxx-5v3m.json,Consum i cost d'aigua dels equipaments municipals per any,"subministrament,aigua",2017/10/23_10:33:22,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/02/01_13:58:35,,2017/02/01_13:59:18,Administració,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/2zbd-m9jx.json,PAM Actuacions Roca Umbert,"pam,programa",2017/10/23_10:33:23,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/tdtz-dkd8.json,% de vots a les eleccions municipals 2015,eleccions,2017/10/23_10:33:23,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/06/08_13:48:10,,2017/06/08_13:48:31,Administració,
+GRA,"Relació detallada de vehicles adscrits a l'Ajuntament de Granollers d'acord amb el padró de vehicles. Inclou vehicles alcaldia, policia local i vehicles per a serveis. Indicador 11 de l'índex de Transparència ITA 2014.",Sergi Morera,https://opendata.granollers.cat/views/bx75-x8zw.json,Vehicles adscrits a l'Ajuntament de Granollers,vehicles,2017/10/23_10:33:23,,,Creative Commons 1.0 Universal (Public Domain Dedication),2016/04/01_11:55:45,,2016/04/01_11:56:00,Administració,
+GRA,"Distribució de les parades de la fira de Sant Jordi (llibreters, floristes, entitats, altres)",Manel Olano,https://opendata.granollers.cat/views/8i9y-btbf.json,Parades de Sant Jordi,sant jordi,2017/10/23_10:33:23,,,Creative Commons 1.0 Universal (Public Domain Dedication),2016/04/15_11:32:51,,2016/04/15_11:33:05,Ciutat i serveis,
+GRA,"La relació dels contractes menors conté la informació bàsica i necessària per donar compliment a la transparència d'aquests: objecte, import, tipus de contracte i adjudicatari. La informació econòmica es pot contrastar amb la del registre de factures http://bit.ly/2gcPNyv",Sergi Morera,https://opendata.granollers.cat/views/x7db-mf5w.json,Contractes menors de l'Ajuntament de Granollers,"contractes,menors,contractació",2017/10/23_10:33:23,,,Public Domain,2017/01/03_11:55:57,,2017/01/03_11:56:28,Administració,
+GRA,Localització dels aparcaments de bicicletes i el nombre de places,Manel Olano,https://opendata.granollers.cat/views/kzmn-g7u9.json,Aparcaments de bicicletes,,2017/10/23_10:33:24,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/01/26_10:19:43,,2017/01/26_10:19:49,Ciutat i serveis,
+GRA,"Bernabeu, J. Plaza, I. (2015) Adolescents, també a la xarxa. Reptes socioeducatius davant la generació 1×1. Ajuntament de Granollers. Granollers.",Sergi Morera,https://opendata.granollers.cat/views/38f5-9jws.json,"Matriu Adolescents, també a la xarxa. Reptes socioeducatius davant la generació 1×1","addicció,addiccions,adolescència,adolescents,alumne,articles,ciberbullying,connexió,educació,eines,estadístiques d'ús,facebook,formació,google,granollers,infància,internet,jornada,jornades,joves,menors,mòbils,noves tecnologies,opinió,pantalles,prevenció,privacitat,psicologia,riscos,seguretat,sexting,sobredrogues 2.0,tecnoadicció,tecnología,tic,twitter,videojocs,vídeos,xarxes,xarxes socials,xerrades",2017/10/23_10:33:24,,,Public Domain,2016/03/08_09:51:04,,2016/03/08_10:36:19,Població,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/7icm-qr6p.json,Desfibril·ladors a Granollers,salut,2017/10/23_10:33:24,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/10/18_08:14:08,,2017/10/18_08:14:11,Ciutat i serveis,
+GRA,Dades definitives de població de Granollers a 1 de gener de l'any en qüestió.,Sergi Morera,https://opendata.granollers.cat/views/s4bp-hheq.json,Prova edat,població,2017/10/23_10:33:24,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/04/10_10:18:58,,2017/04/10_10:20:30,Població,
+GRA,Locals en planta baixa que tenen anuncis de lloguer o venda i que són visibles des del carrer. Treball de camp realitzat al març de 2017.,Manel Olano,https://opendata.granollers.cat/views/8inc-q6h3.json,Mapa de calor dels locals comercials buits disponibles,"locals buits,api,granollers",2017/10/23_10:33:25,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/06/05_09:49:58,,2017/06/05_09:50:29,Economia i empresa,
+GRA,Indicadors de població de Granollers segons Padró continu municipal (en habitants) i l'Institut Nacional d'Estadística (INE -habitants). Població Vallès Oriental (en habitants),Sergi Morera,https://opendata.granollers.cat/views/cex2-9cc5.json,Indicadors. Demografia. Població,"població,demografia,ine,padró",2017/10/23_10:33:25,,,Public Domain,2016/05/30_13:48:28,,2016/05/30_13:50:35,Població,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/fuz7-46vy.json,Resultats en vots i % de les eleccions municipals 2015,eleccions,2017/10/23_10:33:25,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/06/08_13:48:10,,2017/06/08_13:48:31,Administració,
+GRA,"Documents toolbox del projecte Alera, en català, espanyol, francès o anglès",Sergi Morera,https://opendata.granollers.cat/views/qrr5-2z8k.json,Papers Alera. Reutilització d'aigua.,reutilització d'aigua,2017/10/23_10:33:25,,,,2016/07/01_12:23:57,,2016/07/01_12:24:03,Territori,
+GRA,"Documents toolbox del projecte Alera, en català, espanyol, francès o anglès",Sergi Morera,https://opendata.granollers.cat/views/p2q2-pceg.json,Papers Alera. Reutilització d'aigua.,reutilització d'aigua,2017/10/23_10:33:26,,,,2016/07/01_12:23:57,,2016/07/01_12:24:03,Territori,
+GRA,"Taxa de natalitat Granollers ((x/1000))
+Taxa de mortalitat Granollers ((x/1000))
+Taxa de fecunditat Granollers ((x/1000))
+Proporció de joves a Granollers (en %)
+Proporció d'adults a Granollers (en %)
+Proporció de població gran a Granollers (en %)
+Proporció juvenil a Granollers (en %)
+Relació de masculinitat (en %)
+Índex d'envelliment a Granollers (en %)
+Índex de sobreenvelliment a Granollers (en %)
+Índex de dependència juvenil a Granollers (en %)
+Índex de dependència senil a Granollers (en %)
+Relació de dependència global a Granollers (en %)
+Mitjana d'edat a Granollers
+Moviments anuals de població (habitants)",Sergi Morera,https://opendata.granollers.cat/views/83rc-hgvf.json,Indicadors. Demografia. Proporció juvenil a Granollers.,"natalitat,mortalitat,fecunditat,joves,adults,gent gran,juvenil,masculinitat,envelliment,senil,sobreenvelliment,dependència,mitjana d'edat,moviments anuals",2017/10/23_10:33:26,,,Public Domain,2016/05/30_13:59:01,,2016/05/30_14:08:22,Població,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/73eb-yqn8.json,Gràfic del nombre de vehicles empadronats segons la marca al 2015,"padró,vehicles",2017/10/23_10:33:26,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/04/05_11:53:59,,2017/04/05_11:54:17,Població,
+GRA,Aquest indicador reflexa la taxa d'atur de Granollers estimada a partir del cens de Població Activa segregada per grups d'edat. La població activa estimada és un cens de la població capaç de treballar,Sergi Morera,https://opendata.granollers.cat/views/rtnv-mqgg.json,Indicadors. Activitat econòmica. Atur. Taxa d'atur registral.,"atur,ocupació,indicadors",2017/10/23_10:33:26,,,Public Domain,2017/02/15_09:14:38,,2017/02/15_09:14:51,Economia i empresa,
+GRA,"Registre de convenis administratius que es formulin entre l'Ajuntament de Granollers, els ens dependents Granollers Mercat, EPE, Granollers Escena, SL, Granollers Audiovisual, SL i Granollers Promocions, SA, i entitats i/o persones públiques i privades, per tal de poder donar publicitat a la informació que els mateixos continguin, a fi de garantir l’accés dels ciutadans a la informació pública, en compliment de la Llei 19/2014, del 29 de desembre, de transparència, accés a la informació pública i bon govern, amb efectes a 1 de gener de 2016",Sergi Morera,https://opendata.granollers.cat/views/9rza-a84z.json,Registre de convenis Granollers Mercat,"registre,convenis",2017/10/23_10:33:27,,,Public Domain,2017/10/19_08:53:37,,2017/09/04_09:57:45,Administració,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/2yjp-p7g2.json,PAM Actuacions Igualtat i defensa de drets socials,"pam,programa",2017/10/23_10:33:27,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/xvwp-pauq.json,Distribució per municipi de les factures de proveïdors l'any 2015,"factures,proveïdors",2017/10/23_10:33:27,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/10/06_13:10:44,,2017/09/04_08:17:03,Administració,
+GRA,"Despesa executada per l'Ajuntament de Granollers de l'exercici 2016, per partida.",Sergi Morera,https://opendata.granollers.cat/views/it4r-674z.json,Pressupost de despeses de l'exercici 2016,"pressupost,despesa",2017/10/23_10:33:27,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,"Registre de convenis administratius que es formulin entre l'Ajuntament de Granollers, els ens dependents Granollers Mercat, EPE, Granollers Escena, SL, Granollers Audiovisual, SL i Granollers Promocions, SA, i entitats i/o persones públiques i privades, per tal de poder donar publicitat a la informació que els mateixos continguin, a fi de garantir l’accés dels ciutadans a la informació pública, en compliment de la Llei 19/2014, del 29 de desembre, de transparència, accés a la informació pública i bon govern, amb efectes a 1 de gener de 2016",Sergi Morera,https://opendata.granollers.cat/views/njkv-942j.json,Registre de convenis,"registre,convenis",2017/10/23_10:33:28,,,Public Domain,2017/10/19_08:53:37,,2017/09/04_09:57:45,Administració,
+GRA,"Taxa de natalitat Granollers ((x/1000))
+Taxa de mortalitat Granollers ((x/1000))
+Taxa de fecunditat Granollers ((x/1000))
+Proporció de joves a Granollers (en %)
+Proporció d'adults a Granollers (en %)
+Proporció de població gran a Granollers (en %)
+Proporció juvenil a Granollers (en %)
+Relació de masculinitat (en %)
+Índex d'envelliment a Granollers (en %)
+Índex de sobreenvelliment a Granollers (en %)
+Índex de dependència juvenil a Granollers (en %)
+Índex de dependència senil a Granollers (en %)
+Relació de dependència global a Granollers (en %)
+Mitjana d'edat a Granollers
+Moviments anuals de població (habitants)",Sergi Morera,https://opendata.granollers.cat/views/w4sa-sg43.json,Indicadors. Demografia. Altres Indicadors Demogràfics,"natalitat,mortalitat,fecunditat,joves,adults,gent gran,juvenil,masculinitat,envelliment,senil,sobreenvelliment,dependència,mitjana d'edat,moviments anuals",2017/10/23_10:33:28,,,Public Domain,2016/05/30_13:59:01,,2016/05/30_14:08:22,Població,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/rgfi-e89f.json,PAM Actuacions Una ciutat creativa,"pam,programa",2017/10/23_10:33:28,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/8rzv-ip4e.json,PAM Actuacions Una ciutat educadora,"pam,programa",2017/10/23_10:33:28,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/aasz-9ts5.json,PAM Actuacions Convivència i civisme,"pam,programa",2017/10/23_10:33:29,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/tg3r-37u2.json,PAM Actuacions Una ciutat oberta al món,"pam,programa",2017/10/23_10:33:29,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,Factures de proveïdors Granollers Mercat,Sergi Morera,https://opendata.granollers.cat/views/iqs7-y99h.json,Factures de proveïdors Granollers Mercat,"granollers mercat,transparència,factures,proveïdors",2017/10/23_10:33:29,,,Public Domain,2017/09/04_08:13:28,,2017/09/04_08:14:24,Administració,
+GRA,Edició pdf de la Memòria de la Policia Local. Inclou indicadors de Seguretat Ciutadana.,Sergi Morera,https://opendata.granollers.cat/views/jm2m-dmfr.json,Memòria Policia Local. Seguretat Ciutadana.,"seguretat ciutadana,policia local,memòria",2017/10/23_10:33:29,,,Public Domain,2017/07/03_19:17:47,,2017/07/03_19:18:07,Ciutat i serveis,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/24f7-wkq7.json,Mapa de la ruta del Patrimoni històric medieval i modern de Granollers,ruta,2017/10/23_10:33:30,,,Creative Commons 1.0 Universal (Public Domain Dedication),2016/04/13_14:20:06,,2016/04/13_14:20:13,Ciutat i serveis,
+GRA,"Consum de gas dels centres pertanyents a l'Ajuntament de Granollers.
+
+Nota: Cal considerar que l'import imputat a cada mes no sempre correspon al consum realitzat en el mateix, pels següents motius: 
+Els períodes de facturació no corresponen a mesos naturals.
+De vegades no es realitzen lectures lectures reals i es factura o per estimada o per consum zero. En aquest, cas a la primera lectura real a posteriori d'un període d'estimades es realitza una regularització.",Manel Olano,https://opendata.granollers.cat/views/e6sf-ivbz.json,Consum i cost de gas dels equipaments municipals per any,"subministrament,gas",2017/10/23_10:33:30,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/02/01_13:58:35,,2017/02/01_13:59:18,Administració,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/meta-u83m.json,Gràfic del nombre de vehicles empadronats segons la marca al 2017,"padró,vehicles",2017/10/23_10:33:30,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/04/05_11:53:59,,2017/04/05_11:54:17,Població,
+GRA,"Taxa de natalitat Granollers ((x/1000))
+Taxa de mortalitat Granollers ((x/1000))
+Taxa de fecunditat Granollers ((x/1000))
+Proporció de joves a Granollers (en %)
+Proporció d'adults a Granollers (en %)
+Proporció de població gran a Granollers (en %)
+Proporció juvenil a Granollers (en %)
+Relació de masculinitat (en %)
+Índex d'envelliment a Granollers (en %)
+Índex de sobreenvelliment a Granollers (en %)
+Índex de dependència juvenil a Granollers (en %)
+Índex de dependència senil a Granollers (en %)
+Relació de dependència global a Granollers (en %)
+Mitjana d'edat a Granollers
+Moviments anuals de població (habitants)",Sergi Morera,https://opendata.granollers.cat/views/gvhq-66wj.json,Indicadors. Demografia. Taxa de natalitat Granollers,"natalitat,mortalitat,fecunditat,joves,adults,gent gran,juvenil,masculinitat,envelliment,senil,sobreenvelliment,dependència,mitjana d'edat,moviments anuals",2017/10/23_10:33:30,,,Public Domain,2016/05/30_13:59:01,,2016/05/30_14:08:22,,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/aptz-gxut.json,PAM Actuacions Compromís ambiental,"pam,programa",2017/10/23_10:33:31,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/i3ws-rxk8.json,PAM Actuacions Espais i serveis de qualitat,"pam,programa",2017/10/23_10:33:31,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,"Documents toolbox del projecte Alera, en català, espanyol, francès o anglès",Sergi Morera,https://opendata.granollers.cat/views/u2qi-jnhz.json,Documents Alera,reutilització d'aigua,2017/10/23_10:33:31,,,,2016/07/01_12:23:57,,2016/07/01_12:24:03,Territori,
+GRA,"Mostra l'evolució del nombre de control policials segregats per les següents tipologies: soroll i fum, documentació de vehicles, alcoholèmia, velocitat, establiments públics, altres controls.",Sergi Morera,https://opendata.granollers.cat/views/36rr-k7cd.json,"Indicadors. Seguretat ciutadana. Actuacions de controls policials, per tipologia","seguretat,policia local,indicadors,civisme",2017/10/23_10:33:31,,,Public Domain,2017/01/19_14:37:15,,2017/01/19_14:37:19,Ciutat i serveis,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/f5bz-v96z.json,PAM Actuacions Transparència i eficiència,"pam,programa",2017/10/23_10:33:32,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,(*) Dades extretes a partir del fitxer d'habitatges del padró d'habitants. Un habitatge es considera habitat si hi havia alguna persona empadronada a 1 de gener de l'any de referència,Sergi Morera,https://opendata.granollers.cat/views/jg9f-dqub.json,Indicadors. Habitatge i urbanisme. Distribució d'habitatges buits per barris i àrees de sanitat.,"habitatge,habitatges buits,barris",2017/10/23_10:33:32,,,Public Domain,2016/05/31_14:21:50,,2016/05/31_14:24:19,Territori,
+GRA,Dades definitives de població de Granollers a 1 de gener de l'any en qüestió.,Sergi Morera,https://opendata.granollers.cat/views/yfhs-7gcq.json,Padró joves per barri,població,2017/10/23_10:33:32,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/04/10_10:18:58,,2017/04/10_10:20:30,Població,
+GRA,Mostra el nombre d'aturats de Granollers segregats per grups d'edat i per nivell de formació acadèmica,Sergi Morera,https://opendata.granollers.cat/views/ryv9-4yin.json,Indicadors. Activitat econòmica. Atur. Atur a Granollers per edat i nivell formatiu,"atur,ocupació,indicadors",2017/10/23_10:33:32,,,Public Domain,2016/07/28_13:08:47,,2016/07/28_13:11:02,Economia i empresa,
+GRA,"Contractes de lloguer
+Nombre de contractes de lloguer per cada 10.000 habitants
+Preu mitjà dels contractes de lloguer (euros per mes)
+Superfície útil mitjana de l'habitatge de nova construcció (m2)
+Oferta d'habitatges de nova construcció
+Preu mitjà metre quadrat construit d'habitatge de nova construcció (euros)
+Habitants / Béns residencials (2015)
+Superfície de les parcel·les urbanes edificades
+Béns residencials (2015)
+Béns residencials / Superfície agregada de les parcel·les edificades
+Superficie agregada de les parcel·les edificades
+Superfície agregada de les parcel·les rústiques
+Intensitat d'edificació
+Intensitat Urbanització ( Superfície Urbana / Superfície Urbana + Superfície Rústica)
+Nombre d'habitatges iniciats
+(Nombre d'habitatges iniciats / població) * 1000
+Nombre d'habitatges acabats
+(Nombre d'habitatges acabats / població) * 1000
+Aturats construcció
+Atur construcció / Atur",Sergi Morera,https://opendata.granollers.cat/views/cs6v-dmc4.json,Indicadors. Habitatge i urbanisme. Habitatge,,2017/10/23_10:33:33,,,Public Domain,2016/05/31_13:05:35,,2016/05/31_13:08:35,Territori,
+GRA,Ingressos consolidats per l'Ajuntament de Granollers de l'exercici 2016,Manel Olano,https://opendata.granollers.cat/views/rt4f-vwa7.json,Pressupost d'ingressos de l'exercici 2016,"pressupost,ingrés",2017/10/23_10:33:33,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:26:50,,2017/07/07_15:28:30,Administració,
+GRA,"Taxa de natalitat Granollers ((x/1000))
+Taxa de mortalitat Granollers ((x/1000))
+Taxa de fecunditat Granollers ((x/1000))
+Proporció de joves a Granollers (en %)
+Proporció d'adults a Granollers (en %)
+Proporció de població gran a Granollers (en %)
+Proporció juvenil a Granollers (en %)
+Relació de masculinitat (en %)
+Índex d'envelliment a Granollers (en %)
+Índex de sobreenvelliment a Granollers (en %)
+Índex de dependència juvenil a Granollers (en %)
+Índex de dependència senil a Granollers (en %)
+Relació de dependència global a Granollers (en %)
+Mitjana d'edat a Granollers
+Moviments anuals de població (habitants)",Sergi Morera,https://opendata.granollers.cat/views/kuvb-7ze8.json,Indicadors. Demografia. Taxa de mortalitat Granollers,"natalitat,mortalitat,fecunditat,joves,adults,gent gran,juvenil,masculinitat,envelliment,senil,sobreenvelliment,dependència,mitjana d'edat,moviments anuals",2017/10/23_10:33:33,,,Public Domain,2016/05/30_13:59:01,,2016/05/30_14:08:22,,
+GRA,"Conjunt d'espais situats a peu de carrer que generen i intercanvien productes, béns o serveis.",Manel Olano,https://opendata.granollers.cat/views/pxjn-ekdi.json,Mapa d'activitats econòmiques a peu de carrer per categoria,activitats,2017/10/23_10:33:33,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/05/22_13:38:55,,2017/05/22_13:39:19,Economia i empresa,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/vpr5-vi8e.json,PAM Actuacions Una ciutat econòmicament competitiva,"pam,programa",2017/10/23_10:33:34,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,"El Programa d'Actuació Municipal (PAM) 2015-2019 és el full de ruta de l'acció del govern municipal, l'expressió de les línies estratègiques i accions a desenvolupar en els propers anys, del compromís amb la ciutadania. 
+Cada trimestre actualitzarem la informació de l'estat d'execució del PAM per tal que en pugueu fer el seguiment, donant així resposta a la voluntat d'avançar cap a una administració oberta que generi confiança, des de la transparència i la proximitat.",Sergi Morera,https://opendata.granollers.cat/views/kx98-32hf.json,PAM Actuacions Governar amb la gent,"pam,programa",2017/10/23_10:33:34,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/08/28_14:09:18,,2017/08/28_14:13:36,Administració,
+GRA,"Conjunt d'espais situats a peu de carrer que generen i intercanvien productes, béns o serveis.",Manel Olano,https://opendata.granollers.cat/views/ws4j-bm9a.json,Gràfic evolutiu del Nombre d'activitats econòmiques agrupades per any i categoria,activitats,2017/10/23_10:33:34,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/05/22_13:38:55,,2017/05/22_13:39:19,Economia i empresa,
+GRA,"This dataset is an inventory of the assets on the site. Here you can track the performance of data publishing, metadata maintenance, as well as present an overview of what data exists on the site.
+
+Note: This is only updated once per day.",Mission Control,https://opendata.granollers.cat/views/ee5m-f9ih.json,Indicadors sobre Demografia,,2017/10/23_10:33:34,,,,2017/10/22_23:30:33,,2017/09/10_23:23:19,,
+GRA,,Sergi Morera,https://opendata.granollers.cat/views/x7st-stkp.json,Indicadors Pla de Xoc 2012-2016,"indicadors,ajuts,subvenció,beques",2017/10/23_10:33:35,,,Public Domain,2017/09/07_09:30:25,,2017/09/07_09:39:59,Economia i empresa,
+GRA,"Conjunt d'espais situats a peu de carrer que generen i intercanvien productes, béns o serveis.",Manel Olano,https://opendata.granollers.cat/views/2k9a-b9mi.json,Nombre d'activitats econòmiques agrupades per any i categoria,activitats,2017/10/23_10:33:35,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/05/22_13:38:55,,2017/05/22_13:39:19,Economia i empresa,
+GRA,Indicadors d'ús de les biblioteques al municipi de Granollers,Sergi Morera,https://opendata.granollers.cat/views/i5ay-ygxg.json,Indicadors. Cultura. Biblioteques,"cultura,biblioteca,biblioteques,lectura,indicadors",2017/10/23_10:33:35,,,Public Domain,2016/07/29_10:01:34,,2016/07/29_10:02:48,Ciutat i serveis,
+GRA,"Taxa de natalitat Granollers ((x/1000))
+Taxa de mortalitat Granollers ((x/1000))
+Taxa de fecunditat Granollers ((x/1000))
+Proporció de joves a Granollers (en %)
+Proporció d'adults a Granollers (en %)
+Proporció de població gran a Granollers (en %)
+Proporció juvenil a Granollers (en %)
+Relació de masculinitat (en %)
+Índex d'envelliment a Granollers (en %)
+Índex de sobreenvelliment a Granollers (en %)
+Índex de dependència juvenil a Granollers (en %)
+Índex de dependència senil a Granollers (en %)
+Relació de dependència global a Granollers (en %)
+Mitjana d'edat a Granollers
+Moviments anuals de població (habitants)",Sergi Morera,https://opendata.granollers.cat/views/ydnf-ke8u.json,Indicadors. Demografia. Taxa de fecunditat a Granollers.,"natalitat,mortalitat,fecunditat,joves,adults,gent gran,juvenil,masculinitat,envelliment,senil,sobreenvelliment,dependència,mitjana d'edat,moviments anuals",2017/10/23_10:33:35,,,Public Domain,2016/05/30_13:59:01,,2016/05/30_14:08:22,,
+GRA,"Conjunt d'espais situats a peu de carrer que generen i intercanvien productes, béns o serveis.",Manel Olano,https://opendata.granollers.cat/views/nk25-urjj.json,Gràfic evolutiu del nombre d'activitats econòmiques agrupades per any i grup,activitats,2017/10/23_10:33:36,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/05/22_13:38:55,,2017/05/22_13:39:19,Economia i empresa,
+GRA,"Demandes d'ocupació registrades en les Oficines de Treball que estan actives l'últim dia laborable de cada mes i que compleixen els criteris estadístics per mesurar l'atur registrat establerts en l'Ordre ministerial de de març de 1985 (BOE de 14 de març de 1985). Una persona es classifica en l'atur registrat si és un demandant d'ocupació inscrit en una Oficina de Treball que no es troba en cap de les situacions següents:
+
+►Els treballadors ocupats que sol·licitin un treball per compatibilitzar-lo amb l'actual o canviar-lo pel que ocupen, les persones que estan en suspensió o reducció de jornada per un expedient de regulació d'ocupació i els que estan ocupats en un treball de col·laboració social.
+
+► Els treballadors sense disponibilitat immediata per treballar o en situació incompatible amb el treball: jubilats, pensionistes d'invalidesa absoluta o gran invalidesa, persones majors de 65 anys, treballadors en situació d'incapacitat laboral transitòria o baixa mèdica, demandants que estan complint el servei militar, estudiants d'ensenyament oficial reglat menors de 25 anys o que superen aquesta edat però són demandants de primera ocupació i els de formació ocupacional que compleixin les condicions següents:
+
+- les seves hores lectives superin les 20 hores setmanals
+
+- tinguin una beca de manutenció
+
+- siguin demandants de primera ocupació.
+
+► Els treballadors que demanden exclusivament una ocupació de característiques específiques: els que sol·liciten una ocupació a domicili, o per un període inferior a tres mesos o una jornada setmanal inferior a 20 hores, els que s'inscriuen en les oficines d'ocupació com a requisit previ per participar en
+
+un procés de selecció per un lloc de treball determinat i els que sol·liciten un treball exclusivament per l'estranger.
+
+► Els treballadors eventuals agraris beneficiaris del subsidi especial per atur, mentre l'estiguin rebent o mentre no hagi passat un període superior a un any des del dia del naixement del dret.
+
+► Els demandants registrats com a aturats que es neguen injustificadament a participar en cursos de formació ocupacional.
+
+ 
+
+Al mes de maig de l'any 2005 va entrar en funcionament el nou model de gestió SISPE (Sistema d'informació dels serveis públics d'ocupació), que permet recollir millor la informació que s'utilitza per a l'elaboració estadística de l'atur registrat. La implantació del SISPE modifica el nombre d'aturats registrats, no perquè canviï la definició de qui es considera aturat registrat, sinó perquè millora l'actualització i la gestió automatitzada de la informació.",Sergi Morera,https://opendata.granollers.cat/views/9khb-3ucd.json,Indicadors. Activitat econòmica. Atur. Atur a Granollers per gènere.,,2017/10/23_10:33:36,,,Public Domain,2017/02/15_08:50:05,,2017/02/15_08:50:10,Ciutat i serveis,
+GRA,Dades definitives de població de Granollers a 1 de gener de l'any en qüestió.,Sergi Morera,https://opendata.granollers.cat/views/s2a4-qnpe.json,Distribució de la població segons nacionalitat amb nacionalitat no espanyola a l'any 2016,població,2017/10/23_10:33:36,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/04/10_10:18:58,,2017/04/10_10:20:30,Població,
+GRA,"Taxa de natalitat Granollers ((x/1000))
+Taxa de mortalitat Granollers ((x/1000))
+Taxa de fecunditat Granollers ((x/1000))
+Proporció de joves a Granollers (en %)
+Proporció d'adults a Granollers (en %)
+Proporció de població gran a Granollers (en %)
+Proporció juvenil a Granollers (en %)
+Relació de masculinitat (en %)
+Índex d'envelliment a Granollers (en %)
+Índex de sobreenvelliment a Granollers (en %)
+Índex de dependència juvenil a Granollers (en %)
+Índex de dependència senil a Granollers (en %)
+Relació de dependència global a Granollers (en %)
+Mitjana d'edat a Granollers
+Moviments anuals de població (habitants)",Sergi Morera,https://opendata.granollers.cat/views/t47t-iear.json,Indicadors. Demografia. Mitjana d'edat a Granollers (en %),"natalitat,mortalitat,fecunditat,joves,adults,gent gran,juvenil,masculinitat,envelliment,senil,sobreenvelliment,dependència,mitjana d'edat,moviments anuals",2017/10/23_10:33:36,,,Public Domain,2016/05/30_13:59:01,,2016/05/30_14:08:22,,
+GRA,"Població activa (ocupats registrats + aturats registrats) local estimada a partir de la Taxa d'atur registral del Departament d'Empresa i Ocupació. De la Taxa d'atur registral s'obté (és difereix) el nombre d'actius registrats totals de cada municipi (2008 en endavant, per trimestres), 
+
+Per edats i sexe es fa servir la Mostra Continua de Vides Laborals de la Seguretat Social. La MCVL ofereix informació, d'una banda, de cadascun dels municipis de més de 40.000 habitants, i de l'altra, del conjunt de  la resta de municipis. Per tant, en els municipis de més de 40.000 habitants de la província s'apliquen les distribucions per sexe i edat pròpies del seu municipi obtingudes de la Mostra, mentre que a la resta de municipis s'aplica la distribució per sexe i edat mitjana obtinguda dels municipis menors d'aquest llindar.",Sergi Morera,https://opendata.granollers.cat/views/2hai-zqrm.json,"Indicadors. Població activa registrada a Granollers, per edat i gènere","població activa,ocupació,atur,dona,gènere",2017/10/23_10:33:37,,,Public Domain,2017/02/14_14:11:39,,2017/02/14_14:14:56,Economia i empresa,
+GRA,"Conjunt d'espais situats a peu de carrer que generen i intercanvien productes, béns o serveis.",Manel Olano,https://opendata.granollers.cat/views/y2au-d7rt.json,Nombre d'activitats econòmiques agrupades per any i grup,activitats,2017/10/23_10:33:37,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/05/22_13:38:55,,2017/05/22_13:39:19,Economia i empresa,
+GRA,"Contractes de lloguer
+Nombre de contractes de lloguer per cada 10.000 habitants
+Preu mitjà dels contractes de lloguer (euros per mes)
+Superfície útil mitjana de l'habitatge de nova construcció (m2)
+Oferta d'habitatges de nova construcció
+Preu mitjà metre quadrat construit d'habitatge de nova construcció (euros)
+Habitants / Béns residencials (2015)
+Superfície de les parcel·les urbanes edificades
+Béns residencials (2015)
+Béns residencials / Superfície agregada de les parcel·les edificades
+Superficie agregada de les parcel·les edificades
+Superfície agregada de les parcel·les rústiques
+Intensitat d'edificació
+Intensitat Urbanització ( Superfície Urbana / Superfície Urbana + Superfície Rústica)
+Nombre d'habitatges iniciats
+(Nombre d'habitatges iniciats / població) * 1000
+Nombre d'habitatges acabats
+(Nombre d'habitatges acabats / població) * 1000
+Aturats construcció
+Atur construcció / Atur",Sergi Morera,https://opendata.granollers.cat/views/pibq-5ft5.json,Indicadors. Habitatge i urbanisme. Nombre de contractes de lloguer per cada 1000 habitants a Granollers.,,2017/10/23_10:33:37,,,Public Domain,2016/05/31_13:05:35,,2016/05/31_13:08:35,Territori,
+GRA,"Documents toolbox del projecte Alera, en català, espanyol, francès o anglès",Sergi Morera,https://opendata.granollers.cat/views/n74c-5ptd.json,Alera documents concerning topic Agriculture,reutilització d'aigua,2017/10/23_10:33:37,,,,2016/07/01_12:23:57,,2016/07/01_12:24:03,Territori,
+GRA,Dades definitives de població de Granollers a 1 de gener de l'any en qüestió.,Sergi Morera,https://opendata.granollers.cat/views/p366-ufbi.json,Persones nascudes a Irlanda que estan empadronades al 2016,població,2017/10/23_10:33:37,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/04/10_10:18:58,,2017/04/10_10:20:30,Població,
+GRA,Ingressos totals anuals liquidats per l'Ajuntament de Granollers i Patronat del Museu,Sergi Morera,https://opendata.granollers.cat/views/an2n-yrbr.json,Indicadors econòmics. Ingressos. Ajuntament de Granollers.,"ingressos,pressupost,ingressos per habitant,indicadors",2017/10/23_10:33:38,,,Public Domain,2016/04/12_11:49:51,,2016/04/12_11:51:43,Administració,
+GRA,,Sergi Morera,https://opendata.granollers.cat/views/3qy5-eq6h.json,Indicadors Pla de Xoc 2012-2016,"indicadors,ajuts,subvenció,beques",2017/10/23_10:33:38,,,Public Domain,2017/09/07_09:30:25,,2017/09/07_09:39:59,Economia i empresa,
+GRA,,Sergi Morera,https://opendata.granollers.cat/views/ev5e-7xrz.json,"Cicles formatius a Granollers, segons família professional","formació professional,fp",2017/10/23_10:33:38,,,Public Domain,2017/01/30_11:18:31,,2017/01/30_11:18:34,Ciutat i serveis,
+GRA,Aquest indicador reflexa la taxa d'atur de Granollers estimada a partir del cens de Població Activa segregada per grups d'edat i gènere. La població activa estimada és un cens de la població capaç de treballar,Sergi Morera,https://opendata.granollers.cat/views/tuzi-dp5c.json,Indicadors. Evolució taxa d'atur registral a Granollers,"atur,ocupació,indicadors",2017/10/23_10:33:38,,,Public Domain,2017/02/15_09:14:38,,2017/02/15_09:14:51,Economia i empresa,
+GRA,"Població activa (ocupats registrats + aturats registrats) local estimada a partir de la Taxa d'atur registral del Departament d'Empresa i Ocupació. De la Taxa d'atur registral s'obté (és difereix) el nombre d'actius registrats totals de cada municipi (2008 en endavant, per trimestres), 
+
+Per edats i sexe es fa servir la Mostra Continua de Vides Laborals de la Seguretat Social. La MCVL ofereix informació, d'una banda, de cadascun dels municipis de més de 40.000 habitants, i de l'altra, del conjunt de  la resta de municipis. Per tant, en els municipis de més de 40.000 habitants de la província s'apliquen les distribucions per sexe i edat pròpies del seu municipi obtingudes de la Mostra, mentre que a la resta de municipis s'aplica la distribució per sexe i edat mitjana obtinguda dels municipis menors d'aquest llindar.",Sergi Morera,https://opendata.granollers.cat/views/fv7g-zqtr.json,"Indicadors. Població activa registrada a Granollers, per edat i gènere","població activa,ocupació,atur,dona,dones,gènere",2017/10/23_10:33:39,,,Public Domain,2017/02/14_14:11:39,,2017/02/14_14:14:56,Economia i empresa,
+GRA,"Indicadors de model, de flux i de qualitat en matèria de sostenibilitat ambiental",Sergi Morera,https://opendata.granollers.cat/views/jzxr-jdi6.json,Indicadors. Sostenibilitat,"sostenibilitat,medi ambient,energia,aire,aigua,territori",2017/10/23_10:33:39,,,Public Domain,2016/07/29_11:21:15,,2016/07/29_11:23:25,Territori,
+GRA,,Sergi Morera,https://opendata.granollers.cat/views/a4mf-7yr4.json,Indicadors. Activitat econòmica. Atur per edat a Granollers,"atur,ocupació,indicadors",2017/10/23_10:33:39,,,,2016/07/28_13:51:44,,2016/07/28_13:52:34,Economia i empresa,
+GRA,"Mostra el deute viu per operacions de crèdit a curt o llarg termini, tant contractades directament per l’Ajuntament com avalades a algun dels seus ens dependents (Museu Municipal Granollers Mercat, Granollers Escena, Granollers Promocions i Granollers Audiovisual).",Sergi Morera,https://opendata.granollers.cat/views/j2dw-6bwg.json,Indicadors econòmics. Deute. Ajuntament de Granollers.,"indicadors,deute,deute per habitant,deute viu",2017/10/23_10:33:39,,,Public Domain,2016/04/19_12:55:33,,2016/04/19_12:58:05,Administració,
+GRA,"Mostra la distribució dels usos sòl del terme municipal de Granollers segons la classificació (Urbà, Urbanitzable i No urbanitzable) i qualificació urbanística d'aquest (Preferentment residencial, Preferentment industrial i No urbanitzable)",Sergi Morera,https://opendata.granollers.cat/views/8v6k-vhbj.json,Indicadors. Habitatge i urbanisme. Classificació i qualificació urbanística del sòl,"urbanisme,sòl,qualificació,classificació,poum",2017/10/23_10:33:40,,,Public Domain,2016/07/22_11:41:02,,2016/07/22_12:06:53,Territori,
+GRA,"Contractes de lloguer
+Nombre de contractes de lloguer per cada 10.000 habitants
+Preu mitjà dels contractes de lloguer (euros per mes)
+Superfície útil mitjana de l'habitatge de nova construcció (m2)
+Oferta d'habitatges de nova construcció
+Preu mitjà metre quadrat construit d'habitatge de nova construcció (euros)
+Habitants / Béns residencials (2015)
+Superfície de les parcel·les urbanes edificades
+Béns residencials (2015)
+Béns residencials / Superfície agregada de les parcel·les edificades
+Superficie agregada de les parcel·les edificades
+Superfície agregada de les parcel·les rústiques
+Intensitat d'edificació
+Intensitat Urbanització ( Superfície Urbana / Superfície Urbana + Superfície Rústica)
+Nombre d'habitatges iniciats
+(Nombre d'habitatges iniciats / població) * 1000
+Nombre d'habitatges acabats
+(Nombre d'habitatges acabats / població) * 1000
+Aturats construcció
+Atur construcció / Atur",Sergi Morera,https://opendata.granollers.cat/views/ye2x-tpzp.json,Indicadors. Habitatge i urbanisme. Preu mitjà dels contractes de lloguer a Granollers.,,2017/10/23_10:33:40,,,Public Domain,2016/05/31_13:05:35,,2016/05/31_13:08:35,Territori,
+GRA,"Mostra el resultat ajustat del pressupost consolidat i el romanent del grup format per l’Ajuntament i els seus ens dependents administratius detallat per ens. En el càlcul dels indicadors continguts al dataset, la referència respecte el nombre d'habitants són les  dades de població de l'INE.",Sergi Morera,https://opendata.granollers.cat/views/k9ni-7cvi.json,Indicadors econòmics. Resultat pressupostari i romanent Ajuntament de Granollers.,"indicadors,indicadors econòmics,resultat,romanent,per habitant",2017/10/23_10:33:40,,,Public Domain,2016/04/12_11:12:08,,2016/04/12_11:13:52,Administració,
+GRA,,Rose Mortada,https://opendata.granollers.cat/views/r2wr-667b.json,Parceles Urbana,,2017/10/23_10:33:40,,,,2016/01/27_11:46:21,,2016/01/27_11:46:49,,
+GRA,,Sergi Morera,https://opendata.granollers.cat/views/av2q-ea3v.json,Indicadors. Activitat econòmica. Atur a Granollers per durada de la demanda,"atur,ocupació,indicadors",2017/10/23_10:33:41,,,Public Domain,2016/07/28_13:56:51,,2016/07/28_13:57:41,Economia i empresa,
+GRA,"Mostra el resultat ajustat del pressupost consolidat i el romanent del grup format per l’Ajuntament i els seus ens dependents administratius detallat per ens. En el càlcul dels indicadors continguts al dataset, la referència respecte el nombre d'habitants són les  dades de població de l'INE.",Sergi Morera,https://opendata.granollers.cat/views/t2rb-6xhn.json,Indicadors econòmics. Resultat i romanent Ajuntament de Granollers.,"indicadors,indicadors econòmics,resultat,romanent,per habitant",2017/10/23_10:33:41,,,Public Domain,2016/04/12_11:12:08,,2016/04/12_11:13:52,Administració,
+GRA,Mostra el nombre total de delictes instruïts per la Policia Local de Granollers,Sergi Morera,https://opendata.granollers.cat/views/iq7t-rwm5.json,Indicadors. Seguretat ciutadana. Actuació policial. Delictes instruïts,"seguretat,policia local,indicadors,civisme",2017/10/23_10:33:41,,,Public Domain,2017/01/19_15:41:20,,2017/01/19_15:42:24,Ciutat i serveis,
+GRA,"Consum de gasoil dels centres pertanyents a l'Ajuntament de Granollers.
+
+Nota: Cal considerar que l'import imputat a cada mes no sempre correspon al consum realitzat en el mateix, pels següents motius: 
+Els períodes de facturació no corresponen a mesos naturals.
+De vegades no es realitzen lectures lectures reals i es factura o per estimada o per consum zero. En aquest, cas a la primera lectura real a posteriori d'un període d'estimades es realitza una regularització.",Manel Olano,https://opendata.granollers.cat/views/dxce-rsxd.json,Consum i cost de gasoil dels equipaments municipals per any,"subministrament,gasoil",2017/10/23_10:33:41,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/02/01_13:58:35,,2017/02/01_13:59:18,Administració,
+GRA,"Contractes de lloguer
+Nombre de contractes de lloguer per cada 10.000 habitants
+Preu mitjà dels contractes de lloguer (euros per mes)
+Superfície útil mitjana de l'habitatge de nova construcció (m2)
+Oferta d'habitatges de nova construcció
+Preu mitjà metre quadrat construit d'habitatge de nova construcció (euros)
+Habitants / Béns residencials (2015)
+Superfície de les parcel·les urbanes edificades
+Béns residencials (2015)
+Béns residencials / Superfície agregada de les parcel·les edificades
+Superficie agregada de les parcel·les edificades
+Superfície agregada de les parcel·les rústiques
+Intensitat d'edificació
+Intensitat Urbanització ( Superfície Urbana / Superfície Urbana + Superfície Rústica)
+Nombre d'habitatges iniciats
+(Nombre d'habitatges iniciats / població) * 1000
+Nombre d'habitatges acabats
+(Nombre d'habitatges acabats / població) * 1000
+Aturats construcció
+Atur construcció / Atur",Sergi Morera,https://opendata.granollers.cat/views/dbaq-zui5.json,Indicadors. Habitatge i urbanisme. Superfície útil mitjana de l'habitatge de nova construcció a Granollers (m2),,2017/10/23_10:33:42,,,Public Domain,2016/05/31_13:05:35,,2016/05/31_13:08:35,Territori,
+GRA,"Taxa de natalitat Granollers ((x/1000))
+Taxa de mortalitat Granollers ((x/1000))
+Taxa de fecunditat Granollers ((x/1000))
+Proporció de joves a Granollers (en %)
+Proporció d'adults a Granollers (en %)
+Proporció de població gran a Granollers (en %)
+Proporció juvenil a Granollers (en %)
+Relació de masculinitat (en %)
+Índex d'envelliment a Granollers (en %)
+Índex de sobreenvelliment a Granollers (en %)
+Índex de dependència juvenil a Granollers (en %)
+Índex de dependència senil a Granollers (en %)
+Relació de dependència global a Granollers (en %)
+Mitjana d'edat a Granollers
+Moviments anuals de població (habitants)",Sergi Morera,https://opendata.granollers.cat/views/g9rp-28jc.json,Indicadors. Demografia. Índex de dependència senil a Granollers (en %),"natalitat,mortalitat,fecunditat,joves,adults,gent gran,juvenil,masculinitat,envelliment,senil,sobreenvelliment,dependència,mitjana d'edat,moviments anuals",2017/10/23_10:33:42,,,Public Domain,2016/05/30_13:59:01,,2016/05/30_14:08:22,,
+GRA,Indicadors. Despesa total anual liquidada Ajuntament de Granollers i Patronat del Museu.,Sergi Morera,https://opendata.granollers.cat/views/hs9c-dvzg.json,Indicadors econòmics. Evolució pressupost de despeses. Ajuntament de Granollers,"indicadors,despesa anual liquidada,despeses,per habitant",2017/10/23_10:33:42,,,Public Domain,2016/04/12_12:10:51,,2016/04/12_12:13:50,Administració,
+GRA,Ingressos totals anuals liquidats per l'Ajuntament de Granollers i Patronat del Museu,Sergi Morera,https://opendata.granollers.cat/views/4uur-vyin.json,Indicadors econòmics. Evolució pressupost ingressos. Ajuntament de Granollers.,"ingressos,pressupost,ingressos per habitant,indicadors",2017/10/23_10:33:42,,,Public Domain,2016/04/12_11:49:51,,2016/04/12_11:51:43,Administració,
+GRA,,Sergi Morera,https://opendata.granollers.cat/views/vvkt-gq4a.json,Obres espais per a vianants Granollers,"indicadors,obres,vianants,illa,peatonalització",2017/10/23_10:33:43,,,Public Domain,2017/03/03_12:23:48,,2017/03/03_12:24:55,Territori,
+GRA,"Mostra el nombre de vehicles controlats de velocitat a través de cinemòmetre‐radar 
+segregats segons el resultat del mesurament (denunciats o no).",Sergi Morera,https://opendata.granollers.cat/views/6adq-nxrh.json,Indicadors. Seguretat ciutadana. Actuació policial. Controls de velocitat,"seguretat,policia local,indicadors,civisme",2017/10/23_10:33:43,,,Public Domain,2017/01/19_16:00:35,,2017/01/19_16:00:36,Ciutat i serveis,
+GRA,"Mostra el percentatge d'accidents on hi ha resultat positiu en la prova d'alcoholèmia respecte el total. Es consideren positius, tant els positius com els que es neguen a realitzar la prova.",Sergi Morera,https://opendata.granollers.cat/views/ysf9-84m5.json,Indicadors. Seguretat ciutadana. % Accidents on hi ha presència d'alcohol,"seguretat,policia local,indicadors,civisme,alcohol",2017/10/23_10:33:43,,,Public Domain,2017/01/20_09:23:25,,2017/01/20_09:23:28,Ciutat i serveis,
+GRA,Informes elaborats mensualment pel Servei d'informació estadística municipal del Vallès Oriental - SIEM.,Sergi Morera,https://opendata.granollers.cat/views/b7r2-yuri.json,Indicadors. Activitat econòmica. Atur registral. Informes Atur registral.,"atur,ocupació,indicadors",2017/10/23_10:33:43,,,Public Domain,2017/02/15_08:57:32,,2017/02/15_08:57:35,Economia i empresa,
+GRA,"Taxa de natalitat Granollers ((x/1000))
+Taxa de mortalitat Granollers ((x/1000))
+Taxa de fecunditat Granollers ((x/1000))
+Proporció de joves a Granollers (en %)
+Proporció d'adults a Granollers (en %)
+Proporció de població gran a Granollers (en %)
+Proporció juvenil a Granollers (en %)
+Relació de masculinitat (en %)
+Índex d'envelliment a Granollers (en %)
+Índex de sobreenvelliment a Granollers (en %)
+Índex de dependència juvenil a Granollers (en %)
+Índex de dependència senil a Granollers (en %)
+Relació de dependència global a Granollers (en %)
+Mitjana d'edat a Granollers
+Moviments anuals de població (habitants)",Sergi Morera,https://opendata.granollers.cat/views/swww-8zyn.json,Indicadors. Demografia. Índex de dependència global a Granollers (en %),"natalitat,mortalitat,fecunditat,joves,adults,gent gran,juvenil,masculinitat,envelliment,senil,sobreenvelliment,dependència,mitjana d'edat,moviments anuals",2017/10/23_10:33:44,,,Public Domain,2016/05/30_13:59:01,,2016/05/30_14:08:22,,
+GRA,"Taxa de natalitat Granollers ((x/1000))
+Taxa de mortalitat Granollers ((x/1000))
+Taxa de fecunditat Granollers ((x/1000))
+Proporció de joves a Granollers (en %)
+Proporció d'adults a Granollers (en %)
+Proporció de població gran a Granollers (en %)
+Proporció juvenil a Granollers (en %)
+Relació de masculinitat (en %)
+Índex d'envelliment a Granollers (en %)
+Índex de sobreenvelliment a Granollers (en %)
+Índex de dependència juvenil a Granollers (en %)
+Índex de dependència senil a Granollers (en %)
+Relació de dependència global a Granollers (en %)
+Mitjana d'edat a Granollers
+Moviments anuals de població (habitants)",Sergi Morera,https://opendata.granollers.cat/views/4gkd-g75s.json,Indicadors. Demografia. Índex de sobreenvelliment a Granollers (en %),"natalitat,mortalitat,fecunditat,joves,adults,gent gran,juvenil,masculinitat,envelliment,senil,sobreenvelliment,dependència,mitjana d'edat,moviments anuals",2017/10/23_10:33:44,,,Public Domain,2016/05/30_13:59:01,,2016/05/30_14:08:22,,
+GRA,"Taxa de natalitat Granollers ((x/1000))
+Taxa de mortalitat Granollers ((x/1000))
+Taxa de fecunditat Granollers ((x/1000))
+Proporció de joves a Granollers (en %)
+Proporció d'adults a Granollers (en %)
+Proporció de població gran a Granollers (en %)
+Proporció juvenil a Granollers (en %)
+Relació de masculinitat (en %)
+Índex d'envelliment a Granollers (en %)
+Índex de sobreenvelliment a Granollers (en %)
+Índex de dependència juvenil a Granollers (en %)
+Índex de dependència senil a Granollers (en %)
+Relació de dependència global a Granollers (en %)
+Mitjana d'edat a Granollers
+Moviments anuals de població (habitants)",Sergi Morera,https://opendata.granollers.cat/views/xbxw-gr7a.json,Indicadors. Demografia. Proporció de joves a Granollers (en %),"natalitat,mortalitat,fecunditat,joves,adults,gent gran,juvenil,masculinitat,envelliment,senil,sobreenvelliment,dependència,mitjana d'edat,moviments anuals",2017/10/23_10:33:44,,,Public Domain,2016/05/30_13:59:01,,2016/05/30_14:08:22,,
+GRA,Mostra el nombre de detencions realitzades per la policia local de Granollers,Sergi Morera,https://opendata.granollers.cat/views/8jin-jqqv.json,Indicadors. Seguretat ciutadana. Actuació policial. Nombre de detencions,"seguretat,policia local,indicadors,civisme",2017/10/23_10:33:45,,,Public Domain,2017/01/19_16:01:50,,2017/01/19_16:01:51,Ciutat i serveis,
+GRA,,Sergi Morera,https://opendata.granollers.cat/views/eqnh-sq7v.json,Indicadors. Obres. Espais per a vianants,"indicadors,obres,vianants,illa,peatonalització",2017/10/23_10:33:45,,,Public Domain,2017/03/03_12:23:48,,2017/03/03_12:24:55,Territori,
+GRA,"Documents toolbox del projecte Alera, en català, espanyol, francès o anglès",Sergi Morera,https://opendata.granollers.cat/views/eamx-2zpe.json,Documents Alera concerning topic Legislation,reutilització d'aigua,2017/10/23_10:33:45,,,,2016/07/01_12:23:57,,2016/07/01_12:24:03,Territori,
+GRA,"Indicadors d'arts de representació que es realitzen en un escenari (teatre, dansa, circ)",Sergi Morera,https://opendata.granollers.cat/views/5ees-e6re.json,Indicadors. Cultura. Arts Escèniques,"teatre,dansa,cultura,indicadors",2017/10/23_10:33:45,,,Public Domain,2016/07/29_09:39:16,,2016/07/29_09:41:27,Ciutat i serveis,
+GRA,Mostra el nombre de vehicles recuperats per la Policia Local procedents de sostracció.,Sergi Morera,https://opendata.granollers.cat/views/wajr-8t9d.json,Indicadors. Seguretat ciutadana. Actuació policial. Vehicles recuperats procedents de sostracció,"seguretat,policia local,indicadors,civisme",2017/10/23_10:33:46,,,,2017/01/19_15:58:27,,2017/01/19_15:58:29,Ciutat i serveis,
+GRA,"Documents toolbox del projecte Alera, en català, espanyol, francès o anglès",Sergi Morera,https://opendata.granollers.cat/views/ni2a-7cxe.json,Alera documents concerning Gardening,reutilització d'aigua,2017/10/23_10:33:46,,,,2016/07/01_12:23:57,,2016/07/01_12:24:03,Territori,
+GRA,Mostra les proves d'alcoholèmia en controls preventius realitzades per la Policia Local i el seu resultat és Negatiu o Positiu. Les persones que es neguen s'inclouen en els positius.,Sergi Morera,https://opendata.granollers.cat/views/jfkr-x9sj.json,Indicadors. Seguretat ciutadana. Actuació policial. Proves d'alcoholèmia,"seguretat,policia local,indicadors,civisme",2017/10/23_10:33:46,,,Public Domain,2017/01/19_15:46:47,,2017/01/19_15:46:49,Ciutat i serveis,
+GRA,Despesa total anual liquidada Ajuntament de Granollers i Patronat del Museu.,Sergi Morera,https://opendata.granollers.cat/views/2nsn-e889.json,Indicadors econòmics. Despeses. Ajuntament de Granollers.,"indicadors,despesa anual liquidada,despeses,per habitant",2017/10/23_10:33:46,,,Public Domain,2016/04/12_12:10:51,,2016/04/12_12:13:50,Administració,
+GRA,Indicadors. Activitat econòmica. Atur a Granollers per subgrup principal d'ocupació,Sergi Morera,https://opendata.granollers.cat/views/nhfb-e5xg.json,Indicadors. Activitat econòmica. Atur a Granollers per subgrup principal d'ocupació,"atur,ocupació,indicadors",2017/10/23_10:33:47,,,Public Domain,2016/07/28_14:18:45,,2016/07/28_14:21:55,Economia i empresa,
+GRA,"Taula de seguiment dels indicadors que fa servir el Servei d'obres i projectes per a la seva gestió, inclou: Superfície construïda total  m2, Superfície voreres  m2, Superfície calçada asfalt  m2, Altres m2, Superfície zona verda  m2, Superfície jocs infantils  m2,	Arbres  ut,	Bancs  ut,	Papereres  ut,	Punts de llum  ut,	Jocs infantils  ut,	Clavegueram  ml,	EPSA  ml,	FECSA-ENDESA  ml,	SOREA  ml,	Gas  ml,	Tritub municipal  ml,	Altres  ml,	Pressupost Final,	Pressupost Adjudicat,	Pressupost Projecte",Sergi Morera,https://opendata.granollers.cat/views/c9rk-6px8.json,Indicadors. Obres.,"indicadors,obres,arbres,bancs,papereres,punts de llum,jocs infantils,clavegueram,pressupost,carrer,asfalt,zona verda,calçada,construcció,superfície",2017/10/23_10:33:47,,,Public Domain,2017/02/16_14:02:52,,2017/02/16_14:03:05,Territori,
+GRA,"Documents toolbox del projecte Alera, en català, espanyol, francès o anglès",Sergi Morera,https://opendata.granollers.cat/views/5fn2-hfwp.json,Documents Alera concerning topic Indicators.,reutilització d'aigua,2017/10/23_10:33:47,,,,2016/07/01_12:23:57,,2016/07/01_12:24:03,Territori,
+GRA,"Taxa de natalitat Granollers ((x/1000))
+Taxa de mortalitat Granollers ((x/1000))
+Taxa de fecunditat Granollers ((x/1000))
+Proporció de joves a Granollers (en %)
+Proporció d'adults a Granollers (en %)
+Proporció de població gran a Granollers (en %)
+Proporció juvenil a Granollers (en %)
+Relació de masculinitat (en %)
+Índex d'envelliment a Granollers (en %)
+Índex de sobreenvelliment a Granollers (en %)
+Índex de dependència juvenil a Granollers (en %)
+Índex de dependència senil a Granollers (en %)
+Relació de dependència global a Granollers (en %)
+Mitjana d'edat a Granollers
+Moviments anuals de població (habitants)",Sergi Morera,https://opendata.granollers.cat/views/hjef-a7we.json,Indicadors. Demografia. Índex de dependència juvenil a Granollers (en %),"natalitat,mortalitat,fecunditat,joves,adults,gent gran,juvenil,masculinitat,envelliment,senil,sobreenvelliment,dependència,mitjana d'edat,moviments anuals",2017/10/23_10:33:47,,,Public Domain,2016/05/30_13:59:01,,2016/05/30_14:08:22,,
+GRA,"Mostra les infraccions de les normatives de trànsit segregades per les següents categories: Estacionament en llocs prohibits (OMC 32), No respectar els senyals de circulació (RGC), Venda ambulant, llençar escombreries (OPV 81), Conduir un vehicle parlant pel mòvil (RGC 18), Conduir de forma temerària (RGC 3), No utilitzar el cinturó de seguretat (RGC 117), Conduir sota l'efecte de begudes alcoholiques (RGC 20) i Altres.",Sergi Morera,https://opendata.granollers.cat/views/mdca-2a79.json,Indicadors. Seguretat ciutadana. Denúncies per infraccions de normatives de trànsit,"seguretat,policia local,indicadors,civisme",2017/10/23_10:33:48,,,Public Domain,2017/01/19_16:10:12,,2017/01/19_16:10:14,Ciutat i serveis,
+GRA,"Documents toolbox del projecte Alera, en català, espanyol, francès o anglès",Sergi Morera,https://opendata.granollers.cat/views/y7st-manr.json,Alera documents concerning Landscape,reutilització d'aigua,2017/10/23_10:33:48,,,,2016/07/01_12:23:57,,2016/07/01_12:24:03,Territori,
+GRA,"Taxa de natalitat Granollers ((x/1000))
+Taxa de mortalitat Granollers ((x/1000))
+Taxa de fecunditat Granollers ((x/1000))
+Proporció de joves a Granollers (en %)
+Proporció d'adults a Granollers (en %)
+Proporció de població gran a Granollers (en %)
+Proporció juvenil a Granollers (en %)
+Relació de masculinitat (en %)
+Índex d'envelliment a Granollers (en %)
+Índex de sobreenvelliment a Granollers (en %)
+Índex de dependència juvenil a Granollers (en %)
+Índex de dependència senil a Granollers (en %)
+Relació de dependència global a Granollers (en %)
+Mitjana d'edat a Granollers
+Moviments anuals de població (habitants)",Sergi Morera,https://opendata.granollers.cat/views/mgcy-bm8c.json,Indicadors. Demografia. Proporció de població gran a Granollers.,"natalitat,mortalitat,fecunditat,joves,adults,gent gran,juvenil,masculinitat,envelliment,senil,sobreenvelliment,dependència,mitjana d'edat,moviments anuals",2017/10/23_10:33:48,,,Public Domain,2016/05/30_13:59:01,,2016/05/30_14:08:22,,
+GRA,Mostra el nombre total de denúncies instruïdes,Sergi Morera,https://opendata.granollers.cat/views/xkm2-7bam.json,Indicadors. Seguretat ciutadana. Actuació policial. Denúncies instruïdes,,2017/10/23_10:33:48,,,Public Domain,2017/01/19_15:56:45,,2017/01/19_15:56:47,Administració,
+GRA,"Taxa de natalitat Granollers ((x/1000))
+Taxa de mortalitat Granollers ((x/1000))
+Taxa de fecunditat Granollers ((x/1000))
+Proporció de joves a Granollers (en %)
+Proporció d'adults a Granollers (en %)
+Proporció de població gran a Granollers (en %)
+Proporció juvenil a Granollers (en %)
+Relació de masculinitat (en %)
+Índex d'envelliment a Granollers (en %)
+Índex de sobreenvelliment a Granollers (en %)
+Índex de dependència juvenil a Granollers (en %)
+Índex de dependència senil a Granollers (en %)
+Relació de dependència global a Granollers (en %)
+Mitjana d'edat a Granollers
+Moviments anuals de població (habitants)",Sergi Morera,https://opendata.granollers.cat/views/kskv-mwae.json,Indicadors. Demografia. Proporció d'adults a Granollers.,"natalitat,mortalitat,fecunditat,joves,adults,gent gran,juvenil,masculinitat,envelliment,senil,sobreenvelliment,dependència,mitjana d'edat,moviments anuals",2017/10/23_10:33:49,,,Public Domain,2016/05/30_13:59:01,,2016/05/30_14:08:22,,
+GRA,"Documents toolbox del projecte Alera, en català, espanyol, francès o anglès",Sergi Morera,https://opendata.granollers.cat/views/7fu6-j94z.json,Documents Alera concerning topic treatment,reutilització d'aigua,2017/10/23_10:33:49,,,,2016/07/01_12:23:57,,2016/07/01_12:24:03,Territori,
+GRA,"Mostra el nombre de denúncies per infracció de zona blava a Granollers, segregades per les següents categories: Per no obtenir el ticket o per excedir el temps indicat al ticket.",Sergi Morera,https://opendata.granollers.cat/views/xha6-zyfc.json,Indicadors. Seguretat ciutadana. Actuació policial. Denúncies per infracció de zona blava,"seguretat,policia local,indicadors,civisme",2017/10/23_10:33:49,,,Public Domain,2017/01/19_14:18:27,,2017/01/19_14:18:28,Ciutat i serveis,
+GRA,"Taxa de natalitat Granollers ((x/1000))
+Taxa de mortalitat Granollers ((x/1000))
+Taxa de fecunditat Granollers ((x/1000))
+Proporció de joves a Granollers (en %)
+Proporció d'adults a Granollers (en %)
+Proporció de població gran a Granollers (en %)
+Proporció juvenil a Granollers (en %)
+Relació de masculinitat (en %)
+Índex d'envelliment a Granollers (en %)
+Índex de sobreenvelliment a Granollers (en %)
+Índex de dependència juvenil a Granollers (en %)
+Índex de dependència senil a Granollers (en %)
+Relació de dependència global a Granollers (en %)
+Mitjana d'edat a Granollers
+Moviments anuals de població (habitants)",Sergi Morera,https://opendata.granollers.cat/views/k4gk-jku7.json,Indicadors. Demografia. Relació de masculinitat a Granollers.,"natalitat,mortalitat,fecunditat,joves,adults,gent gran,juvenil,masculinitat,envelliment,senil,sobreenvelliment,dependència,mitjana d'edat,moviments anuals",2017/10/23_10:33:49,,,Public Domain,2016/05/30_13:59:01,,2016/05/30_14:08:22,,
+GRA,"Documents toolbox del projecte Alera, en català, espanyol, francès o anglès",Sergi Morera,https://opendata.granollers.cat/views/fyjy-fpwt.json,Alera documents concerning topic Industry,reutilització d'aigua,2017/10/23_10:33:50,,,,2016/07/01_12:23:57,,2016/07/01_12:24:03,Territori,
+GRA,"This dataset is an inventory of the assets on the site. Here you can track the performance of data publishing, metadata maintenance, as well as present an overview of what data exists on the site.
+
+Note: This is only updated once per day.",Mission Control,https://opendata.granollers.cat/views/imia-33vj.json,Asset Inventory,,2017/10/23_10:33:50,,,,2017/10/22_23:30:33,,2017/10/22_23:30:35,,
+GRA,,Sergi Morera,https://opendata.granollers.cat/views/jgcw-c8j4.json,Indicadors. Obres. Espais per vianants.,"indicadors,obres,vianants,illa,peatonalització",2017/10/23_10:33:50,,,Public Domain,2017/03/03_12:23:48,,2017/03/03_12:24:55,Territori,
+GRA,Proposta indicadors bàsics de Roca Umbert 2016,Sergi Morera,https://opendata.granollers.cat/views/igpm-jsft.json,Indicadors. Roca Umbert.,"cultura,roca umbert,indicadors",2017/10/23_10:33:50,,,Public Domain,2017/01/30_11:51:58,,2017/01/30_11:54:42,Ciutat i serveis,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/r6ib-wzgy.json,Pressupost de despeses. Programes d'Indústria i Energia,"pressupost,despesa",2017/10/23_10:33:50,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,Factures comptabilitzades dels proveïdors de l'Ajuntament de Granollers,Manel Olano,https://opendata.granollers.cat/views/ik7k-58ua.json,Factures campanyes comunicació Ajuntament de Granollers,"factures,proveïdors",2017/10/23_10:33:51,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/10/06_13:10:44,,2017/09/04_08:17:03,Administració,
+GRA,"Demandes d'ocupació registrades en les Oficines de Treball que estan actives l'últim dia laborable de cada mes i que compleixen els criteris estadístics per mesurar l'atur registrat establerts en l'Ordre ministerial de de març de 1985 (BOE de 14 de març de 1985). Una persona es classifica en l'atur registrat si és un demandant d'ocupació inscrit en una Oficina de Treball que no es troba en cap de les situacions següents:
+
+►Els treballadors ocupats que sol·licitin un treball per compatibilitzar-lo amb l'actual o canviar-lo pel que ocupen, les persones que estan en suspensió o reducció de jornada per un expedient de regulació d'ocupació i els que estan ocupats en un treball de col·laboració social.
+
+► Els treballadors sense disponibilitat immediata per treballar o en situació incompatible amb el treball: jubilats, pensionistes d'invalidesa absoluta o gran invalidesa, persones majors de 65 anys, treballadors en situació d'incapacitat laboral transitòria o baixa mèdica, demandants que estan complint el servei militar, estudiants d'ensenyament oficial reglat menors de 25 anys o que superen aquesta edat però són demandants de primera ocupació i els de formació ocupacional que compleixin les condicions següents:
+
+- les seves hores lectives superin les 20 hores setmanals
+
+- tinguin una beca de manutenció
+
+- siguin demandants de primera ocupació.
+
+► Els treballadors que demanden exclusivament una ocupació de característiques específiques: els que sol·liciten una ocupació a domicili, o per un període inferior a tres mesos o una jornada setmanal inferior a 20 hores, els que s'inscriuen en les oficines d'ocupació com a requisit previ per participar en
+
+un procés de selecció per un lloc de treball determinat i els que sol·liciten un treball exclusivament per l'estranger.
+
+► Els treballadors eventuals agraris beneficiaris del subsidi especial per atur, mentre l'estiguin rebent o mentre no hagi passat un període superior a un any des del dia del naixement del dret.
+
+► Els demandants registrats com a aturats que es neguen injustificadament a participar en cursos de formació ocupacional.
+
+ 
+
+Al mes de maig de l'any 2005 va entrar en funcionament el nou model de gestió SISPE (Sistema d'informació dels serveis públics d'ocupació), que permet recollir millor la informació que s'utilitza per a l'elaboració estadística de l'atur registrat. La implantació del SISPE modifica el nombre d'aturats registrats, no perquè canviï la definició de qui es considera aturat registrat, sinó perquè millora l'actualització i la gestió automatitzada de la informació.",Sergi Morera,https://opendata.granollers.cat/views/b43r-erxu.json,"Indicadors. Persones a l'atur majors de 54 anys, per gènere","atur,gènere,dona,dones,indicadors",2017/10/23_10:33:51,,,Public Domain,2017/02/15_09:39:10,,2017/02/15_09:41:08,Economia i empresa,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/6e56-jwwa.json,"Pressupost de despeses. Comerç, turisme i pimes","pressupost,despesa",2017/10/23_10:33:51,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,Indicadors d'administració electrònica,Sergi Morera,https://opendata.granollers.cat/views/a6a7-ekqw.json,Indicadors. Administració electrònica,,2017/10/23_10:33:52,,,Public Domain,2017/01/30_14:26:56,,2017/01/30_14:28:23,Administració,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/dhpc-x8v4.json,Pressupost de despeses. Programes de Seguretat i Mobilitat.,"pressupost,despesa",2017/10/23_10:33:52,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,"Conjunt d'espais situats a peu de carrer que generen i intercanvien productes, béns o serveis.",Manel Olano,https://opendata.granollers.cat/views/4v85-qftz.json,Activitats econòmiques a peu de carrer (any actual),activitats,2017/10/23_10:33:52,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/05/22_13:38:55,,2017/05/22_13:39:19,Economia i empresa,
+GRA,"Consum de gas, gasoil, electricitat i aigua dels centres pertanyents a l'Ajuntament de Granollers.
+
+Nota: Cal considerar que l'import imputat a cada mes no sempre correspon al consum realitzat en el mateix, pels següents motius: 
+Els períodes de facturació no corresponen a mesos naturals.
+De vegades no es realitzen lectures lectures reals i es factura o per estimada o per consum zero. En aquest, cas a la primera lectura real a posteriori d'un període d'estimades es realitza una regularització.",Manel Olano,https://opendata.granollers.cat/views/jqr3-5cvz.json,Indicadors. Consum electricitat i cost a via pública i edificis municipals.,"subministrament,aigua,electricitat,gas,gasoil",2017/10/23_10:33:52,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/02/01_13:58:35,,2017/02/01_13:59:18,Administració,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/6s9p-sui8.json,Pressupost de despeses. Programes de cultura.,"pressupost,despesa",2017/10/23_10:33:53,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,"Demandes d'ocupació registrades en les Oficines de Treball que estan actives l'últim dia laborable de cada mes i que compleixen els criteris estadístics per mesurar l'atur registrat establerts en l'Ordre ministerial de de març de 1985 (BOE de 14 de març de 1985). Una persona es classifica en l'atur registrat si és un demandant d'ocupació inscrit en una Oficina de Treball que no es troba en cap de les situacions següents:
+
+►Els treballadors ocupats que sol·licitin un treball per compatibilitzar-lo amb l'actual o canviar-lo pel que ocupen, les persones que estan en suspensió o reducció de jornada per un expedient de regulació d'ocupació i els que estan ocupats en un treball de col·laboració social.
+
+► Els treballadors sense disponibilitat immediata per treballar o en situació incompatible amb el treball: jubilats, pensionistes d'invalidesa absoluta o gran invalidesa, persones majors de 65 anys, treballadors en situació d'incapacitat laboral transitòria o baixa mèdica, demandants que estan complint el servei militar, estudiants d'ensenyament oficial reglat menors de 25 anys o que superen aquesta edat però són demandants de primera ocupació i els de formació ocupacional que compleixin les condicions següents:
+
+- les seves hores lectives superin les 20 hores setmanals
+
+- tinguin una beca de manutenció
+
+- siguin demandants de primera ocupació.
+
+► Els treballadors que demanden exclusivament una ocupació de característiques específiques: els que sol·liciten una ocupació a domicili, o per un període inferior a tres mesos o una jornada setmanal inferior a 20 hores, els que s'inscriuen en les oficines d'ocupació com a requisit previ per participar en
+
+un procés de selecció per un lloc de treball determinat i els que sol·liciten un treball exclusivament per l'estranger.
+
+► Els treballadors eventuals agraris beneficiaris del subsidi especial per atur, mentre l'estiguin rebent o mentre no hagi passat un període superior a un any des del dia del naixement del dret.
+
+► Els demandants registrats com a aturats que es neguen injustificadament a participar en cursos de formació ocupacional.
+
+ 
+
+Al mes de maig de l'any 2005 va entrar en funcionament el nou model de gestió SISPE (Sistema d'informació dels serveis públics d'ocupació), que permet recollir millor la informació que s'utilitza per a l'elaboració estadística de l'atur registrat. La implantació del SISPE modifica el nombre d'aturats registrats, no perquè canviï la definició de qui es considera aturat registrat, sinó perquè millora l'actualització i la gestió automatitzada de la informació.",Sergi Morera,https://opendata.granollers.cat/views/ujyc-jmuz.json,Indicadors. Activitat econòmica. Atur. Atur registrat per gènere i grups d'edat,"atur,gènere,dona,dones,indicadors",2017/10/23_10:33:53,,,Public Domain,2017/02/15_09:39:10,,2017/02/15_09:41:08,Economia i empresa,
+GRA,,Sergi Morera,https://opendata.granollers.cat/views/s28w-jrfr.json,"Cicles formatius a Granollers, segons família professional","formació professional,fp",2017/10/23_10:33:53,,,Public Domain,2017/01/30_11:18:31,,2017/01/30_11:18:34,Ciutat i serveis,
+GRA,Informes elaborats mensualment pel Servei d'informació estadística municipal del Vallès Oriental - SIEM.,Sergi Morera,https://opendata.granollers.cat/views/uudb-5cyz.json,Indicadors. Activitat econòmica. Atur registral. Informes atur registral.,"atur,ocupació,indicadors",2017/10/23_10:33:53,,,Public Domain,2017/02/15_08:57:32,,2017/02/15_08:57:35,Economia i empresa,
+GRA,Indicadors d'administració electrònica,Sergi Morera,https://opendata.granollers.cat/views/j37z-jdfn.json,Indicadors. Administració electrònica.,,2017/10/23_10:33:53,,,Public Domain,2017/01/30_14:26:56,,2017/01/30_14:28:23,Administració,
+GRA,,Sergi Morera,https://opendata.granollers.cat/views/icsj-e8pw.json,"Indicadors. Atur a Granollers, per gènere","gènere,dona,dones,igualtat",2017/10/23_10:33:54,,,Public Domain,2017/02/15_08:50:05,,2017/02/15_08:50:10,Economia i empresa,
+GRA,Dades definitives de població de Granollers a 1 de gener de l'any en qüestió.,Sergi Morera,https://opendata.granollers.cat/views/s67e-aep2.json,Distribució de la població segons nacionalitat amb nacionalitat no espanyola a l'any 2017,població,2017/10/23_10:33:54,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/04/10_10:18:58,,2017/04/10_10:20:30,Població,
+GRA,"Consum de gas, gasoil, electricitat i aigua dels centres pertanyents a l'Ajuntament de Granollers.
+
+Nota: Cal considerar que l'import imputat a cada mes no sempre correspon al consum realitzat en el mateix, pels següents motius: 
+Els períodes de facturació no corresponen a mesos naturals.
+De vegades no es realitzen lectures lectures reals i es factura o per estimada o per consum zero. En aquest, cas a la primera lectura real a posteriori d'un període d'estimades es realitza una regularització.",Manel Olano,https://opendata.granollers.cat/views/em7w-uvnk.json,Consum gasoil a edificis municipals,"subministrament,aigua,electricitat,gas,gasoil",2017/10/23_10:33:54,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/02/01_13:58:35,,2017/02/01_13:59:18,Administració,
+GRA,,Sergi Morera,https://opendata.granollers.cat/views/mg4m-jvjw.json,Matrícules a cicles formatius 2016-17 a Granollers. Per família professional,"formació professional,fp",2017/10/23_10:33:54,,,Public Domain,2017/01/30_11:18:31,,2017/01/30_11:18:34,Ciutat i serveis,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/8pgr-phsj.json,Despesa per programes Ajuntament de Granollers 2016,"pressupost,despesa",2017/10/23_10:33:55,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,Ingressos consolidats per l'Ajuntament de Granollers durant cadascún dels exercicis,Manel Olano,https://opendata.granollers.cat/views/mc3g-bujb.json,Drets reconeguts per Multes de seguretat ciutadana,"pressupost,ingrés",2017/10/23_10:33:55,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:26:50,,2017/07/07_15:28:30,Administració,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/kyg8-d376.json,Pressupost de despeses. Programes de Benestar comunitari,"pressupost,despesa",2017/10/23_10:33:55,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/abge-ic5i.json,Pressupost de despeses. Programes de Pensions.,"pressupost,despesa",2017/10/23_10:33:55,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/vvrd-wehk.json,Gràfic del nombre de vehicles empadronats segons la marca al 2016,"padró,vehicles",2017/10/23_10:33:56,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/04/05_11:53:59,,2017/04/05_11:54:17,Població,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/ivm4-hqcg.json,Pressupost de despeses. Programes de Serveis Socials i promoció social,"pressupost,despesa",2017/10/23_10:33:56,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/hcyt-sye2.json,Pressupost de despeses. Programes d'Educació,"pressupost,despesa",2017/10/23_10:33:56,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,Pensió contributiva mitjana de la Seguretat Social segons residència del pensionista per tipus i sexe. Tots els règims de cotització,Sergi Morera,https://opendata.granollers.cat/views/n5zi-xs6n.json,"Indicadors. Pensions contributives a Granollers, per gènere","observatori de gènere,pensions",2017/10/23_10:33:56,,,Public Domain,2017/02/14_14:41:53,,2017/02/14_14:43:13,Població,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/cbtn-bcsd.json,Pressupost de despeses. Programes d'Habitatge i Urbanisme.,"pressupost,despesa",2017/10/23_10:33:57,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,"Consum de gas, gasoil, electricitat i aigua dels centres pertanyents a l'Ajuntament de Granollers.
+
+Nota: Cal considerar que l'import imputat a cada mes no sempre correspon al consum realitzat en el mateix, pels següents motius: 
+Els períodes de facturació no corresponen a mesos naturals.
+De vegades no es realitzen lectures lectures reals i es factura o per estimada o per consum zero. En aquest, cas a la primera lectura real a posteriori d'un període d'estimades es realitza una regularització.",Manel Olano,https://opendata.granollers.cat/views/ktnt-bthn.json,Consum aigua i cost a edificis municipals i via pública,"subministrament,aigua,electricitat,gas,gasoil",2017/10/23_10:33:57,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/02/01_13:58:35,,2017/02/01_13:59:18,Administració,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/ny8e-5hdh.json,Pressupost de despeses. Programes de Transport públic,"pressupost,despesa",2017/10/23_10:33:57,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,Dades definitives de població de Granollers a 1 de gener de l'any en qüestió.,Sergi Morera,https://opendata.granollers.cat/views/eqre-rt7s.json,Població major 12 anys,població,2017/10/23_10:33:57,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/04/10_10:18:58,,2017/04/10_10:20:30,Població,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/hn4g-my58.json,Pressupost de despeses. Programes de Deute.,"pressupost,despesa",2017/10/23_10:33:58,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/b5nt-9gky.json,Pressupost de despeses. Programes d'Òrgans de govern.,"pressupost,despesa",2017/10/23_10:33:58,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/ktw9-htwj.json,Pressupost de despeses. Programes d'Administració financera i tributària,"pressupost,despesa",2017/10/23_10:33:58,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,Ingressos consolidats per l'Ajuntament de Granollers durant cadascún dels exercicis,Manel Olano,https://opendata.granollers.cat/views/9iss-ebf7.json,Ingressos Ajuntament,"pressupost,ingrés",2017/10/23_10:33:58,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:26:50,,2017/07/07_15:28:30,Administració,
+GRA,"Consum de gas, gasoil, electricitat i aigua dels centres pertanyents a l'Ajuntament de Granollers.
+
+Nota: Cal considerar que l'import imputat a cada mes no sempre correspon al consum realitzat en el mateix, pels següents motius: 
+Els períodes de facturació no corresponen a mesos naturals.
+De vegades no es realitzen lectures lectures reals i es factura o per estimada o per consum zero. En aquest, cas a la primera lectura real a posteriori d'un període d'estimades es realitza una regularització.",Manel Olano,https://opendata.granollers.cat/views/8chd-dkpd.json,Consum gas a edificis municipals,"subministrament,aigua,electricitat,gas,gasoil",2017/10/23_10:33:59,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/02/01_13:58:35,,2017/02/01_13:59:18,Administració,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/4ps9-c8ks.json,Pressupost de despeses. Programes de Foment de l'ocupació,"pressupost,despesa",2017/10/23_10:33:59,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/g5wn-i4y8.json,Pressupost de despeses. Programes de Serveis de caràcter general,"pressupost,despesa",2017/10/23_10:33:59,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/25ym-vzrk.json,Pressupost de despeses. Programes d'Infraestructures,"pressupost,despesa",2017/10/23_10:34:00,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/fvk8-7yba.json,Pressupost de despeses. Programes d'Agricultura,"pressupost,despesa",2017/10/23_10:34:00,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/pyi6-468s.json,Pressupost de despeses. Altres actuacions de caràcter econòmic.,"pressupost,despesa",2017/10/23_10:34:00,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/rtjn-f8hp.json,Pressupost de despeses. Programes de Medi Ambient,"pressupost,despesa",2017/10/23_10:34:00,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/mi5i-x6zc.json,Import destinat a Cooperació al Desenvolupament,"pressupost,despesa",2017/10/23_10:34:01,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/f8rh-cwut.json,Pressupost de despeses. Programes d'Esports,"pressupost,despesa",2017/10/23_10:34:01,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/cxzj-cbsc.json,Factures (en proves),factures,2017/10/23_10:34:01,,,Public Domain,2017/10/06_13:17:31,,2017/10/06_13:21:09,,
+GRA,,Manel Olano,https://opendata.granollers.cat/views/aika-hwvd.json,Contractes Menors (en proves),,2017/10/23_10:34:01,,,,2017/10/06_13:29:03,,2017/10/06_13:30:45,,
+GRA,"Despesa executada per l'Ajuntament de Granollers des de l'exercici 2011, per partida.",Sergi Morera,https://opendata.granollers.cat/views/xupb-m9mj.json,Pressupost de despeses. Programes de Salut,"pressupost,despesa",2017/10/23_10:34:02,,,Creative Commons 1.0 Universal (Public Domain Dedication),2017/07/07_15:05:12,,2017/07/07_15:07:20,Administració,

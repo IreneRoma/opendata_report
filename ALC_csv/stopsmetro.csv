@@ -1,0 +1,44 @@
+stop_id, stop_code, stop_name, stop_desc, stop_lat, stop_lon, zone_id, stop_url, location_type, parent_station, stop_timezone, wheelchair_boarding
+par_4_201,201,CASA DE CAMPO,,40.40321,-3.76101,A,http://www.crtm.es,0,est_4_103,,2
+par_4_194,194,GREGORIO MARAÑON,,40.43753,-3.69127,A,http://www.crtm.es,0,est_4_142,,2
+acc_4_279_684,279,Ascensor,Avda de la Ermita 5,40.53199,-3.63548,,http://www.crtm.es,2,est_4_279,,0
+par_4_188,188,BEGOÑA,,40.48041,-3.68585,A,http://www.crtm.es,0,,Europe/Madrid,0
+par_4_278,278,LA GRANJA,,40.5276,-3.65859,B1,http://www.crtm.es,0,,Europe/Madrid,2
+est_4_278,278,LA GRANJA,,40.5276,-3.65859,B1,http://www.crtm.es,1,,Europe/Madrid,2
+par_4_198,198,PRINCIPE PIO,,40.42103,-3.72033,A,http://www.crtm.es,0,est_90_18,,1
+par_4_283,283,REYES CATOLICOS,,40.55037,-3.6234,B1,http://www.crtm.es,0,,Europe/Madrid,2
+est_4_281,281,MANUEL DE FALLA,,40.55048,-3.64688,B1,http://www.crtm.es,1,,Europe/Madrid,2
+par_4_197,197,PLAZA DE ESPAÑA,,40.42409,-3.7097,A,http://www.crtm.es,0,est_4_50,,2
+par_4_199,199,LAGO,,40.41641,-3.73563,A,http://www.crtm.es,0,,Europe/Madrid,2
+par_4_275,275,MONTECARMELO,,40.50525,-3.69575,A,http://www.crtm.es,0,,Europe/Madrid,2
+par_4_196,196,TRIBUNAL,,40.426,-3.70208,A,http://www.crtm.es,0,est_4_10,,0
+est_4_279,279,LA MORALEJA,,40.53196,-3.63556,B1,http://www.crtm.es,1,,Europe/Madrid,2
+acc_4_281_679,281,Ascensor,Calle  Manuel de Falla 59,40.55063,-3.64682,,http://www.crtm.es,2,est_4_281,,0
+par_4_284,284,HOSPITAL INFANTA SOFÍA,,40.55977,-3.61145,B1,http://www.crtm.es,0,,Europe/Madrid,2
+par_4_279,279,LA MORALEJA,,40.53196,-3.63556,B1,http://www.crtm.es,0,,Europe/Madrid,2
+acc_4_281_678,281,Manuel de Falla,Calle  Manuel de Falla 59,40.55044,-3.64708,,http://www.crtm.es,2,est_4_281,,0
+acc_4_280_680,280,Marqués de la Valdavia,Calle del Marqués de la Valdavia 21,40.54112,-3.63739,,http://www.crtm.es,2,est_4_280,,0
+par_4_274,274,TRES OLIVOS,,40.5012,-3.6952,A,http://www.crtm.es,0,,Europe/Madrid,2
+par_4_191,191,CUZCO,,40.45842,-3.68985,A,http://www.crtm.es,0,,Europe/Madrid,0
+par_4_277,277,RONDA DE LA COMUNICACION,,40.51553,-3.66277,A,http://www.crtm.es,0,,Europe/Madrid,2
+par_4_189,189,CHAMARTIN,,40.4721,-3.68259,A,http://www.crtm.es,0,est_90_25,,2
+par_4_280,280,MARQUES DE LA VALDAVIA,,40.54102,-3.63738,B1,http://www.crtm.es,0,,Europe/Madrid,2
+par_4_190,190,PLAZA DE CASTILLA,,40.4669,-3.68909,A,http://www.crtm.es,0,est_90_21,,0
+par_4_195,195,ALONSO MARTINEZ,,40.42853,-3.69643,A,http://www.crtm.es,0,est_4_57,,0
+par_4_204,204,JOAQUIN VILUMBRALES,,40.34985,-3.8072,B1,http://www.crtm.es,0,,Europe/Madrid,2
+acc_4_278_685,278,La Granja,Calle de Sepúlveda 1,40.52763,-3.65865,,http://www.crtm.es,2,est_4_278,,0
+acc_4_279_683,279,Avda. Bruselas,Avda de la Ermita 5,40.53187,-3.6355,,http://www.crtm.es,2,est_4_279,,0
+par_4_257,257,AVIACION ESPAÑOLA,,40.38364,-3.78392,A,http://www.crtm.es,0,,Europe/Madrid,2
+par_4_203,203,CUATRO VIENTOS,,40.37771,-3.79152,A,http://www.crtm.es,0,,Europe/Madrid,2
+par_4_276,276,LAS TABLAS,,40.50833,-3.66944,A,http://www.crtm.es,0,,Europe/Madrid,2
+par_4_187,187,FUENCARRAL,,40.49509,-3.69283,A,http://www.crtm.es,0,,Europe/Madrid,0
+est_4_280,280,MARQUES DE LA VALDAVIA,,40.54102,-3.63738,B1,http://www.crtm.es,1,,Europe/Madrid,2
+acc_4_280_681,280,Ascensor,Calle del Marqués de la Valdavia 21,40.54107,-3.63755,,http://www.crtm.es,2,est_4_280,,0
+acc_4_278_686,278,Ascensor,Calle de la Granja 14,40.52772,-3.65855,,http://www.crtm.es,2,est_4_278,,0
+par_4_205,205,PUERTA DEL SUR,,40.34524,-3.81211,B1,http://www.crtm.es,0,,Europe/Madrid,2
+par_4_192,192,SANTIAGO BERNABEU,,40.45159,-3.69038,A,http://www.crtm.es,0,,Europe/Madrid,0
+par_4_282,282,BAUNATAL,,40.55442,-3.63513,B1,http://www.crtm.es,0,,Europe/Madrid,2
+par_4_193,193,NUEVOS MINISTERIOS,,40.44659,-3.69241,A,http://www.crtm.es,0,est_90_71,,2
+par_4_281,281,MANUEL DE FALLA,,40.55048,-3.64688,B1,http://www.crtm.es,0,,Europe/Madrid,2
+par_4_200,200,BATAN,,40.40786,-3.75311,A,http://www.crtm.es,0,,Europe/Madrid,2
+par_4_202,202,COLONIA JARDIN,,40.39698,-3.77462,A,http://www.crtm.es,0,,Europe/Madrid,2

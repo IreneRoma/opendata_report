@@ -1,0 +1,36 @@
+city,description,publisher,url,title,tag,date_extraction,frequency,formats,licenses,date_actualization,lenguage,date_creation,categories,geography
+ARO,"Microdatos del Padrón Municipal de Habitantes, actualizado diariamente.
+",Ayuntamiento de Arona,http://datos.arona.org/dataset/habitantes-microdatos-actual,Padrón Municipal de Habitantes - microdatos - actual,población,2017/10/20_11:59:20,,"CSV,ods",Open Data Commons Attribution License,,,,Demografía,
+ARO,"Indicadores de uso obtenidos de estadísticas recopiladas por AWStats, de varios sitios web del Ayuntamiento de Arona, como la Sede Electrónica http(s)://sede.arona.org/, Carpeta Ciudadana, etcétera.
+",Ayuntamiento de Arona,http://datos.arona.org/dataset/awstats,Estadísticas AWStats de uso de sitios web del Ayuntamiento de Arona,"AWStats,e-administración,eGovernment,sede electrónica",2017/10/20_11:59:20,,"XML,ods,ods,XML,dspl",Open Data Commons Attribution License,,,,Ciencia y tecnología,
+ARO,"Relación de documentos relacionados con Presupuesto Municipal.
+",Ayuntamiento de Arona,http://datos.arona.org/dataset/presupuestos,Presupuestos,presupuesto,2017/10/20_11:59:20,,"CSV,ods",Open Data Commons Attribution License,,,,Hacienda,
+ARO,"Relación de documentos publicados en la sede electrónica que incluye: ordenanzas municipales, ordenanzas fiscales, reglamentos municipales y bandos de Alcaldía.
+",Ayuntamiento de Arona,http://datos.arona.org/dataset/normativa-municipal,Normativa municipal,"bandos,ordenanzas,ordenanzas fiscales,reglamentos",2017/10/20_11:59:21,,"CSV,ods",Open Data Commons Attribution License,,,,Legislación y justicia,
+ARO,"Otros recursos de tipo territorial (con una ubicación geográfica) como instalaciones, servicios, asociaciones, etcétera, no incluidos en datasets más específicos como los de alojamiento, restauración o comercio. Este dataset puede mermar sustancialmente según se vayan clasificando y publicando en datasets más específicos los datos aquí incluidos provisionalmente.
+",Ayuntamiento de Arona,http://datos.arona.org/dataset/otros-territoriales,Otros territoriales,,2017/10/20_11:59:21,,"kmz,ods",Open Data Commons Attribution License,,,,not-found,
+ARO,"Actividades económicas (inocuas y clasificadas) obtenidas del repositorio de datos del ERP en uso en el Ayuntamiento.
+",Ayuntamiento de Arona,http://datos.arona.org/dataset/actividades-erp,Actividades (ERP),,2017/10/20_11:59:21,,"kmz,geojson,ods,CSV,CSV",Open Data Commons Attribution License,,,,Comercio,
+ARO,"Instalaciones sanitarias como hospitales, centros de salud, clínicas privadas, etcétera.
+",Ayuntamiento de Arona,http://datos.arona.org/dataset/instalaciones-sanitarias,Instalaciones Sanitarias,"centros de salu,hospitales,salud",2017/10/20_11:59:22,,"kmz,CSV,ods,rdf+xml,turtle",Open Data Commons Attribution License,,,,Salud,
+ARO,"Instalaciones y servicios relacionados con Educación.
+",Ayuntamiento de Arona,http://datos.arona.org/dataset/instalaciones-educativas,Instalaciones Educativas,"academias,colegios,educación,institutos",2017/10/20_11:59:22,,"kmz,CSV,ods,rdf+xml,turtle",Open Data Commons Attribution License,,,,Educación,
+ARO,"Instalaciones o servicios relacionados con deporte.
+",Ayuntamiento de Arona,http://datos.arona.org/dataset/instalaciones-deportivas,Instalaciones Deportivas,deporte,2017/10/20_11:59:22,,"kmz,CSV,ods,rdf+xml,turtle",Open Data Commons Attribution License,,,,Deporte,
+ARO,"Centros Culturales, Centros Cívicos, asociaciones, etcétera relacionados con cultura.
+",Ayuntamiento de Arona,http://datos.arona.org/dataset/instalaciones-culturales,Instalaciones Culturales,cultura,2017/10/20_11:59:22,,"kmz,CSV,ods,rdf+xml,turtle",Open Data Commons Attribution License,,,,Cultura y ocio,
+ARO,"Oferta de restauración (restaurantes, cafeterías, bares, etcétera).
+",Ayuntamiento de Arona,http://datos.arona.org/dataset/restauracion,Restauración,"restauración,turismo",2017/10/20_11:59:23,,"kmz,geojson,CSV,CSV,ods,rdf+xml,turtle",Open Data Commons Attribution License,,,,Turismo,
+ARO,"Locales de comercio.
+",Ayuntamiento de Arona,http://datos.arona.org/dataset/comercio,Comercio,comercio,2017/10/20_11:59:23,,"kmz,CSV,CSV,ods,rdf+xml,turtle",Open Data Commons Attribution License,,,,Comercio,
+ARO,"Alojamiento en general (hoteles, aparthoteles, hoteles rurales, apartamentos, etcétera).
+",Ayuntamiento de Arona,http://datos.arona.org/dataset/alojamiento,Alojamiento,"alojamiento,turismo",2017/10/20_11:59:24,,"kmz,geojson,CSV,CSV,ods,rdf+xml,turtle",Open Data Commons Attribution License,,,,Turismo,
+ARO,"Relación de acuerdos de Plenos y Juntas de Gobierno.
+",Ayuntamiento de Arona,http://datos.arona.org/dataset/acuerdos-organos-municipales,Acuerdos de órganos municipales,"Juntas de Gobierno,Plenos,acuerdos",2017/10/20_11:59:24,,"CSV,ods,CSV",Open Data Commons Attribution License,,,,Sector público,
+ARO,not-found,Ayuntamiento de Arona,http://datos.arona.org/dataset/contratacion,Contratación,"contratación,licitaciones",2017/10/20_11:59:24,,rss,Open Data Commons Attribution License,,,,not-found,
+ARO,"Oferta de empleo, cursos y talleres.
+",Ayuntamiento de Arona,http://datos.arona.org/dataset/empleo-promocion-economica-cursos-talleres,"Empleo, promoción económica, cursos, talleres","cursos,empleo,formación",2017/10/20_11:59:24,,"rss,rss,rss",Open Data Commons Attribution License,,,,Empleo,
+ARO,"Noticias relacionadas con el Turismo generadas o supervisadas por el Patronato de Turismo del Ayuntamiento de Arona.
+",Ayuntamiento de Arona,http://datos.arona.org/dataset/noticias-arona-travel,Noticias arona.travel,"noticias,turismo",2017/10/20_11:59:25,,rss,Open Data Commons Attribution License,,,,Turismo,
+ARO,"Agenda de eventos organizado por el Ayuntamiento de Arona y sus Patronatos.
+",Ayuntamiento de Arona,http://datos.arona.org/dataset/agenda-eventos,Agenda de eventos,"agenda,calendario,evento",2017/10/20_11:59:25,,"XML,rss,atom",Open Data Commons Attribution License,,,,Cultura y ocio,

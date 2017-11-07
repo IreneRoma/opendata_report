@@ -14,12 +14,15 @@ from geopy.geocoders import Nominatim
 
 from lxml import etree
 
+import json
+
 # Spider habitaclia
 # By: Irene
 
 class QuotesSpider(scrapy.Spider):
         name = 'MAN'
         links_next = []
+        json_links = []
 
         sf = False
         i = 0
@@ -27,20 +30,28 @@ class QuotesSpider(scrapy.Spider):
         k = 1
 
         def start_requests(self):
+
             sf = False
-            url= 'https://dadesobertes-situam.opendata.arcgis.com/pages/catleg-de-dades'
+            url = 'https://www.arcgis.com/sharing/rest/content/items/956839604945422a8ffdb4c629b5d976/data?&f=json.json'
             yield scrapy.Request(url,self.parse,dont_filter=True)
 
 
         def parse(self,response):
-
                 if not self.sf:
-                    links = response.xpath('//*[@class="markdown-card ember-view"]//@href').extract() #no agafa els links, why
+                    jsonresponse = json.loads(response.body_as_unicode())
+                    htmlresponse = etree.fromstring(jsonresponse['values']['layout']['sections'][1]['rows'][0]['cards'][0]['component']['settings']['markdown'], etree.HTMLParser())
+                    #print etree.tostring(htmlresponse, pretty_print=True)
+                    links = htmlresponse.xpath('//*[@class="markdown-card ember-view"]//@href')
                     for l in links:
-                        index = substring-after(substring-before(l, "/info"), "items/")
-                        link_completed =  "https://www.arcgis.com/home/item.html?id=" + index
-                        self.links_next.append(link_completed)
-                    print len(links)
+                        if "https://" in l.encode('utf-8'):
+                            pass
+                        else:
+                            link_completed =  "https://dadesobertes-situam.opendata.arcgis.com" + l
+                            l = l.replace("/datasets/","")
+                            json_completed = "https://opendata.arcgis.com/api/v2/datasets?filter%5Bslug%5D=SITUAM%3A%3A"+l
+                            self.json_links.append(json_completed)
+                            print self.json_links
+                            self.links_next.append(link_completed)
                     next_page = None
                     if next_page is not None:
                         self.j +=1
@@ -59,49 +70,20 @@ class QuotesSpider(scrapy.Spider):
        
                     item = OpenDataItems()
 
-                    '''desc = response.xpath('//*[@id="description"]/div//text()').extract()
+                    print self.json_links[self.k-1]
+                    metadata = json.loads(self.json_links[self.k-1].body_as_unicode())
 
-                    count  = 0
-                    for i in desc:
-                        if "Descripción" in i.encode('utf-8'):
-                            item['description'] = desc[count+2]
-                        if "Temas" in i.encode('utf-8'):
-                            categories = desc[count+3]
-                            categories = categories.replace("/n", "")
-                            categories = categories.replace("/r", "")
-                            categories = categories.strip()
-                            item['categories'] = categories
-                        if "Fuente" in i.encode('utf-8'):
-                            publisher = desc[count +2]
-                            publisher = publisher.replace("/n", "")
-                            publisher = publisher.replace("/r", "")
-                            publisher = publisher.strip()
-                            item['publisher'] = publisher
-                        if "Creado" in i.encode('utf-8'):
-                            item['date_creation'] = desc[count +2]
-                        if "Actualizado" in i.encode('utf-8'):
-                            item["date_actualization"] = desc[count+2]
-                        if "Tipo de actualización" in i.encode('utf-8'):
-                            item['frequency'] = desc[count+2]
-                        if "Licencia" in i.encode('utf-8'):
-                            item["licenses"] = desc[count+2]
-                        if "Etiquetas" in i.encode('utf-8'):
-                            tag = desc[count +3]
-                            tag = tag.replace("/n", "")
-                            tag = tag.replace("/r", "")
-                            tag = tag.strip()
-                            item['tag'] = tag
-                        count +=1
-                    
-                    item['title'] = response.xpath('//*[@class="container"]//*[@class="pull-left"]//text()').extract_first(default="not-found")
-
-                    item['formats'] = response.xpath('//*[@class="list-unstyled"]//label//text()').extract()'''
-                    
+                    item['description'] = metadata['data'][0]['attirbutes']['description']
+                    item['title'] = metadata['data'][0]['attirbutes']['title']
+                    item['url'] = metadata['data'][0]['attirbutes']['url']
+                    item['categories'] = metadata['data'][0]['attirbutes']['tags']
+                    item['date_actualization'] = metadata['data'][0]['attirbutes']['updatedAt']
+                    item['date_created'] = metadata['data'][0]['attirbutes']['createdAt']
+                    item['licenses'] = metadata['data'][0]['attirbutes']['licenseInfo']  
+                    item['publisher'] = metadata['data'][0]['attirbutes']['description']               
                     item['city'] = "MAN"
-
                     item['date_extraction'] = datetime.strftime(datetime.now(), '%Y/%m/%d_%H:%M:%S')
 
-                    item['url'] = response.url
     
                     yield item
 

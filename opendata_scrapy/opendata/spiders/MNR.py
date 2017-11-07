@@ -77,7 +77,7 @@ class QuotesSpider(scrapy.Spider):
                     for i in titles_metadata:
                         if "Autor" in i.encode('utf-8'):
                             item['publisher'] = desc_metadata[count]
-                        if "actualització" in i.encode('utf-8'):
+                        if "Última" in i.encode('utf-8'):
                             item['date_actualization'] = desc_metadata[count]
                         if "Creat" in i.encode('utf-8'):
                             item['date_creation'] = desc_metadata[count]    

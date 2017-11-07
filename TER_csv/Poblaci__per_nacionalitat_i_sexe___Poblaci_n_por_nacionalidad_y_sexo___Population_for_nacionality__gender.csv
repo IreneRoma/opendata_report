@@ -1,0 +1,1523 @@
+DATA_REFERENCIA,NACIONALITAT,SEXE,POBLACIO
+2011,ALBÀNIA                       ,Dona,16
+2011,ALBÀNIA                       ,Home,17
+2011,ALEMANYA                      ,Dona,68
+2011,ALEMANYA                      ,Home,85
+2011,ALGÈRIA                       ,Dona,25
+2011,ALGÈRIA                       ,Home,36
+2011,ALTRES PAÏSOS D ÀFRICA        ,Home,1
+2011,ALTRES PAÏSOS D ÀSIA          ,Dona,1
+2011,ALTRES PAÏSOS D ÀSIA          ,Home,3
+2011,ALTRES PAÏSOS D EUROPA        ,Home,1
+2011,ANDORRA                       ,Dona,6
+2011,ANDORRA                       ,Home,4
+2011,ANGOLA                        ,Dona,2
+2011,ANGOLA                        ,Home,4
+2011,APÀTRIDES                     ,Home,1
+2011,"ARGENTINA, L                  ",Dona,392
+2011,"ARGENTINA, L                  ",Home,357
+2011,ARMÈNIA                       ,Dona,19
+2011,ARMÈNIA                       ,Home,20
+2011,AUSTRÀLIA                     ,Dona,3
+2011,AUSTRÀLIA                     ,Home,3
+2011,ÀUSTRIA                       ,Dona,5
+2011,ÀUSTRIA                       ,Home,9
+2011,"AZERBAIDJAN, L                ",Dona,1
+2011,BANGLA DESH                   ,Dona,3
+2011,BANGLA DESH                   ,Home,2
+2011,BÈLGICA                       ,Dona,15
+2011,BÈLGICA                       ,Home,19
+2011,BELIZE                        ,Home,1
+2011,"BENÍN, EL                     ",Home,2
+2011,BIELORÚSSIA                   ,Dona,13
+2011,BIELORÚSSIA                   ,Home,1
+2011,BOLÍVIA                       ,Dona,431
+2011,BOLÍVIA                       ,Home,308
+2011,BÒSNIA I HERCEGOVINA          ,Dona,3
+2011,"BRASIL, EL                    ",Dona,263
+2011,"BRASIL, EL                    ",Home,116
+2011,BULGÀRIA                      ,Dona,54
+2011,BULGÀRIA                      ,Home,75
+2011,BURKINA FASO                  ,Home,2
+2011,"CAMERUN, EL                   ",Dona,5
+2011,"CAMERUN, EL                   ",Home,8
+2011,"CANADÀ, EL                    ",Dona,10
+2011,"CANADÀ, EL                    ",Home,4
+2011,CAP VERD                      ,Dona,1
+2011,CAP VERD                      ,Home,1
+2011,COLÒMBIA                      ,Dona,665
+2011,COLÒMBIA                      ,Home,546
+2011,"CONGO, EL                     ",Home,3
+2011,COREA DEL SUD                 ,Dona,10
+2011,COREA DEL SUD                 ,Home,5
+2011,"COSTA D IVORI, LA             ",Dona,4
+2011,COSTA RICA                    ,Dona,8
+2011,COSTA RICA                    ,Home,2
+2011,CROÀCIA                       ,Dona,3
+2011,CUBA                          ,Dona,192
+2011,CUBA                          ,Home,189
+2011,DINAMARCA                     ,Dona,1
+2011,DINAMARCA                     ,Home,3
+2011,DOMINICA                      ,Dona,1
+2011,DOMINICA                      ,Home,1
+2011,EGIPTE                        ,Dona,4
+2011,EGIPTE                        ,Home,11
+2011,EL SALVADOR                   ,Dona,37
+2011,EL SALVADOR                   ,Home,35
+2011,"EQUADOR, L                    ",Dona,1390
+2011,"EQUADOR, L                    ",Home,1278
+2011,ESLOVÀQUIA                    ,Dona,14
+2011,ESLOVÀQUIA                    ,Home,7
+2011,ESLOVÈNIA                     ,Home,4
+2011,ESPANYA                       ,Dona,93380
+2011,ESPANYA                       ,Home,89148
+2011,"ESTATS UNITS D AMÈRICA, ELS   ",Dona,40
+2011,"ESTATS UNITS D AMÈRICA, ELS   ",Home,38
+2011,ESTÒNIA                       ,Dona,1
+2011,"FILIPINES, LES                ",Dona,6
+2011,"FILIPINES, LES                ",Home,3
+2011,FINLÀNDIA                     ,Home,1
+2011,FRANÇA                        ,Dona,128
+2011,FRANÇA                        ,Home,119
+2011,GÀMBIA                        ,Dona,6
+2011,GÀMBIA                        ,Home,30
+2011,GEÒRGIA                       ,Dona,18
+2011,GEÒRGIA                       ,Home,21
+2011,GHANA                         ,Dona,5
+2011,GHANA                         ,Home,14
+2011,GRÈCIA                        ,Dona,3
+2011,GRÈCIA                        ,Home,2
+2011,GUATEMALA                     ,Dona,8
+2011,GUATEMALA                     ,Home,12
+2011,"GUINEA BISSAU, LA             ",Dona,4
+2011,"GUINEA BISSAU, LA             ",Home,8
+2011,"GUINEA EQUATORIAL, LA         ",Dona,42
+2011,"GUINEA EQUATORIAL, LA         ",Home,23
+2011,"GUINEA, LA                    ",Dona,13
+2011,"GUINEA, LA                    ",Home,27
+2011,HAITÍ                         ,Dona,1
+2011,HAITÍ                         ,Home,1
+2011,HONDURES                      ,Dona,147
+2011,HONDURES                      ,Home,79
+2011,HONGRIA                       ,Dona,5
+2011,HONGRIA                       ,Home,4
+2011,"ÍNDIA, L                      ",Dona,22
+2011,"ÍNDIA, L                      ",Home,45
+2011,"IRAN, L                       ",Dona,9
+2011,"IRAN, L                       ",Home,15
+2011,"IRAQ, L                       ",Dona,1
+2011,"IRAQ, L                       ",Home,5
+2011,IRLANDA                       ,Dona,2
+2011,IRLANDA                       ,Home,7
+2011,ISLÀNDIA                      ,Dona,2
+2011,ISRAEL                        ,Dona,1
+2011,ISRAEL                        ,Home,3
+2011,ITÀLIA                        ,Dona,310
+2011,ITÀLIA                        ,Home,418
+2011,JAMAICA                       ,Dona,2
+2011,"JAPÓ, EL                      ",Dona,6
+2011,"JAPÓ, EL                      ",Home,3
+2011,JORDÀNIA                      ,Dona,3
+2011,JORDÀNIA                      ,Home,8
+2011,"KAZAKHSTAN, EL                ",Dona,3
+2011,"KAZAKHSTAN, EL                ",Home,1
+2011,KENYA                         ,Dona,1
+2011,KENYA                         ,Home,1
+2011,LETÒNIA                       ,Dona,7
+2011,LETÒNIA                       ,Home,6
+2011,"LÍBAN, EL                     ",Dona,2
+2011,"LÍBAN, EL                     ",Home,5
+2011,LITUÀNIA                      ,Dona,15
+2011,LITUÀNIA                      ,Home,11
+2011,MADAGASCAR                    ,Dona,1
+2011,MADAGASCAR                    ,Home,1
+2011,MALÀISIA                      ,Dona,4
+2011,MALÀISIA                      ,Home,6
+2011,MALI                          ,Dona,6
+2011,MALI                          ,Home,31
+2011,"MARROC, EL                    ",Dona,5895
+2011,"MARROC, EL                    ",Home,8168
+2011,MAURICI                       ,Home,1
+2011,MAURITÀNIA                    ,Dona,1
+2011,MAURITÀNIA                    ,Home,5
+2011,MÈXIC                         ,Dona,95
+2011,MÈXIC                         ,Home,65
+2011,MOLDÀVIA                      ,Dona,26
+2011,MOLDÀVIA                      ,Home,19
+2011,MONTENEGRO                    ,Dona,1
+2011,MONTENEGRO                    ,Home,3
+2011,"NEPAL,EL                      ",Home,3
+2011,NICARAGUA                     ,Dona,27
+2011,NICARAGUA                     ,Home,15
+2011,NIGÈRIA                       ,Dona,66
+2011,NIGÈRIA                       ,Home,84
+2011,NO CONSTA                     ,Dona,1
+2011,NORUEGA                       ,Dona,5
+2011,NOVA ZELANDA                  ,Dona,1
+2011,NOVA ZELANDA                  ,Home,2
+2011,"PAÏSOS BAIXOS, ELS            ",Dona,19
+2011,"PAÏSOS BAIXOS, ELS            ",Home,37
+2011,"PAKISTAN, EL                  ",Dona,41
+2011,"PAKISTAN, EL                  ",Home,142
+2011,"PANAMÀ, EL                    ",Dona,5
+2011,"PANAMÀ, EL                    ",Home,6
+2011,"PARAGUAI, EL                  ",Dona,574
+2011,"PARAGUAI, EL                  ",Home,326
+2011,"PERÚ, EL                      ",Dona,318
+2011,"PERÚ, EL                      ",Home,337
+2011,POLÒNIA                       ,Dona,116
+2011,POLÒNIA                       ,Home,202
+2011,PORTUGAL                      ,Dona,103
+2011,PORTUGAL                      ,Home,171
+2011,"REGNE UNIT, EL                ",Dona,38
+2011,"REGNE UNIT, EL                ",Home,52
+2011,REPÚBLICA DEM. DEL CONGO      ,Dona,1
+2011,REPÚBLICA DEM. DEL CONGO      ,Home,5
+2011,"REPÚBLICA DOMINICANA, LA      ",Dona,452
+2011,"REPÚBLICA DOMINICANA, LA      ",Home,319
+2011,"REPÚBLICA TXECA, LA           ",Dona,6
+2011,"REPÚBLICA TXECA, LA           ",Home,4
+2011,ROMANIA                       ,Dona,565
+2011,ROMANIA                       ,Home,524
+2011,RÚSSIA                        ,Dona,131
+2011,RÚSSIA                        ,Home,46
+2011,"SENEGAL, EL                   ",Dona,334
+2011,"SENEGAL, EL                   ",Home,1265
+2011,SÈRBIA                        ,Dona,4
+2011,SÈRBIA                        ,Home,4
+2011,SIERRA LEONE                  ,Dona,3
+2011,SIERRA LEONE                  ,Home,5
+2011,SÍRIA                         ,Dona,10
+2011,SÍRIA                         ,Home,6
+2011,SUD-ÀFRICA                    ,Home,3
+2011,"SUDAN, EL                     ",Dona,5
+2011,"SUDAN, EL                     ",Home,2
+2011,SUÈCIA                        ,Dona,6
+2011,SUÈCIA                        ,Home,9
+2011,SUÏSSA                        ,Dona,14
+2011,SUÏSSA                        ,Home,4
+2011,TAILÀNDIA                     ,Dona,1
+2011,TAIWAN                        ,Dona,1
+2011,TAIWAN                        ,Home,1
+2011,"TOGO, EL                      ",Dona,1
+2011,TUNÍSIA                       ,Dona,8
+2011,TUNÍSIA                       ,Home,9
+2011,TURQUIA                       ,Dona,6
+2011,TURQUIA                       ,Home,7
+2011,UCRAÏNA                       ,Dona,95
+2011,UCRAÏNA                       ,Home,86
+2011,"URUGUAI, L                    ",Dona,151
+2011,"URUGUAI, L                    ",Home,139
+2011,"UZBEKISTAN, L                 ",Home,1
+2011,VENEÇUELA                     ,Dona,233
+2011,VENEÇUELA                     ,Home,143
+2011,XILE                          ,Dona,221
+2011,XILE                          ,Home,245
+2011,"XINA, LA                      ",Dona,344
+2011,"XINA, LA                      ",Home,376
+2011,XIPRE                         ,Dona,2
+2011,ZIMBABWE                      ,Dona,1
+2012,ALBÀNIA                       ,Dona,18
+2012,ALBÀNIA                       ,Home,19
+2012,ALEMANYA                      ,Dona,73
+2012,ALEMANYA                      ,Home,91
+2012,ALGÈRIA                       ,Dona,24
+2012,ALGÈRIA                       ,Home,32
+2012,ALTRES PAÏSOS D ÀFRICA        ,Home,1
+2012,ALTRES PAÏSOS D ÀSIA          ,Dona,1
+2012,ALTRES PAÏSOS D ÀSIA          ,Home,3
+2012,ALTRES PAÏSOS D EUROPA        ,Home,1
+2012,ANDORRA                       ,Dona,6
+2012,ANDORRA                       ,Home,8
+2012,ANGOLA                        ,Dona,1
+2012,ANGOLA                        ,Home,3
+2012,APÀTRIDES                     ,Home,1
+2012,"ARGENTINA, L                  ",Dona,347
+2012,"ARGENTINA, L                  ",Home,308
+2012,ARMÈNIA                       ,Dona,27
+2012,ARMÈNIA                       ,Home,23
+2012,AUSTRÀLIA                     ,Dona,1
+2012,AUSTRÀLIA                     ,Home,2
+2012,ÀUSTRIA                       ,Dona,9
+2012,ÀUSTRIA                       ,Home,12
+2012,BANGLA DESH                   ,Dona,4
+2012,BANGLA DESH                   ,Home,5
+2012,BÈLGICA                       ,Dona,18
+2012,BÈLGICA                       ,Home,20
+2012,BELIZE                        ,Home,1
+2012,BIELORÚSSIA                   ,Dona,15
+2012,BIELORÚSSIA                   ,Home,1
+2012,BOLÍVIA                       ,Dona,435
+2012,BOLÍVIA                       ,Home,295
+2012,BÒSNIA I HERCEGOVINA          ,Dona,3
+2012,"BRASIL, EL                    ",Dona,275
+2012,"BRASIL, EL                    ",Home,121
+2012,BULGÀRIA                      ,Dona,57
+2012,BULGÀRIA                      ,Home,76
+2012,BURKINA FASO                  ,Home,2
+2012,"CAMERUN, EL                   ",Dona,2
+2012,"CAMERUN, EL                   ",Home,9
+2012,"CANADÀ, EL                    ",Dona,7
+2012,"CANADÀ, EL                    ",Home,3
+2012,CAP VERD                      ,Dona,1
+2012,COLÒMBIA                      ,Dona,545
+2012,COLÒMBIA                      ,Home,499
+2012,"CONGO, EL                     ",Home,3
+2012,COREA DEL SUD                 ,Dona,9
+2012,COREA DEL SUD                 ,Home,5
+2012,"COSTA D IVORI, LA             ",Dona,4
+2012,"COSTA D IVORI, LA             ",Home,1
+2012,COSTA RICA                    ,Dona,7
+2012,COSTA RICA                    ,Home,1
+2012,CROÀCIA                       ,Home,1
+2012,CUBA                          ,Dona,192
+2012,CUBA                          ,Home,169
+2012,DINAMARCA                     ,Dona,1
+2012,DINAMARCA                     ,Home,4
+2012,DOMINICA                      ,Dona,1
+2012,DOMINICA                      ,Home,1
+2012,EGIPTE                        ,Dona,5
+2012,EGIPTE                        ,Home,11
+2012,EL SALVADOR                   ,Dona,32
+2012,EL SALVADOR                   ,Home,31
+2012,"EQUADOR, L                    ",Dona,1077
+2012,"EQUADOR, L                    ",Home,1025
+2012,ESLOVÀQUIA                    ,Dona,13
+2012,ESLOVÀQUIA                    ,Home,6
+2012,ESLOVÈNIA                     ,Dona,1
+2012,ESLOVÈNIA                     ,Home,4
+2012,ESPANYA                       ,Dona,94855
+2012,ESPANYA                       ,Home,90502
+2012,"ESTATS UNITS D AMÈRICA, ELS   ",Dona,42
+2012,"ESTATS UNITS D AMÈRICA, ELS   ",Home,48
+2012,ESTÒNIA                       ,Dona,1
+2012,"FILIPINES, LES                ",Dona,9
+2012,"FILIPINES, LES                ",Home,3
+2012,FINLÀNDIA                     ,Dona,2
+2012,FINLÀNDIA                     ,Home,1
+2012,FRANÇA                        ,Dona,128
+2012,FRANÇA                        ,Home,121
+2012,GÀMBIA                        ,Dona,8
+2012,GÀMBIA                        ,Home,33
+2012,GEÒRGIA                       ,Dona,22
+2012,GEÒRGIA                       ,Home,21
+2012,GHANA                         ,Dona,6
+2012,GHANA                         ,Home,13
+2012,GRÈCIA                        ,Dona,4
+2012,GRÈCIA                        ,Home,2
+2012,GUATEMALA                     ,Dona,11
+2012,GUATEMALA                     ,Home,16
+2012,"GUINEA BISSAU, LA             ",Dona,7
+2012,"GUINEA BISSAU, LA             ",Home,6
+2012,"GUINEA EQUATORIAL, LA         ",Dona,39
+2012,"GUINEA EQUATORIAL, LA         ",Home,20
+2012,"GUINEA, LA                    ",Dona,13
+2012,"GUINEA, LA                    ",Home,25
+2012,HAITÍ                         ,Dona,1
+2012,HAITÍ                         ,Home,1
+2012,HONDURES                      ,Dona,166
+2012,HONDURES                      ,Home,86
+2012,HONGRIA                       ,Dona,8
+2012,HONGRIA                       ,Home,4
+2012,"ÍNDIA, L                      ",Dona,23
+2012,"ÍNDIA, L                      ",Home,49
+2012,INDONÈSIA                     ,Dona,1
+2012,"IRAN, L                       ",Dona,7
+2012,"IRAN, L                       ",Home,19
+2012,"IRAQ, L                       ",Dona,1
+2012,"IRAQ, L                       ",Home,6
+2012,IRLANDA                       ,Dona,4
+2012,IRLANDA                       ,Home,8
+2012,ISLÀNDIA                      ,Dona,3
+2012,ISRAEL                        ,Dona,1
+2012,ISRAEL                        ,Home,4
+2012,ITÀLIA                        ,Dona,315
+2012,ITÀLIA                        ,Home,451
+2012,JAMAICA                       ,Dona,2
+2012,"JAPÓ, EL                      ",Dona,10
+2012,"JAPÓ, EL                      ",Home,3
+2012,JORDÀNIA                      ,Dona,5
+2012,JORDÀNIA                      ,Home,9
+2012,"KAZAKHSTAN, EL                ",Dona,3
+2012,"KAZAKHSTAN, EL                ",Home,1
+2012,KENYA                         ,Dona,1
+2012,KENYA                         ,Home,1
+2012,LETÒNIA                       ,Dona,5
+2012,LETÒNIA                       ,Home,4
+2012,"LÍBAN, EL                     ",Dona,1
+2012,"LÍBAN, EL                     ",Home,3
+2012,LITUÀNIA                      ,Dona,15
+2012,LITUÀNIA                      ,Home,12
+2012,MADAGASCAR                    ,Dona,1
+2012,MADAGASCAR                    ,Home,1
+2012,MALÀISIA                      ,Dona,7
+2012,MALÀISIA                      ,Home,8
+2012,MALI                          ,Dona,6
+2012,MALI                          ,Home,29
+2012,"MARROC, EL                    ",Dona,5978
+2012,"MARROC, EL                    ",Home,8046
+2012,MAURICI                       ,Home,1
+2012,MAURITÀNIA                    ,Home,5
+2012,MÈXIC                         ,Dona,89
+2012,MÈXIC                         ,Home,61
+2012,MOLDÀVIA                      ,Dona,22
+2012,MOLDÀVIA                      ,Home,20
+2012,"NEPAL,EL                      ",Dona,1
+2012,"NEPAL,EL                      ",Home,2
+2012,NICARAGUA                     ,Dona,23
+2012,NICARAGUA                     ,Home,16
+2012,NIGÈRIA                       ,Dona,67
+2012,NIGÈRIA                       ,Home,99
+2012,NO CONSTA                     ,Dona,2
+2012,NO CONSTA                     ,Home,1
+2012,NORUEGA                       ,Dona,4
+2012,NOVA ZELANDA                  ,Dona,1
+2012,NOVA ZELANDA                  ,Home,2
+2012,"PAÏSOS BAIXOS, ELS            ",Dona,20
+2012,"PAÏSOS BAIXOS, ELS            ",Home,36
+2012,"PAKISTAN, EL                  ",Dona,55
+2012,"PAKISTAN, EL                  ",Home,185
+2012,"PANAMÀ, EL                    ",Dona,4
+2012,"PANAMÀ, EL                    ",Home,3
+2012,"PARAGUAI, EL                  ",Dona,575
+2012,"PARAGUAI, EL                  ",Home,303
+2012,"PERÚ, EL                      ",Dona,299
+2012,"PERÚ, EL                      ",Home,287
+2012,POLÒNIA                       ,Dona,114
+2012,POLÒNIA                       ,Home,193
+2012,PORTUGAL                      ,Dona,106
+2012,PORTUGAL                      ,Home,174
+2012,"REGNE UNIT, EL                ",Dona,44
+2012,"REGNE UNIT, EL                ",Home,57
+2012,REPÚBLICA DEM. DEL CONGO      ,Dona,1
+2012,REPÚBLICA DEM. DEL CONGO      ,Home,4
+2012,"REPÚBLICA DOMINICANA, LA      ",Dona,415
+2012,"REPÚBLICA DOMINICANA, LA      ",Home,340
+2012,"REPÚBLICA TXECA, LA           ",Dona,10
+2012,"REPÚBLICA TXECA, LA           ",Home,6
+2012,ROMANIA                       ,Dona,644
+2012,ROMANIA                       ,Home,587
+2012,RÚSSIA                        ,Dona,138
+2012,RÚSSIA                        ,Home,56
+2012,"SENEGAL, EL                   ",Dona,337
+2012,"SENEGAL, EL                   ",Home,1206
+2012,SÈRBIA                        ,Dona,2
+2012,SÈRBIA                        ,Home,6
+2012,SIERRA LEONE                  ,Dona,3
+2012,SIERRA LEONE                  ,Home,4
+2012,SÍRIA                         ,Dona,9
+2012,SÍRIA                         ,Home,5
+2012,SUD-ÀFRICA                    ,Home,2
+2012,"SUDAN, EL                     ",Dona,4
+2012,"SUDAN, EL                     ",Home,1
+2012,SUÈCIA                        ,Dona,5
+2012,SUÈCIA                        ,Home,10
+2012,SUÏSSA                        ,Dona,15
+2012,SUÏSSA                        ,Home,4
+2012,TAILÀNDIA                     ,Dona,2
+2012,TAIWAN                        ,Dona,1
+2012,TAIWAN                        ,Home,1
+2012,"TOGO, EL                      ",Dona,1
+2012,TUNÍSIA                       ,Dona,10
+2012,TUNÍSIA                       ,Home,11
+2012,TURQUIA                       ,Dona,6
+2012,TURQUIA                       ,Home,9
+2012,UCRAÏNA                       ,Dona,108
+2012,UCRAÏNA                       ,Home,90
+2012,"URUGUAI, L                    ",Dona,133
+2012,"URUGUAI, L                    ",Home,130
+2012,"UZBEKISTAN, L                 ",Home,1
+2012,VENEÇUELA                     ,Dona,218
+2012,VENEÇUELA                     ,Home,133
+2012,XILE                          ,Dona,212
+2012,XILE                          ,Home,225
+2012,"XINA, LA                      ",Dona,368
+2012,"XINA, LA                      ",Home,422
+2012,XIPRE                         ,Dona,2
+2012,ZIMBABWE                      ,Dona,1
+2013,ALBÀNIA                       ,Dona,17
+2013,ALBÀNIA                       ,Home,20
+2013,ALEMANYA                      ,Dona,59
+2013,ALEMANYA                      ,Home,79
+2013,ALGÈRIA                       ,Dona,20
+2013,ALGÈRIA                       ,Home,33
+2013,ALTRES PAÏSOS D ÀFRICA        ,Home,1
+2013,ALTRES PAÏSOS D ÀSIA          ,Home,2
+2013,ALTRES PAÏSOS D EUROPA        ,Home,1
+2013,ALTRES PAÏSOS D OCEANIA       ,Home,1
+2013,ANDORRA                       ,Dona,6
+2013,ANDORRA                       ,Home,8
+2013,ANGOLA                        ,Home,1
+2013,"ARGENTINA, L                  ",Dona,336
+2013,"ARGENTINA, L                  ",Home,273
+2013,ARMÈNIA                       ,Dona,28
+2013,ARMÈNIA                       ,Home,26
+2013,AUSTRÀLIA                     ,Home,2
+2013,ÀUSTRIA                       ,Dona,8
+2013,ÀUSTRIA                       ,Home,11
+2013,BANGLA DESH                   ,Dona,4
+2013,BANGLA DESH                   ,Home,4
+2013,BÈLGICA                       ,Dona,13
+2013,BÈLGICA                       ,Home,15
+2013,BELIZE                        ,Home,1
+2013,BIELORÚSSIA                   ,Dona,15
+2013,BIELORÚSSIA                   ,Home,1
+2013,BOLÍVIA                       ,Dona,413
+2013,BOLÍVIA                       ,Home,271
+2013,BÒSNIA I HERCEGOVINA          ,Dona,3
+2013,"BRASIL, EL                    ",Dona,246
+2013,"BRASIL, EL                    ",Home,123
+2013,BULGÀRIA                      ,Dona,59
+2013,BULGÀRIA                      ,Home,72
+2013,BURKINA FASO                  ,Home,2
+2013,"CAMERUN, EL                   ",Dona,4
+2013,"CAMERUN, EL                   ",Home,6
+2013,"CANADÀ, EL                    ",Dona,10
+2013,"CANADÀ, EL                    ",Home,7
+2013,CAP VERD                      ,Dona,1
+2013,COLÒMBIA                      ,Dona,511
+2013,COLÒMBIA                      ,Home,454
+2013,"CONGO, EL                     ",Dona,1
+2013,"CONGO, EL                     ",Home,3
+2013,COREA DEL SUD                 ,Dona,11
+2013,COREA DEL SUD                 ,Home,6
+2013,"COSTA D IVORI, LA             ",Dona,4
+2013,"COSTA D IVORI, LA             ",Home,1
+2013,COSTA RICA                    ,Dona,5
+2013,COSTA RICA                    ,Home,1
+2013,CROÀCIA                       ,Dona,1
+2013,CROÀCIA                       ,Home,2
+2013,CUBA                          ,Dona,174
+2013,CUBA                          ,Home,159
+2013,DINAMARCA                     ,Home,6
+2013,DOMINICA                      ,Dona,1
+2013,EGIPTE                        ,Dona,5
+2013,EGIPTE                        ,Home,10
+2013,EL SALVADOR                   ,Dona,37
+2013,EL SALVADOR                   ,Home,27
+2013,"EQUADOR, L                    ",Dona,932
+2013,"EQUADOR, L                    ",Home,873
+2013,ESLOVÀQUIA                    ,Dona,13
+2013,ESLOVÀQUIA                    ,Home,3
+2013,ESLOVÈNIA                     ,Dona,1
+2013,ESLOVÈNIA                     ,Home,5
+2013,ESPANYA                       ,Dona,95079
+2013,ESPANYA                       ,Home,90823
+2013,"ESTATS UNITS D AMÈRICA, ELS   ",Dona,38
+2013,"ESTATS UNITS D AMÈRICA, ELS   ",Home,47
+2013,ESTÒNIA                       ,Dona,1
+2013,"FILIPINES, LES                ",Dona,8
+2013,"FILIPINES, LES                ",Home,3
+2013,FINLÀNDIA                     ,Dona,1
+2013,FRANÇA                        ,Dona,123
+2013,FRANÇA                        ,Home,117
+2013,GÀMBIA                        ,Dona,9
+2013,GÀMBIA                        ,Home,29
+2013,GEÒRGIA                       ,Dona,16
+2013,GEÒRGIA                       ,Home,14
+2013,GHANA                         ,Dona,5
+2013,GHANA                         ,Home,15
+2013,GRÈCIA                        ,Dona,4
+2013,GRÈCIA                        ,Home,3
+2013,GUATEMALA                     ,Dona,14
+2013,GUATEMALA                     ,Home,17
+2013,"GUINEA BISSAU, LA             ",Dona,7
+2013,"GUINEA BISSAU, LA             ",Home,6
+2013,"GUINEA EQUATORIAL, LA         ",Dona,34
+2013,"GUINEA EQUATORIAL, LA         ",Home,19
+2013,"GUINEA, LA                    ",Dona,11
+2013,"GUINEA, LA                    ",Home,23
+2013,HAITÍ                         ,Dona,1
+2013,HAITÍ                         ,Home,1
+2013,HONDURES                      ,Dona,189
+2013,HONDURES                      ,Home,99
+2013,HONGRIA                       ,Dona,5
+2013,HONGRIA                       ,Home,4
+2013,"ÍNDIA, L                      ",Dona,26
+2013,"ÍNDIA, L                      ",Home,56
+2013,"IRAN, L                       ",Dona,9
+2013,"IRAN, L                       ",Home,19
+2013,"IRAQ, L                       ",Dona,1
+2013,"IRAQ, L                       ",Home,5
+2013,IRLANDA                       ,Dona,4
+2013,IRLANDA                       ,Home,11
+2013,ISLÀNDIA                      ,Dona,3
+2013,ISLÀNDIA                      ,Home,2
+2013,ISRAEL                        ,Dona,1
+2013,ISRAEL                        ,Home,4
+2013,ITÀLIA                        ,Dona,302
+2013,ITÀLIA                        ,Home,422
+2013,JAMAICA                       ,Dona,1
+2013,"JAPÓ, EL                      ",Dona,10
+2013,"JAPÓ, EL                      ",Home,4
+2013,JORDÀNIA                      ,Dona,5
+2013,JORDÀNIA                      ,Home,10
+2013,"KAZAKHSTAN, EL                ",Dona,6
+2013,"KAZAKHSTAN, EL                ",Home,1
+2013,KENYA                         ,Dona,1
+2013,KENYA                         ,Home,1
+2013,LETÒNIA                       ,Dona,3
+2013,LETÒNIA                       ,Home,1
+2013,"LÍBAN, EL                     ",Dona,1
+2013,"LÍBAN, EL                     ",Home,3
+2013,LÍBIA                         ,Home,1
+2013,LITUÀNIA                      ,Dona,13
+2013,LITUÀNIA                      ,Home,8
+2013,MALÀISIA                      ,Dona,8
+2013,MALÀISIA                      ,Home,9
+2013,MALI                          ,Dona,7
+2013,MALI                          ,Home,28
+2013,"MARROC, EL                    ",Dona,5872
+2013,"MARROC, EL                    ",Home,7684
+2013,MAURICI                       ,Home,1
+2013,MAURITÀNIA                    ,Home,5
+2013,MÈXIC                         ,Dona,89
+2013,MÈXIC                         ,Home,58
+2013,MOLDÀVIA                      ,Dona,25
+2013,MOLDÀVIA                      ,Home,19
+2013,"NEPAL,EL                      ",Dona,1
+2013,"NEPAL,EL                      ",Home,2
+2013,NICARAGUA                     ,Dona,22
+2013,NICARAGUA                     ,Home,11
+2013,NIGÈRIA                       ,Dona,69
+2013,NIGÈRIA                       ,Home,99
+2013,NO CONSTA                     ,Dona,2
+2013,NO CONSTA                     ,Home,1
+2013,NORUEGA                       ,Dona,4
+2013,NOVA ZELANDA                  ,Dona,1
+2013,NOVA ZELANDA                  ,Home,2
+2013,"PAÏSOS BAIXOS, ELS            ",Dona,25
+2013,"PAÏSOS BAIXOS, ELS            ",Home,39
+2013,"PAKISTAN, EL                  ",Dona,61
+2013,"PAKISTAN, EL                  ",Home,203
+2013,"PANAMÀ, EL                    ",Dona,5
+2013,"PANAMÀ, EL                    ",Home,2
+2013,"PARAGUAI, EL                  ",Dona,531
+2013,"PARAGUAI, EL                  ",Home,266
+2013,"PERÚ, EL                      ",Dona,292
+2013,"PERÚ, EL                      ",Home,263
+2013,POLÒNIA                       ,Dona,104
+2013,POLÒNIA                       ,Home,131
+2013,PORTUGAL                      ,Dona,107
+2013,PORTUGAL                      ,Home,148
+2013,"REGNE UNIT, EL                ",Dona,42
+2013,"REGNE UNIT, EL                ",Home,59
+2013,REPÚBLICA DEM. DEL CONGO      ,Dona,1
+2013,REPÚBLICA DEM. DEL CONGO      ,Home,3
+2013,"REPÚBLICA DOMINICANA, LA      ",Dona,400
+2013,"REPÚBLICA DOMINICANA, LA      ",Home,340
+2013,"REPÚBLICA TXECA, LA           ",Dona,11
+2013,"REPÚBLICA TXECA, LA           ",Home,8
+2013,ROMANIA                       ,Dona,658
+2013,ROMANIA                       ,Home,570
+2013,RÚSSIA                        ,Dona,151
+2013,RÚSSIA                        ,Home,68
+2013,"SENEGAL, EL                   ",Dona,358
+2013,"SENEGAL, EL                   ",Home,1102
+2013,SÈRBIA                        ,Dona,3
+2013,SÈRBIA                        ,Home,8
+2013,SIERRA LEONE                  ,Dona,3
+2013,SIERRA LEONE                  ,Home,3
+2013,SÍRIA                         ,Dona,9
+2013,SÍRIA                         ,Home,10
+2013,SUD-ÀFRICA                    ,Home,2
+2013,"SUDAN, EL                     ",Dona,2
+2013,SUÈCIA                        ,Dona,6
+2013,SUÈCIA                        ,Home,11
+2013,SUÏSSA                        ,Dona,15
+2013,SUÏSSA                        ,Home,5
+2013,TAILÀNDIA                     ,Dona,2
+2013,TAIWAN                        ,Dona,1
+2013,TAIWAN                        ,Home,1
+2013,"TOGO, EL                      ",Dona,1
+2013,TRINITAT I TOBAGO             ,Home,1
+2013,TUNÍSIA                       ,Dona,9
+2013,TUNÍSIA                       ,Home,13
+2013,TURQUIA                       ,Dona,8
+2013,TURQUIA                       ,Home,8
+2013,UCRAÏNA                       ,Dona,102
+2013,UCRAÏNA                       ,Home,82
+2013,"URUGUAI, L                    ",Dona,133
+2013,"URUGUAI, L                    ",Home,139
+2013,"UZBEKISTAN, L                 ",Home,1
+2013,VENEÇUELA                     ,Dona,205
+2013,VENEÇUELA                     ,Home,136
+2013,"VIETNAM, EL                   ",Dona,1
+2013,"VIETNAM, EL                   ",Home,3
+2013,XILE                          ,Dona,186
+2013,XILE                          ,Home,198
+2013,"XINA, LA                      ",Dona,407
+2013,"XINA, LA                      ",Home,438
+2013,XIPRE                         ,Dona,2
+2013,ZIMBABWE                      ,Dona,1
+2014,ALBÀNIA                       ,Dona,17
+2014,ALBÀNIA                       ,Home,19
+2014,ALEMANYA                      ,Dona,54
+2014,ALEMANYA                      ,Home,89
+2014,ALGÈRIA                       ,Dona,14
+2014,ALGÈRIA                       ,Home,29
+2014,ALTRES PAÏSOS D ÀFRICA        ,Home,2
+2014,ALTRES PAÏSOS D AMÈRICA       ,Home,1
+2014,ALTRES PAÏSOS D ÀSIA          ,Dona,1
+2014,ALTRES PAÏSOS D ÀSIA          ,Home,2
+2014,ALTRES PAÏSOS D OCEANIA       ,Home,1
+2014,ANDORRA                       ,Dona,7
+2014,ANDORRA                       ,Home,8
+2014,ANGOLA                        ,Home,2
+2014,"ARGENTINA, L                  ",Dona,283
+2014,"ARGENTINA, L                  ",Home,226
+2014,ARMÈNIA                       ,Dona,33
+2014,ARMÈNIA                       ,Home,29
+2014,AUSTRÀLIA                     ,Home,2
+2014,ÀUSTRIA                       ,Dona,7
+2014,ÀUSTRIA                       ,Home,11
+2014,BANGLA DESH                   ,Dona,4
+2014,BANGLA DESH                   ,Home,5
+2014,BÈLGICA                       ,Dona,13
+2014,BÈLGICA                       ,Home,14
+2014,BELIZE                        ,Home,1
+2014,BIELORÚSSIA                   ,Dona,13
+2014,BIELORÚSSIA                   ,Home,1
+2014,BOLÍVIA                       ,Dona,331
+2014,BOLÍVIA                       ,Home,216
+2014,BÒSNIA I HERCEGOVINA          ,Dona,3
+2014,BÒSNIA I HERCEGOVINA          ,Home,1
+2014,"BRASIL, EL                    ",Dona,232
+2014,"BRASIL, EL                    ",Home,105
+2014,BULGÀRIA                      ,Dona,59
+2014,BULGÀRIA                      ,Home,75
+2014,BURKINA FASO                  ,Home,2
+2014,"CAMERUN, EL                   ",Dona,1
+2014,"CAMERUN, EL                   ",Home,4
+2014,"CANADÀ, EL                    ",Dona,9
+2014,"CANADÀ, EL                    ",Home,4
+2014,CAP VERD                      ,Dona,1
+2014,COLÒMBIA                      ,Dona,380
+2014,COLÒMBIA                      ,Home,350
+2014,"CONGO, EL                     ",Home,4
+2014,COREA DEL SUD                 ,Dona,10
+2014,COREA DEL SUD                 ,Home,7
+2014,"COSTA D IVORI, LA             ",Dona,4
+2014,"COSTA D IVORI, LA             ",Home,3
+2014,COSTA RICA                    ,Dona,5
+2014,CROÀCIA                       ,Home,3
+2014,CUBA                          ,Dona,162
+2014,CUBA                          ,Home,140
+2014,DINAMARCA                     ,Home,8
+2014,EGIPTE                        ,Dona,5
+2014,EGIPTE                        ,Home,9
+2014,EL SALVADOR                   ,Dona,32
+2014,EL SALVADOR                   ,Home,28
+2014,"EQUADOR, L                    ",Dona,668
+2014,"EQUADOR, L                    ",Home,691
+2014,ESLOVÀQUIA                    ,Dona,13
+2014,ESLOVÀQUIA                    ,Home,2
+2014,ESLOVÈNIA                     ,Dona,1
+2014,ESLOVÈNIA                     ,Home,4
+2014,ESPANYA                       ,Dona,96156
+2014,ESPANYA                       ,Home,92015
+2014,"ESTATS UNITS D AMÈRICA, ELS   ",Dona,43
+2014,"ESTATS UNITS D AMÈRICA, ELS   ",Home,47
+2014,ESTÒNIA                       ,Dona,1
+2014,"FILIPINES, LES                ",Dona,7
+2014,"FILIPINES, LES                ",Home,4
+2014,FINLÀNDIA                     ,Dona,3
+2014,FRANÇA                        ,Dona,124
+2014,FRANÇA                        ,Home,119
+2014,GÀMBIA                        ,Dona,9
+2014,GÀMBIA                        ,Home,29
+2014,GEÒRGIA                       ,Dona,18
+2014,GEÒRGIA                       ,Home,12
+2014,GHANA                         ,Dona,4
+2014,GHANA                         ,Home,14
+2014,GRÈCIA                        ,Dona,5
+2014,GRÈCIA                        ,Home,2
+2014,GUATEMALA                     ,Dona,16
+2014,GUATEMALA                     ,Home,8
+2014,"GUINEA BISSAU, LA             ",Dona,4
+2014,"GUINEA BISSAU, LA             ",Home,4
+2014,"GUINEA EQUATORIAL, LA         ",Dona,36
+2014,"GUINEA EQUATORIAL, LA         ",Home,22
+2014,"GUINEA, LA                    ",Dona,11
+2014,"GUINEA, LA                    ",Home,19
+2014,HAITÍ                         ,Dona,1
+2014,HAITÍ                         ,Home,1
+2014,HONDURES                      ,Dona,199
+2014,HONDURES                      ,Home,92
+2014,HONGRIA                       ,Dona,6
+2014,HONGRIA                       ,Home,3
+2014,"ÍNDIA, L                      ",Dona,36
+2014,"ÍNDIA, L                      ",Home,60
+2014,"IRAN, L                       ",Dona,11
+2014,"IRAN, L                       ",Home,20
+2014,"IRAQ, L                       ",Dona,1
+2014,"IRAQ, L                       ",Home,5
+2014,IRLANDA                       ,Dona,7
+2014,IRLANDA                       ,Home,12
+2014,ISLÀNDIA                      ,Dona,2
+2014,ISLÀNDIA                      ,Home,1
+2014,ISRAEL                        ,Dona,2
+2014,ISRAEL                        ,Home,2
+2014,ITÀLIA                        ,Dona,297
+2014,ITÀLIA                        ,Home,431
+2014,JAMAICA                       ,Dona,1
+2014,"JAPÓ, EL                      ",Dona,9
+2014,"JAPÓ, EL                      ",Home,4
+2014,JORDÀNIA                      ,Dona,4
+2014,JORDÀNIA                      ,Home,9
+2014,"KAZAKHSTAN, EL                ",Dona,4
+2014,"KAZAKHSTAN, EL                ",Home,1
+2014,KENYA                         ,Dona,1
+2014,KENYA                         ,Home,1
+2014,LETÒNIA                       ,Dona,5
+2014,LETÒNIA                       ,Home,1
+2014,"LÍBAN, EL                     ",Dona,1
+2014,"LÍBAN, EL                     ",Home,3
+2014,LÍBIA                         ,Home,1
+2014,LITUÀNIA                      ,Dona,13
+2014,LITUÀNIA                      ,Home,5
+2014,MALÀISIA                      ,Dona,8
+2014,MALÀISIA                      ,Home,17
+2014,MALI                          ,Dona,6
+2014,MALI                          ,Home,21
+2014,"MARROC, EL                    ",Dona,5743
+2014,"MARROC, EL                    ",Home,7349
+2014,MAURICI                       ,Home,1
+2014,MAURITÀNIA                    ,Home,5
+2014,MÈXIC                         ,Dona,82
+2014,MÈXIC                         ,Home,50
+2014,MOLDÀVIA                      ,Dona,30
+2014,MOLDÀVIA                      ,Home,14
+2014,MONGÒLIA                      ,Dona,1
+2014,MONTENEGRO                    ,Dona,1
+2014,"NEPAL,EL                      ",Dona,2
+2014,"NEPAL,EL                      ",Home,2
+2014,NICARAGUA                     ,Dona,22
+2014,NICARAGUA                     ,Home,8
+2014,NIGÈRIA                       ,Dona,69
+2014,NIGÈRIA                       ,Home,84
+2014,NO CONSTA                     ,Dona,2
+2014,NO CONSTA                     ,Home,1
+2014,NORUEGA                       ,Dona,4
+2014,NOVA ZELANDA                  ,Dona,2
+2014,NOVA ZELANDA                  ,Home,2
+2014,"PAÏSOS BAIXOS, ELS            ",Dona,25
+2014,"PAÏSOS BAIXOS, ELS            ",Home,38
+2014,"PAKISTAN, EL                  ",Dona,74
+2014,"PAKISTAN, EL                  ",Home,197
+2014,"PANAMÀ, EL                    ",Dona,4
+2014,"PANAMÀ, EL                    ",Home,3
+2014,"PARAGUAI, EL                  ",Dona,478
+2014,"PARAGUAI, EL                  ",Home,235
+2014,"PERÚ, EL                      ",Dona,236
+2014,"PERÚ, EL                      ",Home,205
+2014,POLÒNIA                       ,Dona,106
+2014,POLÒNIA                       ,Home,131
+2014,PORTUGAL                      ,Dona,108
+2014,PORTUGAL                      ,Home,147
+2014,"REGNE UNIT, EL                ",Dona,46
+2014,"REGNE UNIT, EL                ",Home,61
+2014,REPÚBLICA DEM. DEL CONGO      ,Dona,2
+2014,REPÚBLICA DEM. DEL CONGO      ,Home,3
+2014,"REPÚBLICA DOMINICANA, LA      ",Dona,383
+2014,"REPÚBLICA DOMINICANA, LA      ",Home,306
+2014,"REPÚBLICA TXECA, LA           ",Dona,11
+2014,"REPÚBLICA TXECA, LA           ",Home,6
+2014,ROMANIA                       ,Dona,693
+2014,ROMANIA                       ,Home,610
+2014,RÚSSIA                        ,Dona,152
+2014,RÚSSIA                        ,Home,63
+2014,"SENEGAL, EL                   ",Dona,351
+2014,"SENEGAL, EL                   ",Home,990
+2014,SÈRBIA                        ,Dona,3
+2014,SÈRBIA                        ,Home,4
+2014,SIERRA LEONE                  ,Dona,2
+2014,SIERRA LEONE                  ,Home,1
+2014,SÍRIA                         ,Dona,7
+2014,SÍRIA                         ,Home,11
+2014,SUD-ÀFRICA                    ,Home,1
+2014,SUÈCIA                        ,Dona,8
+2014,SUÈCIA                        ,Home,14
+2014,SUÏSSA                        ,Dona,14
+2014,SUÏSSA                        ,Home,4
+2014,TAILÀNDIA                     ,Dona,1
+2014,TAIWAN                        ,Dona,1
+2014,"TOGO, EL                      ",Dona,1
+2014,TRINITAT I TOBAGO             ,Home,1
+2014,TUNÍSIA                       ,Dona,8
+2014,TUNÍSIA                       ,Home,12
+2014,TURQUIA                       ,Dona,9
+2014,TURQUIA                       ,Home,8
+2014,UCRAÏNA                       ,Dona,96
+2014,UCRAÏNA                       ,Home,73
+2014,"URUGUAI, L                    ",Dona,125
+2014,"URUGUAI, L                    ",Home,126
+2014,"UZBEKISTAN, L                 ",Home,1
+2014,VENEÇUELA                     ,Dona,175
+2014,VENEÇUELA                     ,Home,127
+2014,"VIETNAM, EL                   ",Dona,1
+2014,"VIETNAM, EL                   ",Home,3
+2014,XILE                          ,Dona,158
+2014,XILE                          ,Home,163
+2014,"XINA, LA                      ",Dona,445
+2014,"XINA, LA                      ",Home,466
+2014,XIPRE                         ,Dona,2
+2014,ZIMBABWE                      ,Dona,1
+2015,ALBÀNIA                       ,Dona,17
+2015,ALBÀNIA                       ,Home,19
+2015,ALEMANYA                      ,Dona,50
+2015,ALEMANYA                      ,Home,83
+2015,ALGÈRIA                       ,Dona,16
+2015,ALGÈRIA                       ,Home,25
+2015,ALTRES PAÏSOS D ÀFRICA        ,Home,1
+2015,ALTRES PAÏSOS D AMÈRICA       ,Home,1
+2015,ALTRES PAÏSOS D ÀSIA          ,Dona,5
+2015,ALTRES PAÏSOS D ÀSIA          ,Home,2
+2015,ANDORRA                       ,Dona,7
+2015,ANDORRA                       ,Home,7
+2015,ANGOLA                        ,Home,2
+2015,"ARGENTINA, L                  ",Dona,252
+2015,"ARGENTINA, L                  ",Home,199
+2015,ARMÈNIA                       ,Dona,29
+2015,ARMÈNIA                       ,Home,21
+2015,AUSTRÀLIA                     ,Home,2
+2015,ÀUSTRIA                       ,Dona,9
+2015,ÀUSTRIA                       ,Home,6
+2015,BANGLA DESH                   ,Dona,4
+2015,BANGLA DESH                   ,Home,6
+2015,BÈLGICA                       ,Dona,14
+2015,BÈLGICA                       ,Home,10
+2015,BELIZE                        ,Home,1
+2015,BIELORÚSSIA                   ,Dona,10
+2015,BIELORÚSSIA                   ,Home,2
+2015,BOLÍVIA                       ,Dona,277
+2015,BOLÍVIA                       ,Home,178
+2015,BÒSNIA I HERCEGOVINA          ,Dona,3
+2015,BÒSNIA I HERCEGOVINA          ,Home,1
+2015,"BRASIL, EL                    ",Dona,208
+2015,"BRASIL, EL                    ",Home,83
+2015,BULGÀRIA                      ,Dona,57
+2015,BULGÀRIA                      ,Home,69
+2015,BURKINA FASO                  ,Home,2
+2015,"CAMERUN, EL                   ",Dona,1
+2015,"CAMERUN, EL                   ",Home,4
+2015,"CANADÀ, EL                    ",Dona,13
+2015,"CANADÀ, EL                    ",Home,4
+2015,CAP VERD                      ,Dona,1
+2015,COLÒMBIA                      ,Dona,302
+2015,COLÒMBIA                      ,Home,281
+2015,"CONGO, EL                     ",Home,3
+2015,COREA DEL SUD                 ,Dona,7
+2015,COREA DEL SUD                 ,Home,8
+2015,"COSTA D IVORI, LA             ",Dona,6
+2015,"COSTA D IVORI, LA             ",Home,3
+2015,COSTA RICA                    ,Dona,8
+2015,COSTA RICA                    ,Home,3
+2015,CROÀCIA                       ,Home,4
+2015,CUBA                          ,Dona,138
+2015,CUBA                          ,Home,109
+2015,DINAMARCA                     ,Home,2
+2015,DOMINICA                      ,Dona,1
+2015,DOMINICA                      ,Home,1
+2015,EGIPTE                        ,Dona,3
+2015,EGIPTE                        ,Home,11
+2015,EL SALVADOR                   ,Dona,37
+2015,EL SALVADOR                   ,Home,32
+2015,"EMIRATS ÀRABS UNITS, ELS      ",Dona,1
+2015,"EMIRATS ÀRABS UNITS, ELS      ",Home,1
+2015,"EQUADOR, L                    ",Dona,536
+2015,"EQUADOR, L                    ",Home,558
+2015,ESLOVÀQUIA                    ,Dona,9
+2015,ESLOVÀQUIA                    ,Home,2
+2015,ESLOVÈNIA                     ,Dona,1
+2015,ESLOVÈNIA                     ,Home,4
+2015,ESPANYA                       ,Dona,97115
+2015,ESPANYA                       ,Home,92930
+2015,"ESTATS UNITS D AMÈRICA, ELS   ",Dona,49
+2015,"ESTATS UNITS D AMÈRICA, ELS   ",Home,47
+2015,"FILIPINES, LES                ",Dona,6
+2015,"FILIPINES, LES                ",Home,4
+2015,FINLÀNDIA                     ,Dona,2
+2015,FINLÀNDIA                     ,Home,1
+2015,FRANÇA                        ,Dona,122
+2015,FRANÇA                        ,Home,109
+2015,GÀMBIA                        ,Dona,10
+2015,GÀMBIA                        ,Home,30
+2015,GEÒRGIA                       ,Dona,21
+2015,GEÒRGIA                       ,Home,15
+2015,GHANA                         ,Dona,2
+2015,GHANA                         ,Home,14
+2015,GRÈCIA                        ,Dona,5
+2015,GRÈCIA                        ,Home,3
+2015,GUATEMALA                     ,Dona,15
+2015,GUATEMALA                     ,Home,8
+2015,"GUINEA BISSAU, LA             ",Dona,3
+2015,"GUINEA BISSAU, LA             ",Home,3
+2015,"GUINEA EQUATORIAL, LA         ",Dona,29
+2015,"GUINEA EQUATORIAL, LA         ",Home,22
+2015,"GUINEA, LA                    ",Dona,9
+2015,"GUINEA, LA                    ",Home,16
+2015,HAITÍ                         ,Dona,2
+2015,HAITÍ                         ,Home,2
+2015,HONDURES                      ,Dona,208
+2015,HONDURES                      ,Home,87
+2015,HONGRIA                       ,Dona,7
+2015,HONGRIA                       ,Home,2
+2015,"ÍNDIA, L                      ",Dona,38
+2015,"ÍNDIA, L                      ",Home,63
+2015,"IRAN, L                       ",Dona,14
+2015,"IRAN, L                       ",Home,21
+2015,"IRAQ, L                       ",Dona,2
+2015,"IRAQ, L                       ",Home,6
+2015,IRLANDA                       ,Dona,7
+2015,IRLANDA                       ,Home,12
+2015,ISLÀNDIA                      ,Dona,5
+2015,ISLÀNDIA                      ,Home,2
+2015,ISRAEL                        ,Dona,2
+2015,ISRAEL                        ,Home,1
+2015,ITÀLIA                        ,Dona,290
+2015,ITÀLIA                        ,Home,415
+2015,JAMAICA                       ,Dona,1
+2015,"JAPÓ, EL                      ",Dona,9
+2015,"JAPÓ, EL                      ",Home,2
+2015,JORDÀNIA                      ,Dona,3
+2015,JORDÀNIA                      ,Home,7
+2015,"KAZAKHSTAN, EL                ",Dona,2
+2015,"KAZAKHSTAN, EL                ",Home,1
+2015,KENYA                         ,Dona,1
+2015,KENYA                         ,Home,1
+2015,LETÒNIA                       ,Dona,6
+2015,LETÒNIA                       ,Home,2
+2015,"LÍBAN, EL                     ",Dona,1
+2015,"LÍBAN, EL                     ",Home,2
+2015,LÍBIA                         ,Home,3
+2015,LITUÀNIA                      ,Dona,10
+2015,LITUÀNIA                      ,Home,4
+2015,MACEDÒNIA                     ,Home,1
+2015,MALÀISIA                      ,Dona,10
+2015,MALÀISIA                      ,Home,17
+2015,MALI                          ,Dona,4
+2015,MALI                          ,Home,19
+2015,MALTA                         ,Dona,1
+2015,"MARROC, EL                    ",Dona,5471
+2015,"MARROC, EL                    ",Home,6744
+2015,MAURICI                       ,Home,1
+2015,MAURITÀNIA                    ,Home,6
+2015,MÈXIC                         ,Dona,76
+2015,MÈXIC                         ,Home,43
+2015,"MOÇAMBIC, EL                  ",Dona,1
+2015,MOLDÀVIA                      ,Dona,30
+2015,MOLDÀVIA                      ,Home,20
+2015,MONGÒLIA                      ,Dona,1
+2015,MONTENEGRO                    ,Dona,1
+2015,"NEPAL,EL                      ",Dona,2
+2015,"NEPAL,EL                      ",Home,3
+2015,NICARAGUA                     ,Dona,28
+2015,NICARAGUA                     ,Home,10
+2015,NIGÈRIA                       ,Dona,63
+2015,NIGÈRIA                       ,Home,82
+2015,NO CONSTA                     ,Dona,1
+2015,NORUEGA                       ,Dona,4
+2015,NOVA ZELANDA                  ,Dona,2
+2015,NOVA ZELANDA                  ,Home,1
+2015,"PAÏSOS BAIXOS, ELS            ",Dona,26
+2015,"PAÏSOS BAIXOS, ELS            ",Home,36
+2015,"PAKISTAN, EL                  ",Dona,80
+2015,"PAKISTAN, EL                  ",Home,223
+2015,"PANAMÀ, EL                    ",Dona,3
+2015,"PANAMÀ, EL                    ",Home,3
+2015,"PARAGUAI, EL                  ",Dona,459
+2015,"PARAGUAI, EL                  ",Home,222
+2015,"PERÚ, EL                      ",Dona,183
+2015,"PERÚ, EL                      ",Home,163
+2015,POLÒNIA                       ,Dona,96
+2015,POLÒNIA                       ,Home,98
+2015,PORTUGAL                      ,Dona,104
+2015,PORTUGAL                      ,Home,126
+2015,"REGNE UNIT, EL                ",Dona,52
+2015,"REGNE UNIT, EL                ",Home,62
+2015,REPÚBLICA DEM. DEL CONGO      ,Dona,2
+2015,REPÚBLICA DEM. DEL CONGO      ,Home,2
+2015,"REPÚBLICA DOMINICANA, LA      ",Dona,319
+2015,"REPÚBLICA DOMINICANA, LA      ",Home,289
+2015,"REPÚBLICA TXECA, LA           ",Dona,11
+2015,"REPÚBLICA TXECA, LA           ",Home,6
+2015,ROMANIA                       ,Dona,635
+2015,ROMANIA                       ,Home,547
+2015,RÚSSIA                        ,Dona,134
+2015,RÚSSIA                        ,Home,56
+2015,"SENEGAL, EL                   ",Dona,351
+2015,"SENEGAL, EL                   ",Home,899
+2015,SÈRBIA                        ,Dona,2
+2015,SÈRBIA                        ,Home,3
+2015,SIERRA LEONE                  ,Dona,3
+2015,SIERRA LEONE                  ,Home,2
+2015,SINGAPUR                      ,Dona,1
+2015,SÍRIA                         ,Dona,7
+2015,SÍRIA                         ,Home,9
+2015,SUÈCIA                        ,Dona,8
+2015,SUÈCIA                        ,Home,9
+2015,SUÏSSA                        ,Dona,12
+2015,SUÏSSA                        ,Home,4
+2015,TAILÀNDIA                     ,Dona,2
+2015,"TOGO, EL                      ",Dona,1
+2015,TRINITAT I TOBAGO             ,Home,1
+2015,TUNÍSIA                       ,Dona,7
+2015,TUNÍSIA                       ,Home,8
+2015,TURQUIA                       ,Dona,7
+2015,TURQUIA                       ,Home,10
+2015,UCRAÏNA                       ,Dona,118
+2015,UCRAÏNA                       ,Home,79
+2015,UGANDA                        ,Dona,1
+2015,UGANDA                        ,Home,1
+2015,"URUGUAI, L                    ",Dona,107
+2015,"URUGUAI, L                    ",Home,111
+2015,VENEÇUELA                     ,Dona,185
+2015,VENEÇUELA                     ,Home,116
+2015,"VIETNAM, EL                   ",Dona,2
+2015,"VIETNAM, EL                   ",Home,4
+2015,XILE                          ,Dona,144
+2015,XILE                          ,Home,133
+2015,"XINA, LA                      ",Dona,456
+2015,"XINA, LA                      ",Home,478
+2015,XIPRE                         ,Dona,2
+2015,XIPRE                         ,Home,1
+2015,ZIMBABWE                      ,Dona,1
+2016,ALBÀNIA                       ,Dona,14
+2016,ALBÀNIA                       ,Home,17
+2016,ALEMANYA                      ,Dona,48
+2016,ALEMANYA                      ,Home,76
+2016,ALGÈRIA                       ,Dona,24
+2016,ALGÈRIA                       ,Home,25
+2016,ALTRES PAÏSOS D AMÈRICA       ,Home,1
+2016,ALTRES PAÏSOS D ÀSIA          ,Dona,1
+2016,ANDORRA                       ,Dona,9
+2016,ANDORRA                       ,Home,7
+2016,ANGOLA                        ,Home,1
+2016,APÀTRIDES                     ,Home,1
+2016,"ARGENTINA, L                  ",Dona,245
+2016,"ARGENTINA, L                  ",Home,176
+2016,ARMÈNIA                       ,Dona,25
+2016,ARMÈNIA                       ,Home,15
+2016,AUSTRÀLIA                     ,Home,3
+2016,ÀUSTRIA                       ,Dona,7
+2016,ÀUSTRIA                       ,Home,7
+2016,BANGLA DESH                   ,Dona,4
+2016,BANGLA DESH                   ,Home,5
+2016,BÈLGICA                       ,Dona,15
+2016,BÈLGICA                       ,Home,10
+2016,BELIZE                        ,Home,1
+2016,BIELORÚSSIA                   ,Dona,11
+2016,BIELORÚSSIA                   ,Home,1
+2016,BOLÍVIA                       ,Dona,266
+2016,BOLÍVIA                       ,Home,155
+2016,BÒSNIA I HERCEGOVINA          ,Dona,3
+2016,"BRASIL, EL                    ",Dona,213
+2016,"BRASIL, EL                    ",Home,89
+2016,BULGÀRIA                      ,Dona,60
+2016,BULGÀRIA                      ,Home,69
+2016,BURKINA FASO                  ,Home,2
+2016,"CAMERUN, EL                   ",Dona,2
+2016,"CAMERUN, EL                   ",Home,5
+2016,"CANADÀ, EL                    ",Dona,10
+2016,"CANADÀ, EL                    ",Home,4
+2016,CAP VERD                      ,Dona,1
+2016,COLÒMBIA                      ,Dona,281
+2016,COLÒMBIA                      ,Home,270
+2016,"CONGO, EL                     ",Home,3
+2016,COREA DEL SUD                 ,Dona,6
+2016,COREA DEL SUD                 ,Home,8
+2016,"COSTA D IVORI, LA             ",Dona,6
+2016,"COSTA D IVORI, LA             ",Home,2
+2016,COSTA RICA                    ,Dona,7
+2016,COSTA RICA                    ,Home,3
+2016,CROÀCIA                       ,Home,5
+2016,CUBA                          ,Dona,132
+2016,CUBA                          ,Home,96
+2016,DINAMARCA                     ,Dona,1
+2016,DINAMARCA                     ,Home,3
+2016,DOMINICA                      ,Dona,2
+2016,DOMINICA                      ,Home,2
+2016,EGIPTE                        ,Dona,4
+2016,EGIPTE                        ,Home,18
+2016,EL SALVADOR                   ,Dona,39
+2016,EL SALVADOR                   ,Home,33
+2016,"EMIRATS ÀRABS UNITS, ELS      ",Dona,1
+2016,"EMIRATS ÀRABS UNITS, ELS      ",Home,1
+2016,"EQUADOR, L                    ",Dona,467
+2016,"EQUADOR, L                    ",Home,519
+2016,ESLOVÀQUIA                    ,Dona,9
+2016,ESLOVÀQUIA                    ,Home,1
+2016,ESLOVÈNIA                     ,Dona,1
+2016,ESLOVÈNIA                     ,Home,3
+2016,ESPANYA                       ,Dona,97329
+2016,ESPANYA                       ,Home,93064
+2016,"ESTATS UNITS D AMÈRICA, ELS   ",Dona,47
+2016,"ESTATS UNITS D AMÈRICA, ELS   ",Home,44
+2016,ETIÒPIA                       ,Dona,1
+2016,"FILIPINES, LES                ",Dona,4
+2016,"FILIPINES, LES                ",Home,5
+2016,FINLÀNDIA                     ,Dona,2
+2016,FINLÀNDIA                     ,Home,2
+2016,FRANÇA                        ,Dona,115
+2016,FRANÇA                        ,Home,98
+2016,GÀMBIA                        ,Dona,10
+2016,GÀMBIA                        ,Home,29
+2016,GEÒRGIA                       ,Dona,27
+2016,GEÒRGIA                       ,Home,19
+2016,GHANA                         ,Dona,2
+2016,GHANA                         ,Home,21
+2016,GRÈCIA                        ,Dona,5
+2016,GRÈCIA                        ,Home,3
+2016,GUATEMALA                     ,Dona,16
+2016,GUATEMALA                     ,Home,9
+2016,"GUINEA BISSAU, LA             ",Dona,2
+2016,"GUINEA BISSAU, LA             ",Home,2
+2016,"GUINEA EQUATORIAL, LA         ",Dona,29
+2016,"GUINEA EQUATORIAL, LA         ",Home,18
+2016,"GUINEA, LA                    ",Dona,8
+2016,"GUINEA, LA                    ",Home,14
+2016,HAITÍ                         ,Dona,2
+2016,HAITÍ                         ,Home,1
+2016,HONDURES                      ,Dona,242
+2016,HONDURES                      ,Home,93
+2016,HONGRIA                       ,Dona,8
+2016,HONGRIA                       ,Home,1
+2016,"ÍNDIA, L                      ",Dona,36
+2016,"ÍNDIA, L                      ",Home,59
+2016,INDONÈSIA                     ,Dona,1
+2016,INDONÈSIA                     ,Home,1
+2016,"IRAN, L                       ",Dona,13
+2016,"IRAN, L                       ",Home,25
+2016,"IRAQ, L                       ",Dona,1
+2016,"IRAQ, L                       ",Home,7
+2016,IRLANDA                       ,Dona,7
+2016,IRLANDA                       ,Home,13
+2016,ISLÀNDIA                      ,Dona,5
+2016,ISLÀNDIA                      ,Home,2
+2016,ISRAEL                        ,Dona,2
+2016,ISRAEL                        ,Home,1
+2016,ITÀLIA                        ,Dona,291
+2016,ITÀLIA                        ,Home,416
+2016,JAMAICA                       ,Dona,1
+2016,"JAPÓ, EL                      ",Dona,11
+2016,"JAPÓ, EL                      ",Home,2
+2016,JORDÀNIA                      ,Dona,2
+2016,JORDÀNIA                      ,Home,6
+2016,"KAZAKHSTAN, EL                ",Dona,4
+2016,"KAZAKHSTAN, EL                ",Home,1
+2016,KENYA                         ,Dona,1
+2016,KENYA                         ,Home,1
+2016,LETÒNIA                       ,Dona,6
+2016,LETÒNIA                       ,Home,6
+2016,"LÍBAN, EL                     ",Dona,2
+2016,"LÍBAN, EL                     ",Home,3
+2016,LÍBIA                         ,Home,5
+2016,LITUÀNIA                      ,Dona,13
+2016,LITUÀNIA                      ,Home,4
+2016,MACEDÒNIA                     ,Home,1
+2016,MALÀISIA                      ,Dona,12
+2016,MALÀISIA                      ,Home,20
+2016,MALI                          ,Dona,9
+2016,MALI                          ,Home,24
+2016,MALTA                         ,Dona,1
+2016,"MARROC, EL                    ",Dona,5472
+2016,"MARROC, EL                    ",Home,6614
+2016,MAURITÀNIA                    ,Home,3
+2016,MÈXIC                         ,Dona,81
+2016,MÈXIC                         ,Home,46
+2016,MOLDÀVIA                      ,Dona,31
+2016,MOLDÀVIA                      ,Home,18
+2016,MONTENEGRO                    ,Dona,1
+2016,"NEPAL,EL                      ",Dona,2
+2016,"NEPAL,EL                      ",Home,3
+2016,NICARAGUA                     ,Dona,28
+2016,NICARAGUA                     ,Home,13
+2016,NIGÈRIA                       ,Dona,65
+2016,NIGÈRIA                       ,Home,70
+2016,NORUEGA                       ,Dona,3
+2016,NORUEGA                       ,Home,2
+2016,NOVA ZELANDA                  ,Dona,2
+2016,NOVA ZELANDA                  ,Home,1
+2016,"PAÏSOS BAIXOS, ELS            ",Dona,28
+2016,"PAÏSOS BAIXOS, ELS            ",Home,38
+2016,"PAKISTAN, EL                  ",Dona,86
+2016,"PAKISTAN, EL                  ",Home,251
+2016,PALESTINA                     ,Dona,5
+2016,PALESTINA                     ,Home,1
+2016,"PANAMÀ, EL                    ",Dona,6
+2016,"PANAMÀ, EL                    ",Home,3
+2016,"PARAGUAI, EL                  ",Dona,471
+2016,"PARAGUAI, EL                  ",Home,223
+2016,"PERÚ, EL                      ",Dona,173
+2016,"PERÚ, EL                      ",Home,147
+2016,POLÒNIA                       ,Dona,91
+2016,POLÒNIA                       ,Home,88
+2016,PORTUGAL                      ,Dona,109
+2016,PORTUGAL                      ,Home,116
+2016,"REGNE UNIT, EL                ",Dona,48
+2016,"REGNE UNIT, EL                ",Home,62
+2016,REPÚBLICA DEM. DEL CONGO      ,Dona,2
+2016,REPÚBLICA DEM. DEL CONGO      ,Home,4
+2016,"REPÚBLICA DOMINICANA, LA      ",Dona,290
+2016,"REPÚBLICA DOMINICANA, LA      ",Home,283
+2016,"REPÚBLICA TXECA, LA           ",Dona,10
+2016,"REPÚBLICA TXECA, LA           ",Home,7
+2016,ROMANIA                       ,Dona,632
+2016,ROMANIA                       ,Home,544
+2016,RÚSSIA                        ,Dona,148
+2016,RÚSSIA                        ,Home,56
+2016,"SENEGAL, EL                   ",Dona,359
+2016,"SENEGAL, EL                   ",Home,840
+2016,SÈRBIA                        ,Dona,2
+2016,SÈRBIA                        ,Home,5
+2016,SIERRA LEONE                  ,Dona,1
+2016,SINGAPUR                      ,Dona,1
+2016,SÍRIA                         ,Dona,6
+2016,SÍRIA                         ,Home,15
+2016,SUÈCIA                        ,Dona,6
+2016,SUÈCIA                        ,Home,9
+2016,SUÏSSA                        ,Dona,11
+2016,SUÏSSA                        ,Home,2
+2016,TAILÀNDIA                     ,Dona,3
+2016,"TOGO, EL                      ",Dona,1
+2016,TUNÍSIA                       ,Dona,9
+2016,TUNÍSIA                       ,Home,8
+2016,TURQUIA                       ,Dona,11
+2016,TURQUIA                       ,Home,10
+2016,UCRAÏNA                       ,Dona,127
+2016,UCRAÏNA                       ,Home,83
+2016,UGANDA                        ,Dona,1
+2016,UGANDA                        ,Home,1
+2016,"URUGUAI, L                    ",Dona,98
+2016,"URUGUAI, L                    ",Home,109
+2016,VENEÇUELA                     ,Dona,186
+2016,VENEÇUELA                     ,Home,128
+2016,"VIETNAM, EL                   ",Dona,3
+2016,"VIETNAM, EL                   ",Home,2
+2016,XILE                          ,Dona,131
+2016,XILE                          ,Home,126
+2016,"XINA, LA                      ",Dona,463
+2016,"XINA, LA                      ",Home,493
+2016,XIPRE                         ,Dona,2
+2016,XIPRE                         ,Home,1
+2016,ZIMBABWE                      ,Dona,1
+2017,ALBÀNIA                       ,Dona,14
+2017,ALBÀNIA                       ,Home,16
+2017,ALEMANYA                      ,Dona,42
+2017,ALEMANYA                      ,Home,64
+2017,ALGÈRIA                       ,Dona,24
+2017,ALGÈRIA                       ,Home,31
+2017,ALTRES PAÏSOS D ÀSIA          ,Dona,1
+2017,ANDORRA                       ,Dona,8
+2017,ANDORRA                       ,Home,8
+2017,ANGOLA                        ,Home,2
+2017,APÀTRIDES                     ,Home,3
+2017,"ARÀBIA SAUDITA, L             ",Home,1
+2017,"ARGENTINA, L                  ",Dona,255
+2017,"ARGENTINA, L                  ",Home,188
+2017,ARMÈNIA                       ,Dona,29
+2017,ARMÈNIA                       ,Home,18
+2017,AUSTRÀLIA                     ,Home,3
+2017,ÀUSTRIA                       ,Dona,4
+2017,ÀUSTRIA                       ,Home,7
+2017,BANGLA DESH                   ,Dona,3
+2017,BANGLA DESH                   ,Home,6
+2017,BÈLGICA                       ,Dona,20
+2017,BÈLGICA                       ,Home,15
+2017,BELIZE                        ,Home,1
+2017,BIELORÚSSIA                   ,Dona,12
+2017,BIELORÚSSIA                   ,Home,3
+2017,BOLÍVIA                       ,Dona,242
+2017,BOLÍVIA                       ,Home,154
+2017,BÒSNIA I HERCEGOVINA          ,Dona,3
+2017,"BRASIL, EL                    ",Dona,227
+2017,"BRASIL, EL                    ",Home,100
+2017,BULGÀRIA                      ,Dona,54
+2017,BULGÀRIA                      ,Home,65
+2017,BURKINA FASO                  ,Home,2
+2017,"CAMERUN, EL                   ",Dona,2
+2017,"CAMERUN, EL                   ",Home,2
+2017,"CANADÀ, EL                    ",Dona,11
+2017,"CANADÀ, EL                    ",Home,5
+2017,CAP VERD                      ,Dona,1
+2017,COLÒMBIA                      ,Dona,307
+2017,COLÒMBIA                      ,Home,293
+2017,"CONGO, EL                     ",Home,3
+2017,COREA DEL SUD                 ,Dona,3
+2017,COREA DEL SUD                 ,Home,6
+2017,"COSTA D IVORI, LA             ",Dona,6
+2017,"COSTA D IVORI, LA             ",Home,2
+2017,COSTA RICA                    ,Dona,8
+2017,COSTA RICA                    ,Home,4
+2017,CROÀCIA                       ,Dona,1
+2017,CROÀCIA                       ,Home,3
+2017,CUBA                          ,Dona,135
+2017,CUBA                          ,Home,88
+2017,DINAMARCA                     ,Dona,2
+2017,DINAMARCA                     ,Home,5
+2017,DOMINICA                      ,Dona,3
+2017,DOMINICA                      ,Home,4
+2017,EGIPTE                        ,Dona,5
+2017,EGIPTE                        ,Home,23
+2017,EL SALVADOR                   ,Dona,47
+2017,EL SALVADOR                   ,Home,36
+2017,"EQUADOR, L                    ",Dona,429
+2017,"EQUADOR, L                    ",Home,501
+2017,ESLOVÀQUIA                    ,Dona,9
+2017,ESLOVÀQUIA                    ,Home,1
+2017,ESLOVÈNIA                     ,Dona,1
+2017,ESLOVÈNIA                     ,Home,3
+2017,ESPANYA                       ,Dona,97683
+2017,ESPANYA                       ,Home,93666
+2017,"ESTATS UNITS D AMÈRICA, ELS   ",Dona,56
+2017,"ESTATS UNITS D AMÈRICA, ELS   ",Home,45
+2017,ESTÒNIA                       ,Dona,1
+2017,ESTÒNIA                       ,Home,1
+2017,"FILIPINES, LES                ",Dona,7
+2017,"FILIPINES, LES                ",Home,4
+2017,FINLÀNDIA                     ,Dona,2
+2017,FINLÀNDIA                     ,Home,4
+2017,FRANÇA                        ,Dona,123
+2017,FRANÇA                        ,Home,102
+2017,"GABON, EL                     ",Home,1
+2017,GÀMBIA                        ,Dona,8
+2017,GÀMBIA                        ,Home,31
+2017,GEÒRGIA                       ,Dona,26
+2017,GEÒRGIA                       ,Home,14
+2017,GHANA                         ,Dona,5
+2017,GHANA                         ,Home,12
+2017,GRÈCIA                        ,Dona,5
+2017,GRÈCIA                        ,Home,5
+2017,GUATEMALA                     ,Dona,19
+2017,GUATEMALA                     ,Home,13
+2017,"GUINEA BISSAU, LA             ",Dona,3
+2017,"GUINEA BISSAU, LA             ",Home,3
+2017,"GUINEA EQUATORIAL, LA         ",Dona,32
+2017,"GUINEA EQUATORIAL, LA         ",Home,19
+2017,"GUINEA, LA                    ",Dona,7
+2017,"GUINEA, LA                    ",Home,14
+2017,HAITÍ                         ,Dona,2
+2017,HAITÍ                         ,Home,1
+2017,HONDURES                      ,Dona,336
+2017,HONDURES                      ,Home,109
+2017,HONGRIA                       ,Dona,9
+2017,HONGRIA                       ,Home,3
+2017,"ÍNDIA, L                      ",Dona,38
+2017,"ÍNDIA, L                      ",Home,57
+2017,INDONÈSIA                     ,Dona,3
+2017,INDONÈSIA                     ,Home,1
+2017,"IRAN, L                       ",Dona,16
+2017,"IRAN, L                       ",Home,29
+2017,"IRAQ, L                       ",Dona,1
+2017,"IRAQ, L                       ",Home,6
+2017,IRLANDA                       ,Dona,9
+2017,IRLANDA                       ,Home,13
+2017,ISLÀNDIA                      ,Dona,5
+2017,ISLÀNDIA                      ,Home,2
+2017,ISRAEL                        ,Dona,2
+2017,ISRAEL                        ,Home,1
+2017,ITÀLIA                        ,Dona,318
+2017,ITÀLIA                        ,Home,406
+2017,"JAPÓ, EL                      ",Dona,13
+2017,"JAPÓ, EL                      ",Home,3
+2017,JORDÀNIA                      ,Dona,2
+2017,JORDÀNIA                      ,Home,6
+2017,"KAZAKHSTAN, EL                ",Dona,3
+2017,"KAZAKHSTAN, EL                ",Home,1
+2017,KENYA                         ,Home,1
+2017,LETÒNIA                       ,Dona,7
+2017,LETÒNIA                       ,Home,3
+2017,"LÍBAN, EL                     ",Dona,1
+2017,"LÍBAN, EL                     ",Home,2
+2017,LÍBIA                         ,Home,3
+2017,LITUÀNIA                      ,Dona,13
+2017,LITUÀNIA                      ,Home,5
+2017,LUXEMBURG                     ,Home,1
+2017,MACEDÒNIA                     ,Home,1
+2017,MALÀISIA                      ,Dona,11
+2017,MALÀISIA                      ,Home,17
+2017,MALI                          ,Dona,9
+2017,MALI                          ,Home,22
+2017,MALTA                         ,Dona,1
+2017,"MARROC, EL                    ",Dona,5414
+2017,"MARROC, EL                    ",Home,6493
+2017,MAURITÀNIA                    ,Home,4
+2017,MÈXIC                         ,Dona,92
+2017,MÈXIC                         ,Home,53
+2017,MOLDÀVIA                      ,Dona,29
+2017,MOLDÀVIA                      ,Home,16
+2017,MONTENEGRO                    ,Dona,1
+2017,"NEPAL,EL                      ",Dona,4
+2017,"NEPAL,EL                      ",Home,5
+2017,NICARAGUA                     ,Dona,29
+2017,NICARAGUA                     ,Home,15
+2017,NIGÈRIA                       ,Dona,67
+2017,NIGÈRIA                       ,Home,63
+2017,NORUEGA                       ,Dona,3
+2017,NORUEGA                       ,Home,4
+2017,NOVA ZELANDA                  ,Dona,1
+2017,NOVA ZELANDA                  ,Home,3
+2017,"PAÏSOS BAIXOS, ELS            ",Dona,20
+2017,"PAÏSOS BAIXOS, ELS            ",Home,33
+2017,"PAKISTAN, EL                  ",Dona,109
+2017,"PAKISTAN, EL                  ",Home,291
+2017,PALESTINA                     ,Dona,5
+2017,PALESTINA                     ,Home,5
+2017,"PANAMÀ, EL                    ",Dona,5
+2017,"PANAMÀ, EL                    ",Home,3
+2017,"PARAGUAI, EL                  ",Dona,473
+2017,"PARAGUAI, EL                  ",Home,245
+2017,"PERÚ, EL                      ",Dona,175
+2017,"PERÚ, EL                      ",Home,138
+2017,POLÒNIA                       ,Dona,94
+2017,POLÒNIA                       ,Home,94
+2017,PORTUGAL                      ,Dona,120
+2017,PORTUGAL                      ,Home,137
+2017,"REGNE UNIT, EL                ",Dona,51
+2017,"REGNE UNIT, EL                ",Home,67
+2017,REPÚBLICA DEM. DEL CONGO      ,Dona,2
+2017,REPÚBLICA DEM. DEL CONGO      ,Home,3
+2017,"REPÚBLICA DOMINICANA, LA      ",Dona,311
+2017,"REPÚBLICA DOMINICANA, LA      ",Home,301
+2017,"REPÚBLICA TXECA, LA           ",Dona,11
+2017,"REPÚBLICA TXECA, LA           ",Home,7
+2017,ROMANIA                       ,Dona,634
+2017,ROMANIA                       ,Home,556
+2017,RÚSSIA                        ,Dona,147
+2017,RÚSSIA                        ,Home,58
+2017,"SENEGAL, EL                   ",Dona,371
+2017,"SENEGAL, EL                   ",Home,816
+2017,SÈRBIA                        ,Dona,2
+2017,SÈRBIA                        ,Home,5
+2017,SIERRA LEONE                  ,Dona,1
+2017,SÍRIA                         ,Dona,7
+2017,SÍRIA                         ,Home,15
+2017,SUD-ÀFRICA                    ,Home,1
+2017,SUÈCIA                        ,Dona,6
+2017,SUÈCIA                        ,Home,8
+2017,SUÏSSA                        ,Dona,8
+2017,SUÏSSA                        ,Home,2
+2017,TAILÀNDIA                     ,Dona,3
+2017,TAILÀNDIA                     ,Home,1
+2017,TANZÀNIA                      ,Dona,1
+2017,"TOGO, EL                      ",Dona,1
+2017,TUNÍSIA                       ,Dona,4
+2017,TUNÍSIA                       ,Home,7
+2017,TURQUIA                       ,Dona,7
+2017,TURQUIA                       ,Home,9
+2017,UCRAÏNA                       ,Dona,141
+2017,UCRAÏNA                       ,Home,92
+2017,"URUGUAI, L                    ",Dona,94
+2017,"URUGUAI, L                    ",Home,109
+2017,VENEÇUELA                     ,Dona,250
+2017,VENEÇUELA                     ,Home,168
+2017,"VIETNAM, EL                   ",Dona,5
+2017,"VIETNAM, EL                   ",Home,2
+2017,XILE                          ,Dona,132
+2017,XILE                          ,Home,130
+2017,"XINA, LA                      ",Dona,493
+2017,"XINA, LA                      ",Home,521
+2017,XIPRE                         ,Dona,2
+2017,XIPRE                         ,Home,1
+2017,ZIMBABWE                      ,Dona,1

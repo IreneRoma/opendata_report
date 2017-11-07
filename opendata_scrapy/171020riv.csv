@@ -1,0 +1,134 @@
+city,description,publisher,url,title,tag,date_extraction,frequency,formats,licenses,date_actualization,lenguage,date_creation,categories,geography
+RIV,Incidencias de tráfico en las inmediaciones del municipio,,http://datosabiertos.rivasciudad.es/dataset/incidencias-de-trafico,Incidencias de tráfico,"incidencias,tráfico",2017/10/20_13:47:03,Tiempo Real,"CSV,JSON,XLSX",Open Data Commons Attribution License,,,"
+    Marzo 1, 2016, 13:19 (Europe/Madrid)
+",Transporte,
+RIV,"Datos contaminantes y atmosféricos recogidos en la estación del municipio.
+Se muestran los datos de los últimos siete días con información por cada hora.",,http://datosabiertos.rivasciudad.es/dataset/calidad-del-aire,Calidad del Aire,"aire,medio ambiente",2017/10/20_13:47:03,Diaria,"CSV,JSON,JSONLD,XLSX,RDF",Open Data Commons Attribution License,,,"
+    Julio 3, 2015, 10:25 (Europe/Madrid)
+",Medio ambiente,
+RIV,Eventos y actividades municipales.,,http://datosabiertos.rivasciudad.es/dataset/agenda,Agenda,"actividades,agenda,eventos",2017/10/20_13:47:03,Variable,"CSV,JSON,JSONLD,XLSX,RDF",Open Data Commons Attribution License,,,"
+    Julio 2, 2015, 14:02 (Europe/Madrid)
+",Cultura y ocio,
+RIV,Histórico Presupuestos,,http://datosabiertos.rivasciudad.es/dataset/historico-presupuestos,Histórico Presupuestos,"historico,presupuestos",2017/10/20_13:47:04,Anual,"JSON,JSON,JSON,JSON,JSON,JSON",Open Data Commons Attribution License,,,"
+    Abril 15, 2015, 13:11 (Europe/Madrid)
+",Hacienda,
+RIV,Presupuestos municipales,,http://datosabiertos.rivasciudad.es/dataset/presupuestos-2017,Presupuestos 2017,indicadores,2017/10/20_13:47:04,Puntual,"JSON,JSON,JSON",Open Data Commons Attribution License,,,"
+    Julio 25, 2017, 14:42 (Europe/Madrid)
+",Hacienda,
+RIV,Padrón de habitantes,,http://datosabiertos.rivasciudad.es/dataset/padron-de-habitantes,Padrón de habitantes,"demografía,habitantes,padrón",2017/10/20_13:47:05,Anual,"CSV,JSON",Open Data Commons Attribution License,,,"
+    Abril 15, 2015, 19:04 (Europe/Madrid)
+",Demografía,
+RIV,Presupuestos municipales,,http://datosabiertos.rivasciudad.es/dataset/presupuestos-2016,Presupuestos 2016,"economia,gastos,hacienda,ingresos,presupuestos",2017/10/20_13:47:05,Anual,"CSV,XLSX,JSON,jsonld,RDF,CSV,XLSX,JSON,jsonld,RDF,CSV,XLSX,JSON,jsonld,RDF,JSON,JSON,JSON,JSON,JSON,JSON,JSON",Open Data Commons Attribution License,,,"
+    Noviembre 4, 2016, 10:36 (Europe/Madrid)
+",Hacienda,
+RIV,Secciones censales,,http://datosabiertos.rivasciudad.es/dataset/secciones-censales,Secciones censales,,2017/10/20_13:47:05,Anual,"KML,GeoJSON,SHP",Open Data Commons Attribution License,,,"
+    Abril 23, 2016, 19:06 (Europe/Madrid)
+",Demografía,
+RIV,Polígono industrial,,http://datosabiertos.rivasciudad.es/dataset/poligono-industrial,Polígono industrial,,2017/10/20_13:47:05,Anual,"KML,GeoJSON,SHP",Open Data Commons Attribution License,,,"
+    Abril 23, 2016, 19:27 (Europe/Madrid)
+",Urbanismo e infraestructuras,
+RIV,Líneas de autobús,,http://datosabiertos.rivasciudad.es/dataset/lineas-de-autobus,Líneas de autobús,"autobús,bus",2017/10/20_13:47:06,Anual,"GeoJSON,SHP,KML",Open Data Commons Attribution License,,,"
+    Mayo 19, 2015, 11:03 (Europe/Madrid)
+",Transporte,
+RIV,Delimitación del termino municipal,,http://datosabiertos.rivasciudad.es/dataset/termino-municipal,Término municipal,,2017/10/20_13:47:06,Anual,"KML,GeoJSON,SHP",Open Data Commons Attribution License,,,"
+    Abril 23, 2016, 19:15 (Europe/Madrid)
+",Urbanismo e infraestructuras,
+RIV,Localización semáforos en el término municpal,,http://datosabiertos.rivasciudad.es/dataset/semaforos,Semáforos,,2017/10/20_13:47:06,Anual,"KML,GeoJSON,SHP",Open Data Commons Attribution License,,,"
+    Abril 23, 2016, 19:33 (Europe/Madrid)
+",Urbanismo e infraestructuras,
+RIV,Antenas WIFI,,http://datosabiertos.rivasciudad.es/dataset/antenas-wifi,Antenas WIFI,"antenas,wifi",2017/10/20_13:47:07,Anual,"CSV,GeoJSON,KML,SHP",Open Data Commons Attribution License,,,"
+    Abril 15, 2015, 15:17 (Europe/Madrid)
+",Urbanismo e infraestructuras,
+RIV,"Rutas verdes: Campillo, El Piul, Senda del Jarama, Senda Espartal, Senda Eulogio, Soto de las juntas.",,http://datosabiertos.rivasciudad.es/dataset/rutas-verdes,Rutas verdes,rutas,2017/10/20_13:47:07,Anual,"CSV,GeoJSON,KML,SHP,CSV,GeoJSON,KML,SHP,CSV,GeoJSON,KML,SHP,CSV,GeoJSON,KML,SHP,CSV,GeoJSON,KML,SHP,CSV,GeoJSON,KML,SHP",Open Data Commons Open Database License (ODbL),,,"
+    Abril 17, 2015, 12:04 (Europe/Madrid)
+",Medio ambiente,
+RIV,Resultado de elecciones europeas. 2009 y 2014,,http://datosabiertos.rivasciudad.es/dataset/resultado-de-elecciones-europeas,Resultado de elecciones europeas,"elecciones,europeas",2017/10/20_13:47:08,Variable,"CSV,XLS,JSON,CSV,XLS,JSON",Open Data Commons Attribution License,,,"
+    Abril 14, 2015, 10:27 (Europe/Madrid)
+",Demografía,
+RIV,Resultado de elecciones autonómicas. 2007 y 2011,,http://datosabiertos.rivasciudad.es/dataset/resultado-de-elecciones-autonomicas,Resultado de elecciones autonómicas,"autonómicas,elecciones",2017/10/20_13:47:08,Variable,"CSV,XLS,JSON,CSV,XLS,JSON,XLS,CSV,JSON",Open Data Commons Attribution License,,,"
+    Abril 14, 2015, 10:20 (Europe/Madrid)
+",Demografía,
+RIV,Resultado de elecciones generales. 2008 y 2011,,http://datosabiertos.rivasciudad.es/dataset/resultado-de-elecciones-generales,Resultado de elecciones generales,"elecciones,generales",2017/10/20_13:47:09,Variable,"CSV,XLS,JSON,CSV,XLS,JSON",Open Data Commons Attribution License,,,"
+    Abril 14, 2015, 10:23 (Europe/Madrid)
+",Demografía,
+RIV,"Resultado elecciones municipales. 2007,2011 y 2015",,http://datosabiertos.rivasciudad.es/dataset/elecciones-municipales,Resultado de elecciones municipales,"elecciones,municipales",2017/10/20_13:47:09,Variable,"CSV,XLS,JSON,CSV,XLS,JSON,XLS,JSON,CSV",Open Data Commons Attribution License,,,"
+    Abril 14, 2015, 10:11 (Europe/Madrid)
+",Demografía,
+RIV,Polideportivos,,http://datosabiertos.rivasciudad.es/dataset/polideportivos,Polideportivos,polideportivo,2017/10/20_13:47:09,Anual,"CSV,GeoJSON,KML,SHP",Open Data Commons Attribution License,,,"
+    Abril 15, 2015, 15:39 (Europe/Madrid)
+",Deporte,
+RIV,Presupuestos municipales,,http://datosabiertos.rivasciudad.es/dataset/presupuestos-2015,Presupuestos 2015,"Gastos,Ingresos,Presupuestos",2017/10/20_13:47:10,Anual,"CSV,XLS,JSON,jsonld,CSV,XLS,JSON,jsonld,CSV,XLS,JSON,jsonld,JSON,JSON,JSON,CSV,XLS,JSON,JSON,JSON,JSON,JSON",Open Data Commons Attribution License,,,"
+    Abril 6, 2015, 13:47 (Europe/Madrid)
+",Hacienda,
+RIV,Pistas deportivas,,http://datosabiertos.rivasciudad.es/dataset/pistas-deportivas,Pistas deportivas,pistas,2017/10/20_13:47:10,Anual,"CSV,GeoJSON,KML,SHP",Open Data Commons Attribution License,,,"
+    Abril 15, 2015, 15:37 (Europe/Madrid)
+",Deporte,
+RIV,Piscinas,,http://datosabiertos.rivasciudad.es/dataset/piscinas,Piscinas,piscinas,2017/10/20_13:47:11,Anual,"CSV,GeoJSON,KML,SHP",Open Data Commons Attribution License,,,"
+    Abril 15, 2015, 15:35 (Europe/Madrid)
+",Deporte,
+RIV,Pirámide de Población a 1 de Enero de 2015,,http://datosabiertos.rivasciudad.es/dataset/piramide-de-poblacion,Pirámide de Población,"demografía,poblacion",2017/10/20_13:47:11,Anual,"CSV,JSON,jsonld,JSON,CSV",Open Data Commons Attribution License,,,"
+    Junio 11, 2015, 11:20 (Europe/Madrid)
+",Demografía,
+RIV,Paradas de metro,,http://datosabiertos.rivasciudad.es/dataset/paradas-de-metro,Paradas de metro,"metro,paradas",2017/10/20_13:47:11,Anual,"CSV,GeoJSON,KML,SHP",Open Data Commons Attribution License,,,"
+    Abril 26, 2015, 20:22 (Europe/Madrid)
+",Transporte,
+RIV,Carril bici,,http://datosabiertos.rivasciudad.es/dataset/carril-bici,Carril bici,,2017/10/20_13:47:11,Anual,"KML,GeoJSON,SHP",Open Data Commons Attribution License,,,"
+    Abril 23, 2016, 19:22 (Europe/Madrid)
+",Transporte,
+RIV,Institutos públicos,,http://datosabiertos.rivasciudad.es/dataset/institutos-publicos,Institutos públicos,instituto,2017/10/20_13:47:12,Anual,"CSV,GeoJSON,KML,SHP",Open Data Commons Attribution License,,,"
+    Abril 15, 2015, 15:54 (Europe/Madrid)
+",Educación,
+RIV,Paradas de autobús,,http://datosabiertos.rivasciudad.es/dataset/paradas-de-autobus,Paradas de autobús,"autobús,bus",2017/10/20_13:47:12,Anual,"CSV,GeoJSON,SHP,KML",Open Data Commons Attribution License,,,"
+    Abril 26, 2015, 20:17 (Europe/Madrid)
+",Transporte,
+RIV,Datos de 1996 a 2014,,http://datosabiertos.rivasciudad.es/dataset/evolucion-de-poblacion-nacimientos,Evolución de población. Nacimientos,"demografía,habitantes,padrón",2017/10/20_13:47:13,Anual,"CSV,XLS,JSON",Open Data Commons Attribution License,,,"
+    Abril 15, 2015, 18:57 (Europe/Madrid)
+",Demografía,
+RIV,Farmacias,,http://datosabiertos.rivasciudad.es/dataset/farmacias,Farmacias,"Farmacias,Salud",2017/10/20_13:47:13,Anual,"CSV,GeoJSON,KML,SHP",Open Data Commons Attribution License,,,"
+    Abril 6, 2015, 13:26 (Europe/Madrid)
+",Salud,
+RIV,Datos de 1996 a 2013,,http://datosabiertos.rivasciudad.es/dataset/evolucion-de-poblacion-defunciones,Evolución de población. Defunciones,"demografía,habitantes,padrón",2017/10/20_13:47:13,Anual,"CSV,XLS,JSON",Open Data Commons Attribution License,,,"
+    Abril 15, 2015, 18:54 (Europe/Madrid)
+",Demografía,
+RIV,Datos de 1981 a 2014,,http://datosabiertos.rivasciudad.es/dataset/evolucion-de-poblacion-habitantes,Evolución de población. Habitantes,"demografía,habitantes,padrón",2017/10/20_13:47:13,Anual,"CSV,XLS,JSON",Open Data Commons Attribution License,,,"
+    Abril 15, 2015, 18:59 (Europe/Madrid)
+",Demografía,
+RIV,Colegios públicos,,http://datosabiertos.rivasciudad.es/dataset/colegios-publicos-csv,Colegios públicos,colegio,2017/10/20_13:47:14,Anual,"CSV,GeoJSON,KML,SHP",Open Data Commons Attribution License,,,"
+    Abril 15, 2015, 15:45 (Europe/Madrid)
+",Educación,
+RIV,Escuelas infantiles,,http://datosabiertos.rivasciudad.es/dataset/escuelas-infantiles,Escuelas infantiles,infantil,2017/10/20_13:47:14,Anual,"CSV,GeoJSON,KML,SHP",Open Data Commons Attribution License,,,"
+    Abril 15, 2015, 15:52 (Europe/Madrid)
+",Educación,
+RIV,Centros de Salud,,http://datosabiertos.rivasciudad.es/dataset/centros-de-salud,Centros de salud,"Centros,Salud",2017/10/20_13:47:15,Anual,"CSV,GeoJSON,KML,SHP",Open Data Commons Attribution License,,,"
+    Abril 6, 2015, 13:52 (Europe/Madrid)
+",Salud,
+RIV,Colegios privados concertados,,http://datosabiertos.rivasciudad.es/dataset/colegios-privados-concertados,Colegios privados concertados,colegio,2017/10/20_13:47:15,Anual,"CSV,GeoJSON,KML,SHP",Open Data Commons Attribution License,,,"
+    Abril 15, 2015, 15:43 (Europe/Madrid)
+",Educación,
+RIV,Centros de educación especial,,http://datosabiertos.rivasciudad.es/dataset/educacion-especial,Centros de educación especial,educación,2017/10/20_13:47:15,Anual,"CSV,GeoJSON,KML,SHP",Open Data Commons Attribution License,,,"
+    Abril 15, 2015, 15:50 (Europe/Madrid)
+",Educación,
+RIV,Centros de educación de adultos,,http://datosabiertos.rivasciudad.es/dataset/educacion-de-adultos,Centros de educación de adultos,adultos,2017/10/20_13:47:15,Anual,"CSV,GeoJSON,KML,SHP",Open Data Commons Attribution License,,,"
+    Abril 15, 2015, 15:48 (Europe/Madrid)
+",Educación,
+RIV,Campos de fútbol,,http://datosabiertos.rivasciudad.es/dataset/campos-de-futbol,Campos de fútbol,futbol,2017/10/20_13:47:16,Anual,"CSV,GeoJSON,KML,SHP",Open Data Commons Attribution License,,,"
+    Abril 15, 2015, 15:29 (Europe/Madrid)
+",Deporte,
+RIV,Ayuntamiento de Rivas Vaciamadrid. Incluye listado de calles y números de policía georreferenciados,,http://datosabiertos.rivasciudad.es/dataset/callejero,Callejero,"calles,direcciones,portales",2017/10/20_13:47:16,Anual,"CSV,GeoJSON,KML,SHP,CSV,JSON,jsonld",Open Data Commons Open Database License (ODbL),,,"
+    Abril 17, 2015, 11:42 (Europe/Madrid)
+",Urbanismo e infraestructuras,
+RIV,Bicinrivas,,http://datosabiertos.rivasciudad.es/dataset/bici-en-rivas,Bicinrivas,"Bici,Bicicleta,Bicinrivas,Transporte",2017/10/20_13:47:17,Anual,"CSV,GeoJSON,KML,SHP",Open Data Commons Attribution License,,,"
+    Abril 6, 2015, 13:43 (Europe/Madrid)
+",Transporte,
+RIV,Arbolado,,http://datosabiertos.rivasciudad.es/dataset/arbolado,Arbolado,arbolado,2017/10/20_13:47:17,Anual,"CSV,SHP,ZIP,ZIP",Open Data Commons Attribution License,,,"
+    Abril 15, 2015, 15:09 (Europe/Madrid)
+",Medio ambiente,
+RIV,Distribuición población por continentes,,http://datosabiertos.rivasciudad.es/dataset/distribuicion-poblacion-por-continentes,Distribuición población por continentes,,2017/10/20_13:47:17,Anual,JSON,Open Data Commons Attribution License,,,"
+    Junio 23, 2015, 08:30 (Europe/Madrid)
+",Demografía,
+RIV,Presupuestos municipales.,,http://datosabiertos.rivasciudad.es/dataset/anteproyecto-presupuestos-2016,Presupuestos 2016. Anteproyecto,"anteproyecto,presupuestos",2017/10/20_13:47:17,Anual,"JSON,JSON,JSON,JSON",Open Data Commons Attribution License,,,"
+    Febrero 1, 2016, 12:12 (Europe/Madrid)
+",Hacienda,
+RIV,Evolución de nacimientos desde 1995 hasta la actualidad,,http://datosabiertos.rivasciudad.es/dataset/nacimientos-y-defunciones,Nacimientos y Defunciones,,2017/10/20_13:47:18,Anual,JSON,Open Data Commons Attribution License,,,"
+    Junio 18, 2015, 11:36 (Europe/Madrid)
+",Demografía,

@@ -36,7 +36,7 @@ class QuotesSpider(scrapy.Spider):
         def parse(self,response):
 
                 if self.a is True : 
-                    self.num_pages = response.xpath('//*[@class="pagination pagination-centered"]//li[4]//text()').extract_first(default='not-found')
+                    self.num_pages = response.xpath('//*[@class="pagination pagination-centered"]//li[3]//text()').extract_first(default='not-found')
                     self.num_pages = int(self.num_pages)
                     self.a = False
 
@@ -86,6 +86,8 @@ class QuotesSpider(scrapy.Spider):
 
                     item['city'] = "ALH"
 
+                    item['publisher'] = response.xpath('//*[@id="content"]/div[3]/aside/div/section/h1/text()').extract_first(default='not-found')
+
                     item['date_extraction'] = datetime.strftime(datetime.now(), '%Y/%m/%d_%H:%M:%S')
 
                     item['formats'] = response.xpath('//*[@class="format-label"]//text()').extract()
@@ -104,7 +106,6 @@ class QuotesSpider(scrapy.Spider):
     
 
                     url_categories = 'http://transparencia.alhaurindelatorre.es' + response.xpath('//*[@class="nav nav-tabs"]/li[2]//@href').extract_first(default='not-found')    
-                    print url_categories
 
                     request = scrapy.Request(url_categories, callback = self.add_categories)    
 
@@ -121,5 +122,5 @@ class QuotesSpider(scrapy.Spider):
         def add_categories(self,response):
             item = response.meta['item']
             item['categories'] = response.xpath('//*[@class="media-heading"]//text()').extract_first(default='not-found')
-            print item['categories']
+
             yield item

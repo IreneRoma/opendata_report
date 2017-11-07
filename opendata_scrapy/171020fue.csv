@@ -1,0 +1,27 @@
+city,description,publisher,url,title,tag,date_extraction,frequency,formats,licenses,date_actualization,lenguage,date_creation,categories,geography
+FUE,"Cursos impartidos por el área de cultura
+",,http://datosabiertos.fuengirola.es/dataset/cursos,Cursos,,2017/10/20_13:15:28,,CSV,Creative Commons CCZero,,,,Cultura,
+FUE,"Numero de personas que han encontrado empleo por mes
+",,http://datosabiertos.fuengirola.es/dataset/insercion-empleo,Inserción Mensual Empleo,,2017/10/20_13:15:29,,"CSV,CSV",Creative Commons Attribution,,,,Promocion Empresarial y del Empleo,
+FUE,"Información sobre registros de entrada por año
+",,http://datosabiertos.fuengirola.es/dataset/registro,Registro de Entrada 2015,,2017/10/20_13:15:30,,CSV,Creative Commons CCZero,,,,Organización Interior,
+FUE,"Total españoles por ciudad de procedencia
+",,http://datosabiertos.fuengirola.es/dataset/total-espanoles-por-procedencia,Total españoles por procedencia 2015,,2017/10/20_13:15:30,,CSV,Creative Commons CCZero,,,,Organización Interior,
+FUE,"Total extranjeros por sexo y nacionalidad en el año 2015
+",,http://datosabiertos.fuengirola.es/dataset/total-extranjeros-por-sexo,Total extranjeros por sexo 2015,,2017/10/20_13:15:31,,CSV,Creative Commons CCZero,,,,Organización Interior,
+FUE,"Número total de defunciones agrupadas por sexo en el 2015
+",,http://datosabiertos.fuengirola.es/dataset/defunciones-por-sexo-2015,Defunciones en el año 2015 por sexo,,2017/10/20_13:15:31,,"CSV,XLSX",Creative Commons CCZero,,,,Organización Interior,
+FUE,"Total de defunciones en Fuengirola agrupadas por sexo durante el año 2016 (hasta el 31 de Noviembre)
+",,http://datosabiertos.fuengirola.es/dataset/defunciones-en-el-ano-2016-por-sexo,Defunciones en el año 2016 por sexo,,2017/10/20_13:15:32,,CSV,Creative Commons CCZero,,,,Organización Interior,
+FUE,"Servicios y actividades educativas ofrecidos por la Concejalía de Educación
+",,http://datosabiertos.fuengirola.es/dataset/servicios-y-actividades,Servicios y actividades,,2017/10/20_13:15:33,,CSV,Creative Commons CCZero,,,,Educación,
+FUE,"Información de todos los centros educativos de la localidad
+",,http://datosabiertos.fuengirola.es/dataset/centros-educativos,Centros educativos,,2017/10/20_13:15:33,,CSV,Creative Commons CCZero,,,,Educación,
+FUE,"Lugares donde se exponen obras culturales
+",,http://datosabiertos.fuengirola.es/dataset/espacios-escenicos,Espacios escénicos,,2017/10/20_13:15:34,,CSV,Creative Commons CCZero,,,,Cultura,
+FUE,"Medios disponibles en los distintos espacios expositores y escénicos
+",,http://datosabiertos.fuengirola.es/dataset/medios,Medios,,2017/10/20_13:15:35,,CSV,Creative Commons CCZero,,,,Cultura,
+FUE,"Instalaciones deportivas
+",,http://datosabiertos.fuengirola.es/dataset/instalaciones-deportivas,Instalaciones deportivas,,2017/10/20_13:15:35,,CSV,Creative Commons CCZero,,,,Deportes,
+FUE,"Patrimonio cultural
+",,http://datosabiertos.fuengirola.es/dataset/patrimonio-cultural,Patrimonio cultural,,2017/10/20_13:15:36,,CSV,Creative Commons CCZero,,,,Cultura,

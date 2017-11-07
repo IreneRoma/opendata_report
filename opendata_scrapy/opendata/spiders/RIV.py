@@ -82,7 +82,7 @@ class QuotesSpider(scrapy.Spider):
                         if "Fecha de la primera" in i.encode('utf-8'):
                             item['date_creation'] = desc_metadata[count+2]    
                         if "Frecuencia" in i.encode('utf-8'):
-                            item['frequency'] = desc_metadata[count+2]                                                     
+                            item['frequency'] = desc_metadata[count+4]                                                     
                         count += 1
                     
                     item['description'] = response.xpath('//*[@class="notes embedded-content"]/p/text()').extract_first(default="not-found")

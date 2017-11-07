@@ -1,0 +1,28 @@
+﻿FID,VIA_TOPO_I,VIA_TOPO_F,DEXTREM_IN,DEXTREM_FI,VIA_NOM,REGULACIÓ_,TIPOLOGIA_,ESTAT_GENE,Shape_Leng,AMP_MITJAN,Document
+1,BV-4608 (PQ 21+827 ),BV-5224 (PQ 2+484),Carretera,Carretera,Camí 1,Cap restricció,Camí rural,Camí en un estat acceptable,3587.942532,4.22,http://www.manlleu.cat/files/doc3966/camí1.pdf
+2,BV-4608 (PQ 19+583 ),Camí 1 (PQ 1+022 ),Carretera,Camí,Camí 2,Cap restricció,Camí rural,Camí en bon estat,2081.151718,4.15,http://www.manlleu.cat/files/doc3967/camí2.pdf
+3,Camí 1 (PQ 2+037),T.M. Torelló,Camí,Altres,Camí 4,Cap restricció,Camí rural,Camí en bon estat,335.9981,3.09,http://www.manlleu.cat/files/doc3969/camí4.pdf
+4,Avinguda de Roma,BV-5224 (PQ 1+529 ),Nucli urbà,Carretera,Camí 5,Cap restricció,Camí rural,Camí en bon estat,1743.566971,3.28,http://www.manlleu.cat/files/doc3970/camí5.pdf
+5,Avinguda Pirineus,T.M. Torelló,Nucli urbà,Altres,Camí 9,Cap restricció,Camí rural,Camí en mal estat,3504.614463,2.88,http://www.manlleu.cat/files/doc3974/camí9.pdf
+6,Camí 9 (PQ 1+189),T.M. Santa Maria de Corcó,Camí,Altres,Camí 10,Cap restricció,Camí rural,Camí en un estat acceptable,2587.305704,3,http://www.manlleu.cat/files/doc3975/camí10.pdf
+7,BV-5224 (PQ 1+943),Camí 9 (PQ 1+031),Carretera,Camí,Camí 13,Cap restricció,Camí rural,Camí en bon estat,552.574564,4.31,http://www.manlleu.cat/files/doc3978/camí13.pdf
+8,Carrer Canigó (Polígon industrial de La Coromina),Camí 16 (PQ 0+758 ),Nucli urbà,Camí,Camí 15,Cap restricció,Camí rural,Camí en un estat acceptable,1660.621946,3.07,http://www.manlleu.cat/files/doc3980/camí15.pdf
+9,T.M. Santa Maria de Corcó,T.M. Santa Maria de Corcó,Altres,Altres,Camí 16,Cap restricció,Camí rural,Camí en bon estat,1846.448939,3.26,http://www.manlleu.cat/files/doc3981/camí16.pdf
+10,Camí 17 (PQ 0+218 ),BV-5222 (PQ 0+802),Camí,Carretera,Camí 18,Cap restricció,Camí rural,Camí en un estat acceptable,498.806321,3,http://www.manlleu.cat/files/doc3983/camí18.pdf
+11,Casa Roja (Camí 20 PQ 1+028),B-522 (PQ 6+110),Casa aïllada o grup de cases,Carretera,Camí 22,Cap restricció,Camí rural,Camí en bon estat,585.001418,3,http://www.manlleu.cat/files/doc3987/camí22.pdf
+12,Camí 20 (PQ 1+247),Camí 21 (PQ 0+755),Camí,Camí,Camí 23,Cap restricció,Camí rural,Camí en un estat acceptable,842.550379,3.02,http://www.manlleu.cat/files/doc3988/camí23.pdf
+13,B-522 (PQ 6+073),T.M. Gurb,Carretera,Altres,Camí 24,Cap restricció,Camí rural,Camí en bon estat,671.177498,4.61,http://www.manlleu.cat/files/doc3989/camí24.pdf
+14,BV-4608 (PQ 20+783 ),Camí 2 (PQ 1+147 ),Carretera,Camí,Camí 25,Cap restricció,Camí rural,Camí en un estat acceptable,1871.849071,3.19,http://www.manlleu.cat/files/doc3990/camí25.pdf
+15,Carrer Francesc Abaya Garriga (Polígon industrial de la Font de Terrers ),B-522 (PQ 9+354 ),Nucli urbà,Carretera,Camí 26,Cap restricció,Camí rural,Camí en un estat acceptable,343.491937,3.76,http://www.manlleu.cat/files/doc3991/camí26.pdf
+16,BV-5222  (PQ 0+817 ),B-522 (PQ 9+366 ),Carretera,Carretera,Camí 11,Cap restricció,Camí rural,Camí en mal estat,1057.463443,3,http://www.manlleu.cat/files/doc3976/camí11.pdf
+17,Carrer Alp (Polígon industrial de La Coromina),Camí 9 (PQ 1+175 ),Nucli urbà,Camí,Camí 14,Cap restricció,Camí rural,Camí en mal estat,2098.098451,3.06,http://www.manlleu.cat/files/doc3979/camí14.pdf
+18,BV-4608 (PQ 21+827 ),BV-4608 (PQ 19+513),Carretera,Carretera,Camí 3,Cap restricció,Camí rural,Camí en bon estat,3469.755407,2.79,http://www.manlleu.cat/files/doc3968/camí3.pdf
+19,Camí 1 (PQ 1+686 ),Camí 5 (PQ 0+722 ),Camí,Camí,Camí 6,Cap restricció,Camí rural,Camí en mal estat,1200.540752,3.15,http://www.manlleu.cat/files/doc3971/camí6.pdf
+20,Avinguda Pirineus (Escola Quatre Vents),Camí 5 (PQ 1+185),Nucli urbà,Camí,Camí 7,Cap restricció,Camí rural,Camí en bon estat,486.730162,3,http://www.manlleu.cat/files/doc3972/camí7.pdf
+21,Carrer d’Albert de Benet (Parc del Benet),Camí 5 (PQ 0+801 ),Nucli urbà,Camí,Camí 8,Cap restricció,Camí rural,Camí en mal estat,629.173399,3.11,http://www.manlleu.cat/files/doc3973/camí8.pdf
+22,Madiroles (Camí 10 PQ 1+436),T.M. Torelló,Casa aïllada o grup de cases,Altres,Camí 12,Cap restricció,Camí rural,Camí en bon estat,315.0539,3,http://www.manlleu.cat/files/doc3977/camí12.pdf
+23,Passeig del Ter,Riu Ter,Nucli urbà,Altres,Camí 17,Cap restricció,Camí rural,Camí en bon estat,2732.344516,3.7,http://www.manlleu.cat/files/doc3982/camí17.pdf
+24,Carrer del Fugurull,T.M. Gurb,Nucli urbà,Altres,Camí 20,Cap restricció,Camí rural,Camí en bon estat,1721.366089,3.02,http://www.manlleu.cat/files/doc3985/camí20.pdf
+25,Camí 20 (PQ 0+686 ),L'Abella,Camí,Casa aïllada o grup de cases,Camí 21,Cap restricció,Camí rural,Camí en bon estat,1249.25715,3.12,http://www.manlleu.cat/files/doc3986/camí21.pdf
+26,Camí 9 (PQ 2+907 ),Camí 10 (PQ 1+576 ),Camí,Camí,Camí 27,Cap restricció,Camí rural,Camí en mal estat,883.868361,2.66,http://www.manlleu.cat/files/doc3992/camí27.pdf
+27,La Cavalleria (Camí 18 PQ 0+324),Urbanització del Vicenç (T.M. Masies de Roda),Casa aïllada o grup de cases,Nucli Urbà,Camí 19,Cap restricció,Camí rural,Camí en bon estat,951.360578,3.32,http://www.manlleu.cat/files/doc3984/camí19.pdf

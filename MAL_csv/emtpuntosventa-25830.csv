@@ -1,0 +1,165 @@
+FID,serial,wkb_geometry,name,description,timestamp,begin,end,altitudemode,tessellate,extrude,visibility,draworder,icon,domicilio,tipo
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66b5,4739,POINT (371581.1681990983 4064246.968440126),,,,,,,-1,-1,-1,0,,C/ Babel_ 10,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66b6,4740,POINT (374119.5398955655 4064857.99752065),,,,,,,-1,-1,-1,0,,Paseo de Réding_ 33,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66b7,4741,POINT (371832.5413705223 4065316.0906423256),,,,,,,-1,-1,-1,0,,Av. Eugenio Gross_ 40,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66b8,4742,POINT (373183.31302857836 4064859.8919900036),,,,,,,-1,-1,-1,0,,C/ Molina Lario_ 6,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66b9,4743,POINT (373600.4019068183 4065407.747909104),,,,,,,-1,-1,-1,0,,C/ Lagunillas_ 51,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66ba,4744,POINT (371031.0899650138 4061923.9040265176),,,,,,,-1,-1,-1,0,,C/ Luis Barahona de Soto_ 1,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66bb,4745,POINT (372787.49936571706 4064118.5355405775),,,,,,,-1,-1,-1,0,,Alameda de Colón_ 24,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66bc,4746,POINT (371082.5144266306 4064482.464985962),,,,,,,-1,-1,-1,0,,Plaza de Pío XII_ 2,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66bd,4747,POINT (377120.0121194293 4064991.8322142744),,,,,,,-1,-1,-1,0,,C/ Juan Valera_ 2,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66be,4748,POINT (371217.2445471949 4063878.5477477536),,,,,,,-1,-1,-1,0,,Av. Ortega y Gasset_ 5,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66bf,4749,POINT (371202.64318303694 4064234.8298565787),,,,,,,-1,-1,-1,0,,C/ Miguel  Moreno Masson_ 2,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66c0,4750,POINT (373120.1452278747 4068012.539469656),,,,,,,-1,-1,-1,0,,C/ Estudiante Crisóstomo_ 1,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66c1,4751,POINT (371471.7675790274 4065650.1546121887),,,,,,,-1,-1,-1,0,,Camino de Suárez_ 32,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66c2,4752,POINT (372148.04094661167 4067121.4301475603),,,,,,,-1,-1,-1,0,,C/ Ebro local C. (Mercado Palma),1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66c3,4753,POINT (369056.96022805956 4065398.289675724),,,,,,,-1,-1,-1,0,,C/ Navarro Ledesma_ 56,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66c4,4754,POINT (371283.9034843721 4065596.6960995053),,,,,,,-1,-1,-1,0,,C/ Martínez de la Rosa_ 151,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66c5,4755,POINT (370417.36135176895 4063753.754194923),,,,,,,-1,-1,-1,0,,Av. Ortega y Gasset_ 70,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66c6,4756,POINT (378508.95689048775 4064794.1415946395),,,,,,,-1,-1,-1,0,,Av. J. Sebastián Elcano_ 182,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66c7,4757,POINT (378114.62201786786 4064923.6446629157),,,,,,,-1,-1,-1,0,,Av Juan Sebastian Elcano_145,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66c8,4758,POINT (377010.8392877654 4064889.4287592005),,,,,,,-1,-1,-1,0,,C/ Bolivia_  71-73,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66c9,4759,POINT (370592.917969113 4062379.0660751583),,,,,,,-1,-1,-1,0,,C/ Gaucín_ 6,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66ca,4760,POINT (371736.5035363422 4065127.356581151),,,,,,,-1,-1,-1,0,,Avd. San Sebastián_ 6,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66cb,4761,POINT (378894.3559376198 4064725.8520191885),,,,,,,-1,-1,-1,0,,Crta. De Almería_ 42,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66cc,4762,POINT (371329.43537004356 4062922.095919439),,,,,,,-1,-1,-1,0,,C/ Spiteri_ 2,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66cd,4763,POINT (373014.41107911733 4066450.927357506),,,,,,,-1,-1,-1,0,,C/ Obispo Bartolomé Espejo_  3,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66ce,4764,POINT (370156.85985560226 4061649.8703119024),,,,,,,-1,-1,-1,0,,Av. Viña del Mar_ 3,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66cf,4765,POINT (371151.8314311269 4065121.886923858),,,,,,,-1,-1,-1,0,,C/ Magistrado Salvador Barberá_ 1,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66d0,4766,POINT (372242.632196752 4065347.6036550133),,,,,,,-1,-1,-1,0,,Avd. Barcelona_ 36,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66d1,4767,POINT (372741.67172649235 4064382.0636257627),,,,,,,-1,-1,-1,0,,Alameda de Colon_ 1,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66d2,4768,POINT (373663.58794145216 4065961.411687735),,,,,,,-1,-1,-1,0,,C/ Cristo de la Epidemia 68,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66d3,4769,POINT (371198.84613591747 4063779.8618581137),,,,,,,-1,-1,-1,0,,C/ Alfambra_ 7,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66d4,4770,POINT (372785.82397201995 4064451.881148031),,,,,,,-1,-1,-1,0,,Alameda Principal (Junto puestos de flores),2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66d5,4771,POINT (371516.0633917308 4065916.7408998827),,,,,,,-1,-1,-1,0,,Av Nuestra Sra. de los Clarines_ 10,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66d6,4772,POINT (373092.7665785062 4066020.1487939605),,,,,,,-1,-1,-1,0,,Alameda de Barceló_ 3,3
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66d7,4773,POINT (369451.9543318327 4062021.163441508),,,,,,,-1,-1,-1,0,,C/ Hermanos Lumiere_ 2 (Glorieta Santa Bárbara),2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66d8,4774,POINT (373130.5866536581 4068166.260922899),,,,,,,-1,-1,-1,0,,C/ Borde Alegre_ 1,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66d9,4775,POINT (374096.8334139242 4064511.5585773173),,,,,,,-1,-1,-1,0,,Paseo Maritimo Ciudad de Melilla,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66da,4776,POINT (372231.06654752017 4064585.280300459),,,,,,,-1,-1,-1,0,,C/ Hilera_ 7,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66db,4777,POINT (372166.7896630002 4065757.896325528),,,,,,,-1,-1,-1,0,,Av. Arroyo de los Angeles_ 54,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66dc,4778,POINT (370002.39264799224 4063099.864121706),,,,,,,-1,-1,-1,0,,Av. Nehemias_ 1,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66dd,4779,POINT (373003.33658815565 4067053.9486172344),,,,,,,-1,-1,-1,0,,C/ Maria Tubau_ 16,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66de,4780,POINT (370215.9794191087 4061160.4434429226),,,,,,,-1,-1,-1,0,,Camino del Pato_ 40,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66df,4781,POINT (374323.4931052133 4064843.6682212474),,,,,,,-1,-1,-1,0,,Paseo de Reding_ 26,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66e0,4782,POINT (372600.8186260062 4064254.194972612),,,,,,,-1,-1,-1,0,,C/ Cuarteles_2,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66e1,4783,POINT (370340.34450790315 4062639.157834357),,,,,,,-1,-1,-1,0,,Av. de Europa_ 60,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66e2,4784,POINT (369896.78482937487 4062266.74420637),,,,,,,-1,-1,-1,0,,Plaza Larita_ 8-10,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66e3,4785,POINT (371186.94295595423 4065410.0383089273),,,,,,,-1,-1,-1,0,,C/ José Iturbi_ esquina C/ Maestro Pablo Luna,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66e4,4786,POINT (371308.58053323964 4062416.705004291),,,,,,,-1,-1,-1,0,,Av. Sor Teresa Prat_ 32,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66e5,4787,POINT (370784.3219254429 4063794.076054799),,,,,,,-1,-1,-1,0,,Av. Ortega y Gasset_ 41,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66e6,4788,POINT (368124.2421358448 4064953.6195760528),,,,,,,-1,-1,-1,0,,Av. Plutarco_ 24,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66e7,4789,POINT (371812.6835358304 4065337.680636156),,,,,,,-1,-1,-1,0,,C/ Carlos Falguera_ 1,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66e8,4790,POINT (375952.766685068 4065575.8193786032),,,,,,,-1,-1,-1,0,,C/ Federico Fellini_ 29,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66e9,4791,POINT (378311.2876075523 4064721.0774823404),,,,,,,-1,-1,-1,0,,Av. Pio Baroja 21,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66ea,4792,POINT (372134.00970864494 4066834.3437269293),,,,,,,-1,-1,-1,0,,C/ Deva_ 6,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66eb,4793,POINT (370331.69381814665 4064275.106653716),,,,,,,-1,-1,-1,0,,C/ Corregidor Nicolas Isidro_ 12,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66ec,4794,POINT (370786.3129609011 4062497.3577402267),,,,,,,-1,-1,-1,0,,Avda Velazquez_ 14,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66ed,4795,POINT (371624.42463299795 4064627.734758885),,,,,,,-1,-1,-1,0,,C/ Ingeniero de la Torre Acosta_ 1,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66ee,4796,POINT (362662.00486439763 4065270.244800608),,,,,,,-1,-1,-1,0,,C/ Matisse 4 Urb. El Brillante,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66ef,4797,POINT (361693.5811281508 4065825.9451851007),,,,,,,-1,-1,-1,0,,C/ Jacob,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66f0,4798,POINT (372144.89270738646 4065210.6308374237),,,,,,,-1,-1,-1,0,,Plaza de Bailen_ 1,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66f1,4799,POINT (370892.3936152387 4062811.5726781823),,,,,,,-1,-1,-1,0,,Av. de la Paloma_ 43,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66f2,4800,POINT (371315.84258312377 4062660.8634827523),,,,,,,-1,-1,-1,0,,C/ Comandante Roman_ 1,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66f3,4801,POINT (375249.6926894684 4066014.285381629),,,,,,,-1,-1,-1,0,,Av. Mayorazgo_ 21,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66f4,4802,POINT (371341.725713859 4063879.4810495884),,,,,,,-1,-1,-1,0,,Plaza Cruz de Humilladero,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66f5,4803,POINT (378552.9724781436 4064830.3304307708),,,,,,,-1,-1,-1,0,,C/ Villafuerte_ 1,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66f6,4804,POINT (373010.959216764 4064247.580313023),,,,,,,-1,-1,-1,0,,Av. Manuel Agustín Heredia_ 12,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66f7,4805,POINT (367534.11566296755 4064873.497638073),,,,,,,-1,-1,-1,0,,Av. Plutarco_  6,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66f8,4806,POINT (378614.9726215398 4064800.097549669),,,,,,,-1,-1,-1,0,,Av. Juan Sebastian Elcano_ 247,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66f9,4807,POINT (372897.8793736343 4064369.89369986),,,,,,,-1,-1,-1,0,,C/ Tomás Heredia_ 8,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66fa,4808,POINT (372634.73506588786 4067410.5999188777),,,,,,,-1,-1,-1,0,,Av. Jane Bowles_ L- 4,3
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66fb,4809,POINT (370850.24784825544 4062311.3229711484),,,,,,,-1,-1,-1,0,,C/ Ildefonso Marzo_ 11,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66fc,4810,POINT (369155.9589874322 4063758.4853148926),,,,,,,-1,-1,-1,0,,C/ Quasimodo_ 14,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66fd,4811,POINT (371547.8209287014 4063786.0672639785),,,,,,,-1,-1,-1,0,,C/ La Unión_ 40,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66fe,4812,POINT (361830.39069336164 4065476.0729442686),,,,,,,-1,-1,-1,0,,C/ Moscú_ 5,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_66ff,4813,POINT (375418.72623526264 4065130.4677359127),,,,,,,-1,-1,-1,0,,Av. Pintor Joaquín Sorolla_ 23,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6700,4814,POINT (370304.78166237904 4061464.7810334265),,,,,,,-1,-1,-1,0,,Av. Gregorio Diego_ 30,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6701,4815,POINT (372102.29971999535 4064929.360946282),,,,,,,-1,-1,-1,0,,C/ Martínez Maldonado_ 9,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6702,4816,POINT (372898.2078871607 4064489.2357894904),,,,,,,-1,-1,-1,0,,Alameda Principal_ 20,9
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6703,4817,POINT (372846.46586069226 4064429.9296486718),,,,,,,-1,-1,-1,0,,Alameda Principal_ 33,9
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6704,4818,POINT (372164.3838464498 4063788.6935996483),,,,,,,-1,-1,-1,0,,Heroe de Sostoa 4,9
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6705,4819,POINT (372398.60604848136 4065648.4909225977),,,,,,,-1,-1,-1,0,,Av. Arroyo de los Angeles_ 30,9
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6706,4820,POINT (372450.5921872993 4064541.1634044675),,,,,,,-1,-1,-1,0,,C/ Hilera_ 6,9
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6707,4821,POINT (368281.0110065475 4064423.4357005246),,,,,,,-1,-1,-1,0,,Boulevard Louis Pasteur,9
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6708,4822,POINT (378520.76748488785 4064810.5743277646),,,,,,,-1,-1,-1,0,,Av. Juan Sebastian Elcano_ 203,9
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6709,4823,POINT (370442.94422036444 4062130.129826674),,,,,,,-1,-1,-1,0,,Avda. Velazquez_ 61,9
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_670a,4824,POINT (373148.9213939194 4064585.5824406096),,,,,,,-1,-1,-1,0,,Plaza de la Marina_ 3,9
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_670b,4825,POINT (373010.70276981377 4064481.625456145),,,,,,,-1,-1,-1,0,,Alameda Principal_ 13,9
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_670c,4826,POINT (372851.7443877363 4064717.133692116),,,,,,,-1,-1,-1,0,,C/ Marqués_ 7,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_670d,4827,POINT (372371.05046782945 4064356.0554331145),,,,,,,-1,-1,-1,0,,Glorieta Albert Camus_ 1,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_670e,4828,POINT (372199.99934413156 4063875.012287444),,,,,,,-1,-1,-1,0,,Explanada de la Estación_ 3,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_670f,4829,POINT (373038.53315073455 4067683.8291053693),,,,,,,-1,-1,-1,0,,Av. Santiago Ramón y Cajal_ 148,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6710,4830,POINT (370033.1454397103 4060681.563439216),,,,,,,-1,-1,-1,0,,Av. Imperio Argentina_ 9,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6711,4831,POINT (374082.8178384433 4064633.896457018),,,,,,,-1,-1,-1,0,,C/ Cervantes_ 14,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6712,4832,POINT (370149.2239973288 4062252.6518599787),,,,,,,-1,-1,-1,0,,Avd. de la Luz_ 19,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6713,4833,POINT (370554.43332127924 4065994.820686912),,,,,,,-1,-1,-1,0,,C/ Ntra. Sra. de Tiscar R. 14,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6714,4834,POINT (371068.71089351014 4062253.193760317),,,,,,,-1,-1,-1,0,,C/ Trafalgar_ 7,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6715,4835,POINT (371503.8367876591 4063921.631314472),,,,,,,-1,-1,-1,0,,C/ Noray_ 2,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6716,4836,POINT (372385.43071061594 4065549.670118566),,,,,,,-1,-1,-1,0,,C/ Doctor Gálvez Ginachero_ nº 10,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6717,4837,POINT (370800.72186218726 4061656.5967899216),,,,,,,-1,-1,-1,0,,C/ Luis Barahona de Soto_ L-37,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6718,4838,POINT (367760.96472305234 4066924.446218251),,,,,,,-1,-1,-1,0,,C/ López Rueda_ 71,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6719,4839,POINT (372386.84287478885 4064968.7661467767),,,,,,,-1,-1,-1,0,,C/ Jaboneros_  3_ Local 1,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_671a,4840,POINT (371944.9241519596 4063542.799657665),,,,,,,-1,-1,-1,0,,C/ Héroe de Sostoa_ 31,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_671b,4841,POINT (371475.68025686574 4063149.5838147085),,,,,,,-1,-1,-1,0,,C/ Héroe de Sostoa_ 130,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_671c,4842,POINT (372548.01348891517 4064440.512389644),,,,,,,-1,-1,-1,0,,Av. De Andalucía (Kiosco Prensa entre Hacienda y ECI,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_671d,4843,POINT (370444.66167269537 4061948.23661004),,,,,,,-1,-1,-1,0,,Plaza de Mozart_ Bloque 9. Bda. La Paz,4
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_671e,4844,POINT (377903.851957539 4064964.7006073245),,,,,,,-1,-1,-1,0,,Av. Juan Sebastian Elcano_ 129,3
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_671f,4845,POINT (370274.9845659135 4064764.43303306),,,,,,,-1,-1,-1,0,,C/ Juan de Valdés_ 20,4
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6720,4846,POINT (370564.4486735414 4064764.7712267716),,,,,,,-1,-1,-1,0,,Av. Santa Rosa de Lima_ 22,3
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6721,4847,POINT (368306.4764983498 4064387.4314565877),,,,,,,-1,-1,-1,0,,Boulevard Louis Pasteur_  33,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6722,4848,POINT (370633.3104670718 4065085.3887973637),,,,,,,-1,-1,-1,0,,Av. Carlos de Haya_ 82,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6723,4849,POINT (373723.3341978409 4065837.093221064),,,,,,,-1,-1,-1,0,,C/ Gordón_  8,4
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6724,4850,POINT (367849.5202252563 4066819.331789603),,,,,,,-1,-1,-1,0,,Av. Lope de Rueda_ 100,3
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6725,4851,POINT (369302.1332835972 4063662.1071845414),,,,,,,-1,-1,-1,0,,C/ Robinson Crusoe_ 12,3
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6726,4852,POINT (372655.50342832174 4067697.0201776153),,,,,,,-1,-1,-1,0,,Av. Jane Bowles_ 15 Local 8,3
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6727,4853,POINT (372918.293465352 4064518.4660608666),,,,,,,-1,-1,-1,0,,Alameda Principal_ nº 16 (Librería Luces),5
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6728,4854,POINT (361604.1528507758 4066279.3797554383),,,,,,,-1,-1,-1,0,,Av. Juan López Peñalver_ 2,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6729,4855,POINT (368112.7265757038 4062522.3026276915),,,,,,,-1,-1,-1,0,,C/ Tarquina_ 25,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_672a,4856,POINT (362739.40561097104 4065197.5618988206),,,,,,,-1,-1,-1,0,,C/ José Calderón_ 23,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_672b,4857,POINT (359950.94704701845 4066394.914636453),,,,,,,-1,-1,-1,0,,Travesía Maqueda_ 58,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_672c,4858,POINT (369536.8617163324 4064291.814564269),,,,,,,-1,-1,-1,0,,C/ Fiscal Luis Portero García_ 6,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_672d,4859,POINT (365661.3673639606 4059011.684244572),,,,,,,-1,-1,-1,0,,C/ Silencio_ 22 Local A,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_672e,4860,POINT (372942.0130154488 4064621.253996259),,,,,,,-1,-1,-1,0,,C/ Puerta del Mar_ 5,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_672f,4861,POINT (374409.55147230794 4064856.6896557664),,,,,,,-1,-1,-1,0,,Av. de Príes_ 16,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6730,4862,POINT (372488.0514691888 4064120.3374115415),,,,,,,-1,-1,-1,0,,C/ Cuarteles Ed. Julián_16,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6731,4863,POINT (372815.1051428851 4065060.8345899587),,,,,,,-1,-1,-1,0,,C/ Carretería_ 27,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6732,4864,POINT (371720.1867932505 4063198.995004306),,,,,,,-1,-1,-1,0,,C/ Ayala_  84,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6733,4865,POINT (373394.39892801835 4065077.172243766),,,,,,,-1,-1,-1,0,,C/ Plaza de la Merced_ 2,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6734,4866,POINT (373148.3133245942 4065810.9234456825),,,,,,,-1,-1,-1,0,,Alameda de Capuchinos_ 5,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6735,4867,POINT (372042.80802852253 4064624.910962188),,,,,,,-1,-1,-1,0,,C/ Esperanto_ 11,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6736,4868,POINT (372087.1978603449 4063588.498644541),,,,,,,-1,-1,-1,0,,C/ Ayala_ 22,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6737,4869,POINT (372322.15258920833 4063934.293823799),,,,,,,-1,-1,-1,0,,C/ Cuarteles_ 62,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6738,4870,POINT (371528.479323255 4063311.650763934),,,,,,,-1,-1,-1,0,,C/ Domingo de Oureta_ 17,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6739,4871,POINT (372905.18886994995 4064491.8913583066),,,,,,,-1,-1,-1,0,,Alameda  Principal (kiosko),1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_673a,4872,POINT (371157.4572491231 4065851.1688108877),,,,,,,-1,-1,-1,0,,Av. Miraflores de los Ángeles_  3 L-1,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_673b,4873,POINT (373904.67386644566 4065530.4760062313),,,,,,,-1,-1,-1,0,,C/ Barcenillas_ 1,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_673c,4874,POINT (371576.7011941875 4062943.0218468527),,,,,,,-1,-1,-1,0,,C/ La Hoz_ 20 22 1-B,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_673d,4875,POINT (372953.426798385 4064596.6193887778),,,,,,,-1,-1,-1,0,,C/ Martínez_ 3,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_673e,4876,POINT (372943.5591530292 4065402.063981429),,,,,,,-1,-1,-1,0,,C/ Ollerías_ 53,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_673f,4877,POINT (373093.04359041643 4064944.171846433),,,,,,,-1,-1,-1,0,,C/ Granada_ 11,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6740,4878,POINT (371446.04002735065 4065919.6265966794),,,,,,,-1,-1,-1,0,,Pza. Monseñor Bocanegra_ 7,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6741,4879,POINT (373025.8478658603 4064481.5842799316),,,,,,,-1,-1,-1,0,,Alameda Principal_ 11,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6742,4880,POINT (372815.61550273246 4064922.5951018133),,,,,,,-1,-1,-1,0,,C/ Compañía_ 36,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6743,4881,POINT (371746.1671565933 4064039.8603431247),,,,,,,-1,-1,-1,0,,Pso. De los Tilos_ 36,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6744,4882,POINT (372195.62173110544 4064944.526098336),,,,,,,-1,-1,-1,0,,C/ Marmoles_ 64,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6745,4883,POINT (371307.5240450708 4064967.872221734),,,,,,,-1,-1,-1,0,,C/ Martínez Maldonado_ 70,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6746,4884,POINT (374258.9215763093 4064744.389065821),,,,,,,-1,-1,-1,0,,C/ Puerto_ 14  (Keromnés),1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6747,4885,POINT (372414.0089014516 4065396.2037075),,,,,,,-1,-1,-1,0,,C/ D. Juan de Austria_ 33,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6748,4886,POINT (373172.03800115985 4066796.8785353233),,,,,,,-1,-1,-1,0,,Plaza Nazaret_ 9,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6749,4887,POINT (373050.2030758033 4064654.683696777),,,,,,,-1,-1,-1,0,,C/ Marqués de Larios_ 10,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_674a,4888,POINT (370954.8196213094 4062769.355280489),,,,,,,-1,-1,-1,0,,Av de la Paloma_ 39,1
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_674b,4889,POINT (369482.39512815553 4065008.8717675204),,,,,,,-1,-1,-1,0,,Carril del Capitán 64,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_674c,4890,POINT (370115.2324224172 4062021.898291562),,,,,,,-1,-1,-1,0,,Av. de Bonaire_ 1,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_674d,4891,POINT (368162.3759195104 4064506.113375714),,,,,,,-1,-1,-1,0,,C/ Jiménez Fraud_ 7,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_674e,4892,POINT (372962.52039707766 4064540.3654591334),,,,,,,-1,-1,-1,0,,Puerta del Mar_ 15,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_674f,4893,POINT (373178.82138766185 4064593.5645815395),,,,,,,-1,-1,-1,0,,Plaza de la Marina_ 4,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6750,4894,POINT (370858.61853899417 4065020.950732877),,,,,,,-1,-1,-1,0,,Av. Carlos Haya_ 60,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6751,4895,POINT (368630.4422308841 4064757.543468716),,,,,,,-1,-1,-1,0,,Av José Rivera_ 39,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6752,4896,POINT (367641.77139825304 4065050.4817227456),,,,,,,-1,-1,-1,0,,C/ Aristofánes_ 9,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6753,4897,POINT (379353.7797930562 4064776.1745032026),,,,,,,-1,-1,-1,0,,Ctera. de Olías_ 48,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6754,4898,POINT (371602.6519262114 4065551.9826888046),,,,,,,-1,-1,-1,0,,C/ Moraima_ 8,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6755,4899,POINT (375095.160012117 4065038.197707516),,,,,,,-1,-1,-1,0,,Pso. Sancha_ 63,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6756,4900,POINT (376662.9418206836 4065341.346006869),,,,,,,-1,-1,-1,0,,Pso. Cerrado Calderón_ 18,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6757,4901,POINT (368457.44359727844 4065328.6005010647),,,,,,,-1,-1,-1,0,,C/ navarro Ledesma_ 144,2
+da_puntosVentaEMT.fid--7b4b556b_15ed01ee0d9_6758,4902,POINT (371535.65885649284 4062839.91466698),,,,,,,-1,-1,-1,0,,C/ La Hoz_ 37,9

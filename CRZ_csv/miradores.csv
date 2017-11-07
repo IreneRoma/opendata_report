@@ -1,0 +1,19 @@
+FID,NOMBRE,GEOCODIGO,ACCESO,UTM_X,UTM_Y,GRAD_X,GRAD_Y,DOCUMENTO
+0.0,Mirador Hawaii (Palmetum),TUR_118,Entrada Palmetum,376869.416835,3147902.39352,-16.2575424665,28.4518572442,http://www.santacruzdetenerife.es/?id=3468
+1.0,Mirador de Vistabella,TUR_103,Libre,374467.477555,3149393.88026,-16.2822311084,28.4650881446, 
+2.0,Mirador Melanesia (Palmetum),TUR_104,Entrada Palmetum,376921.691172,3147873.2196,-16.2570055758,28.4515988962,http://www.santacruzdetenerife.es/?id=3468
+3.0,Mirador Nueva Caledonia I (Palmetum),TUR_105,Entrada Palmetum,376941.346919,3147863.0747,-16.2568037875,28.4515091975,http://www.santacruzdetenerife.es/?id=3468
+4.0,Mirador Nueva Caledonia II (Palmetum),TUR_106,Entrada Palmetum,376956.020794,3147857.18703,-16.2566533238,28.4514574482,http://www.santacruzdetenerife.es/?id=3468
+5.0,Mirador Indochina (Palmetum),TUR_107,Entrada Palmetum,377062.226652,3147842.17649,-16.2555672523,28.4513319974,http://www.santacruzdetenerife.es/?id=3468
+6.0,Mirador África (Palmetum),TUR_108,Entrada Palmetum,377106.835491,3147839.79523,-16.2551114968,28.4513147105,http://www.santacruzdetenerife.es/?id=3468
+7.0,Mirador Caribe (Palmetum),TUR_109,Entrada Palmetum,377153.449241,3147980.94129,-16.2546505612,28.4525928771,http://www.santacruzdetenerife.es/?id=3468
+8.0,Mirador de Los Campitos,TUR_101,Libre,376599.234583,3150509.61187,-16.2605805156,28.4753605383,http://www.grafcan.es/fotos/gigapan1.html
+9.0,Mirador de Parque Las Mesas,TUR_102,Libre,375672.837415,3151444.09352,-16.2701429795,28.4837056691,http://www.grafcan.es/fotos/gigapan3.html
+10.0,Mirador de La Alegría,TUR_110,Libre,378461.248105,3151355.67613,-16.2416524212,28.483170843, 
+11.0,Mirador de Pico del Inglés,TUR_112,Libre,376352.877115,3156847.37744,-16.2637780971,28.5325319015,http://www.santacruzdetenerife.es/vtAnaga/anagaweb.html
+12.0,Mirador de La Chamuscada,TUR_113,Libre,380723.708402,3157544.98662,-16.2191854437,28.5392358013,http://www.santacruzdetenerife.es/vtAnaga/anagaweb.html
+13.0,Mirador de El Bailadero,TUR_114,Libre,381936.472726,3158632.72181,-16.2069033215,28.5491628579,http://www.santacruzdetenerife.es/vtAnaga/anagaweb.html
+14.0,Mirador de Amogoje,TUR_115,Libre,382070.05593,3159646.67241,-16.2056422649,28.5583254462,http://www.santacruzdetenerife.es/vtAnaga/anagaweb.html
+15.0,"Mirador de Las Teresitas, Las Gaviotas y Los Órganos",TUR_111,Libre,384612.310854,3154500.79926,-16.1791392332,28.5121139769,http://www.santacruzdetenerife.es/vtAnaga/anagaweb.html
+16.0,Mirador de Taborno,TUR_116,Libre,376318.951535,3159597.89296,-16.264421221,28.5573503474,http://www.santacruzdetenerife.es/vtAnaga/anagaweb.html
+17.0,Mirador de Roque Negro,TUR_117,Libre,377995.344699,3158038.9811,-16.2471206222,28.5434406095,http://www.santacruzdetenerife.es/vtAnaga/anagaweb.html

@@ -99,6 +99,10 @@ class QuotesSpider(scrapy.Spider):
                     
                     item['tag'] = response.xpath('//*[@id="wb021contenido"]//*[@class="btn"]//text()').extract()
 
+                    item['categories'] = response.xpath('//*[@id="wb021contenido"]//*[@class="btn"]//text()').extract()
+                    
+                    item['publisher'] = "Vitoria-Gasteiz"
+
                     item['url'] = response.url
     
 

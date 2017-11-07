@@ -1,0 +1,25 @@
+Tipo de indicador;Indicador;Descripción del indicador;Observaciones;Valor
+INDICADORES FINANCIEROS Y PATRIMONIALES;Liquidez inmediata;Fondos líquidos / Obligaciones ptes pago;;1.09
+INDICADORES FINANCIEROS Y PATRIMONIALES;Solvencia c/p;(Fondos líquidos + Derechos ptes cobro) / Obligaciones ptes pago;Descontada la provisión de insolvencias;1.56
+INDICADORES FINANCIEROS Y PATRIMONIALES;Deuda / habitante;Pasivo exigible financiero / nº habitantes;Excluida devolución Udalkutxa;0 euros
+INDICADORES FINANCIEROS Y PATRIMONIALES;Deuda / presupuesto;Pasivo exigible financiero / Presupuesto gastos;;0%
+INDICADORES PRESUPUESTARIOS;Ejecución gastos;Obligaciones reconocidas netas / Créditos definitivos;;92%
+INDICADORES PRESUPUESTARIOS;Realización pagos;Pagos líquidos / Obligaciones reconocidas netas;;94%
+INDICADORES PRESUPUESTARIOS;Gasto / habitante;Obligaciones reconocidas netas / nº habitantes;;1398 euros
+INDICADORES PRESUPUESTARIOS;Inversión / habitante;Obligaciones reconocidas netas (capt 6 y 7) / nº habitantes;;209 euros
+INDICADORES PRESUPUESTARIOS;Esfuerzo inversor;Obligaciones reconocidas netas (capt 6 y 7) / Obligaciones reconocidas netas;;15%
+INDICADORES PRESUPUESTARIOS;Periodo medio pago;Obligaciones ptes pago x 365 días / Obligaciones reconocidas netas;Todos los capitulos;24 días
+INDICADORES PRESUPUESTARIOS;Periodo medio pago;(Obligaciones ptes pago x 365 días) / Obligaciones reconocidas netas;Capitulos 2 y 6;55 días
+INDICADORES PRESUPUESTARIOS;Realización pagos;Pagos / (Saldo inicial obligaciones - anulaciones);;100%
+INDICADORES PRESUPUESTARIOS;Ejecución ingresos;Derechos reconocidos netos / Previsiones definitivas;;98%
+INDICADORES PRESUPUESTARIOS;Realización cobros;Recaudación neta / Derechos reconocidos netos;;94%
+INDICADORES PRESUPUESTARIOS;Autonomia;Derechos reconocidos netos / Derechos reconocidos netos totales;Subvenciones y pasivos financieros excluidos;91%
+INDICADORES PRESUPUESTARIOS;Autonomia fiscal;Derechos reconocidos netos tributarios / Derechos reconocidos netos totales;;29%
+INDICADORES PRESUPUESTARIOS;Ingresos fiscales / habitante;Derechos reconocidos netos tributarios / nº habitantes;;426 euros
+INDICADORES PRESUPUESTARIOS;Periodo medio cobro;Derechos ptes cobro x 365 días / derechos reconocidos netos;NOTA: capítulos 1 – 2 – 3;58 días
+INDICADORES PRESUPUESTARIOS;Superávit / habitante;Resultado presupuestario ajustado / nº habitantes;;45 euros
+INDICADORES PRESUPUESTARIOS;Contribución del presupto al remanente tesorería;Resultado presuptario ajustado / Remanente tesorería gastos grales;;231%
+INDICADORES PRESUPUESTARIOS;Realización cobros;Cobros / (Saldo inicial derechos – anulaciones + rectifica);;50%
+INDICADORES DE URBANISMO Y OBRAS PÚBLICAS;Inversión / habitante;Obligaciones reconocidas netas (capitulo 6) / nº habitantes;Gasto en inversión por habitante de los programas funcionales siguientes: a) dotaciones urbanísticas para equipamientos b) rehabilitación espacios degradados c) parques y jardines d) alumbrado público e) alcantarillado f) abastecimiento y depuración de aguas g) tratamiento y gestión de residuos h) protección y mejora del medio ambiente i) infraestructuras viarias.;89 euros
+INDICADORES DE URBANISMO Y OBRAS PÚBLICAS;Gastos;Gastos derivados del urbanismo / Presupuesto total gastos;Gastos corrientes y de capital del programa funcional  “urbanismo y arquitectura”;11%
+INDICADORES DE URBANISMO Y OBRAS PÚBLICAS;Ingresos;Ingresos derivados del urbanismo / Presupuesto total ingresos;"Impuesto de construcciones; tasa licencias urbanísticas; aprovechamientos urbanísticos y  enajenación de terrenos";5%
