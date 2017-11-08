@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
+import zlib
 from opendata.items import OpenDataItems
 from datetime import datetime
 import re
@@ -9,7 +10,21 @@ from geopy.geocoders import Nominatim
 from lxml import etree
 import json
 from unicodedata import normalize
+import time
 class QuoteSpider(scrapy.Spider):
+	'''
+	Es un diccionari on la clau es un hash (crc32)
+	de la url de la foto dels formats (perque la
+	url era molt enorme) i el valor es una list amb els 
+	formats que significa
+	'''
+	format_url_hash_to_format_name = {
+		-517885671 : ["csv", "json"],
+		-1231666856 : ["csv", "kml", "shp", "json"],
+		-506161355 : ["csv", "kml", "shp", "json"],
+		-1320056335 : ["csv", "kml", "shp", "json"],
+
+	}
 	name = 'MAN'
 	#Attributes
 	dataset_list = []
@@ -42,8 +57,14 @@ class QuoteSpider(scrapy.Spider):
 				item['frequency'] = re.search(ur'ó: (.*) -[ ]{0,1}Formats', dataset['attributes']['description'].replace(u'\xa0', u' ')).group(1)
 			except Exception, e:
 				item['frequency'] = None
+			try:
+				regexp = r'<img src="(.*)">'
+				formats_url = re.search(regexp, normalized_descr).group(1)
+				item['formats'] = self.format_url_hash_to_format_name.get(zlib.crc32(formats_url), None)
+			except AttributeError, e:
+				item['formats'] = None
+				
 			
-			print item
 			
 
 
